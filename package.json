@@ -6,7 +6,7 @@
   "description": "Zelfstandig badkamerprototype voor de Taalroute-beeldbank",
   "scripts": {
     "start": "python3 -m http.server 8852 --bind 127.0.0.1 --directory public",
-    "test": "node --check public/assets/app.js && node --test tests/*.test.mjs"
+    "test": "node --check public/assets/app.js && node --check public/assets/app-header.js && node --test tests/*.test.mjs"
   },
   "engines": { "node": ">=20" }
 }

@@ -13,20 +13,178 @@
       content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'none'"
     />
     <title>Taalroute Beeldbank — Badkamer</title>
-    <link rel="icon" href="data:," />
+    <link
+      rel="icon"
+      href="./assets/taalroute-beeldbank-mark.svg"
+      type="image/svg+xml"
+    />
     <link rel="stylesheet" href="./assets/app.css" />
     <script type="module" src="./assets/app.js"></script>
   </head>
   <body>
     <div id="tr-bathroom" aria-label="Taalroute beeldbank, badkamerproef">
-      <header class="bath-head bath-row bath-between">
-        <div class="bath-brand">
-          Taalroute <span class="bath-muted">/ Beeldbank</span>
+      <header class="app-header" data-component="app_header">
+        <div class="product-home">
+          <div class="brand-switcher">
+            <button
+              class="brand-trigger"
+              id="taalroute-app-trigger"
+              type="button"
+              aria-label="Taalroute-apps"
+              title="Taalroute-apps"
+              aria-expanded="false"
+              aria-controls="taalroute-app-menu"
+            >
+              <img
+                class="product-logo"
+                src="./assets/taalroute-logo-beeldbank.svg"
+                alt="Taalroute"
+                width="750"
+                height="94"
+              />
+              <svg class="brand-chevron" viewBox="0 0 24 24" aria-hidden="true">
+                <path d="m6 9 6 6 6-6" />
+              </svg>
+            </button>
+            <nav
+              class="taalroute-app-menu"
+              id="taalroute-app-menu"
+              aria-label="Taalroute-apps"
+              hidden
+            >
+              <a
+                class="taalroute-app-link"
+                data-app-id="missies"
+                href="https://missie.taalroute.nl/#docent"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Missies · opent in een nieuw tabblad"
+              >
+                <svg
+                  class="product-logo"
+                  viewBox="0 0 750 94"
+                  aria-hidden="true"
+                >
+                  <use
+                    class="app-wordmark"
+                    href="./assets/taalroute-logo-symbols.svg#wordmark"
+                  />
+                  <use
+                    class="app-triangle"
+                    href="./assets/taalroute-logo-symbols.svg#triangle"
+                  />
+                </svg>
+                <span class="product-divider" aria-hidden="true"></span
+                ><span class="app-link-title">Missies</span>
+              </a>
+              <a
+                class="taalroute-app-link"
+                data-app-id="klankstudio"
+                href="https://klankstudio.taalroute.nl/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Klankstudio · opent in een nieuw tabblad"
+              >
+                <svg
+                  class="product-logo"
+                  viewBox="0 0 750 94"
+                  aria-hidden="true"
+                >
+                  <use
+                    class="app-wordmark"
+                    href="./assets/taalroute-logo-symbols.svg#wordmark"
+                  />
+                  <use
+                    class="app-triangle"
+                    href="./assets/taalroute-logo-symbols.svg#triangle"
+                  />
+                </svg>
+                <span class="product-divider" aria-hidden="true"></span
+                ><span class="app-link-title">Klankstudio</span>
+              </a>
+              <a
+                class="taalroute-app-link"
+                data-app-id="digibord"
+                href="https://digibord.taalroute.nl/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Digibord · opent in een nieuw tabblad"
+              >
+                <svg
+                  class="product-logo"
+                  viewBox="0 0 750 94"
+                  aria-hidden="true"
+                >
+                  <use
+                    class="app-wordmark"
+                    href="./assets/taalroute-logo-symbols.svg#wordmark"
+                  />
+                  <use
+                    class="app-triangle"
+                    href="./assets/taalroute-logo-symbols.svg#triangle"
+                  />
+                </svg>
+                <span class="product-divider" aria-hidden="true"></span
+                ><span class="app-link-title">Digibord</span>
+              </a>
+              <a
+                class="taalroute-app-link"
+                data-app-id="spreektijd"
+                href="https://spreektijd.taalroute.nl/02_digitaal/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Spreektijd · opent in een nieuw tabblad"
+              >
+                <svg
+                  class="product-logo"
+                  viewBox="0 0 750 94"
+                  aria-hidden="true"
+                >
+                  <use
+                    class="app-wordmark"
+                    href="./assets/taalroute-logo-symbols.svg#wordmark"
+                  />
+                  <use
+                    class="app-triangle"
+                    href="./assets/taalroute-logo-symbols.svg#triangle"
+                  />
+                </svg>
+                <span class="product-divider" aria-hidden="true"></span
+                ><span class="app-link-title">Spreektijd</span>
+              </a>
+            </nav>
+          </div>
+          <span class="product-divider" aria-hidden="true"></span>
+          <button
+            class="product-name"
+            id="bath-home"
+            type="button"
+            aria-label="Beeldbank · naar de collectie"
+          >
+            Beeldbank
+          </button>
         </div>
-        <div class="bath-row">
-          <span class="bath-tag">Badkamerproef</span
-          ><button id="bath-lesson">Mijn lesselectie · 0</button>
+        <div class="product-actions">
+          <button
+            class="header-action"
+            id="bath-lesson"
+            type="button"
+            aria-label="Mijn lesselectie, 0 lesitems"
+            title="Mijn lesselectie"
+          >
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path
+                d="M3 7V5a1 1 0 0 1 1-1h5l2 3h9a1 1 0 0 1 1 1v11a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1Z"
+              />
+              <path d="M8 12h8M8 16h5" />
+            </svg>
+            <span class="header-action-label">Mijn lesselectie</span>
+            <span class="header-count" id="bath-lesson-count" aria-hidden="true"
+              >0</span
+            >
+          </button>
         </div>
+        <div class="app-header-accent" aria-hidden="true"></div>
       </header>
       <div
         id="bath-live"

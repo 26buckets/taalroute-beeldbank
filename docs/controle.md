@@ -26,3 +26,13 @@ De app is vanuit `public/` op een lokale HTTP-server geopend in Chrome.
 De eerdere inline proef is ook inhoudelijk gecontroleerd op de context van het bekertje, de ontbrekende afronding van de handenwasreeks en de uitwisselbare middenstappen bij scheren. Die docentnotities en oorspronkelijke Drive-verwijzingen zijn behouden.
 
 Geen claim over productiesnelheid bij duizenden beelden, volledige toegankelijkheid, beveiligde hosting of examengeschiktheid. De WebP-bestanden en verwijzingen zijn gecontroleerd; een afzonderlijke oude-browsercompatibiliteitstest is niet uitgevoerd.
+
+## Header en appmenu — 15 september 2026
+
+- Spreektijd-header en logo als bron gebruikt; alle tien logo-paden zijn exact gelijk aan de bron. Alleen kleur, beschrijving en donkere variant zijn aangepast.
+- Headerhoogte 60 px en scheidingslijn 32 px gemeten. Op een scherm van 1920 px is de header ook 1920 px breed; de collectie-inhoud blijft maximaal 1280 px.
+- Op 320 px passen header, knop voor lesselectie en alle vier menuregels zonder horizontale overloop. Menu en header ook op desktop en in donkere modus visueel gecontroleerd.
+- De vier menulinks komen overeen met de Spreektijd-appregistratie. De gedeelde SVG-logo's laden en tonen de eigen kleuren van Missies, Klankstudio, Digibord en Spreektijd.
+- Escape sluit het menu en herstelt de focus op de menuknop. Pijl-omlaag opent het menu en focust Missies. Een klik buiten het menu sluit het menu.
+- Eén oefenreeks toegevoegd; terugkeer via Beeldbank behoudt de lesselectie en de teller toont één lesitem. Op het bord blijft de lesselectieknop verborgen en is de header 60 px hoog.
+- Petrol op de lichte header heeft contrast 6,09:1; de lichte petrolvariant op de donkere header 6,81:1. Dit is een controle van de toegepaste kleurcombinaties, geen volledige toegankelijkheidsaudit.

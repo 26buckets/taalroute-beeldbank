@@ -1,3 +1,5 @@
+import "./app-header.js";
+
 (async () => {
   const root = document.getElementById("tr-bathroom"),
     main = root.querySelector("#bath-main");
@@ -144,8 +146,16 @@
   function add(c) {
     lesson.push({ ...clone(c), uid: ++uid });
     announce(name(c) + " toegevoegd als apart lesitem.");
-    root.querySelector("#bath-lesson").textContent =
-      "Mijn lesselectie · " + lesson.length;
+    updateLessonCount();
+  }
+  function updateLessonCount() {
+    root.querySelector("#bath-lesson-count").textContent = lesson.length;
+    root
+      .querySelector("#bath-lesson")
+      .setAttribute(
+        "aria-label",
+        `Mijn lesselectie, ${lesson.length} ${lesson.length === 1 ? "lesitem" : "lesitems"}`,
+      );
   }
   const catalogItems = [
     ...data.sequences.map((s, i) => ({
@@ -596,8 +606,7 @@
   function render() {
     root.dataset.density = design.density;
     root.querySelector("#bath-lesson").hidden = view === "board";
-    root.querySelector("#bath-lesson").textContent =
-      "Mijn lesselectie · " + lesson.length;
+    updateLessonCount();
     ({
       catalogue,
       detail: imageCard,
@@ -679,6 +688,7 @@
         case "bath-practice-back":
           view = editUid === null ? "catalogue" : "lesson";
           break;
+        case "bath-home":
         case "bath-catalogue-back":
           view = "catalogue";
           break;
@@ -743,6 +753,13 @@
           full = false;
       }
     if (full) render();
+    if (oldId === "bath-home") {
+      root.scrollIntoView({ block: "start", behavior: "instant" });
+      const heading = main.querySelector("h1");
+      heading.setAttribute("tabindex", "-1");
+      heading.focus({ preventScroll: true });
+      return;
+    }
     if (oldId) {
       const t = root.querySelector("#" + oldId);
       if (t && !t.disabled) t.focus();

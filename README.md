@@ -22,6 +22,10 @@ Open daarna <http://127.0.0.1:8852>. Ook `npm start` start deze lokale server. O
 
 Dezelfde reeks kan meerdere keren in een les voorkomen met eigen instellingen. De selectie leeft in het geheugen van de pagina en verdwijnt bij herladen. Het bordvoorbeeld is onderdeel van dezelfde pagina.
 
+## Header en appkleur
+
+De header volgt de gedeelde Spreektijd-opbouw: 60 pixels hoog, het bestaande Taalroute-woordmerk, een verticale scheidingslijn en de appnaam. Beeldbank heeft petrol (`#0F6B78`) als eigen accent voor woordmerk, driehoek, kleurstrook en bediening, met een lichtere variant in donkere modus. Het logo opent hetzelfde appmenu als Spreektijd; de knop Beeldbank brengt je terug naar de collectie met behoud van je lesselectie. De header loopt over de volledige schermbreedte. Zie [de herkomst en CSS-afspraken](docs/vormgeving.md).
+
 ## Kleine afbeeldingen
 
 - AVIF is de voorkeursversie; WebP is de terugval voor browsers zonder AVIF.
