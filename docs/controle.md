@@ -46,3 +46,11 @@ Geen claim over productiesnelheid bij duizenden beelden, volledige toegankelijkh
 - Geen Drive-links of footer in de collectie-UI. De beeldkaart is ook visueel gecontroleerd zonder bronknop.
 - Geen waarschuwingen of fouten in de browserconsole tijdens de controle.
 - Alle vier bestaande inhouds- en afbeeldingscontroles en beide JavaScript-syntaxcontroles slagen.
+
+## Huis en categorieboom — 15 september 2026
+
+- De gegenereerde huiscover en gecomprimeerde WebP visueel gecontroleerd: herkenbaar huis, voordeur, ramen, logisch dak en geen teksten of logo's.
+- Zeven tests geslaagd, waaronder ouderverwijzingen, uitsluiting van lege categorieën, ontbrekende ouders/kringverwijzingen en groottebudgetten voor de huiscover.
+- Browserroute Collecties → Het huis → Badkamer & verzorging gecontroleerd; alle 53 kaarten blijven beschikbaar.
+- Alle beelden uit het huis geeft 50 afzonderlijke beelden en drie reeksen, met het juiste navigatiepad.
+- Huispagina bekeken op desktop en 320 px breedte. Pagina, header, navigatiepad en tegelraster hebben geen horizontale overloop op 320 px.

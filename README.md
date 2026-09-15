@@ -14,7 +14,7 @@ Open daarna <http://127.0.0.1:8852>. Ook `npm start` start deze lokale server. O
 
 ## Proberen
 
-1. Open **Badkamer & verzorging** in het collectieoverzicht. Alle 50 beeldkaarten en de drie reeksen staan op één pagina, zonder paginering.
+1. Open **Het huis** en vervolgens **Badkamer & verzorging**. Alle 50 beeldkaarten en de drie reeksen staan op één pagina, zonder paginering.
 2. Open **Oefen tandenpoetsen** en kies **Nu**, **Eerst–dan**, **Je moet** of **Ik heb**.
 3. Kies een niveau en kernwoorden of zinsstarters.
 4. Voeg de reeks toe aan je les of kies **Toon op bord**.
@@ -36,6 +36,8 @@ De header volgt de gedeelde Spreektijd-opbouw: 60 pixels hoog, het bestaande Taa
 - Foto's staan als losse bestanden met een inhoudshash in hun naam. Geen base64, originele PNG's, externe fonts of runtimepakketten.
 - De originele 50 PNG's zijn samen **99,28 MB**. De 50 AVIF-weergavebeelden zijn samen **583,7 kB**, met **96,7 kB** extra voor alle miniaturen. Inclusief alle WebP-terugvalbestanden staat er **2,08 MB** beeldmateriaal in de repository. Een browser laadt per beeld één formaat.
 
+De nieuwe huiscover voegt een AVIF van 44,1 kB en een miniatuur van 5,5 kB toe; inclusief WebP-terugval zijn de vier huisbestanden samen 186,1 kB. [Afbeelding en gebruikte prompt](docs/huis-afbeelding.md).
+
 Dit zijn gemeten bestandsgroottes in decimale kB/MB. Er is geen absolute minimumgrootte zonder kwaliteitsgrens: de instellingen houden de afgebeelde voorwerpen en handelingen herkenbaar. De originelen blijven op Drive beschikbaar voor toekomstige grotere weergaven of drukwerk. Zie [het bestandsgrootterapport](docs/image-sizes.json).
 
 ## Is een database nodig?
@@ -45,6 +47,7 @@ Dit zijn gemeten bestandsgroottes in decimale kB/MB. Er is geen absolute minimum
 ## Bestanden
 
 - `public/`: de complete app die een webserver kan aanbieden.
+- `public/data/collections.json`: hoofdcollecties, deelcollecties, onderwerpen en publicatiestatus.
 - `content/badkamer.json`: leesbare broninhoud, onafhankelijk van een methode.
 - `public/data/badkamer.json`: compacte inhoud met paden naar beeldvarianten.
 - `scripts/optimize_images.py`: reproduceerbare beeldcompressie.
@@ -68,7 +71,7 @@ De bronmap bevat `1.png` tot en met `50.png`, of de geregistreerde bronbestandsn
 
 ## Status
 
-Het collectieoverzicht bevat op dit moment de badkamercollectie. Andere Drive-collecties zijn nog niet geïmporteerd. Technische proefteksten en Drive-knoppen zijn verwijderd uit de docentweergave; herkomst en ontwikkelinformatie blijven in de brongegevens en documentatie beschikbaar.
+Het collectieoverzicht opent met **Het huis**, met **Badkamer & verzorging** als gevulde deelcollectie. De overige ruimtes en hoofdonderwerpen staan als concept in de categorie-indeling; andere Drive-collecties zijn nog niet geïmporteerd. Zie [de indeling en het uitbreidingsadvies](docs/collectie-indeling.md). Technische proefteksten en Drive-knoppen zijn verwijderd uit de docentweergave; herkomst en ontwikkelinformatie blijven in de brongegevens en documentatie beschikbaar.
 
 Een werkend prototype, zonder productie-inlog, centrale opslag of automatische beoordeling. A2/B1 zijn oefenvoorstellen; de inhoud is nog niet als examen gevalideerd. De repository is privé. Een eventuele toekomstige website heeft afzonderlijke toegangsbeveiliging nodig; die ontstaat niet door een privérepository.
 

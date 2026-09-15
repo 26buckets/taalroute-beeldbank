@@ -42,8 +42,12 @@ De links openen in een nieuw tabblad, zodat de tijdelijke lesselectie behouden b
 
 ## Collectieoverzicht en docentweergave
 
-De app start met Collecties. Er is nu één echte collectie beschikbaar: Badkamer & verzorging. De tegel opent het volledige overzicht met 50 afzonderlijke beeldkaarten en drie oefenreeksen. De twaalf stappen zijn zowel afzonderlijk als binnen hun reeks beschikbaar. De knop Alle collecties gaat terug naar het startoverzicht.
+De app start met Collecties. De hoofdcollectie Het huis toont de beschikbare deelcollectie Badkamer & verzorging. De badkamertegel opent het volledige overzicht met 50 afzonderlijke beeldkaarten en drie oefenreeksen. De twaalf stappen zijn zowel afzonderlijk als binnen hun reeks beschikbaar. De knop Alle collecties gaat terug naar het startoverzicht.
 
 Er is geen paginering, knop om meer te laden of verborgen selectie van beelden. Zoeken en sorteren werken op alle 53 kaarten. Foto's in het raster blijven compacte AVIF/WebP-miniaturen met `loading="lazy"`; de inhoud van alle kaarten is wel direct aanwezig.
 
 De docentweergave bevat geen Drive-knoppen, versienummers, proefstatus of technische opslaguitleg. De niveaukeuze heet Niveau en het bord heeft geen voorbeeldstatus. Pedagogische uitleg bij beelden en reeksen is behouden.
+
+## Hoofdcollectie Het huis
+
+Het hoofdscherm toont de huiscover. De huispagina heeft een grote afbeelding, de knop Alle beelden uit het huis en tegels van de gevulde deelcollecties. Een klikbaar navigatiepad toont Collecties → Het huis → Badkamer & verzorging. Conceptcategorieën zijn niet zichtbaar voor de docent. De nieuwe afbeelding heeft losse AVIF/WebP-varianten van 320 px voor tegels en 960 px voor de hero, met dezelfde warme fotografische richting als de badkamer.

@@ -352,6 +352,34 @@ body {
 #tr-bathroom .bath-collection-heading {
   margin-bottom: 28px;
 }
+#tr-bathroom .bath-breadcrumb {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 20px;
+  color: var(--bath-muted);
+  font-size: 14px;
+}
+#tr-bathroom .bath-breadcrumb button {
+  min-height: 36px;
+  padding: 4px 0;
+  border: 0;
+  background: transparent;
+  color: var(--bath-accent);
+}
+#tr-bathroom .bath-breadcrumb button:hover {
+  text-decoration: underline;
+}
+#tr-bathroom .bath-breadcrumb [aria-current] {
+  color: var(--bath-ink);
+}
+#tr-bathroom .bath-group-hero .bath-collection-photo {
+  border-radius: 9px;
+}
+#tr-bathroom #group-children-title {
+  margin-bottom: 20px;
+}
 #tr-bathroom .bath-collections {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr));

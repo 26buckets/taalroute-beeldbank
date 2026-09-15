@@ -1,0 +1,9 @@
+# Collectieafbeelding Het huis
+
+Gemaakt met de ingebouwde imagegen-tool op 15 september 2026. Een synthetische, fotografische collectiecover; geen foto van een geïdentificeerd woonadres. Beoordeeld op een herkenbaar Nederlands huis, logische gevel en dakvorm, zichtbare voordeur en afwezigheid van tekst of logo's.
+
+De originele PNG staat lokaal in de genegeerde werkmap `work/huis-collectie/huis-original.png`. De app gebruikt uitsluitend compacte AVIF- en WebP-versies in `public/images/het-huis`. De afbeeldingspaden, afmetingen en beschrijving staan in `public/data/collections.json`.
+
+## Gebruikte prompt
+
+Use case: photorealistic-natural. Asset type: collection cover and wide hero image for a Dutch language-learning image library for adult teachers, collection 'Het huis'. Create one beautiful, believable editorial photograph of a typical contemporary Dutch brick family home, a modest corner terraced house with a pitched tiled roof, ordinary rectangular windows, a clearly visible front door and a small tidy front garden. A few discreet solar panels on the roof are appropriate to the house-and-energy collection. Show the entire house clearly from a natural eye-level three-quarter angle, front and one side, with enough garden and pavement to ground it. Contemporary Netherlands, everyday achievable home, not a luxury villa, not a canal-house tourist cliché. Warm soft daylight, realistic materials and proportions, gentle natural colors, inviting and calm. Match the restrained warmth of realistic modern bathroom interior photographs. Horizontal 3:2 composition. Keep the complete roof and door comfortably within the image; clear central silhouette that stays legible as a small thumbnail. No people, no vehicles dominating the foreground, no cutaway, no schematic diagram, no collage. No written text, numbers, street signs, house numbers, logos or watermark. It must look like a real high-quality photograph, not a polished 3D real-estate render.

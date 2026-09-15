@@ -1,0 +1,186 @@
+{
+  "nodes": [
+    {
+      "id": "het-huis",
+      "title": "Het huis",
+      "kind": "group",
+      "parentId": null,
+      "status": "published",
+      "description": "Ruimtes, voorwerpen en dagelijkse handelingen in en om het huis.",
+      "cover": {
+        "alt": "Een Nederlands bakstenen hoekhuis met een voordeur, ramen, een pannendak met zonnepanelen en een groene voortuin.",
+        "renditions": {
+          "thumb": {
+            "width": 320,
+            "height": 213,
+            "avif": "images/het-huis/huis-thumb-9876f4ea36.avif",
+            "webp": "images/het-huis/huis-thumb-9f39198845.webp"
+          },
+          "full": {
+            "width": 960,
+            "height": 640,
+            "avif": "images/het-huis/huis-full-fdc9a09fed.avif",
+            "webp": "images/het-huis/huis-full-1a97c633e2.webp"
+          }
+        }
+      }
+    },
+    {
+      "id": "badkamer-verzorging",
+      "title": "Badkamer & verzorging",
+      "kind": "collection",
+      "parentId": "het-huis",
+      "status": "published",
+      "dataset": "badkamer.json",
+      "coverImageNumber": 37,
+      "topics": [
+        "persoonlijke-verzorging",
+        "schoonmaken",
+        "dagelijkse-routines"
+      ]
+    },
+    {
+      "id": "keuken-koken",
+      "title": "Keuken & koken",
+      "kind": "collection",
+      "parentId": "het-huis",
+      "status": "draft",
+      "topics": ["eten-drinken", "schoonmaken", "dagelijkse-routines"]
+    },
+    {
+      "id": "woonkamer",
+      "title": "Woonkamer",
+      "kind": "collection",
+      "parentId": "het-huis",
+      "status": "draft",
+      "topics": ["ontmoeten", "wonen-inrichten"]
+    },
+    {
+      "id": "slaapkamer",
+      "title": "Slaapkamer",
+      "kind": "collection",
+      "parentId": "het-huis",
+      "status": "draft",
+      "topics": ["dagelijkse-routines", "wonen-inrichten"]
+    },
+    {
+      "id": "hal-trap",
+      "title": "Hal & trap",
+      "kind": "collection",
+      "parentId": "het-huis",
+      "status": "draft",
+      "topics": ["thuiskomen-vertrekken", "veiligheid"]
+    },
+    {
+      "id": "tuin-balkon",
+      "title": "Tuin & balkon",
+      "kind": "collection",
+      "parentId": "het-huis",
+      "status": "draft",
+      "topics": ["buiten", "onderhoud"]
+    },
+    {
+      "id": "energie-installaties",
+      "title": "Energie & installaties",
+      "kind": "collection",
+      "parentId": "het-huis",
+      "status": "draft",
+      "topics": ["energie", "onderhoud", "veiligheid"]
+    },
+    {
+      "id": "de-buurt",
+      "title": "De buurt",
+      "kind": "group",
+      "parentId": null,
+      "status": "draft"
+    },
+    {
+      "id": "onderweg",
+      "title": "Onderweg",
+      "kind": "group",
+      "parentId": null,
+      "status": "draft"
+    },
+    {
+      "id": "winkels-diensten",
+      "title": "Winkels & diensten",
+      "kind": "group",
+      "parentId": null,
+      "status": "draft"
+    },
+    {
+      "id": "werk-beroep",
+      "title": "Werk & beroep",
+      "kind": "group",
+      "parentId": null,
+      "status": "draft"
+    },
+    {
+      "id": "gezondheid-zorg",
+      "title": "Gezondheid & zorg",
+      "kind": "group",
+      "parentId": null,
+      "status": "draft"
+    },
+    {
+      "id": "school-leren",
+      "title": "School & leren",
+      "kind": "group",
+      "parentId": null,
+      "status": "draft"
+    },
+    {
+      "id": "vrije-tijd",
+      "title": "Vrije tijd",
+      "kind": "group",
+      "parentId": null,
+      "status": "draft"
+    }
+  ],
+  "topics": [
+    {
+      "id": "persoonlijke-verzorging",
+      "title": "Persoonlijke verzorging"
+    },
+    {
+      "id": "schoonmaken",
+      "title": "Schoonmaken & opruimen"
+    },
+    {
+      "id": "dagelijkse-routines",
+      "title": "Dagelijkse routines"
+    },
+    {
+      "id": "eten-drinken",
+      "title": "Eten & drinken"
+    },
+    {
+      "id": "ontmoeten",
+      "title": "Ontmoeten"
+    },
+    {
+      "id": "wonen-inrichten",
+      "title": "Wonen & inrichten"
+    },
+    {
+      "id": "thuiskomen-vertrekken",
+      "title": "Thuiskomen & vertrekken"
+    },
+    {
+      "id": "veiligheid",
+      "title": "Veiligheid"
+    },
+    {
+      "id": "buiten",
+      "title": "Buiten"
+    },
+    {
+      "id": "onderhoud",
+      "title": "Onderhoud & reparatie"
+    },
+    {
+      "id": "energie",
+      "title": "Energie besparen"
+    }
+  ]
+}

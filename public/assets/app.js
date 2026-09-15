@@ -1,15 +1,21 @@
 import "./app-header.js";
+import { collectionTree } from "./collection-tree.js";
 
 (async () => {
   const root = document.getElementById("tr-bathroom"),
     main = root.querySelector("#bath-main");
-  let data;
+  let data, registry;
   try {
-    const response = await fetch(
-      new URL("../data/badkamer.json", import.meta.url),
+    [data, registry] = await Promise.all(
+      ["badkamer.json", "collections.json"].map(async (name) => {
+        const response = await fetch(
+          new URL("../data/" + name, import.meta.url),
+        );
+        if (!response.ok)
+          throw new Error("De collecties konden niet worden geladen.");
+        return response.json();
+      }),
     );
-    if (!response.ok) throw new Error("De collectie kon niet worden geladen.");
-    data = await response.json();
   } catch (error) {
     main.innerHTML =
       '<p role="alert">De collectie kon niet worden geladen. Controleer je verbinding en probeer opnieuw.</p><button id="retry">Opnieuw laden</button>';
@@ -19,6 +25,8 @@ import "./app-header.js";
     root.querySelector("#bath-lesson").disabled = true;
     return;
   }
+  const tree = collectionTree(registry.nodes);
+  const homeGroup = tree.get(data.collection.id).parentId;
   const assets = new Map(data.assets.map((a) => [a.n, a])),
     seqs = new Map(data.sequences.map((s) => [s.id, s]));
   const modeNames = {
@@ -50,6 +58,8 @@ import "./app-header.js";
     REE: "Stap uit een reeks",
   };
   let view = "collections",
+    groupId = homeGroup,
+    catalogueScope = "collection",
     kind = "all",
     term = "",
     sort = "lesson",
@@ -170,30 +180,125 @@ import "./app-header.js";
       search: norm([a.title, a.description, ...a.words, ...a.uses].join(" ")),
     })),
   ];
+  function collectionCover(node, size = "thumb", priority = false) {
+    if (node.kind === "collection")
+      return photo(
+        node.coverImageNumber,
+        "",
+        "bath-collection-photo",
+        size,
+        priority,
+      );
+    const r = node.cover.renditions[size];
+    return (
+      '<picture><source type="image/avif" srcset="' +
+      esc(r.avif) +
+      '"><img class="bath-collection-photo" src="' +
+      esc(r.webp) +
+      '" alt="' +
+      esc(node.cover.alt) +
+      '" width="' +
+      r.width +
+      '" height="' +
+      r.height +
+      '" loading="' +
+      (priority ? "eager" : "lazy") +
+      '" decoding="async"></picture>'
+    );
+  }
+  function collectionCounts(node) {
+    const leaves = tree.leaves(node.id);
+    // The current content package contains the bathroom; other categories stay unpublished until imported.
+    const count = leaves.some((leaf) => leaf.id === data.collection.id)
+      ? data.assets.length
+      : 0;
+    const sequences = leaves.some((leaf) => leaf.id === data.collection.id)
+      ? data.sequences.length
+      : 0;
+    return { count, sequences, collections: leaves.length };
+  }
+  function collectionCard(node) {
+    const counts = collectionCounts(node);
+    return (
+      '<button class="bath-tile bath-collection-card" data-collection="' +
+      esc(node.id) +
+      '" aria-label="Open collectie ' +
+      esc(node.title) +
+      '">' +
+      collectionCover(node, "thumb", true) +
+      '<span class="bath-collection-copy"><strong>' +
+      esc(node.title) +
+      '</strong><span class="bath-muted">' +
+      (node.kind === "group"
+        ? counts.collections +
+          (counts.collections === 1 ? " collectie · " : " collecties · ") +
+          counts.count +
+          " beelden"
+        : counts.count + " beelden · " + counts.sequences + " reeksen") +
+      '</span><span class="bath-collection-open">Bekijk collectie <span aria-hidden="true">→</span></span></span></button>'
+    );
+  }
+  function breadcrumbs(id, allImages = false) {
+    const trail = tree.trail(id);
+    return (
+      '<nav class="bath-breadcrumb" aria-label="Je bent hier"><button id="bath-collections">Collecties</button>' +
+      trail
+        .map(
+          (node, i) =>
+            '<span aria-hidden="true">›</span>' +
+            (i === trail.length - 1 && !allImages
+              ? '<span aria-current="page">' + esc(node.title) + "</span>"
+              : '<button data-collection="' +
+                esc(node.id) +
+                '">' +
+                esc(node.title) +
+                "</button>"),
+        )
+        .join("") +
+      (allImages
+        ? '<span aria-hidden="true">›</span><span aria-current="page">Alle beelden</span>'
+        : "") +
+      "</nav>"
+    );
+  }
   function collectionOverview() {
     main.innerHTML =
       '<section aria-labelledby="collections-title"><div class="bath-collection-heading"><h1 id="collections-title">Collecties</h1><p class="bath-muted">Kies een collectie voor je les.</p></div><div class="bath-collections">' +
-      '<button class="bath-tile bath-collection-card" data-collection="' +
-      esc(data.collection.id) +
-      '" aria-label="Open collectie ' +
-      esc(data.collection.title) +
-      '">' +
-      photo(37, "", "bath-collection-photo", "full", true) +
-      '<span class="bath-collection-copy"><strong>' +
-      esc(data.collection.title) +
-      '</strong><span class="bath-muted">' +
-      data.assets.length +
-      " beelden · " +
-      data.sequences.length +
-      ' reeksen</span><span class="bath-collection-open">Bekijk collectie <span aria-hidden="true">→</span></span></span></button>' +
+      tree.children().map(collectionCard).join("") +
+      "</div></section>";
+  }
+  function groupOverview() {
+    const node = tree.get(groupId),
+      counts = collectionCounts(node);
+    main.innerHTML =
+      breadcrumbs(node.id) +
+      '<section class="bath-hero bath-group-hero"><div>' +
+      collectionCover(node, "full", true) +
+      "</div><div><h1>" +
+      esc(node.title) +
+      "</h1><p>" +
+      esc(node.description) +
+      '</p><div class="bath-hero-counts"><span>' +
+      counts.count +
+      " beelden</span><span>" +
+      counts.sequences +
+      ' reeksen</span></div><button class="bath-primary" id="bath-group-images">Alle beelden uit het huis</button></div></section>' +
+      '<section aria-labelledby="group-children-title"><h2 id="group-children-title">Ruimtes en onderwerpen</h2><div class="bath-collections">' +
+      tree.children(node.id).map(collectionCard).join("") +
       "</div></section>";
   }
   function catalogue() {
+    const allImages = catalogueScope === "group";
     main.innerHTML =
-      '<button id="bath-collections" class="bath-back">Alle collecties</button><section class="bath-hero"><button class="bath-hero-image" data-image="37" aria-label="Open beeldkaart badkamer overzicht 1">' +
-      photo(37, undefined, "", "full", true) +
-      '</button><div><span class="bath-muted">Wonen & persoonlijke verzorging</span><h1>' +
-      esc(data.collection.title) +
+      breadcrumbs(allImages ? groupId : data.collection.id, allImages) +
+      '<section class="bath-hero bath-group-hero">' +
+      (allImages
+        ? "<div>" + collectionCover(tree.get(groupId), "full", true) + "</div>"
+        : '<button class="bath-hero-image" data-image="37" aria-label="Open beeldkaart badkamer overzicht 1">' +
+          photo(37, undefined, "", "full", true) +
+          "</button>") +
+      '<div><span class="bath-muted">Wonen & persoonlijke verzorging</span><h1>' +
+      esc(allImages ? "Alle beelden uit het huis" : data.collection.title) +
       '</h1><div class="bath-hero-counts"><span>' +
       data.assets.length +
       " beelden</span><span>" +
@@ -608,6 +713,7 @@ import "./app-header.js";
     updateLessonCount();
     ({
       collections: collectionOverview,
+      group: groupOverview,
       catalogue,
       detail: imageCard,
       practice,
@@ -621,8 +727,16 @@ import "./app-header.js";
     const d = b.dataset,
       oldId = b.id;
     let full = true;
-    if (d.collection === data.collection.id) {
-      view = "catalogue";
+    if (d.collection) {
+      const node = tree.get(d.collection);
+      if (!node || node.status !== "published") return;
+      if (node.kind === "group") {
+        groupId = node.id;
+        view = "group";
+      } else {
+        catalogueScope = "collection";
+        view = "catalogue";
+      }
     } else if (d.kind) {
       kind = d.kind;
       root
@@ -670,6 +784,12 @@ import "./app-header.js";
       board.visible[i] = !board.visible[i];
     } else
       switch (b.id) {
+        case "bath-group-images":
+          catalogueScope = "group";
+          kind = "all";
+          term = "";
+          view = "catalogue";
+          break;
         case "bath-lesson":
           view = "lesson";
           break;
@@ -747,7 +867,12 @@ import "./app-header.js";
           full = false;
       }
     if (full) render();
-    if (oldId === "bath-home" || oldId === "bath-collections" || d.collection) {
+    if (
+      oldId === "bath-home" ||
+      oldId === "bath-collections" ||
+      oldId === "bath-group-images" ||
+      d.collection
+    ) {
       announce("");
       root.scrollIntoView({ block: "start", behavior: "instant" });
       const heading = main.querySelector("h1");
