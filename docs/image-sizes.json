@@ -1,0 +1,1426 @@
+{
+  "sourceBytes": 99278029,
+  "files": [
+    {
+      "image": "bav-001",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-001-thumb-8422350cc3.avif",
+      "bytes": 1675
+    },
+    {
+      "image": "bav-001",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-001-thumb-7517566509.webp",
+      "bytes": 3350
+    },
+    {
+      "image": "bav-001",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-001-full-8c7127f3b2.avif",
+      "bytes": 7753
+    },
+    {
+      "image": "bav-001",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-001-full-1f773063a7.webp",
+      "bytes": 15522
+    },
+    {
+      "image": "bav-002",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-002-thumb-fcd47388b8.avif",
+      "bytes": 1574
+    },
+    {
+      "image": "bav-002",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-002-thumb-c7f06b1a21.webp",
+      "bytes": 3234
+    },
+    {
+      "image": "bav-002",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-002-full-e2ddba26f5.avif",
+      "bytes": 7777
+    },
+    {
+      "image": "bav-002",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-002-full-6ae4cba9b3.webp",
+      "bytes": 16874
+    },
+    {
+      "image": "bav-003",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-003-thumb-1b2ff1e4bb.avif",
+      "bytes": 1371
+    },
+    {
+      "image": "bav-003",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-003-thumb-ecc94bee66.webp",
+      "bytes": 2858
+    },
+    {
+      "image": "bav-003",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-003-full-ba74586a88.avif",
+      "bytes": 11430
+    },
+    {
+      "image": "bav-003",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-003-full-a9ddf38596.webp",
+      "bytes": 29240
+    },
+    {
+      "image": "bav-004",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-004-thumb-aca1cbd41c.avif",
+      "bytes": 1747
+    },
+    {
+      "image": "bav-004",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-004-thumb-00191e931d.webp",
+      "bytes": 3230
+    },
+    {
+      "image": "bav-004",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-004-full-ecb15c5074.avif",
+      "bytes": 8137
+    },
+    {
+      "image": "bav-004",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-004-full-f705e0dede.webp",
+      "bytes": 15294
+    },
+    {
+      "image": "bav-005",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-005-thumb-9d476d7884.avif",
+      "bytes": 1472
+    },
+    {
+      "image": "bav-005",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-005-thumb-5535e37cf5.webp",
+      "bytes": 2812
+    },
+    {
+      "image": "bav-005",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-005-full-b2388530e1.avif",
+      "bytes": 7479
+    },
+    {
+      "image": "bav-005",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-005-full-3706ded598.webp",
+      "bytes": 13972
+    },
+    {
+      "image": "bav-006",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-006-thumb-800324684f.avif",
+      "bytes": 1463
+    },
+    {
+      "image": "bav-006",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-006-thumb-59dfbb133b.webp",
+      "bytes": 2696
+    },
+    {
+      "image": "bav-006",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-006-full-073f253ca6.avif",
+      "bytes": 9201
+    },
+    {
+      "image": "bav-006",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-006-full-d96e905821.webp",
+      "bytes": 19402
+    },
+    {
+      "image": "bav-007",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-007-thumb-5f1e65059d.avif",
+      "bytes": 1323
+    },
+    {
+      "image": "bav-007",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-007-thumb-48367eb6dd.webp",
+      "bytes": 2472
+    },
+    {
+      "image": "bav-007",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-007-full-671e7db871.avif",
+      "bytes": 8373
+    },
+    {
+      "image": "bav-007",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-007-full-250a484fd8.webp",
+      "bytes": 16580
+    },
+    {
+      "image": "bav-008",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-008-thumb-dff270bb27.avif",
+      "bytes": 1697
+    },
+    {
+      "image": "bav-008",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-008-thumb-2ceb090dc6.webp",
+      "bytes": 3060
+    },
+    {
+      "image": "bav-008",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-008-full-eeace62e6e.avif",
+      "bytes": 8909
+    },
+    {
+      "image": "bav-008",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-008-full-6450f1a5c4.webp",
+      "bytes": 16524
+    },
+    {
+      "image": "bav-009",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-009-thumb-d91de9e075.avif",
+      "bytes": 1805
+    },
+    {
+      "image": "bav-009",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-009-thumb-d3c0e95893.webp",
+      "bytes": 3554
+    },
+    {
+      "image": "bav-009",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-009-full-3b49873f55.avif",
+      "bytes": 8417
+    },
+    {
+      "image": "bav-009",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-009-full-f7daba31e4.webp",
+      "bytes": 17222
+    },
+    {
+      "image": "bav-010",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-010-thumb-1595f721d8.avif",
+      "bytes": 1766
+    },
+    {
+      "image": "bav-010",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-010-thumb-1e114d585d.webp",
+      "bytes": 3834
+    },
+    {
+      "image": "bav-010",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-010-full-5e60bfd5d8.avif",
+      "bytes": 8654
+    },
+    {
+      "image": "bav-010",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-010-full-bc7eaca52b.webp",
+      "bytes": 21356
+    },
+    {
+      "image": "bav-011",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-011-thumb-b85ed694ef.avif",
+      "bytes": 1637
+    },
+    {
+      "image": "bav-011",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-011-thumb-abe7047b11.webp",
+      "bytes": 2910
+    },
+    {
+      "image": "bav-011",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-011-full-597351a9fd.avif",
+      "bytes": 8123
+    },
+    {
+      "image": "bav-011",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-011-full-ce425594ae.webp",
+      "bytes": 15100
+    },
+    {
+      "image": "bav-012",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-012-thumb-bf5ea9c92c.avif",
+      "bytes": 1574
+    },
+    {
+      "image": "bav-012",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-012-thumb-bb12dbb5e9.webp",
+      "bytes": 2832
+    },
+    {
+      "image": "bav-012",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-012-full-03c9daf481.avif",
+      "bytes": 7866
+    },
+    {
+      "image": "bav-012",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-012-full-865024c406.webp",
+      "bytes": 13976
+    },
+    {
+      "image": "bav-013",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-013-thumb-a4396354b4.avif",
+      "bytes": 1830
+    },
+    {
+      "image": "bav-013",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-013-thumb-21961c3340.webp",
+      "bytes": 3804
+    },
+    {
+      "image": "bav-013",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-013-full-0b52978b18.avif",
+      "bytes": 9984
+    },
+    {
+      "image": "bav-013",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-013-full-1b01483cb5.webp",
+      "bytes": 20396
+    },
+    {
+      "image": "bav-014",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-014-thumb-76e146f123.avif",
+      "bytes": 1383
+    },
+    {
+      "image": "bav-014",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-014-thumb-eb3aa26507.webp",
+      "bytes": 2270
+    },
+    {
+      "image": "bav-014",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-014-full-35ac72ccd9.avif",
+      "bytes": 8144
+    },
+    {
+      "image": "bav-014",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-014-full-c776ffe0ed.webp",
+      "bytes": 14808
+    },
+    {
+      "image": "bav-015",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-015-thumb-c3f3518b37.avif",
+      "bytes": 1918
+    },
+    {
+      "image": "bav-015",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-015-thumb-9744084417.webp",
+      "bytes": 3914
+    },
+    {
+      "image": "bav-015",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-015-full-865a4856f7.avif",
+      "bytes": 9928
+    },
+    {
+      "image": "bav-015",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-015-full-02c04de09d.webp",
+      "bytes": 20120
+    },
+    {
+      "image": "bav-016",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-016-thumb-395f0e7424.avif",
+      "bytes": 1865
+    },
+    {
+      "image": "bav-016",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-016-thumb-a9adf3f22c.webp",
+      "bytes": 4154
+    },
+    {
+      "image": "bav-016",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-016-full-7287129221.avif",
+      "bytes": 9365
+    },
+    {
+      "image": "bav-016",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-016-full-c9a8a9a550.webp",
+      "bytes": 22630
+    },
+    {
+      "image": "bav-017",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-017-thumb-1343965372.avif",
+      "bytes": 1868
+    },
+    {
+      "image": "bav-017",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-017-thumb-b61bfa46ec.webp",
+      "bytes": 3332
+    },
+    {
+      "image": "bav-017",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-017-full-66ecb7b654.avif",
+      "bytes": 7720
+    },
+    {
+      "image": "bav-017",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-017-full-aa29d6e9bf.webp",
+      "bytes": 15146
+    },
+    {
+      "image": "bav-018",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-018-thumb-97bf17104d.avif",
+      "bytes": 1810
+    },
+    {
+      "image": "bav-018",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-018-thumb-9d7f15d391.webp",
+      "bytes": 5614
+    },
+    {
+      "image": "bav-018",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-018-full-f95cc93373.avif",
+      "bytes": 20808
+    },
+    {
+      "image": "bav-018",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-018-full-f5bd1f9179.webp",
+      "bytes": 58090
+    },
+    {
+      "image": "bav-019",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-019-thumb-624a161763.avif",
+      "bytes": 2248
+    },
+    {
+      "image": "bav-019",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-019-thumb-9b353f08da.webp",
+      "bytes": 5054
+    },
+    {
+      "image": "bav-019",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-019-full-aa92305a04.avif",
+      "bytes": 15401
+    },
+    {
+      "image": "bav-019",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-019-full-52808d22ad.webp",
+      "bytes": 34258
+    },
+    {
+      "image": "bav-020",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-020-thumb-392bc6e21c.avif",
+      "bytes": 2182
+    },
+    {
+      "image": "bav-020",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-020-thumb-a7d7cf1b1b.webp",
+      "bytes": 4624
+    },
+    {
+      "image": "bav-020",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-020-full-5b6ec703e3.avif",
+      "bytes": 15109
+    },
+    {
+      "image": "bav-020",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-020-full-a2ad1dab2b.webp",
+      "bytes": 35602
+    },
+    {
+      "image": "bav-021",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-021-thumb-aac89fe9fa.avif",
+      "bytes": 2579
+    },
+    {
+      "image": "bav-021",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-021-thumb-f333c91e13.webp",
+      "bytes": 6628
+    },
+    {
+      "image": "bav-021",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-021-full-142e0ad08c.avif",
+      "bytes": 19112
+    },
+    {
+      "image": "bav-021",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-021-full-07a2f0722d.webp",
+      "bytes": 43862
+    },
+    {
+      "image": "bav-022",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-022-thumb-2bb705d929.avif",
+      "bytes": 2270
+    },
+    {
+      "image": "bav-022",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-022-thumb-bfef16c2de.webp",
+      "bytes": 4998
+    },
+    {
+      "image": "bav-022",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-022-full-6b25c319bc.avif",
+      "bytes": 14512
+    },
+    {
+      "image": "bav-022",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-022-full-42425029c9.webp",
+      "bytes": 32560
+    },
+    {
+      "image": "bav-023",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-023-thumb-950da864d5.avif",
+      "bytes": 2626
+    },
+    {
+      "image": "bav-023",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-023-thumb-83a3726010.webp",
+      "bytes": 6552
+    },
+    {
+      "image": "bav-023",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-023-full-738669faa2.avif",
+      "bytes": 19810
+    },
+    {
+      "image": "bav-023",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-023-full-fc8424dc42.webp",
+      "bytes": 44712
+    },
+    {
+      "image": "bav-024",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-024-thumb-7cd7bfd30a.avif",
+      "bytes": 1874
+    },
+    {
+      "image": "bav-024",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-024-thumb-a947428b8b.webp",
+      "bytes": 3712
+    },
+    {
+      "image": "bav-024",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-024-full-16e80de06e.avif",
+      "bytes": 11303
+    },
+    {
+      "image": "bav-024",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-024-full-4f5a42f9f7.webp",
+      "bytes": 21960
+    },
+    {
+      "image": "bav-025",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-025-thumb-439abb0123.avif",
+      "bytes": 1982
+    },
+    {
+      "image": "bav-025",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-025-thumb-ca38c8eff7.webp",
+      "bytes": 3854
+    },
+    {
+      "image": "bav-025",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-025-full-3fdfccb6ff.avif",
+      "bytes": 10211
+    },
+    {
+      "image": "bav-025",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-025-full-2570567b2f.webp",
+      "bytes": 19964
+    },
+    {
+      "image": "bav-026",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-026-thumb-eedd30ea9d.avif",
+      "bytes": 1841
+    },
+    {
+      "image": "bav-026",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-026-thumb-c688351378.webp",
+      "bytes": 3184
+    },
+    {
+      "image": "bav-026",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-026-full-519ce10f25.avif",
+      "bytes": 9138
+    },
+    {
+      "image": "bav-026",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-026-full-7499c5e643.webp",
+      "bytes": 15578
+    },
+    {
+      "image": "bav-027",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-027-thumb-b4555405a4.avif",
+      "bytes": 2466
+    },
+    {
+      "image": "bav-027",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-027-thumb-edb8b222ca.webp",
+      "bytes": 5088
+    },
+    {
+      "image": "bav-027",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-027-full-5f46e3e77c.avif",
+      "bytes": 13457
+    },
+    {
+      "image": "bav-027",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-027-full-63434ecbe3.webp",
+      "bytes": 27162
+    },
+    {
+      "image": "bav-028",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-028-thumb-c727b79b09.avif",
+      "bytes": 2485
+    },
+    {
+      "image": "bav-028",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-028-thumb-e3aa96fea5.webp",
+      "bytes": 5840
+    },
+    {
+      "image": "bav-028",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-028-full-68a0e65682.avif",
+      "bytes": 21610
+    },
+    {
+      "image": "bav-028",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-028-full-313498ed76.webp",
+      "bytes": 50470
+    },
+    {
+      "image": "bav-029",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-029-thumb-6ee2a511a3.avif",
+      "bytes": 1998
+    },
+    {
+      "image": "bav-029",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-029-thumb-763905a0c6.webp",
+      "bytes": 4240
+    },
+    {
+      "image": "bav-029",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-029-full-bfc317ddfc.avif",
+      "bytes": 15369
+    },
+    {
+      "image": "bav-029",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-029-full-759978f0ef.webp",
+      "bytes": 30814
+    },
+    {
+      "image": "bav-030",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-030-thumb-0e66264919.avif",
+      "bytes": 1626
+    },
+    {
+      "image": "bav-030",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-030-thumb-3383a25d8e.webp",
+      "bytes": 2798
+    },
+    {
+      "image": "bav-030",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-030-full-35996da16b.avif",
+      "bytes": 9554
+    },
+    {
+      "image": "bav-030",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-030-full-c98f61ce0a.webp",
+      "bytes": 17352
+    },
+    {
+      "image": "bav-031",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-031-thumb-4e5fb80011.avif",
+      "bytes": 1677
+    },
+    {
+      "image": "bav-031",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-031-thumb-ceee76b16e.webp",
+      "bytes": 3202
+    },
+    {
+      "image": "bav-031",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-031-full-713c433255.avif",
+      "bytes": 11107
+    },
+    {
+      "image": "bav-031",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-031-full-fd7f0c40af.webp",
+      "bytes": 21286
+    },
+    {
+      "image": "bav-032",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-032-thumb-fd41c11864.avif",
+      "bytes": 1740
+    },
+    {
+      "image": "bav-032",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-032-thumb-479377da61.webp",
+      "bytes": 2908
+    },
+    {
+      "image": "bav-032",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-032-full-fbe44b80a4.avif",
+      "bytes": 10339
+    },
+    {
+      "image": "bav-032",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-032-full-98e5a540cd.webp",
+      "bytes": 18626
+    },
+    {
+      "image": "bav-033",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-033-thumb-503cac775c.avif",
+      "bytes": 1805
+    },
+    {
+      "image": "bav-033",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-033-thumb-b133ed1a48.webp",
+      "bytes": 3882
+    },
+    {
+      "image": "bav-033",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-033-full-e3bcce2e60.avif",
+      "bytes": 16562
+    },
+    {
+      "image": "bav-033",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-033-full-45478ea779.webp",
+      "bytes": 39708
+    },
+    {
+      "image": "bav-034",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-034-thumb-cb5797eddf.avif",
+      "bytes": 1737
+    },
+    {
+      "image": "bav-034",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-034-thumb-f6adcb277e.webp",
+      "bytes": 3606
+    },
+    {
+      "image": "bav-034",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-034-full-f9b132c52a.avif",
+      "bytes": 9552
+    },
+    {
+      "image": "bav-034",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-034-full-8c3fcfb74a.webp",
+      "bytes": 18754
+    },
+    {
+      "image": "bav-035",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-035-thumb-0270671e2d.avif",
+      "bytes": 1500
+    },
+    {
+      "image": "bav-035",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-035-thumb-29fdcda2d5.webp",
+      "bytes": 2426
+    },
+    {
+      "image": "bav-035",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-035-full-b229b196bc.avif",
+      "bytes": 9212
+    },
+    {
+      "image": "bav-035",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-035-full-f60684143f.webp",
+      "bytes": 19550
+    },
+    {
+      "image": "bav-036",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-036-thumb-2a8f262cac.avif",
+      "bytes": 1872
+    },
+    {
+      "image": "bav-036",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-036-thumb-2516cf5efc.webp",
+      "bytes": 3652
+    },
+    {
+      "image": "bav-036",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-036-full-80b5b0c41b.avif",
+      "bytes": 9892
+    },
+    {
+      "image": "bav-036",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-036-full-9718424b8f.webp",
+      "bytes": 18200
+    },
+    {
+      "image": "bav-037",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-037-thumb-0da88efe2f.avif",
+      "bytes": 1768
+    },
+    {
+      "image": "bav-037",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-037-thumb-73f1308833.webp",
+      "bytes": 3696
+    },
+    {
+      "image": "bav-037",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-037-full-0ef0664903.avif",
+      "bytes": 16610
+    },
+    {
+      "image": "bav-037",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-037-full-b4a736d774.webp",
+      "bytes": 36114
+    },
+    {
+      "image": "bav-038",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-038-thumb-2cffab3920.avif",
+      "bytes": 1891
+    },
+    {
+      "image": "bav-038",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-038-thumb-20573476ec.webp",
+      "bytes": 4026
+    },
+    {
+      "image": "bav-038",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-038-full-ca4316030f.avif",
+      "bytes": 18822
+    },
+    {
+      "image": "bav-038",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-038-full-b94f143748.webp",
+      "bytes": 42718
+    },
+    {
+      "image": "bav-039",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-039-thumb-dbd418e06c.avif",
+      "bytes": 2384
+    },
+    {
+      "image": "bav-039",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-039-thumb-2260ac1b21.webp",
+      "bytes": 4604
+    },
+    {
+      "image": "bav-039",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-039-full-0b04acdfda.avif",
+      "bytes": 12107
+    },
+    {
+      "image": "bav-039",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-039-full-bd30b5456f.webp",
+      "bytes": 22682
+    },
+    {
+      "image": "bav-040",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-040-thumb-15e1b4e901.avif",
+      "bytes": 2040
+    },
+    {
+      "image": "bav-040",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-040-thumb-80547985cc.webp",
+      "bytes": 4010
+    },
+    {
+      "image": "bav-040",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-040-full-3aeccebb03.avif",
+      "bytes": 10734
+    },
+    {
+      "image": "bav-040",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-040-full-51a8244303.webp",
+      "bytes": 19790
+    },
+    {
+      "image": "bav-041",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-041-thumb-964b6838de.avif",
+      "bytes": 2311
+    },
+    {
+      "image": "bav-041",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-041-thumb-6426f5e31b.webp",
+      "bytes": 4438
+    },
+    {
+      "image": "bav-041",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-041-full-56f05a9920.avif",
+      "bytes": 11255
+    },
+    {
+      "image": "bav-041",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-041-full-1a8cbec7c3.webp",
+      "bytes": 21652
+    },
+    {
+      "image": "bav-042",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-042-thumb-d9839f8a4c.avif",
+      "bytes": 2151
+    },
+    {
+      "image": "bav-042",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-042-thumb-d0a63cec11.webp",
+      "bytes": 4126
+    },
+    {
+      "image": "bav-042",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-042-full-4f27366b66.avif",
+      "bytes": 10888
+    },
+    {
+      "image": "bav-042",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-042-full-5c6fc4db18.webp",
+      "bytes": 19988
+    },
+    {
+      "image": "bav-043",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-043-thumb-dcef54a6fa.avif",
+      "bytes": 2230
+    },
+    {
+      "image": "bav-043",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-043-thumb-6bd0e3e0ad.webp",
+      "bytes": 4444
+    },
+    {
+      "image": "bav-043",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-043-full-6b6483887d.avif",
+      "bytes": 11903
+    },
+    {
+      "image": "bav-043",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-043-full-267109d00e.webp",
+      "bytes": 23066
+    },
+    {
+      "image": "bav-044",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-044-thumb-19d6c9dfd8.avif",
+      "bytes": 2175
+    },
+    {
+      "image": "bav-044",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-044-thumb-9199b5ce9e.webp",
+      "bytes": 4418
+    },
+    {
+      "image": "bav-044",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-044-full-3d5a5d3c59.avif",
+      "bytes": 11679
+    },
+    {
+      "image": "bav-044",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-044-full-95c834e82e.webp",
+      "bytes": 21822
+    },
+    {
+      "image": "bav-045",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-045-thumb-20831a7ee6.avif",
+      "bytes": 2188
+    },
+    {
+      "image": "bav-045",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-045-thumb-8880f7297f.webp",
+      "bytes": 4418
+    },
+    {
+      "image": "bav-045",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-045-full-1763d1d10c.avif",
+      "bytes": 11609
+    },
+    {
+      "image": "bav-045",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-045-full-dc4fe0bccf.webp",
+      "bytes": 21660
+    },
+    {
+      "image": "bav-046",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-046-thumb-d09e7f5c17.avif",
+      "bytes": 2231
+    },
+    {
+      "image": "bav-046",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-046-thumb-bc0016e841.webp",
+      "bytes": 4456
+    },
+    {
+      "image": "bav-046",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-046-full-38c686fa6f.avif",
+      "bytes": 11725
+    },
+    {
+      "image": "bav-046",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-046-full-ff34e8fa91.webp",
+      "bytes": 21798
+    },
+    {
+      "image": "bav-047",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-047-thumb-6afddc42da.avif",
+      "bytes": 2262
+    },
+    {
+      "image": "bav-047",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-047-thumb-f710eb4f7f.webp",
+      "bytes": 4406
+    },
+    {
+      "image": "bav-047",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-047-full-b3dbce5909.avif",
+      "bytes": 11465
+    },
+    {
+      "image": "bav-047",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-047-full-a84e13ae55.webp",
+      "bytes": 20172
+    },
+    {
+      "image": "bav-048",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-048-thumb-21e16dc18c.avif",
+      "bytes": 2189
+    },
+    {
+      "image": "bav-048",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-048-thumb-c29986498b.webp",
+      "bytes": 4414
+    },
+    {
+      "image": "bav-048",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-048-full-d80f93aa5e.avif",
+      "bytes": 11348
+    },
+    {
+      "image": "bav-048",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-048-full-4eeca4310c.webp",
+      "bytes": 20204
+    },
+    {
+      "image": "bav-049",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-049-thumb-7e60b95ac1.avif",
+      "bytes": 2210
+    },
+    {
+      "image": "bav-049",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-049-thumb-ba4f2e8ed9.webp",
+      "bytes": 4440
+    },
+    {
+      "image": "bav-049",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-049-full-881a2d519e.avif",
+      "bytes": 11610
+    },
+    {
+      "image": "bav-049",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-049-full-caa53d14ff.webp",
+      "bytes": 20266
+    },
+    {
+      "image": "bav-050",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/badkamer/bav-050-thumb-1e922a4c95.avif",
+      "bytes": 2391
+    },
+    {
+      "image": "bav-050",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/badkamer/bav-050-thumb-f9178529a3.webp",
+      "bytes": 4802
+    },
+    {
+      "image": "bav-050",
+      "size": "full",
+      "format": "avif",
+      "path": "images/badkamer/bav-050-full-d155a73bc0.avif",
+      "bytes": 12604
+    },
+    {
+      "image": "bav-050",
+      "size": "full",
+      "format": "webp",
+      "path": "images/badkamer/bav-050-full-23a1b526be.webp",
+      "bytes": 22266
+    }
+  ],
+  "settings": {
+    "thumb": {
+      "edge": 256,
+      "avifQuality": 28,
+      "webpQuality": 45
+    },
+    "full": {
+      "edge": 768,
+      "overviewEdge": 960,
+      "avifQuality": 38,
+      "webpQuality": 58
+    },
+    "avifSpeed": 4,
+    "webpMethod": 6,
+    "metadata": "EXIF en overige bronmetadata niet overgenomen"
+  },
+  "totalBytes": 2084128,
+  "avifBytes": 680384,
+  "avifFullBytes": 583677,
+  "webpBytes": 1403744,
+  "webpFullBytes": 1206868
+}

@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="nl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark" />
+    <meta
+      name="description"
+      content="Taalroute beeldbank: badkamerbeelden, woorden en oefenreeksen voor docenten."
+    />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'none'"
+    />
+    <title>Taalroute Beeldbank — Badkamer</title>
+    <link rel="icon" href="data:," />
+    <link rel="stylesheet" href="./assets/app.css" />
+    <script type="module" src="./assets/app.js"></script>
+  </head>
+  <body>
+    <div id="tr-bathroom" aria-label="Taalroute beeldbank, badkamerproef">
+      <header class="bath-head bath-row bath-between">
+        <div class="bath-brand">
+          Taalroute <span class="bath-muted">/ Beeldbank</span>
+        </div>
+        <div class="bath-row">
+          <span class="bath-tag">Badkamerproef</span
+          ><button id="bath-lesson">Mijn lesselectie · 0</button>
+        </div>
+      </header>
+      <div
+        id="bath-live"
+        class="bath-live"
+        role="status"
+        aria-live="polite"
+      ></div>
+      <main id="bath-main">
+        <p role="status">De badkamercollectie wordt geladen…</p>
+      </main>
+      <footer class="bath-foot">
+        Proefversie · oefenvoorstellen · je lesselectie blijft alleen in deze
+        weergave.
+      </footer>
+    </div>
+
+    <noscript
+      >Schakel JavaScript in om beelden te zoeken en oefeningen te
+      openen.</noscript
+    >
+  </body>
+</html>
