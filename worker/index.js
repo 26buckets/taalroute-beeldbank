@@ -170,8 +170,9 @@ export async function lesson(request, db, owner) {
 
 export async function handle(request, env, authenticate = identity) {
   const url = new URL(request.url);
-  const owner = await authenticate(request, env);
-  if (!owner)
+  const publicPreview = env.PUBLIC_PREVIEW === "true";
+  const owner = publicPreview ? null : await authenticate(request, env);
+  if (!publicPreview && !owner)
     return new Response("Log in om de Taalroute Beeldbank te openen.", {
       status: 403,
       headers: {
@@ -179,7 +180,20 @@ export async function handle(request, env, authenticate = identity) {
         "content-type": "text/plain; charset=utf-8",
       },
     });
-  if (url.pathname === "/api/lesson") return lesson(request, env.DB, owner);
+  if (url.pathname === "/api/lesson") {
+    if (publicPreview) {
+      return request.method === "GET"
+        ? json({ storage: "browser", items: [], revision: 0 })
+        : json(
+            {
+              error:
+                "Lesselecties worden in deze testversie in je browser bewaard.",
+            },
+            403,
+          );
+    }
+    return lesson(request, env.DB, owner);
+  }
   if (!["GET", "HEAD"].includes(request.method))
     return new Response(null, { status: 405 });
   if (url.pathname.startsWith("/data/")) {

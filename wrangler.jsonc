@@ -27,6 +27,7 @@
     },
   ],
   "vars": {
+    "PUBLIC_PREVIEW": "true",
     "ACCESS_TEAM_DOMAIN": "lingua-academy.cloudflareaccess.com",
     "ACCESS_AUD": "7aae2d54d451ddd250c0389173b54863b5ed9fad5d69aa5aec5d5ea0f10e7bcd",
   },

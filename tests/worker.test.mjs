@@ -222,3 +222,45 @@ test("R2 levert privéafbeeldingen met ETag en 304 na authenticatie", async () =
     304,
   );
 });
+
+test("publieke testversie opent app en beelden zonder account en houdt D1-selecties privé", async () => {
+  const env = {
+    PUBLIC_PREVIEW: "true",
+    ASSETS: { fetch: async () => new Response("app") },
+    DB: {
+      prepare() {
+        throw new Error("Private lesson data must not be read");
+      },
+    },
+    IMAGES: {
+      get: async () => ({
+        body: "pixels",
+        httpEtag: '"image"',
+        writeHttpMetadata(h) {
+          h.set("content-type", "image/avif");
+        },
+      }),
+    },
+  };
+  const noAuth = async () => {
+    throw new Error("Public preview must not require login");
+  };
+  assert.equal((await handle(req("/"), env, noAuth)).status, 200);
+  assert.equal(
+    (await handle(req("/images/badkamer/test.avif"), env, noAuth)).status,
+    200,
+  );
+  assert.deepEqual(
+    await (await handle(req("/api/lesson"), env, noAuth)).json(),
+    { storage: "browser", items: [], revision: 0 },
+  );
+  assert.equal(
+    (await handle(req("/api/lesson", { items: [], revision: 0 }), env, noAuth))
+      .status,
+    403,
+  );
+  assert.equal(
+    (await handle(req("/api/lesson?owner=someone-else"), env, noAuth)).status,
+    200,
+  );
+});

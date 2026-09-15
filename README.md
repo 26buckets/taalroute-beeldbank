@@ -20,7 +20,7 @@ Open daarna <http://127.0.0.1:8852>. Ook `npm start` start deze lokale server. O
 4. Voeg de reeks toe aan je les of kies **Toon op bord**.
 5. Open een beeldkaart voor de letterlijke beschrijving, woorden, gebruikssituaties en eventuele docentnotitie.
 
-Dezelfde reeks kan meerdere keren in een les voorkomen met eigen instellingen. Online wordt de selectie per ingelogde docent in D1 bewaard. In de losse lokale preview is de selectie tijdelijk. Het bordvoorbeeld is onderdeel van dezelfde pagina.
+Dezelfde reeks kan meerdere keren in een les voorkomen met eigen instellingen. In de openbare testmodus wordt de selectie in de eigen browser bewaard, zonder account. In de afgeschermde modus kan de app selecties per ingelogde docent in D1 bewaren. In de losse lokale preview is de selectie tijdelijk. Het bordvoorbeeld is onderdeel van dezelfde pagina.
 
 ## Header en appkleur
 
@@ -42,7 +42,7 @@ Dit zijn gemeten bestandsgroottes in decimale kB/MB. Er is geen absolute minimum
 
 ## Hosting en database
 
-De online app draait op **https://beeldbank.taalroute.nl**: Cloudflare Worker, D1 voor inhoud en lesselecties, en privé R2-opslag voor afbeeldingen. Cloudflare Access schermt de app af. Zoeken en sorteren blijven lokaal in de browser. Zie [de inrichting en publicatie-instructies](docs/cloudflare.md).
+De online app draait op **https://beeldbank.taalroute.nl**: Cloudflare Worker, D1 voor inhoud en lesselecties, en privé R2-opslag voor afbeeldingen. De huidige configuratie gebruikt openbare testmodus (`PUBLIC_PREVIEW=true`), met lesselecties in de eigen browser. De Cloudflare Access-testregel is actief: iedereen kan de app via de link openen zonder inlog. Zoeken en sorteren blijven lokaal in de browser. Zie [de inrichting en publicatie-instructies](docs/cloudflare.md).
 
 ## Bestanden
 
@@ -73,6 +73,6 @@ De bronmap bevat `1.png` tot en met `50.png`, of de geregistreerde bronbestandsn
 
 Het collectieoverzicht opent met **Het huis**, met **Badkamer & verzorging** als gevulde deelcollectie. De overige ruimtes en hoofdonderwerpen staan als concept in de categorie-indeling; andere Drive-collecties zijn nog niet geïmporteerd. Zie [de indeling en het uitbreidingsadvies](docs/collectie-indeling.md). Technische proefteksten en Drive-knoppen zijn verwijderd uit de docentweergave; herkomst en ontwikkelinformatie blijven in de brongegevens en documentatie beschikbaar.
 
-Een eerste docentversie met toegangsbeveiliging, centrale inhoudsopslag en bewaarde lesselecties. Er is nog geen inhoudseditor of automatische beoordeling. A2/B1 zijn oefenvoorstellen; de inhoud is nog niet als examen gevalideerd. De repository is privé. De online app heeft eigen Cloudflare Access-beveiliging, los van de privérepository.
+Een eerste docentversie met centrale inhoudsopslag en een openbare testmodus. De eerdere toegangsbeveiliging kan later weer worden ingeschakeld. Er is nog geen inhoudseditor of automatische beoordeling. A2/B1 zijn oefenvoorstellen; de inhoud is nog niet als examen gevalideerd. De repository is privé. Cloudflare Access regelt de toegang tot de online app, onafhankelijk van de privérepository.
 
-De app is gehost en afgeschermd. Er is geen externe dienst nodig voor de losse lokale visuele preview.
+De app is gehost op Cloudflare. Er is geen externe dienst nodig voor de losse lokale visuele preview.

@@ -1,3 +1,38 @@
+export function browserLessonStore(onError, onSaved, storage) {
+  const key = "taalroute-beeldbank-public-lesson-v1";
+  let items = [],
+    unsaved = false;
+  try {
+    const saved = JSON.parse(storage.getItem(key) || "[]");
+    if (Array.isArray(saved)) items = saved;
+  } catch {
+    /* An unavailable browser store still allows trying the app. */
+  }
+  function persist() {
+    try {
+      storage.setItem(key, JSON.stringify(items));
+      unsaved = false;
+      onSaved();
+    } catch {
+      unsaved = true;
+      onError(
+        "Je browser kan deze lesselectie niet bewaren. Je kunt wel verder oefenen in dit venster.",
+      );
+    }
+  }
+  return {
+    items,
+    save(next) {
+      items = structuredClone(next);
+      persist();
+    },
+    retry: persist,
+    dirty() {
+      return unsaved;
+    },
+  };
+}
+
 export async function lessonStore(onError, onSaved, fetcher = fetch) {
   let response = await fetcher("/api/lesson", {
     headers: { accept: "application/json" },
@@ -22,6 +57,15 @@ export async function lessonStore(onError, onSaved, fetcher = fetch) {
   )
     throw new Error("Je lesselectie kon niet worden geladen.");
   const initial = await response.json();
+  if (initial.storage === "browser") {
+    let storage;
+    try {
+      storage = window.localStorage;
+    } catch {
+      storage = null;
+    }
+    return browserLessonStore(onError, onSaved, storage);
+  }
   let revision = initial.revision,
     pending = null,
     saving = false,

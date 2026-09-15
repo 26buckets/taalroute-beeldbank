@@ -47,3 +47,26 @@ test("mislukte wijzigingen blijven beschikbaar voor opnieuw opslaan", async () =
   await tick();
   assert.equal(store.dirty(), false);
 });
+
+test("publieke lesselecties blijven in de eigen browser en komen terug na opnieuw openen", async () => {
+  const { browserLessonStore } = await import(
+    "../public/assets/lesson-store.js"
+  );
+  const memory = new Map();
+  const storage = {
+    getItem: (key) => memory.get(key) ?? null,
+    setItem: (key, value) => memory.set(key, value),
+  };
+  const a = browserLessonStore(assert.fail, () => {}, storage);
+  const items = [{ type: "image", n: 1, uid: 1 }];
+  a.save(items);
+  assert.deepEqual(
+    browserLessonStore(assert.fail, () => {}, storage).items,
+    items,
+  );
+  assert.deepEqual(
+    browserLessonStore(assert.fail, () => {}, { getItem: () => null }).items,
+    [],
+  );
+  assert.equal(a.dirty(), false);
+});
