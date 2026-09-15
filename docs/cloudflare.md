@@ -70,3 +70,7 @@ Gecontroleerd op 15 september 2026: online ingelogd de huiscollectie en badkamer
 Op 15 september 2026 is de openbare Worker-testmodus gepubliceerd als `a9fd49cd-88aa-452a-b9c3-7f862c0aeaa7`. Alle 18 tests slagen, inclusief openbare toegang in de Worker, afscherming van D1-lesselecties en browseropslag. Zonder cookies geven de homepage, beide collectiegegevensbestanden, de lesopslagconfiguratie en een AVIF-afbeelding HTTP 200; de les-API geeft uitsluitend browseropslag terug en weigert anonieme PUT-verzoeken met HTTP 403.
 
 De openbare browsercontrole slaagde: huis en badkamer openen, tandenborstel toevoegen, herladen en dezelfde selectie terugvinden. Het tijdelijke proefitem is verwijderd. De browser meldde geen fouten.
+
+## Keukenpublicatie
+
+Op 15 september 2026 is Keuken & koken toegevoegd. Het actuele register gebruikt D1-pakketsleutel `collections-20260915-keuken-v1.json`; de publieke URL blijft gelijk. Er is daarnaast een nieuw pakket `keuken.json`. Oude pakketten en lesselecties blijven behouden. Zie [de importverantwoording](keuken-import.md).

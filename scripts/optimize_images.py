@@ -15,11 +15,12 @@ ROOT = Path(__file__).resolve().parents[1]
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--source-dir', type=Path, required=True)
+    parser.add_argument('--collection', choices=('badkamer', 'keuken'), default='badkamer')
     args = parser.parse_args()
     if not features.check('avif') or not features.check('webp'):
         parser.error('Pillow met AVIF en WebP is nodig.')
-    content = json.loads((ROOT / 'content/badkamer.json').read_text())
-    destination = ROOT / 'public/images/badkamer'
+    content = json.loads((ROOT / f'content/{args.collection}.json').read_text())
+    destination = ROOT / f'public/images/{args.collection}'
     destination.mkdir(parents=True, exist_ok=True)
     report = {'sourceBytes': 0, 'files': [], 'settings': {
         'thumb': {'edge': 256, 'avifQuality': 28, 'webpQuality': 45},
@@ -54,7 +55,7 @@ def main():
                 name = f'{asset["id"]}-{size}-{digest}.{fmt}'
                 target = destination / name
                 target.write_bytes(payload)
-                path = f'images/badkamer/{name}'
+                path = f'images/{args.collection}/{name}'
                 rendition[fmt] = path
                 report['files'].append({'image': asset['id'], 'size': size,
                     'format': fmt, 'path': path, 'bytes': len(payload)})
@@ -65,7 +66,7 @@ def main():
         if old.suffix in ('.avif', '.webp') and old.name not in expected:
             old.unlink()
     (ROOT / 'public/data').mkdir(parents=True, exist_ok=True)
-    (ROOT / 'public/data/badkamer.json').write_text(json.dumps(content,
+    (ROOT / f'public/data/{args.collection}.json').write_text(json.dumps(content,
         ensure_ascii=False, separators=(',', ':')))
     report['totalBytes'] = sum(f['bytes'] for f in report['files'])
     for fmt in ('avif', 'webp'):
@@ -73,7 +74,7 @@ def main():
         report[fmt + 'FullBytes'] = sum(f['bytes'] for f in report['files']
             if f['format'] == fmt and f['size'] == 'full')
     (ROOT / 'docs').mkdir(exist_ok=True)
-    (ROOT / 'docs/image-sizes.json').write_text(json.dumps(report, indent=2))
+    (ROOT / ('docs/image-sizes.json' if args.collection == 'badkamer' else f'docs/image-sizes-{args.collection}.json')).write_text(json.dumps(report, indent=2))
     print(json.dumps({k: v for k, v in report.items() if k != 'files'}, indent=2))
 
 if __name__ == '__main__':

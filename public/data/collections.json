@@ -44,8 +44,11 @@
       "title": "Keuken & koken",
       "kind": "collection",
       "parentId": "het-huis",
-      "status": "draft",
-      "topics": ["eten-drinken", "schoonmaken", "dagelijkse-routines"]
+      "status": "published",
+      "topics": ["eten-drinken", "schoonmaken", "dagelijkse-routines"],
+      "dataset": "keuken.json",
+      "coverImageNumber": 1048,
+      "subtitle": "Wonen, koken & eten"
     },
     {
       "id": "woonkamer",

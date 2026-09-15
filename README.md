@@ -1,6 +1,6 @@
 # Taalroute Beeldbank
 
-Docentweergave met een collectieoverzicht en een complete badkamercollectie: 50 bestaande beelden, beschrijvingen, woorden en drie oefenreeksen. Zoeken, filteren, sorteren, lesselecties en het bordvoorbeeld werken volledig in de browser.
+Docentweergave met Het huis als hoofdcollectie: Badkamer & verzorging (50 beelden, drie oefenreeksen) en Keuken & koken (51 beelden, één oefenreeks). Beide collecties hebben beschrijvingen en zoekwoorden en kunnen samen in één lesselectie. Zoeken, filteren, sorteren, lesselecties en het bordvoorbeeld werken volledig in de browser.
 
 ## Starten
 
@@ -71,8 +71,12 @@ De bronmap bevat `1.png` tot en met `50.png`, of de geregistreerde bronbestandsn
 
 ## Status
 
-Het collectieoverzicht opent met **Het huis**, met **Badkamer & verzorging** als gevulde deelcollectie. De overige ruimtes en hoofdonderwerpen staan als concept in de categorie-indeling; andere Drive-collecties zijn nog niet geïmporteerd. Zie [de indeling en het uitbreidingsadvies](docs/collectie-indeling.md). Technische proefteksten en Drive-knoppen zijn verwijderd uit de docentweergave; herkomst en ontwikkelinformatie blijven in de brongegevens en documentatie beschikbaar.
+Het collectieoverzicht opent met **Het huis**, met **Badkamer & verzorging** en **Keuken & koken** als gevulde deelcollecties. De overige ruimtes en hoofdonderwerpen staan als concept in de categorie-indeling; de overige Drive-collecties zijn nog niet geïmporteerd. Zie [de indeling en het uitbreidingsadvies](docs/collectie-indeling.md). Technische proefteksten en Drive-knoppen zijn verwijderd uit de docentweergave; herkomst en ontwikkelinformatie blijven in de brongegevens en documentatie beschikbaar.
 
 Een eerste docentversie met centrale inhoudsopslag en een openbare testmodus. De eerdere toegangsbeveiliging kan later weer worden ingeschakeld. Er is nog geen inhoudseditor of automatische beoordeling. A2/B1 zijn oefenvoorstellen; de inhoud is nog niet als examen gevalideerd. De repository is privé. Cloudflare Access regelt de toegang tot de online app, onafhankelijk van de privérepository.
 
 De app is gehost op Cloudflare. Er is geen externe dienst nodig voor de losse lokale visuele preview.
+
+## Keuken
+
+[Open Keuken & koken](https://beeldbank.taalroute.nl/#keuken-koken). De 51 foto’s uit Drive zijn verkleind naar AVIF en WebP. De volledige AVIF-set inclusief miniaturen is 758,8 kB; de oorspronkelijke PNG’s waren 98,75 MB. De oefenreeks Groente bereiden combineert wassen, snijden, bakken en opscheppen. Meer over bronkeuze en publicatie: [keukenimport](docs/keuken-import.md).

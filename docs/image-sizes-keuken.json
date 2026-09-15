@@ -1,0 +1,1454 @@
+{
+  "sourceBytes": 98749779,
+  "files": [
+    {
+      "image": "kee-001",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-001-thumb-e043b3f177.avif",
+      "bytes": 1266
+    },
+    {
+      "image": "kee-001",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-001-thumb-1f443786b1.webp",
+      "bytes": 2446
+    },
+    {
+      "image": "kee-001",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-001-full-86708f89be.avif",
+      "bytes": 7895
+    },
+    {
+      "image": "kee-001",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-001-full-36ac075754.webp",
+      "bytes": 16872
+    },
+    {
+      "image": "kee-002",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-002-thumb-ed67a3640c.avif",
+      "bytes": 1295
+    },
+    {
+      "image": "kee-002",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-002-thumb-effac7da6d.webp",
+      "bytes": 2728
+    },
+    {
+      "image": "kee-002",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-002-full-9f06bc442d.avif",
+      "bytes": 9676
+    },
+    {
+      "image": "kee-002",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-002-full-e00766b983.webp",
+      "bytes": 21620
+    },
+    {
+      "image": "kee-003",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-003-thumb-b64b95f98b.avif",
+      "bytes": 1612
+    },
+    {
+      "image": "kee-003",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-003-thumb-2968a7594e.webp",
+      "bytes": 3752
+    },
+    {
+      "image": "kee-003",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-003-full-6997ffe18f.avif",
+      "bytes": 14124
+    },
+    {
+      "image": "kee-003",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-003-full-093240a9dd.webp",
+      "bytes": 31330
+    },
+    {
+      "image": "kee-004",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-004-thumb-2833a3dfb4.avif",
+      "bytes": 1413
+    },
+    {
+      "image": "kee-004",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-004-thumb-a7b2d0505a.webp",
+      "bytes": 2654
+    },
+    {
+      "image": "kee-004",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-004-full-e46d3682be.avif",
+      "bytes": 9437
+    },
+    {
+      "image": "kee-004",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-004-full-a75b430110.webp",
+      "bytes": 19520
+    },
+    {
+      "image": "kee-005",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-005-thumb-d6b7bc44df.avif",
+      "bytes": 1531
+    },
+    {
+      "image": "kee-005",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-005-thumb-7dca1f0427.webp",
+      "bytes": 3688
+    },
+    {
+      "image": "kee-005",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-005-full-38f11b733a.avif",
+      "bytes": 15145
+    },
+    {
+      "image": "kee-005",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-005-full-4899b65b50.webp",
+      "bytes": 37528
+    },
+    {
+      "image": "kee-006",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-006-thumb-f7ec127225.avif",
+      "bytes": 1632
+    },
+    {
+      "image": "kee-006",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-006-thumb-452fc4a9a2.webp",
+      "bytes": 3880
+    },
+    {
+      "image": "kee-006",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-006-full-f4630e4621.avif",
+      "bytes": 16278
+    },
+    {
+      "image": "kee-006",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-006-full-67d4eb4c2c.webp",
+      "bytes": 41788
+    },
+    {
+      "image": "kee-007",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-007-thumb-e719f531c4.avif",
+      "bytes": 1532
+    },
+    {
+      "image": "kee-007",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-007-thumb-0671678281.webp",
+      "bytes": 3652
+    },
+    {
+      "image": "kee-007",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-007-full-9367f50d98.avif",
+      "bytes": 16222
+    },
+    {
+      "image": "kee-007",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-007-full-a244cad9ad.webp",
+      "bytes": 43034
+    },
+    {
+      "image": "kee-008",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-008-thumb-c831fc8450.avif",
+      "bytes": 1464
+    },
+    {
+      "image": "kee-008",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-008-thumb-2213905130.webp",
+      "bytes": 3122
+    },
+    {
+      "image": "kee-008",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-008-full-c9e90d4a36.avif",
+      "bytes": 15827
+    },
+    {
+      "image": "kee-008",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-008-full-94d9bc6718.webp",
+      "bytes": 36972
+    },
+    {
+      "image": "kee-009",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-009-thumb-b414a7c5d5.avif",
+      "bytes": 1665
+    },
+    {
+      "image": "kee-009",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-009-thumb-3ae302ef79.webp",
+      "bytes": 3546
+    },
+    {
+      "image": "kee-009",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-009-full-c2813a7bb3.avif",
+      "bytes": 11563
+    },
+    {
+      "image": "kee-009",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-009-full-c3bb8f4905.webp",
+      "bytes": 25838
+    },
+    {
+      "image": "kee-010",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-010-thumb-d33b1c1f4e.avif",
+      "bytes": 1648
+    },
+    {
+      "image": "kee-010",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-010-thumb-d991797ffa.webp",
+      "bytes": 3722
+    },
+    {
+      "image": "kee-010",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-010-full-30e1b0b83c.avif",
+      "bytes": 13012
+    },
+    {
+      "image": "kee-010",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-010-full-f637e4f3b2.webp",
+      "bytes": 30734
+    },
+    {
+      "image": "kee-011",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-011-thumb-c5254b751f.avif",
+      "bytes": 2130
+    },
+    {
+      "image": "kee-011",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-011-thumb-0f2c5f8858.webp",
+      "bytes": 5112
+    },
+    {
+      "image": "kee-011",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-011-full-91309747d8.avif",
+      "bytes": 16284
+    },
+    {
+      "image": "kee-011",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-011-full-543949a8f1.webp",
+      "bytes": 34806
+    },
+    {
+      "image": "kee-012",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-012-thumb-58e598c7aa.avif",
+      "bytes": 1726
+    },
+    {
+      "image": "kee-012",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-012-thumb-f516124c50.webp",
+      "bytes": 3506
+    },
+    {
+      "image": "kee-012",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-012-full-d660906c21.avif",
+      "bytes": 9935
+    },
+    {
+      "image": "kee-012",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-012-full-470b67bbd6.webp",
+      "bytes": 22546
+    },
+    {
+      "image": "kee-013",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-013-thumb-55b8e28e92.avif",
+      "bytes": 1902
+    },
+    {
+      "image": "kee-013",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-013-thumb-08f61c7265.webp",
+      "bytes": 4194
+    },
+    {
+      "image": "kee-013",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-013-full-e1b3d828dd.avif",
+      "bytes": 11663
+    },
+    {
+      "image": "kee-013",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-013-full-66f2929015.webp",
+      "bytes": 25696
+    },
+    {
+      "image": "kee-014",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-014-thumb-99a6f63d08.avif",
+      "bytes": 1703
+    },
+    {
+      "image": "kee-014",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-014-thumb-29933ec55c.webp",
+      "bytes": 3882
+    },
+    {
+      "image": "kee-014",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-014-full-990e68a0dd.avif",
+      "bytes": 10765
+    },
+    {
+      "image": "kee-014",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-014-full-4d0bdf49c3.webp",
+      "bytes": 24822
+    },
+    {
+      "image": "kee-015",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-015-thumb-d01c04a6ee.avif",
+      "bytes": 1182
+    },
+    {
+      "image": "kee-015",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-015-thumb-da0328c605.webp",
+      "bytes": 1936
+    },
+    {
+      "image": "kee-015",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-015-full-0217ccd4cb.avif",
+      "bytes": 5230
+    },
+    {
+      "image": "kee-015",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-015-full-a5027654f4.webp",
+      "bytes": 9326
+    },
+    {
+      "image": "kee-016",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-016-thumb-0eab697cab.avif",
+      "bytes": 1750
+    },
+    {
+      "image": "kee-016",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-016-thumb-0318e64087.webp",
+      "bytes": 3740
+    },
+    {
+      "image": "kee-016",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-016-full-ee12e31103.avif",
+      "bytes": 10529
+    },
+    {
+      "image": "kee-016",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-016-full-dcf0a0670b.webp",
+      "bytes": 20332
+    },
+    {
+      "image": "kee-017",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-017-thumb-6b6ff6c087.avif",
+      "bytes": 1324
+    },
+    {
+      "image": "kee-017",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-017-thumb-a42665937d.webp",
+      "bytes": 2640
+    },
+    {
+      "image": "kee-017",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-017-full-be2a1b8136.avif",
+      "bytes": 9180
+    },
+    {
+      "image": "kee-017",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-017-full-32d0ea6a6b.webp",
+      "bytes": 24518
+    },
+    {
+      "image": "kee-018",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-018-thumb-650867090e.avif",
+      "bytes": 1331
+    },
+    {
+      "image": "kee-018",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-018-thumb-da22fd5f70.webp",
+      "bytes": 2268
+    },
+    {
+      "image": "kee-018",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-018-full-8abadc1742.avif",
+      "bytes": 6652
+    },
+    {
+      "image": "kee-018",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-018-full-5184aebc5b.webp",
+      "bytes": 11374
+    },
+    {
+      "image": "kee-019",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-019-thumb-2d2c694f10.avif",
+      "bytes": 2073
+    },
+    {
+      "image": "kee-019",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-019-thumb-9393014ef3.webp",
+      "bytes": 4362
+    },
+    {
+      "image": "kee-019",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-019-full-19b9099d94.avif",
+      "bytes": 11953
+    },
+    {
+      "image": "kee-019",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-019-full-23035d8186.webp",
+      "bytes": 24302
+    },
+    {
+      "image": "kee-020",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-020-thumb-440088bb73.avif",
+      "bytes": 2069
+    },
+    {
+      "image": "kee-020",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-020-thumb-727fd7195d.webp",
+      "bytes": 4146
+    },
+    {
+      "image": "kee-020",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-020-full-cb00032d31.avif",
+      "bytes": 10309
+    },
+    {
+      "image": "kee-020",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-020-full-b7d05d18ba.webp",
+      "bytes": 22234
+    },
+    {
+      "image": "kee-021",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-021-thumb-7fb0fd07e6.avif",
+      "bytes": 2575
+    },
+    {
+      "image": "kee-021",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-021-thumb-c3179cfb49.webp",
+      "bytes": 5754
+    },
+    {
+      "image": "kee-021",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-021-full-26f6546eec.avif",
+      "bytes": 15967
+    },
+    {
+      "image": "kee-021",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-021-full-1e89f3263e.webp",
+      "bytes": 35628
+    },
+    {
+      "image": "kee-022",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-022-thumb-c0b1361338.avif",
+      "bytes": 2682
+    },
+    {
+      "image": "kee-022",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-022-thumb-fe8b6e8dc1.webp",
+      "bytes": 5776
+    },
+    {
+      "image": "kee-022",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-022-full-6680dd28ae.avif",
+      "bytes": 14890
+    },
+    {
+      "image": "kee-022",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-022-full-56d3c35c97.webp",
+      "bytes": 29006
+    },
+    {
+      "image": "kee-023",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-023-thumb-0b3636a975.avif",
+      "bytes": 3158
+    },
+    {
+      "image": "kee-023",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-023-thumb-e84eded797.webp",
+      "bytes": 8000
+    },
+    {
+      "image": "kee-023",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-023-full-a572bd0adb.avif",
+      "bytes": 19825
+    },
+    {
+      "image": "kee-023",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-023-full-292f9bbc59.webp",
+      "bytes": 43590
+    },
+    {
+      "image": "kee-024",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-024-thumb-10255a6c5b.avif",
+      "bytes": 2584
+    },
+    {
+      "image": "kee-024",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-024-thumb-811e78de78.webp",
+      "bytes": 5806
+    },
+    {
+      "image": "kee-024",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-024-full-3b2d2eacde.avif",
+      "bytes": 16500
+    },
+    {
+      "image": "kee-024",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-024-full-4280d0a3f8.webp",
+      "bytes": 37476
+    },
+    {
+      "image": "kee-025",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-025-thumb-a42f08fe11.avif",
+      "bytes": 2576
+    },
+    {
+      "image": "kee-025",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-025-thumb-d3ee447729.webp",
+      "bytes": 5932
+    },
+    {
+      "image": "kee-025",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-025-full-113f17364a.avif",
+      "bytes": 15685
+    },
+    {
+      "image": "kee-025",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-025-full-f3dd3058e7.webp",
+      "bytes": 34724
+    },
+    {
+      "image": "kee-026",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-026-thumb-751685e109.avif",
+      "bytes": 2711
+    },
+    {
+      "image": "kee-026",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-026-thumb-8b2a92c0ad.webp",
+      "bytes": 6226
+    },
+    {
+      "image": "kee-026",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-026-full-9d501a0cb4.avif",
+      "bytes": 17097
+    },
+    {
+      "image": "kee-026",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-026-full-5c7712efdb.webp",
+      "bytes": 38552
+    },
+    {
+      "image": "kee-027",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-027-thumb-333ee45a75.avif",
+      "bytes": 2850
+    },
+    {
+      "image": "kee-027",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-027-thumb-441b1be8fb.webp",
+      "bytes": 6524
+    },
+    {
+      "image": "kee-027",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-027-full-9ba656237b.avif",
+      "bytes": 16357
+    },
+    {
+      "image": "kee-027",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-027-full-630971cb93.webp",
+      "bytes": 36148
+    },
+    {
+      "image": "kee-028",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-028-thumb-f93ddfaeea.avif",
+      "bytes": 2476
+    },
+    {
+      "image": "kee-028",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-028-thumb-599771c975.webp",
+      "bytes": 5452
+    },
+    {
+      "image": "kee-028",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-028-full-e921b7887e.avif",
+      "bytes": 15102
+    },
+    {
+      "image": "kee-028",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-028-full-860d39e4af.webp",
+      "bytes": 33188
+    },
+    {
+      "image": "kee-029",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-029-thumb-efa163cad6.avif",
+      "bytes": 2385
+    },
+    {
+      "image": "kee-029",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-029-thumb-8c82bd099a.webp",
+      "bytes": 5260
+    },
+    {
+      "image": "kee-029",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-029-full-d28a50627f.avif",
+      "bytes": 14428
+    },
+    {
+      "image": "kee-029",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-029-full-cd619784ad.webp",
+      "bytes": 32456
+    },
+    {
+      "image": "kee-030",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-030-thumb-e7093c6c9f.avif",
+      "bytes": 2753
+    },
+    {
+      "image": "kee-030",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-030-thumb-5f6e64aab5.webp",
+      "bytes": 6050
+    },
+    {
+      "image": "kee-030",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-030-full-e2e4c9ceeb.avif",
+      "bytes": 16156
+    },
+    {
+      "image": "kee-030",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-030-full-00068405e1.webp",
+      "bytes": 35600
+    },
+    {
+      "image": "kee-031",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-031-thumb-720c9741c5.avif",
+      "bytes": 2465
+    },
+    {
+      "image": "kee-031",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-031-thumb-4bb770f94e.webp",
+      "bytes": 5418
+    },
+    {
+      "image": "kee-031",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-031-full-a050df056d.avif",
+      "bytes": 14952
+    },
+    {
+      "image": "kee-031",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-031-full-f3e5ccd079.webp",
+      "bytes": 33494
+    },
+    {
+      "image": "kee-032",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-032-thumb-f42b8f63b6.avif",
+      "bytes": 3024
+    },
+    {
+      "image": "kee-032",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-032-thumb-4e19daf632.webp",
+      "bytes": 6940
+    },
+    {
+      "image": "kee-032",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-032-full-3cd59e4ebf.avif",
+      "bytes": 17894
+    },
+    {
+      "image": "kee-032",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-032-full-8b1ded49c8.webp",
+      "bytes": 39240
+    },
+    {
+      "image": "kee-033",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-033-thumb-ab77f2fd40.avif",
+      "bytes": 2531
+    },
+    {
+      "image": "kee-033",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-033-thumb-54731c2da4.webp",
+      "bytes": 5650
+    },
+    {
+      "image": "kee-033",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-033-full-fb7a93c6bc.avif",
+      "bytes": 16095
+    },
+    {
+      "image": "kee-033",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-033-full-27ea7536c3.webp",
+      "bytes": 35798
+    },
+    {
+      "image": "kee-034",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-034-thumb-92e572e2f1.avif",
+      "bytes": 2863
+    },
+    {
+      "image": "kee-034",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-034-thumb-a7249af717.webp",
+      "bytes": 6564
+    },
+    {
+      "image": "kee-034",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-034-full-0a76c9630f.avif",
+      "bytes": 16541
+    },
+    {
+      "image": "kee-034",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-034-full-29943d9c35.webp",
+      "bytes": 34074
+    },
+    {
+      "image": "kee-035",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-035-thumb-88e8dcf114.avif",
+      "bytes": 2048
+    },
+    {
+      "image": "kee-035",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-035-thumb-a7af495711.webp",
+      "bytes": 4126
+    },
+    {
+      "image": "kee-035",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-035-full-b6681cb0e8.avif",
+      "bytes": 11957
+    },
+    {
+      "image": "kee-035",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-035-full-ce875ce426.webp",
+      "bytes": 23442
+    },
+    {
+      "image": "kee-036",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-036-thumb-bb7f6e3e70.avif",
+      "bytes": 2104
+    },
+    {
+      "image": "kee-036",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-036-thumb-f4ddeb4b16.webp",
+      "bytes": 4628
+    },
+    {
+      "image": "kee-036",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-036-full-b29d1204a1.avif",
+      "bytes": 13363
+    },
+    {
+      "image": "kee-036",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-036-full-a9a9d140af.webp",
+      "bytes": 26900
+    },
+    {
+      "image": "kee-037",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-037-thumb-313539ac11.avif",
+      "bytes": 2206
+    },
+    {
+      "image": "kee-037",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-037-thumb-2ebbdeab2b.webp",
+      "bytes": 4994
+    },
+    {
+      "image": "kee-037",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-037-full-1378e0aca2.avif",
+      "bytes": 12624
+    },
+    {
+      "image": "kee-037",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-037-full-92415d6fb1.webp",
+      "bytes": 25130
+    },
+    {
+      "image": "kee-038",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-038-thumb-4d64f5c560.avif",
+      "bytes": 2027
+    },
+    {
+      "image": "kee-038",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-038-thumb-7a6a1fecd2.webp",
+      "bytes": 4464
+    },
+    {
+      "image": "kee-038",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-038-full-38e04de76f.avif",
+      "bytes": 11244
+    },
+    {
+      "image": "kee-038",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-038-full-f72cb2c497.webp",
+      "bytes": 21978
+    },
+    {
+      "image": "kee-039",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-039-thumb-3d3844de67.avif",
+      "bytes": 2075
+    },
+    {
+      "image": "kee-039",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-039-thumb-bd5f28975b.webp",
+      "bytes": 5114
+    },
+    {
+      "image": "kee-039",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-039-full-1c6b9ee552.avif",
+      "bytes": 14012
+    },
+    {
+      "image": "kee-039",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-039-full-d112f2e0bf.webp",
+      "bytes": 31744
+    },
+    {
+      "image": "kee-040",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-040-thumb-8255cf2e9e.avif",
+      "bytes": 1635
+    },
+    {
+      "image": "kee-040",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-040-thumb-2f1fd0db68.webp",
+      "bytes": 3074
+    },
+    {
+      "image": "kee-040",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-040-full-60af38999a.avif",
+      "bytes": 8097
+    },
+    {
+      "image": "kee-040",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-040-full-a24712e58c.webp",
+      "bytes": 14228
+    },
+    {
+      "image": "kee-041",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-041-thumb-69e945857b.avif",
+      "bytes": 1782
+    },
+    {
+      "image": "kee-041",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-041-thumb-126ae8ed4f.webp",
+      "bytes": 3742
+    },
+    {
+      "image": "kee-041",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-041-full-f13c45be00.avif",
+      "bytes": 11841
+    },
+    {
+      "image": "kee-041",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-041-full-6d2dd6bcc4.webp",
+      "bytes": 24102
+    },
+    {
+      "image": "kee-042",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-042-thumb-622b94a84d.avif",
+      "bytes": 1993
+    },
+    {
+      "image": "kee-042",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-042-thumb-f63836b47b.webp",
+      "bytes": 4090
+    },
+    {
+      "image": "kee-042",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-042-full-0d2f613936.avif",
+      "bytes": 10774
+    },
+    {
+      "image": "kee-042",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-042-full-85d3666103.webp",
+      "bytes": 21284
+    },
+    {
+      "image": "kee-043",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-043-thumb-688795e3c1.avif",
+      "bytes": 1920
+    },
+    {
+      "image": "kee-043",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-043-thumb-c13fc70112.webp",
+      "bytes": 3716
+    },
+    {
+      "image": "kee-043",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-043-full-c9842be61d.avif",
+      "bytes": 10131
+    },
+    {
+      "image": "kee-043",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-043-full-943b78b372.webp",
+      "bytes": 18860
+    },
+    {
+      "image": "kee-044",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-044-thumb-47f730e17d.avif",
+      "bytes": 1708
+    },
+    {
+      "image": "kee-044",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-044-thumb-eb703adcaa.webp",
+      "bytes": 3484
+    },
+    {
+      "image": "kee-044",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-044-full-963ab493c2.avif",
+      "bytes": 10578
+    },
+    {
+      "image": "kee-044",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-044-full-2f6c84c4de.webp",
+      "bytes": 21386
+    },
+    {
+      "image": "kee-045",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-045-thumb-756b324434.avif",
+      "bytes": 1824
+    },
+    {
+      "image": "kee-045",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-045-thumb-75edd1e909.webp",
+      "bytes": 3578
+    },
+    {
+      "image": "kee-045",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-045-full-3200188341.avif",
+      "bytes": 10123
+    },
+    {
+      "image": "kee-045",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-045-full-4bd4d32d46.webp",
+      "bytes": 19892
+    },
+    {
+      "image": "kee-046",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-046-thumb-cc703001f7.avif",
+      "bytes": 1733
+    },
+    {
+      "image": "kee-046",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-046-thumb-444e3be925.webp",
+      "bytes": 3598
+    },
+    {
+      "image": "kee-046",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-046-full-92a7207664.avif",
+      "bytes": 11809
+    },
+    {
+      "image": "kee-046",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-046-full-ac52049641.webp",
+      "bytes": 24740
+    },
+    {
+      "image": "kee-047",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-047-thumb-a3b29577a1.avif",
+      "bytes": 1713
+    },
+    {
+      "image": "kee-047",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-047-thumb-f3f73551f6.webp",
+      "bytes": 3174
+    },
+    {
+      "image": "kee-047",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-047-full-52cba754fd.avif",
+      "bytes": 8720
+    },
+    {
+      "image": "kee-047",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-047-full-aee5fc6518.webp",
+      "bytes": 17312
+    },
+    {
+      "image": "kee-048",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-048-thumb-00f928b52a.avif",
+      "bytes": 1678
+    },
+    {
+      "image": "kee-048",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-048-thumb-7e44f65160.webp",
+      "bytes": 3050
+    },
+    {
+      "image": "kee-048",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-048-full-7e3c327f8a.avif",
+      "bytes": 11242
+    },
+    {
+      "image": "kee-048",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-048-full-5cf4e47a8a.webp",
+      "bytes": 21060
+    },
+    {
+      "image": "kee-049",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-049-thumb-92d10e323e.avif",
+      "bytes": 1885
+    },
+    {
+      "image": "kee-049",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-049-thumb-b4064a0c41.webp",
+      "bytes": 3642
+    },
+    {
+      "image": "kee-049",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-049-full-cd3ebb1cbd.avif",
+      "bytes": 15067
+    },
+    {
+      "image": "kee-049",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-049-full-48d6da8801.webp",
+      "bytes": 30768
+    },
+    {
+      "image": "kee-050",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-050-thumb-1270a1926b.avif",
+      "bytes": 1842
+    },
+    {
+      "image": "kee-050",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-050-thumb-4f67b68a3c.webp",
+      "bytes": 3856
+    },
+    {
+      "image": "kee-050",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-050-full-4b769f2391.avif",
+      "bytes": 13937
+    },
+    {
+      "image": "kee-050",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-050-full-1e1b202538.webp",
+      "bytes": 27956
+    },
+    {
+      "image": "kee-054",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-054-thumb-f6dc70d0a4.avif",
+      "bytes": 2096
+    },
+    {
+      "image": "kee-054",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-054-thumb-91c94efa88.webp",
+      "bytes": 4800
+    },
+    {
+      "image": "kee-054",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-054-full-983fce1676.avif",
+      "bytes": 11962
+    },
+    {
+      "image": "kee-054",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-054-full-7ea79b97c1.webp",
+      "bytes": 23846
+    }
+  ],
+  "settings": {
+    "thumb": {
+      "edge": 256,
+      "avifQuality": 28,
+      "webpQuality": 45
+    },
+    "full": {
+      "edge": 768,
+      "overviewEdge": 960,
+      "avifQuality": 38,
+      "webpQuality": 58
+    },
+    "avifSpeed": 4,
+    "webpMethod": 6,
+    "metadata": "EXIF en overige bronmetadata niet overgenomen"
+  },
+  "totalBytes": 2399051,
+  "avifBytes": 758799,
+  "avifFullBytes": 656649,
+  "webpBytes": 1640252,
+  "webpFullBytes": 1418794
+}

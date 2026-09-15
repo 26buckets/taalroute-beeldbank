@@ -264,3 +264,50 @@ test("publieke testversie opent app en beelden zonder account en houdt D1-select
     200,
   );
 });
+
+test("publicatie van keukenregister behoudt eerdere D1-inhoud en docentselecties", async () => {
+  const db = database();
+  db.sql
+    .prepare("INSERT INTO content_packages(id,payload) VALUES (?,?)")
+    .run("collections.json", '{"old":true}');
+  db.sql
+    .prepare(
+      "INSERT INTO lesson_selections(owner,items,revision) VALUES (?,?,?)",
+    )
+    .run("existing", JSON.stringify([image]), 7);
+  const registry = await content(db, "collections.json");
+  assert.ok(
+    registry.nodes.some(
+      (n) => n.id === "keuken-koken" && n.status === "published",
+    ),
+  );
+  assert.equal(
+    db.sql
+      .prepare("SELECT payload FROM content_packages WHERE id=?")
+      .get("collections.json").payload,
+    '{"old":true}',
+  );
+  assert.equal(
+    db.sql
+      .prepare("SELECT revision FROM lesson_selections WHERE owner=?")
+      .get("existing").revision,
+    7,
+  );
+  const items = [image, { type: "image", n: 1001, uid: 2 }];
+  assert.equal(
+    (
+      await handle(
+        req("/api/lesson", { items, revision: 0 }),
+        { DB: db },
+        async () => "new",
+      )
+    ).status,
+    200,
+  );
+  assert.deepEqual(
+    await (
+      await handle(req("/api/lesson"), { DB: db }, async () => "new")
+    ).json(),
+    { items, revision: 1 },
+  );
+});

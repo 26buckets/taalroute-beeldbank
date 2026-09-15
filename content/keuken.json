@@ -1,0 +1,1229 @@
+{
+  "collection": {
+    "id": "keuken-koken",
+    "title": "Keuken & koken",
+    "source": "https://drive.google.com/drive/folders/1XzzfCRMAVCDhowPeSxJrkXA3GnRSKceg",
+    "imageCount": 51,
+    "independentImages": 50,
+    "sequences": 1
+  },
+  "assets": [
+    {
+      "id": "kee-001",
+      "n": 1001,
+      "sourceNumber": 1,
+      "title": "Het bord",
+      "description": "Een wit bord ligt op een houten tafel.",
+      "words": [
+        "het bord",
+        "de tafel",
+        "eten"
+      ],
+      "uses": [
+        "benoemen",
+        "tafel dekken",
+        "eten"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1s7M_oFc1Zz6TrTjx7KFFV4cXEWid13Rz/view?usp=drivesdk",
+      "sourceName": "WB_KEE_001_bord_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-002",
+      "n": 1002,
+      "sourceNumber": 2,
+      "title": "De kom",
+      "description": "Een witte kom staat op een houten tafel.",
+      "words": [
+        "de kom",
+        "de tafel",
+        "soep"
+      ],
+      "uses": [
+        "benoemen",
+        "servies",
+        "eten"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1H1kXiIwCB0VwfB2g7aJ5e2qT0o2kDLmC/view?usp=drivesdk",
+      "sourceName": "WB_KEE_002_kom_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-003",
+      "n": 1003,
+      "sourceNumber": 3,
+      "title": "Het glas",
+      "description": "Een leeg doorzichtig glas staat op een houten tafel.",
+      "words": [
+        "het glas",
+        "het water",
+        "drinken"
+      ],
+      "uses": [
+        "benoemen",
+        "drinken",
+        "tafel dekken"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1mYzXGi-19-Ws1gpovk9clKYEoftyd0vS/view?usp=drivesdk",
+      "sourceName": "WB_KEE_003_glas_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-004",
+      "n": 1004,
+      "sourceNumber": 4,
+      "title": "De mok",
+      "description": "Een witte mok met een oor staat op een houten tafel.",
+      "words": [
+        "de mok",
+        "het oor",
+        "de koffie",
+        "de thee"
+      ],
+      "uses": [
+        "benoemen",
+        "drinken",
+        "ontbijten"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "source": "https://drive.google.com/file/d/10ps6F54JwVUW43MkSQ72TOBYpWqjQwrf/view?usp=drivesdk",
+      "sourceName": "WB_KEE_004_mok_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-005",
+      "n": 1005,
+      "sourceNumber": 5,
+      "title": "De lepel",
+      "description": "Een metalen lepel ligt op een houten tafel.",
+      "words": [
+        "de lepel",
+        "het bestek",
+        "de soep"
+      ],
+      "uses": [
+        "benoemen",
+        "eten",
+        "tafel dekken"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "source": "https://drive.google.com/file/d/12gl3yxeyTZsgPh25_LTEhkFdIHd1iL7I/view?usp=drivesdk",
+      "sourceName": "WB_KEE_005_lepel_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-006",
+      "n": 1006,
+      "sourceNumber": 6,
+      "title": "De vork",
+      "description": "Een metalen vork ligt op een houten tafel.",
+      "words": [
+        "de vork",
+        "het bestek",
+        "eten"
+      ],
+      "uses": [
+        "benoemen",
+        "tafel dekken",
+        "eten"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1UbNyyR4HWAWLH68LSS3Ue9ggcm_4mSkE/view?usp=drivesdk",
+      "sourceName": "WB_KEE_006_vork_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-007",
+      "n": 1007,
+      "sourceNumber": 7,
+      "title": "Het mes",
+      "description": "Een tafelmes ligt op een houten tafel.",
+      "words": [
+        "het mes",
+        "het bestek",
+        "smeren",
+        "snijden"
+      ],
+      "uses": [
+        "benoemen",
+        "tafel dekken",
+        "brood smeren"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1X6d5Ui4LfRW8Hm-ixWeU921CjrWRXyTt/view?usp=drivesdk",
+      "sourceName": "WB_KEE_007_mes_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-008",
+      "n": 1008,
+      "sourceNumber": 8,
+      "title": "De snijplank",
+      "description": "Een houten snijplank ligt op een houten tafel.",
+      "words": [
+        "de snijplank",
+        "het hout",
+        "snijden"
+      ],
+      "uses": [
+        "benoemen",
+        "eten voorbereiden",
+        "keukengerei"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1gdCdpoHz0w8fFZ-mo3RNxIGzu0DdHNDM/view?usp=drivesdk",
+      "sourceName": "WB_KEE_008_snijplank_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-009",
+      "n": 1009,
+      "sourceNumber": 9,
+      "title": "De pan",
+      "description": "Een lege metalen pan met twee handvatten staat op een houten tafel.",
+      "words": [
+        "de pan",
+        "het handvat",
+        "koken"
+      ],
+      "uses": [
+        "benoemen",
+        "koken",
+        "keukengerei"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1lUFJqDNGNzwCe5c-mgHU5v2dw0TYsJyS/view?usp=drivesdk",
+      "sourceName": "WB_KEE_009_pan_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-010",
+      "n": 1010,
+      "sourceNumber": 10,
+      "title": "De koekenpan",
+      "description": "Een zwarte koekenpan met een lange steel staat op een houten tafel.",
+      "words": [
+        "de koekenpan",
+        "de steel",
+        "bakken"
+      ],
+      "uses": [
+        "benoemen",
+        "bakken",
+        "keukengerei"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1wa3W5EVjDix8pCOO_4PP3FHVgXsER36S/view?usp=drivesdk",
+      "sourceName": "WB_KEE_010_koekenpan_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-011",
+      "n": 1011,
+      "sourceNumber": 11,
+      "title": "Het vergiet",
+      "description": "Een metalen vergiet met gaatjes en twee handvatten staat op een houten tafel.",
+      "words": [
+        "het vergiet",
+        "het gaatje",
+        "afgieten"
+      ],
+      "uses": [
+        "benoemen",
+        "pasta koken",
+        "groente wassen"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1IM6_l8fRh4M9gptMSpUmvl7f8jXiYOtI/view?usp=drivesdk",
+      "sourceName": "WB_KEE_011_vergiet_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-012",
+      "n": 1012,
+      "sourceNumber": 12,
+      "title": "De waterkoker",
+      "description": "Een metalen waterkoker met een zwart handvat staat op het aanrecht.",
+      "words": [
+        "de waterkoker",
+        "het handvat",
+        "het aanrecht",
+        "water koken"
+      ],
+      "uses": [
+        "benoemen",
+        "thee zetten",
+        "keukenapparaten"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1sXL8tQxFLCM0h_ywxc00eGwpJktkwV2G/view?usp=drivesdk",
+      "sourceName": "WB_KEE_012_waterkoker_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-013",
+      "n": 1013,
+      "sourceNumber": 13,
+      "title": "Het koffiezetapparaat",
+      "description": "Een zwart koffiezetapparaat met een glazen koffiekan staat op het aanrecht.",
+      "words": [
+        "het koffiezetapparaat",
+        "de koffiekan",
+        "het aanrecht",
+        "koffie zetten"
+      ],
+      "uses": [
+        "benoemen",
+        "koffie zetten",
+        "ontbijten"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1Sx_Bo5DcpDztk4tUFcJBl6pMUMUeKaj9/view?usp=drivesdk",
+      "sourceName": "WB_KEE_013_koffiezetapparaat_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-014",
+      "n": 1014,
+      "sourceNumber": 14,
+      "title": "De broodrooster",
+      "description": "Een metalen broodrooster met twee sleuven staat op het aanrecht.",
+      "words": [
+        "de broodrooster",
+        "het brood",
+        "roosteren"
+      ],
+      "uses": [
+        "benoemen",
+        "ontbijten",
+        "keukenapparaten"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1c8am-yFfMvOYZvdmVuc_hzkpOuzaKtj0/view?usp=drivesdk",
+      "sourceName": "WB_KEE_014_broodrooster_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-015",
+      "n": 1015,
+      "sourceNumber": 15,
+      "title": "De koelkast",
+      "description": "Een hoge zilverkleurige koelkast staat in een keuken.",
+      "words": [
+        "de koelkast",
+        "de deur",
+        "koel",
+        "bewaren"
+      ],
+      "uses": [
+        "benoemen",
+        "eten bewaren",
+        "keukenapparaten"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1ZoHP1YswgDDK90s4oIf8szi5H5myDNad/view?usp=drivesdk",
+      "sourceName": "WB_KEE_015_koelkast_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-016",
+      "n": 1016,
+      "sourceNumber": 16,
+      "title": "De oven",
+      "description": "Een ingebouwde oven met een glazen deur staat onder het aanrecht.",
+      "words": [
+        "de oven",
+        "de ovendeur",
+        "het aanrecht",
+        "bakken"
+      ],
+      "uses": [
+        "benoemen",
+        "bakken",
+        "keukenapparaten"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "source": "https://drive.google.com/file/d/15YjTz5eJPWbu8_UV3YG0CdI68scYUpJm/view?usp=drivesdk",
+      "sourceName": "WB_KEE_016_oven_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-017",
+      "n": 1017,
+      "sourceNumber": 17,
+      "title": "De magnetron",
+      "description": "Een magnetron met een glazen deur en knoppen staat op het aanrecht.",
+      "words": [
+        "de magnetron",
+        "de knop",
+        "opwarmen"
+      ],
+      "uses": [
+        "benoemen",
+        "eten opwarmen",
+        "keukenapparaten"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1EIdiGcrqeaGzHKiXNC0b-h6gZYvL7svv/view?usp=drivesdk",
+      "sourceName": "WB_KEE_017_magnetron_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-018",
+      "n": 1018,
+      "sourceNumber": 18,
+      "title": "De keukenkast",
+      "description": "Een witte keukenkast met twee deuren hangt boven het aanrecht.",
+      "words": [
+        "de keukenkast",
+        "de kastdeur",
+        "het aanrecht",
+        "boven"
+      ],
+      "uses": [
+        "benoemen",
+        "opbergen",
+        "plaats beschrijven"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1Od51Pzdm-4k7yQ5SNsA4ILWSIc5BIjzA/view?usp=drivesdk",
+      "sourceName": "WB_KEE_018_keukenkast_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-019",
+      "n": 1019,
+      "sourceNumber": 19,
+      "title": "De gootsteen",
+      "description": "Een metalen gootsteen met een kraan is ingebouwd in een houten aanrecht.",
+      "words": [
+        "de gootsteen",
+        "de kraan",
+        "het aanrecht",
+        "afwassen"
+      ],
+      "uses": [
+        "benoemen",
+        "afwassen",
+        "groente wassen"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1AZ642zLZAWsP6us_X5KiAOUyWePuaRUU/view?usp=drivesdk",
+      "sourceName": "WB_KEE_019_gootsteen_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-020",
+      "n": 1020,
+      "sourceNumber": 20,
+      "title": "De keukenkraan",
+      "description": "Een gebogen metalen kraan staat boven de gootsteen.",
+      "words": [
+        "de keukenkraan",
+        "de kraan",
+        "de gootsteen",
+        "het water"
+      ],
+      "uses": [
+        "benoemen",
+        "water gebruiken",
+        "plaats beschrijven"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1UFpgYY0Jw5H4KEKjcym7mJNuoQ29fZnS/view?usp=drivesdk",
+      "sourceName": "WB_KEE_020_keukenkraan_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-021",
+      "n": 1021,
+      "sourceNumber": 21,
+      "title": "Groente snijden",
+      "description": "Een vrouw snijdt rode paprika op een houten snijplank.",
+      "words": [
+        "de paprika",
+        "het mes",
+        "de snijplank",
+        "groente snijden"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "koken",
+        "volgorde vertellen"
+      ],
+      "type": "ACT",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1TqoQQPcYdqbmHU8UKjqH4NYWbIuOOzNW/view?usp=drivesdk",
+      "sourceName": "WB_KEE_021_groente_snijden_ACT_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-022",
+      "n": 1022,
+      "sourceNumber": 22,
+      "title": "Roeren",
+      "description": "Een vrouw roert met een houten lepel in een pan met rode saus op de kookplaat.",
+      "words": [
+        "de pan",
+        "de saus",
+        "de lepel",
+        "roeren"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "koken",
+        "instructies geven"
+      ],
+      "type": "ACT",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1UjZHmMIN6Qqge7T0lHlxRbAFfS4CfDRH/view?usp=drivesdk",
+      "sourceName": "WB_KEE_022_roeren_ACT_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-023",
+      "n": 1023,
+      "sourceNumber": 23,
+      "title": "Pasta afgieten",
+      "description": "Een vrouw giet pasta uit een pan in een vergiet in de gootsteen. Ze houdt de pan vast met doeken.",
+      "words": [
+        "de pasta",
+        "de pan",
+        "het vergiet",
+        "de gootsteen",
+        "afgieten"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "pasta koken",
+        "volgorde vertellen"
+      ],
+      "type": "ACT",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1amGzuWaT1wblhpTOiDD8rROzFNe8oR3v/view?usp=drivesdk",
+      "sourceName": "WB_KEE_023_pasta_afgieten_ACT_v02.png",
+      "version": 2
+    },
+    {
+      "id": "kee-024",
+      "n": 1024,
+      "sourceNumber": 24,
+      "title": "Water inschenken",
+      "description": "Een vrouw schenkt water uit een glazen kan in een glas op tafel.",
+      "words": [
+        "de kan",
+        "het glas",
+        "het water",
+        "inschenken"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "drinken",
+        "tafel dekken"
+      ],
+      "type": "ACT",
+      "note": "",
+      "source": "https://drive.google.com/file/d/17h_ReeAeh23wbkV-Bt0P1Irl6C0wkWxn/view?usp=drivesdk",
+      "sourceName": "WB_KEE_024_water_inschenken_ACT_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-025",
+      "n": 1025,
+      "sourceNumber": 25,
+      "title": "Eten opscheppen",
+      "description": "Een vrouw schept met een lepel eten uit een pan op een bord.",
+      "words": [
+        "de pan",
+        "de lepel",
+        "het bord",
+        "opscheppen"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "eten",
+        "volgorde vertellen"
+      ],
+      "type": "ACT",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1yB0XE7Lhxg5tF19woFwq0KTq5wu5RfMg/view?usp=drivesdk",
+      "sourceName": "WB_KEE_025_eten_opscheppen_ACT_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-026",
+      "n": 1026,
+      "sourceNumber": 26,
+      "title": "Brood smeren",
+      "description": "Een vrouw smeert met een mes boter op een boterham op een bord.",
+      "words": [
+        "het brood",
+        "de boterham",
+        "de boter",
+        "het mes",
+        "smeren"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "ontbijten",
+        "instructies geven"
+      ],
+      "type": "ACT",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1Oje1YJQ40ZS3XU9azHqxXdXh1kvzIUBX/view?usp=drivesdk",
+      "sourceName": "WB_KEE_026_brood_smeren_ACT_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-027",
+      "n": 1027,
+      "sourceNumber": 27,
+      "title": "Afwassen",
+      "description": "Een vrouw wast een wit bord met een spons bij de gootsteen.",
+      "words": [
+        "het bord",
+        "de spons",
+        "de gootsteen",
+        "afwassen"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "schoonmaken",
+        "instructies geven"
+      ],
+      "type": "ACT",
+      "note": "",
+      "source": "https://drive.google.com/file/d/102DIK256XNue8NHIBuAtesUYwyYCsjRb/view?usp=drivesdk",
+      "sourceName": "WB_KEE_027_afwassen_ACT_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-028",
+      "n": 1028,
+      "sourceNumber": 28,
+      "title": "De koelkast openen",
+      "description": "Een vrouw houdt de deur van de koelkast open en kijkt naar binnen.",
+      "words": [
+        "de koelkast",
+        "de deur",
+        "openen",
+        "kijken"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "eten bewaren",
+        "dagelijkse routines"
+      ],
+      "type": "ACT",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1cW_-2269Ofd-AXwkZgnwvPCr92w8KZHD/view?usp=drivesdk",
+      "sourceName": "WB_KEE_028_koelkast_openen_ACT_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-029",
+      "n": 1029,
+      "sourceNumber": 29,
+      "title": "De waterkoker aanzetten",
+      "description": "Een vrouw drukt op de schakelaar van een waterkoker op het aanrecht.",
+      "words": [
+        "de waterkoker",
+        "de schakelaar",
+        "aanzetten",
+        "water koken"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "thee zetten",
+        "instructies geven"
+      ],
+      "type": "ACT",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1MNYTtj0Rf-he1hcp56Ob-bXFuHpWAQcQ/view?usp=drivesdk",
+      "sourceName": "WB_KEE_029_water_koken_ACT_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-030",
+      "n": 1030,
+      "sourceNumber": 30,
+      "title": "Koffie inschenken",
+      "description": "Een vrouw schenkt koffie uit een glazen koffiekan in een witte mok.",
+      "words": [
+        "de koffie",
+        "de koffiekan",
+        "de mok",
+        "inschenken"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "koffie zetten",
+        "ontbijten"
+      ],
+      "type": "ACT",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1KcS4Bu0B4MA8_abxYh-_CVhGMA9CwZFD/view?usp=drivesdk",
+      "sourceName": "WB_KEE_030_koffie_inschenken_ACT_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-031",
+      "n": 1031,
+      "sourceNumber": 31,
+      "title": "Brood roosteren",
+      "description": "Een vrouw bedient een broodrooster waarin twee sneetjes brood zitten.",
+      "words": [
+        "de broodrooster",
+        "het brood",
+        "roosteren"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "ontbijten",
+        "instructies geven"
+      ],
+      "type": "ACT",
+      "note": "",
+      "source": "https://drive.google.com/file/d/18YKl9QDU2ANTBSnzZXBGxFDq1ZmWOFcb/view?usp=drivesdk",
+      "sourceName": "WB_KEE_031_brood_roosteren_ACT_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-032",
+      "n": 1032,
+      "sourceNumber": 32,
+      "title": "Groente wassen",
+      "description": "Een vrouw houdt een rode paprika onder de stromende kraan boven de gootsteen.",
+      "words": [
+        "de paprika",
+        "de groente",
+        "de kraan",
+        "wassen"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "koken",
+        "volgorde vertellen"
+      ],
+      "type": "ACT",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1BU_N4J5BcwEHTC2MWqRCRu6X9F9tS1J1/view?usp=drivesdk",
+      "sourceName": "WB_KEE_032_groente_wassen_ACT_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-033",
+      "n": 1033,
+      "sourceNumber": 33,
+      "title": "De oven openen",
+      "description": "Een vrouw houdt de deur van een oven open.",
+      "words": [
+        "de oven",
+        "de ovendeur",
+        "openen"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "bakken",
+        "keukenapparaten"
+      ],
+      "type": "ACT",
+      "note": "",
+      "source": "https://drive.google.com/file/d/10o5f1pSGubQ4nrb2tijGM2BEeVg7kY5A/view?usp=drivesdk",
+      "sourceName": "WB_KEE_033_oven_openen_ACT_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-034",
+      "n": 1034,
+      "sourceNumber": 34,
+      "title": "Bakken in een koekenpan",
+      "description": "Een vrouw schept groente om met een houten spatel in een koekenpan op de kookplaat.",
+      "words": [
+        "de koekenpan",
+        "de groente",
+        "de spatel",
+        "bakken",
+        "omscheppen"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "koken",
+        "volgorde vertellen"
+      ],
+      "type": "ACT",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1KRVy2aRXV0F19K4ID3GDilZPZTM7A6LP/view?usp=drivesdk",
+      "sourceName": "WB_KEE_034_bakken_in_koekenpan_ACT_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-035",
+      "n": 1035,
+      "sourceNumber": 35,
+      "title": "Het bord op de tafel",
+      "description": "Een wit bord ligt op een houten eettafel.",
+      "words": [
+        "het bord",
+        "de tafel",
+        "op"
+      ],
+      "uses": [
+        "plaats beschrijven",
+        "tafel dekken",
+        "voorzetsels"
+      ],
+      "type": "REL",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1Q4ruLiX_ZIgtzagVWlNtMABSYD0AObW0/view?usp=drivesdk",
+      "sourceName": "WB_KEE_035_bord_op_tafel_REL_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-036",
+      "n": 1036,
+      "sourceNumber": 36,
+      "title": "Het glas naast het bord",
+      "description": "Een glas staat naast een wit bord op tafel.",
+      "words": [
+        "het glas",
+        "het bord",
+        "naast"
+      ],
+      "uses": [
+        "plaats beschrijven",
+        "tafel dekken",
+        "voorzetsels"
+      ],
+      "type": "REL",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1Q0EyBM5V3J2YRZ0cGDv7I4vcingjmzRy/view?usp=drivesdk",
+      "sourceName": "WB_KEE_036_glas_naast_bord_REL_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-037",
+      "n": 1037,
+      "sourceNumber": 37,
+      "title": "De pan op de kookplaat",
+      "description": "Een pan met een deksel staat op een zwarte kookplaat.",
+      "words": [
+        "de pan",
+        "het deksel",
+        "de kookplaat",
+        "het fornuis",
+        "op"
+      ],
+      "uses": [
+        "plaats beschrijven",
+        "koken",
+        "voorzetsels"
+      ],
+      "type": "REL",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1WYFmuY-sII8feval-F69jxHEeRUUlVDt/view?usp=drivesdk",
+      "sourceName": "WB_KEE_037_pan_op_fornuis_REL_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-038",
+      "n": 1038,
+      "sourceNumber": 38,
+      "title": "De mok voor het koffiezetapparaat",
+      "description": "Een witte mok staat voor een koffiezetapparaat op het aanrecht.",
+      "words": [
+        "de mok",
+        "het koffiezetapparaat",
+        "voor"
+      ],
+      "uses": [
+        "plaats beschrijven",
+        "koffie zetten",
+        "voorzetsels"
+      ],
+      "type": "REL",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1TxcUscVzMLz9jI5LVdeQU7qyR4RL2qAH/view?usp=drivesdk",
+      "sourceName": "WB_KEE_038_mok_voor_koffiezetapparaat_REL_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-039",
+      "n": 1039,
+      "sourceNumber": 39,
+      "title": "Het mes op de snijplank",
+      "description": "Een keukenmes ligt op een houten snijplank op het aanrecht.",
+      "words": [
+        "het mes",
+        "de snijplank",
+        "op",
+        "onder"
+      ],
+      "uses": [
+        "plaats beschrijven",
+        "koken",
+        "voorzetsels"
+      ],
+      "type": "REL",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1Akr2tWJpQT6KySyayWf0tErHmHv5OinY/view?usp=drivesdk",
+      "sourceName": "WB_KEE_039_snijplank_onder_mes_REL_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-040",
+      "n": 1040,
+      "sourceNumber": 40,
+      "title": "De kom in de keukenkast",
+      "description": "Een blauwe kom staat in een open witte keukenkast. Op andere planken staan borden, kommen en mokken.",
+      "words": [
+        "de kom",
+        "de keukenkast",
+        "de plank",
+        "in"
+      ],
+      "uses": [
+        "plaats beschrijven",
+        "opruimen",
+        "voorzetsels"
+      ],
+      "type": "REL",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1ja9Qnt580tWirQpywC4gBHquxuXvdCGK/view?usp=drivesdk",
+      "sourceName": "WB_KEE_040_kom_in_keukenkast_REL_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-041",
+      "n": 1041,
+      "sourceNumber": 41,
+      "title": "Het bord tussen de vork en het mes",
+      "description": "Een wit bord ligt tussen een vork links en een mes rechts op een houten tafel.",
+      "words": [
+        "het bord",
+        "de vork",
+        "het mes",
+        "tussen",
+        "links",
+        "rechts"
+      ],
+      "uses": [
+        "plaats beschrijven",
+        "tafel dekken",
+        "voorzetsels"
+      ],
+      "type": "REL",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1fU3e43Fsy10YTcJhRF7K168fnCXlp9-p/view?usp=drivesdk",
+      "sourceName": "WB_KEE_041_bord_tussen_mes_en_vork_REL_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-042",
+      "n": 1042,
+      "sourceNumber": 42,
+      "title": "De waterkoker achter de mok",
+      "description": "Een waterkoker staat achter een witte mok op het aanrecht.",
+      "words": [
+        "de waterkoker",
+        "de mok",
+        "achter",
+        "voor"
+      ],
+      "uses": [
+        "plaats beschrijven",
+        "thee zetten",
+        "voorzetsels"
+      ],
+      "type": "REL",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1_wuEixLc_dMRCf5zswXfWBKv4s7qf_Fc/view?usp=drivesdk",
+      "sourceName": "WB_KEE_042_waterkoker_achter_mok_REL_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-043",
+      "n": 1043,
+      "sourceNumber": 43,
+      "title": "Het bord onder de hanglamp",
+      "description": "Een bord ligt op een houten tafel onder een brandende hanglamp.",
+      "words": [
+        "het bord",
+        "de tafel",
+        "de hanglamp",
+        "onder",
+        "boven"
+      ],
+      "uses": [
+        "plaats beschrijven",
+        "tafel dekken",
+        "voorzetsels"
+      ],
+      "type": "REL",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1kXP8f0uT92uj-s7XkoSC6ocByt7h-Fl8/view?usp=drivesdk",
+      "sourceName": "WB_KEE_043_bord_onder_hanglamp_REL_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-044",
+      "n": 1044,
+      "sourceNumber": 44,
+      "title": "Het glas links van het bord",
+      "description": "Een glas staat links van een wit bord op een houten tafel.",
+      "words": [
+        "het glas",
+        "het bord",
+        "links van"
+      ],
+      "uses": [
+        "plaats beschrijven",
+        "tafel dekken",
+        "links en rechts"
+      ],
+      "type": "REL",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1gqVoWj_mviBQ3yurlo7k9CgH4opMkY0s/view?usp=drivesdk",
+      "sourceName": "WB_KEE_044_glas_links_van_bord_REL_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-045",
+      "n": 1045,
+      "sourceNumber": 45,
+      "title": "De mok rechts van het bord",
+      "description": "Een blauwe mok staat rechts van een wit bord op een houten tafel.",
+      "words": [
+        "de mok",
+        "het bord",
+        "rechts van"
+      ],
+      "uses": [
+        "plaats beschrijven",
+        "tafel dekken",
+        "links en rechts"
+      ],
+      "type": "REL",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1hoPsQP0oqaRKyApvmK06Iqzf1lCAExIo/view?usp=drivesdk",
+      "sourceName": "WB_KEE_045_mok_rechts_van_bord_REL_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-046",
+      "n": 1046,
+      "sourceNumber": 46,
+      "title": "De lepel voor de kom",
+      "description": "Een metalen lepel ligt voor een witte kom op tafel.",
+      "words": [
+        "de lepel",
+        "de kom",
+        "voor"
+      ],
+      "uses": [
+        "plaats beschrijven",
+        "tafel dekken",
+        "voorzetsels"
+      ],
+      "type": "REL",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1Qm7DuqU_IMv86plVBDwDiPl0c2huSEZ8/view?usp=drivesdk",
+      "sourceName": "WB_KEE_046_lepel_voor_kom_REL_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-047",
+      "n": 1047,
+      "sourceNumber": 47,
+      "title": "De koelkast naast het aanrecht",
+      "description": "Een hoge koelkast staat links naast het aanrecht in een witte keuken.",
+      "words": [
+        "de koelkast",
+        "het aanrecht",
+        "de keukenkast",
+        "naast",
+        "links"
+      ],
+      "uses": [
+        "plaats beschrijven",
+        "wonen",
+        "voorzetsels"
+      ],
+      "type": "REL",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1qwkjqc8rAqcwHbO4AVEoBYveysnZETuh/view?usp=drivesdk",
+      "sourceName": "WB_KEE_047_koelkast_naast_aanrecht_REL_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-048",
+      "n": 1048,
+      "sourceNumber": 48,
+      "title": "De keuken · overzicht",
+      "description": "Een keuken met witte kasten, een houten aanrecht, een koelkast, een gootsteen en een kookplaat met een oven. Op het aanrecht staan onder meer een waterkoker en een koffiezetapparaat.",
+      "words": [
+        "de keuken",
+        "de koelkast",
+        "het aanrecht",
+        "de gootsteen",
+        "de keukenkast",
+        "de oven",
+        "de kookplaat"
+      ],
+      "uses": [
+        "overzicht beschrijven",
+        "keukeninrichting",
+        "plaats beschrijven"
+      ],
+      "type": "OVZ",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1OD6S3t3m85D3imULOZ4BIOK1_oRO_YjZ/view?usp=drivesdk",
+      "sourceName": "WB_KEE_048_keukenoverzicht_plaatsrelaties_OVZ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-049",
+      "n": 1049,
+      "sourceNumber": 49,
+      "title": "De gedekte tafel · overzicht",
+      "description": "Op een houten tafel staan een bord, bestek, een mok, een kom, een glas, een kan water en een mandje brood.",
+      "words": [
+        "de tafel",
+        "het bord",
+        "het bestek",
+        "de mok",
+        "de kom",
+        "het glas",
+        "de kan",
+        "het brood"
+      ],
+      "uses": [
+        "overzicht beschrijven",
+        "tafel dekken",
+        "eten en drinken"
+      ],
+      "type": "OVZ",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1hq3IFxc6WaWsYmN3x18PDDsg9Ldl4hSN/view?usp=drivesdk",
+      "sourceName": "WB_KEE_049_tafeloverzicht_maaltijd_OVZ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-050",
+      "n": 1050,
+      "sourceNumber": 50,
+      "title": "De keuken · opruimen",
+      "description": "In een witte keuken staan een keukenkast en een besteklade open. Servies staat in de kast en bestek ligt in de lade.",
+      "words": [
+        "de keukenkast",
+        "de lade",
+        "het servies",
+        "het bestek",
+        "opruimen"
+      ],
+      "uses": [
+        "overzicht beschrijven",
+        "opruimen",
+        "plaats beschrijven"
+      ],
+      "type": "OVZ",
+      "note": "",
+      "source": "https://drive.google.com/file/d/107RRRiBnPgoQPJp7XmusHUtoLX_qQBrQ/view?usp=drivesdk",
+      "sourceName": "WB_KEE_050_keukenoverzicht_opruimen_OVZ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-054",
+      "n": 1054,
+      "sourceNumber": 54,
+      "title": "Groente op een bord scheppen",
+      "description": "Een vrouw schept gebakken groente uit een koekenpan op een wit bord op het aanrecht.",
+      "words": [
+        "de groente",
+        "de koekenpan",
+        "het bord",
+        "de spatel",
+        "opscheppen"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "koken",
+        "volgorde vertellen"
+      ],
+      "type": "REE",
+      "note": "",
+      "source": "https://drive.google.com/file/d/1x1wtGUJ9KIernom1ANK3u2Oq-alIHSUD/view?usp=drivesdk",
+      "sourceName": "WB_KEE_054_groente_bereiden_stap_04_REE_v01.png",
+      "version": 1
+    }
+  ],
+  "sequences": [
+    {
+      "id": "seq-keuken-groente",
+      "title": "Groente bereiden",
+      "pronoun": "Zij",
+      "steps": [
+        1032,
+        1021,
+        1034,
+        1054
+      ],
+      "verbs": [
+        "wast de paprika",
+        "snijdt de paprika",
+        "bakt de groente",
+        "schept de groente op een bord"
+      ],
+      "instruction": [
+        "Je moet de paprika wassen.",
+        "Je moet de paprika snijden.",
+        "Je moet de groente bakken.",
+        "Je moet de groente op een bord scheppen."
+      ],
+      "past": [
+        "Ik heb de paprika gewassen.",
+        "Ik heb de paprika gesneden.",
+        "Ik heb de groente gebakken.",
+        "Ik heb de groente op een bord geschept."
+      ],
+      "order": [
+        "Eerst wast zij de paprika.",
+        "Dan snijdt zij de paprika.",
+        "Daarna bakt zij de groente.",
+        "Ten slotte schept zij de groente op een bord."
+      ],
+      "keywords": [
+        "de paprika · wassen",
+        "het mes · snijden",
+        "de koekenpan · bakken",
+        "het bord · opscheppen"
+      ],
+      "b1": "Vertel de vier handelingen in samenhang. De docent kan een tijdsvorm kiezen.",
+      "note": "Samengesteld uit drie losse handelingen en één beschikbaar reeksbeeld. Kleding en schort verschillen tussen de foto’s. Gebruik de beelden om de handelingen te ordenen."
+    }
+  ],
+  "methodLinks": []
+}

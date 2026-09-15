@@ -1,22 +1,29 @@
 import "./app-header.js";
 import { lessonStore } from "./lesson-store.js";
 import { collectionTree } from "./collection-tree.js";
+import { indexCollections } from "./collection-data.js";
 
 (async () => {
   const root = document.getElementById("tr-bathroom"),
     main = root.querySelector("#bath-main");
-  let data, registry;
+  let data, registry, library;
   try {
-    [data, registry] = await Promise.all(
-      ["badkamer.json", "collections.json"].map(async (name) => {
-        const response = await fetch(
-          new URL("../data/" + name, import.meta.url),
-        );
-        if (!response.ok)
-          throw new Error("De collecties konden niet worden geladen.");
-        return response.json();
-      }),
+    const load = async (name) => {
+      const response = await fetch(new URL("../data/" + name, import.meta.url));
+      if (!response.ok)
+        throw new Error("De collecties konden niet worden geladen.");
+      return response.json();
+    };
+    registry = await load("collections.json");
+    const packages = await Promise.all(
+      registry.nodes
+        .filter(
+          (node) => node.kind === "collection" && node.status === "published",
+        )
+        .map((node) => load(node.dataset)),
     );
+    library = indexCollections(packages);
+    data = packages[0];
   } catch (error) {
     main.innerHTML =
       '<p role="alert">De collectie kon niet worden geladen. Controleer je verbinding en probeer opnieuw.</p><button id="retry">Opnieuw laden</button>';
@@ -28,8 +35,8 @@ import { collectionTree } from "./collection-tree.js";
   }
   const tree = collectionTree(registry.nodes);
   const homeGroup = tree.get(data.collection.id).parentId;
-  const assets = new Map(data.assets.map((a) => [a.n, a])),
-    seqs = new Map(data.sequences.map((s) => [s.id, s]));
+  const assets = library.assets,
+    seqs = library.sequences;
   const modeNames = {
       nu: "Nu",
       volgorde: "Eerst–dan",
@@ -44,12 +51,12 @@ import { collectionTree } from "./collection-tree.js";
     };
   const categories = [
     ["all", "Alles"],
-    ["OBJ", "Voorwerpen · 18"],
-    ["ACT", "Handelingen · 11"],
-    ["REL", "Plaats · 7"],
-    ["OVZ", "Overzicht · 2"],
-    ["REE", "Stappen · 12"],
-    ["SEQ", "Reeksen · 3"],
+    ["OBJ", "Voorwerpen"],
+    ["ACT", "Handelingen"],
+    ["REL", "Plaats"],
+    ["OVZ", "Overzicht"],
+    ["REE", "Stappen"],
+    ["SEQ", "Reeksen"],
   ];
   const typeNames = {
     OBJ: "Voorwerp",
@@ -211,7 +218,8 @@ import { collectionTree } from "./collection-tree.js";
       );
   }
   const catalogItems = [
-    ...data.sequences.map((s, i) => ({
+    ...[...seqs.values()].map((s, i) => ({
+      collectionId: s.collectionId,
       id: s.id,
       type: "SEQ",
       title: s.title,
@@ -224,9 +232,12 @@ import { collectionTree } from "./collection-tree.js";
         ].join(" "),
       ),
     })),
-    ...data.assets.map((a) => ({
+    ...[...assets.values()].map((a) => ({
       ...a,
-      rank: a.type === "OVZ" ? a.n - 34 : a.n + 10,
+      rank:
+        a.type === "OVZ"
+          ? 100 + (a.sourceNumber ?? a.n)
+          : 1000 + (a.sourceNumber ?? a.n),
       search: norm([a.title, a.description, ...a.words, ...a.uses].join(" ")),
     })),
   ];
@@ -258,13 +269,12 @@ import { collectionTree } from "./collection-tree.js";
   }
   function collectionCounts(node) {
     const leaves = tree.leaves(node.id);
-    // The current content package contains the bathroom; other categories stay unpublished until imported.
-    const count = leaves.some((leaf) => leaf.id === data.collection.id)
-      ? data.assets.length
-      : 0;
-    const sequences = leaves.some((leaf) => leaf.id === data.collection.id)
-      ? data.sequences.length
-      : 0;
+    const packages = leaves.map((leaf) => library.collections.get(leaf.id));
+    const count = packages.reduce((sum, item) => sum + item.assets.length, 0);
+    const sequences = packages.reduce(
+      (sum, item) => sum + item.sequences.length,
+      0,
+    );
     return { count, sequences, collections: leaves.length };
   }
   function collectionCard(node) {
@@ -284,7 +294,10 @@ import { collectionTree } from "./collection-tree.js";
           (counts.collections === 1 ? " collectie · " : " collecties · ") +
           counts.count +
           " beelden"
-        : counts.count + " beelden · " + counts.sequences + " reeksen") +
+        : counts.count +
+          " beelden · " +
+          counts.sequences +
+          (counts.sequences === 1 ? " reeks" : " reeksen")) +
       '</span><span class="bath-collection-open">Bekijk collectie <span aria-hidden="true">→</span></span></span></button>'
     );
   }
@@ -337,23 +350,55 @@ import { collectionTree } from "./collection-tree.js";
       tree.children(node.id).map(collectionCard).join("") +
       "</div></section>";
   }
+  function scopedItems() {
+    const ids = new Set(
+      catalogueScope === "group"
+        ? tree.leaves(groupId).map((node) => node.id)
+        : [data.collection.id],
+    );
+    return catalogItems.filter((item) => ids.has(item.collectionId));
+  }
   function catalogue() {
     const allImages = catalogueScope === "group";
+    const node = tree.get(allImages ? groupId : data.collection.id);
+    const counts = collectionCounts(node);
+    const coverNumber = tree.get(data.collection.id).coverImageNumber;
+    const firstSequence = allImages ? null : data.sequences[0];
+    const items = scopedItems();
     main.innerHTML =
       breadcrumbs(allImages ? groupId : data.collection.id, allImages) +
       '<section class="bath-hero bath-group-hero">' +
       (allImages
         ? "<div>" + collectionCover(tree.get(groupId), "full", true) + "</div>"
-        : '<button class="bath-hero-image" data-image="37" aria-label="Open beeldkaart badkamer overzicht 1">' +
-          photo(37, undefined, "", "full", true) +
+        : '<button class="bath-hero-image" data-image="' +
+          coverNumber +
+          '" aria-label="Open beeldkaart ' +
+          esc(A(coverNumber).title) +
+          '">' +
+          photo(coverNumber, undefined, "", "full", true) +
           "</button>") +
-      '<div><span class="bath-muted">Wonen & persoonlijke verzorging</span><h1>' +
+      '<div><span class="bath-muted">' +
+      esc(
+        allImages
+          ? "Wonen & dagelijkse routines"
+          : node.subtitle || "Wonen & persoonlijke verzorging",
+      ) +
+      "</span><h1>" +
       esc(allImages ? "Alle beelden uit het huis" : data.collection.title) +
       '</h1><div class="bath-hero-counts"><span>' +
-      data.assets.length +
+      counts.count +
       " beelden</span><span>" +
-      data.sequences.length +
-      ' reeksen van 4</span></div><button class="bath-primary" data-sequence="seq-tanden">Oefen tandenpoetsen</button></div></section><section aria-label="Beelden vinden"><div class="bath-searchbar"><label class="bath-field" for="bath-search">Zoek een woord, handeling of situatie<input id="bath-search" type="search" autocomplete="off" placeholder="Bijvoorbeeld: tanden, boven of opruimen" value="' +
+      counts.sequences +
+      (counts.sequences === 1 ? " reeks van 4" : " reeksen van 4") +
+      "</span></div>" +
+      (firstSequence
+        ? '<button class="bath-primary" data-sequence="' +
+          esc(firstSequence.id) +
+          '">Oefen ' +
+          esc(firstSequence.title.toLocaleLowerCase("nl")) +
+          "</button>"
+        : "") +
+      '</div></section><section aria-label="Beelden vinden"><div class="bath-searchbar"><label class="bath-field" for="bath-search">Zoek een woord, handeling of situatie<input id="bath-search" type="search" autocomplete="off" placeholder="Bijvoorbeeld: water, boven of opruimen" value="' +
       esc(term) +
       '"></label><label class="bath-field" for="bath-sort">Sorteren<select id="bath-sort"><option value="lesson" ' +
       (sort === "lesson" ? "selected" : "") +
@@ -373,6 +418,9 @@ import { collectionTree } from "./collection-tree.js";
             (kind === k) +
             '">' +
             l +
+            (k === "all"
+              ? ""
+              : " · " + items.filter((a) => a.type === k).length) +
             "</button>",
         )
         .join("") +
@@ -381,7 +429,7 @@ import { collectionTree } from "./collection-tree.js";
   }
   function results() {
     const tokens = norm(term).trim().split(/\s+/).filter(Boolean);
-    let list = catalogItems.filter(
+    let list = scopedItems().filter(
       (a) =>
         (kind === "all" || a.type === kind) &&
         tokens.every((t) => a.search.includes(t)),
@@ -429,7 +477,7 @@ import { collectionTree } from "./collection-tree.js";
   }
   function imageCard() {
     const a = A(detail),
-      seq = data.sequences.find((s) => s.steps.includes(detail));
+      seq = [...seqs.values()].find((s) => s.steps.includes(detail));
     main.innerHTML =
       '<button id="bath-card-back" class="bath-back">Terug naar ' +
       (detailBack === "practice" ? "de reeks" : "de collectie") +
@@ -458,7 +506,7 @@ import { collectionTree } from "./collection-tree.js";
           : a.type === "REL"
             ? "Waar is het voorwerp? Vertel waar je het ziet."
             : a.type === "OVZ"
-              ? "Wat zie je in deze badkamer? Vertel waar de voorwerpen staan of hangen."
+              ? "Wat zie je op dit overzicht? Vertel waar de voorwerpen staan of hangen."
               : "Wat doet de persoon op deze foto?",
       ) +
       '</p></section></div><div class="bath-row bath-actions"><button class="bath-primary" id="bath-image-board">Toon beeld op bord</button><button id="bath-image-add">Voeg toe aan les</button>' +
@@ -784,7 +832,11 @@ import { collectionTree } from "./collection-tree.js";
         groupId = node.id;
         view = "group";
       } else {
+        data = library.collections.get(node.id);
+        groupId = node.parentId;
         catalogueScope = "collection";
+        kind = "all";
+        term = "";
         view = "catalogue";
       }
     } else if (d.kind) {
@@ -828,6 +880,10 @@ import { collectionTree } from "./collection-tree.js";
         view = "practice";
       } else {
         detail = c.n;
+        data = library.collections.get(A(c.n).collectionId);
+        catalogueScope = "collection";
+        kind = "all";
+        term = "";
         detailBack = "catalogue";
         view = "detail";
       }
@@ -974,5 +1030,14 @@ import { collectionTree } from "./collection-tree.js";
       root.querySelector("#" + id)?.focus();
     }
   });
+  const linkedCollection = tree.get(location.hash.slice(1));
+  if (
+    linkedCollection?.status === "published" &&
+    linkedCollection.kind === "collection"
+  ) {
+    data = library.collections.get(linkedCollection.id);
+    groupId = linkedCollection.parentId;
+    view = "catalogue";
+  }
   render();
 })();

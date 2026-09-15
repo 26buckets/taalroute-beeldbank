@@ -1,7 +1,9 @@
 import { readdir } from "node:fs/promises";
 import { spawn } from "node:child_process";
 const files = (await readdir("public/images", { recursive: true })).filter(
-  (f) => /\.(avif|webp)$/.test(f),
+  (f) =>
+    /\.(avif|webp)$/.test(f) &&
+    (!process.argv[2] || f.startsWith(process.argv[2] + "/")),
 );
 let done = 0;
 async function upload() {

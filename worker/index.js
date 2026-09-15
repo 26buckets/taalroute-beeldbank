@@ -1,8 +1,21 @@
 import { createRemoteJWKSet, jwtVerify } from "jose";
 import bathroom from "../public/data/badkamer.json" with { type: "json" };
+import kitchen from "../public/data/keuken.json" with { type: "json" };
 import collections from "../public/data/collections.json" with { type: "json" };
 
-const seeds = { "badkamer.json": bathroom, "collections.json": collections };
+const seeds = {
+  "badkamer.json": bathroom,
+  "keuken.json": kitchen,
+  "collections.json": collections,
+};
+// A new registry release uses its own D1 key; old packages and teacher selections remain intact.
+const packageKeys = {
+  "collections.json": "collections-20260915-keuken-v1.json",
+};
+const allContent = {
+  assets: [...bathroom.assets, ...kitchen.assets],
+  sequences: [...bathroom.sequences, ...kitchen.sequences],
+};
 const keys = new Map();
 const json = (value, status = 200, headers = {}) =>
   Response.json(value, {
@@ -43,26 +56,27 @@ export async function identity(request, env, verify = jwtVerify) {
 // Initialize only absent content packages from the versioned sources. Never overwrite an edited package.
 export async function content(db, id) {
   if (!Object.hasOwn(seeds, id)) return null;
+  const storageId = packageKeys[id] ?? id;
   let row = await db
     .prepare("SELECT payload FROM content_packages WHERE id = ?")
-    .bind(id)
+    .bind(storageId)
     .first();
   if (!row) {
     await db
       .prepare(
         "INSERT OR IGNORE INTO content_packages (id, payload) VALUES (?, ?)",
       )
-      .bind(id, JSON.stringify(seeds[id]))
+      .bind(storageId, JSON.stringify(seeds[id]))
       .run();
     row = await db
       .prepare("SELECT payload FROM content_packages WHERE id = ?")
-      .bind(id)
+      .bind(storageId)
       .first();
   }
   return JSON.parse(row.payload);
 }
 
-export function validItems(items, data = bathroom) {
+export function validItems(items, data = allContent) {
   if (!Array.isArray(items) || items.length > 200) return false;
   const seen = new Set();
   return items.every((item) => {
@@ -136,7 +150,13 @@ export async function lesson(request, db, owner) {
   } catch {
     return json({ error: "Ongeldige selectie" }, 400);
   }
-  const data = await content(db, "badkamer.json");
+  const packages = await Promise.all(
+    ["badkamer.json", "keuken.json"].map((id) => content(db, id)),
+  );
+  const data = {
+    assets: packages.flatMap((p) => p.assets),
+    sequences: packages.flatMap((p) => p.sequences),
+  };
   if (
     !Number.isSafeInteger(body?.revision) ||
     body.revision < 0 ||
