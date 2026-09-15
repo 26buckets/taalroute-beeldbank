@@ -3,10 +3,25 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "Zelfstandig badkamerprototype voor de Taalroute-beeldbank",
+  "description": "Methode-onafhankelijke Taalroute-beeldbank voor docenten",
   "scripts": {
     "start": "python3 -m http.server 8852 --bind 127.0.0.1 --directory public",
-    "test": "node --check public/assets/app.js && node --check public/assets/app-header.js && node --check public/assets/collection-tree.js && node --test tests/*.test.mjs"
+    "test": "node --check public/assets/app.js && node --check public/assets/app-header.js && node --check public/assets/collection-tree.js && node --test tests/*.test.mjs",
+    "dev": "npm run build && wrangler dev",
+    "deploy": "npm test && npm run build && wrangler deploy",
+    "upload:images": "node scripts/upload-images.mjs",
+    "db:local": "wrangler d1 migrations apply DB --local",
+    "build": "node scripts/build.mjs"
   },
-  "engines": { "node": ">=20" }
+  "engines": {
+    "node": ">=22.13"
+  },
+  "dependencies": {
+    "jose": "^6.2.12"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.1",
+    "miniflare": "^5.20260911.1-alpha",
+    "wrangler": "^4.131.2"
+  }
 }

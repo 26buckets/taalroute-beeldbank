@@ -1,4 +1,5 @@
 import "./app-header.js";
+import { lessonStore } from "./lesson-store.js";
 import { collectionTree } from "./collection-tree.js";
 
 (async () => {
@@ -122,6 +123,51 @@ import { collectionTree } from "./collection-tree.js";
     root.querySelector("#bath-live").textContent = s;
   };
 
+  const saveNotice = document.createElement("div");
+  saveNotice.className = "bath-save-notice";
+  saveNotice.hidden = true;
+  saveNotice.setAttribute("role", "alert");
+  main.before(saveNotice);
+  let store;
+  try {
+    store = await lessonStore(
+      (message) => {
+        saveNotice.replaceChildren(document.createTextNode(message + " "));
+        const retry = document.createElement("button");
+        retry.textContent = message.includes("ander venster")
+          ? "Pagina herladen"
+          : "Opnieuw opslaan";
+        retry.addEventListener("click", () =>
+          message.includes("ander venster") ? location.reload() : store.retry(),
+        );
+        saveNotice.append(retry);
+        saveNotice.hidden = false;
+      },
+      () => {
+        saveNotice.hidden = true;
+      },
+    );
+    lesson = store.items;
+    uid = Math.max(0, ...lesson.map((item) => item.uid));
+  } catch {
+    main.innerHTML =
+      '<p role="alert">Je lesselectie kon niet worden geladen. Probeer de pagina opnieuw te laden.</p><button id="retry">Opnieuw laden</button>';
+    main
+      .querySelector("#retry")
+      .addEventListener("click", () => location.reload());
+    root.querySelector("#bath-lesson").disabled = true;
+    return;
+  }
+  window.addEventListener("beforeunload", (event) => {
+    if (store.dirty()) {
+      event.preventDefault();
+      event.returnValue = "";
+    }
+  });
+  function saveLesson() {
+    store.save(lesson);
+  }
+
   function config(id) {
     return {
       type: "sequence",
@@ -140,7 +186,10 @@ import { collectionTree } from "./collection-tree.js";
   function updateEdited() {
     if (editUid !== null) {
       const i = lesson.findIndex((x) => x.uid === editUid);
-      if (i >= 0) lesson[i] = { ...clone(draft), uid: editUid };
+      if (i >= 0) {
+        lesson[i] = { ...clone(draft), uid: editUid };
+        saveLesson();
+      }
     }
   }
   function name(c) {
@@ -148,6 +197,7 @@ import { collectionTree } from "./collection-tree.js";
   }
   function add(c) {
     lesson.push({ ...clone(c), uid: ++uid });
+    saveLesson();
     announce(name(c) + " toegevoegd aan je les.");
     updateLessonCount();
   }
@@ -765,8 +815,10 @@ import { collectionTree } from "./collection-tree.js";
       const i = Number(d.itemMove),
         j = i + Number(d.delta);
       [lesson[i], lesson[j]] = [lesson[j], lesson[i]];
+      saveLesson();
     } else if (d.remove) {
       lesson = lesson.filter((x) => x.uid !== Number(d.remove));
+      saveLesson();
       announce("Lesitem verwijderd.");
     } else if (d.edit) {
       const c = lesson.find((x) => x.uid === Number(d.edit));

@@ -799,3 +799,6 @@ body {
     min-height: 44px;
   }
 }
+
+.bath-save-notice { margin: 12px auto; padding: 12px 18px; max-width: 1244px; border: 1px solid #b45309; border-radius: 8px; background: #fff7ed; color: #78350f; }
+.bath-save-notice[hidden] { display: none; }

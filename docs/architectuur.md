@@ -1,3 +1,5 @@
+> Stand 15 september 2026: de eerste Cloudflare-inrichting is uitgevoerd. Zie [cloudflare.md](cloudflare.md) voor de daadwerkelijke implementatie en de nog open uitbreidingen. Onderstaande architectuurschets bevat ook toekomstplannen.
+
 # Bouwkeuzes: gegevens, beelden en snelheid
 
 ## Eerste versie

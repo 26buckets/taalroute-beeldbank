@@ -20,7 +20,7 @@ Open daarna <http://127.0.0.1:8852>. Ook `npm start` start deze lokale server. O
 4. Voeg de reeks toe aan je les of kies **Toon op bord**.
 5. Open een beeldkaart voor de letterlijke beschrijving, woorden, gebruikssituaties en eventuele docentnotitie.
 
-Dezelfde reeks kan meerdere keren in een les voorkomen met eigen instellingen. De selectie leeft in het geheugen van de pagina en verdwijnt bij herladen. Het bordvoorbeeld is onderdeel van dezelfde pagina.
+Dezelfde reeks kan meerdere keren in een les voorkomen met eigen instellingen. Online wordt de selectie per ingelogde docent in D1 bewaard. In de losse lokale preview is de selectie tijdelijk. Het bordvoorbeeld is onderdeel van dezelfde pagina.
 
 ## Header en appkleur
 
@@ -40,9 +40,9 @@ De nieuwe huiscover voegt een AVIF van 44,1 kB en een miniatuur van 5,5 kB toe; 
 
 Dit zijn gemeten bestandsgroottes in decimale kB/MB. Er is geen absolute minimumgrootte zonder kwaliteitsgrens: de instellingen houden de afgebeelde voorwerpen en handelingen herkenbaar. De originelen blijven op Drive beschikbaar voor toekomstige grotere weergaven of drukwerk. Zie [het bestandsgrootterapport](docs/image-sizes.json).
 
-## Is een database nodig?
+## Hosting en database
 
-**Voor dit prototype niet.** De gedeelde inhoud staat in een JSON-bestand; zoeken en sorteren werken daarna lokaal. Voor de uiteindelijke schoolapp adviseren we een centrale database voor beheer, relaties, publicatiestatus en gedeelde lesselecties, gekoppeld aan de bestaande Taalroute-toegang. Foto's zelf horen in bestandsopslag, niet in databaserecords. Zie [de concrete bouwkeuzes](docs/architectuur.md).
+De online app draait op **https://beeldbank.taalroute.nl**: Cloudflare Worker, D1 voor inhoud en lesselecties, en privé R2-opslag voor afbeeldingen. Cloudflare Access schermt de app af. Zoeken en sorteren blijven lokaal in de browser. Zie [de inrichting en publicatie-instructies](docs/cloudflare.md).
 
 ## Bestanden
 
@@ -60,7 +60,7 @@ Dit zijn gemeten bestandsgroottes in decimale kB/MB. Er is geen absolute minimum
 npm test
 ```
 
-Voor de controles is Node.js 20 of nieuwer nodig; er zijn geen npm-afhankelijkheden. Beeldcompressie is optioneel en vereist Python en Pillow met AVIF/WebP:
+Voor de controles is Node.js 22.13 of nieuwer nodig. Installeer eerst de vastgelegde afhankelijkheden met `npm ci`. Beeldcompressie is optioneel en vereist Python en Pillow met AVIF/WebP:
 
 ```sh
 python3 -m pip install -r scripts/requirements-images.txt
@@ -73,6 +73,6 @@ De bronmap bevat `1.png` tot en met `50.png`, of de geregistreerde bronbestandsn
 
 Het collectieoverzicht opent met **Het huis**, met **Badkamer & verzorging** als gevulde deelcollectie. De overige ruimtes en hoofdonderwerpen staan als concept in de categorie-indeling; andere Drive-collecties zijn nog niet geïmporteerd. Zie [de indeling en het uitbreidingsadvies](docs/collectie-indeling.md). Technische proefteksten en Drive-knoppen zijn verwijderd uit de docentweergave; herkomst en ontwikkelinformatie blijven in de brongegevens en documentatie beschikbaar.
 
-Een werkend prototype, zonder productie-inlog, centrale opslag of automatische beoordeling. A2/B1 zijn oefenvoorstellen; de inhoud is nog niet als examen gevalideerd. De repository is privé. Een eventuele toekomstige website heeft afzonderlijke toegangsbeveiliging nodig; die ontstaat niet door een privérepository.
+Een eerste docentversie met toegangsbeveiliging, centrale inhoudsopslag en bewaarde lesselecties. Er is nog geen inhoudseditor of automatische beoordeling. A2/B1 zijn oefenvoorstellen; de inhoud is nog niet als examen gevalideerd. De repository is privé. De online app heeft eigen Cloudflare Access-beveiliging, los van de privérepository.
 
-De app is nog niet gehost of openbaar gepubliceerd. Er is geen externe dienst nodig om lokaal te draaien.
+De app is gehost en afgeschermd. Er is geen externe dienst nodig voor de losse lokale visuele preview.

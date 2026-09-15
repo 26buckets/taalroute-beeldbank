@@ -1,0 +1,33 @@
+{
+  "name": "taalroute-beeldbank",
+  "main": "worker/index.js",
+  "account_id": "5548b64f545259bf01dbaac8d8defd1b",
+  "compatibility_date": "2026-09-15",
+  "workers_dev": false,
+  "routes": [{ "pattern": "beeldbank.taalroute.nl", "custom_domain": true }],
+  "preview_urls": false,
+  "assets": {
+    "directory": "dist",
+    "binding": "ASSETS",
+    "run_worker_first": true,
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "taalroute-beeldbank",
+      "database_id": "1104d0e1-13cc-4ca1-b500-83128547ffc2",
+      "migrations_dir": "migrations",
+    },
+  ],
+  "r2_buckets": [
+    {
+      "binding": "IMAGES",
+      "bucket_name": "taalroute-beeldbank-images",
+      "jurisdiction": "eu",
+    },
+  ],
+  "vars": {
+    "ACCESS_TEAM_DOMAIN": "lingua-academy.cloudflareaccess.com",
+    "ACCESS_AUD": "7aae2d54d451ddd250c0389173b54863b5ed9fad5d69aa5aec5d5ea0f10e7bcd",
+  },
+}
