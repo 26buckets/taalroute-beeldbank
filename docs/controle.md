@@ -36,3 +36,13 @@ Geen claim over productiesnelheid bij duizenden beelden, volledige toegankelijkh
 - Escape sluit het menu en herstelt de focus op de menuknop. Pijl-omlaag opent het menu en focust Missies. Een klik buiten het menu sluit het menu.
 - Eén oefenreeks toegevoegd; terugkeer via Beeldbank behoudt de lesselectie en de teller toont één lesitem. Op het bord blijft de lesselectieknop verborgen en is de header 60 px hoog.
 - Petrol op de lichte header heeft contrast 6,09:1; de lichte petrolvariant op de donkere header 6,81:1. Dit is een controle van de toegepaste kleurcombinaties, geen volledige toegankelijkheidsaudit.
+
+## Complete collectie en docentweergave — 15 september 2026
+
+- De startpagina toont Collecties met een werkende tegel voor Badkamer & verzorging; teruggaan via Alle collecties is gecontroleerd.
+- In Chrome zijn 53 kaarten geteld: 50 unieke beeldkaarten en drie oefenreeksen. Alle twaalf afzonderlijke stappen zijn opgenomen. Geen paginaknoppen aanwezig.
+- Alle 62 miniatuurplaatsen in het raster gebruiken `loading="lazy"`; een reekskaart bevat vier miniaturen.
+- Zoekterm haren met filter Handelingen en sortering A–Z geeft Haren afdrogen, Haren kammen en Haren wassen.
+- Geen Drive-links of footer in de collectie-UI. De beeldkaart is ook visueel gecontroleerd zonder bronknop.
+- Geen waarschuwingen of fouten in de browserconsole tijdens de controle.
+- Alle vier bestaande inhouds- en afbeeldingscontroles en beide JavaScript-syntaxcontroles slagen.

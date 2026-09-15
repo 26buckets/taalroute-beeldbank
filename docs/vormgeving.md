@@ -25,7 +25,7 @@ Het headerlogo is 5261 bytes en de driehoek als favicon 214 bytes. Eén extra SV
 
 ## Bediening en kleine schermen
 
-De appnaam Beeldbank is een knop terug naar de collectie, zonder pagina-herlaadactie. Lesitems, zoekterm en sorteerkeuze blijven in het geheugen. Toetsenbordfocus komt na de terugkeer op de collectietitel.
+De appnaam Beeldbank is een knop terug naar alle collecties, zonder pagina-herlaadactie. Lesitems, zoekterm en sorteerkeuze blijven in het geheugen. Toetsenbordfocus komt na de terugkeer op de titel van het geopende overzicht.
 
 Op schermen tot 600 px gebruikt de header 8 px zijruimte en een woordmerk van 146 px, zoals de compacte Spreektijd-header. De lesselectie krijgt een compacte knop met pictogram en teller. De toegankelijke knopnaam noemt het aantal lesitems ook als het tekstlabel verborgen is. De header blijft 60 px hoog. Op het bord is de lesselectieknop verborgen, zoals in het bestaande prototype.
 
@@ -39,3 +39,11 @@ Het logo en de pijl openen het appmenu. De vier links en merkkleuren zijn rechts
 - Spreektijd: `https://spreektijd.taalroute.nl/02_digitaal/`
 
 De links openen in een nieuw tabblad, zodat de tijdelijke lesselectie behouden blijft. Dit wordt ook in de toegankelijke linknamen vermeld. Het menu werkt met muis, aanraking en toetsenbord: Enter/Spatie schakelt het menu, pijl-omlaag opent de eerste link, Tab doorloopt de links, Escape sluit en geeft de focus terug. Buiten klikken of de focus buiten het menu verplaatsen sluit het menu ook. De menubediening staat los van het ophalen van de badkamercollectie.
+
+## Collectieoverzicht en docentweergave
+
+De app start met Collecties. Er is nu één echte collectie beschikbaar: Badkamer & verzorging. De tegel opent het volledige overzicht met 50 afzonderlijke beeldkaarten en drie oefenreeksen. De twaalf stappen zijn zowel afzonderlijk als binnen hun reeks beschikbaar. De knop Alle collecties gaat terug naar het startoverzicht.
+
+Er is geen paginering, knop om meer te laden of verborgen selectie van beelden. Zoeken en sorteren werken op alle 53 kaarten. Foto's in het raster blijven compacte AVIF/WebP-miniaturen met `loading="lazy"`; de inhoud van alle kaarten is wel direct aanwezig.
+
+De docentweergave bevat geen Drive-knoppen, versienummers, proefstatus of technische opslaguitleg. De niveaukeuze heet Niveau en het bord heeft geen voorbeeldstatus. Pedagogische uitleg bij beelden en reeksen is behouden.

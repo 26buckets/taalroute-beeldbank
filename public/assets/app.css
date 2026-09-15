@@ -349,6 +349,44 @@ body {
   align-items: center;
   margin-bottom: 24px;
 }
+#tr-bathroom .bath-collection-heading {
+  margin-bottom: 28px;
+}
+#tr-bathroom .bath-collections {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr));
+  gap: 24px;
+}
+#tr-bathroom .bath-collection-card {
+  align-self: start;
+  text-align: left;
+  padding: 0;
+  overflow: hidden;
+}
+#tr-bathroom .bath-collection-card:hover {
+  border-color: var(--bath-accent);
+}
+#tr-bathroom .bath-collection-photo {
+  display: block;
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+}
+#tr-bathroom .bath-collection-copy {
+  display: grid;
+  gap: 8px;
+  padding: 20px;
+}
+#tr-bathroom .bath-collection-copy strong {
+  font-size: 20px;
+  line-height: 1.3;
+}
+#tr-bathroom .bath-collection-open {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 12px;
+  color: var(--bath-accent);
+}
 #tr-bathroom .bath-hero-image {
   padding: 0;
   border: 0;
@@ -435,9 +473,6 @@ body {
   display: grid;
   gap: 4px;
   padding: 11px 12px;
-}
-#tr-bathroom .bath-page {
-  margin: 18px 0 0;
 }
 #tr-bathroom .bath-back {
   margin-bottom: 18px;
@@ -618,11 +653,6 @@ body {
 }
 #tr-bathroom .bath-board .bath-panel-photo:disabled {
   opacity: 1;
-}
-#tr-bathroom .bath-foot {
-  padding: 12px 20px;
-  border-top: 1px solid var(--bath-line);
-  color: var(--bath-muted);
 }
 #tr-bathroom .bath-live:empty {
   display: none;

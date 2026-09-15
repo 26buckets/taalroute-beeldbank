@@ -1,6 +1,6 @@
 # Taalroute Beeldbank
 
-Zelfstandig werkend badkamerprototype met 50 bestaande beelden, beschrijvingen, woorden en drie oefenreeksen. Zoeken, filteren, sorteren, lesselecties en het bordvoorbeeld werken volledig in de browser.
+Docentweergave met een collectieoverzicht en een complete badkamercollectie: 50 bestaande beelden, beschrijvingen, woorden en drie oefenreeksen. Zoeken, filteren, sorteren, lesselecties en het bordvoorbeeld werken volledig in de browser.
 
 ## Starten
 
@@ -14,9 +14,9 @@ Open daarna <http://127.0.0.1:8852>. Ook `npm start` start deze lokale server. O
 
 ## Proberen
 
-1. Open **Oefen tandenpoetsen**.
-2. Kies **Nu**, **Eerst–dan**, **Je moet** of **Ik heb**.
-3. Kies een oefenvoorstel en kernwoorden of zinsstarters.
+1. Open **Badkamer & verzorging** in het collectieoverzicht. Alle 50 beeldkaarten en de drie reeksen staan op één pagina, zonder paginering.
+2. Open **Oefen tandenpoetsen** en kies **Nu**, **Eerst–dan**, **Je moet** of **Ik heb**.
+3. Kies een niveau en kernwoorden of zinsstarters.
 4. Voeg de reeks toe aan je les of kies **Toon op bord**.
 5. Open een beeldkaart voor de letterlijke beschrijving, woorden, gebruikssituaties en eventuele docentnotitie.
 
@@ -24,14 +24,15 @@ Dezelfde reeks kan meerdere keren in een les voorkomen met eigen instellingen. D
 
 ## Header en appkleur
 
-De header volgt de gedeelde Spreektijd-opbouw: 60 pixels hoog, het bestaande Taalroute-woordmerk, een verticale scheidingslijn en de appnaam. Beeldbank heeft petrol (`#0F6B78`) als eigen accent voor woordmerk, driehoek, kleurstrook en bediening, met een lichtere variant in donkere modus. Het logo opent hetzelfde appmenu als Spreektijd; de knop Beeldbank brengt je terug naar de collectie met behoud van je lesselectie. De header loopt over de volledige schermbreedte. Zie [de herkomst en CSS-afspraken](docs/vormgeving.md).
+De header volgt de gedeelde Spreektijd-opbouw: 60 pixels hoog, het bestaande Taalroute-woordmerk, een verticale scheidingslijn en de appnaam. Beeldbank heeft petrol (`#0F6B78`) als eigen accent voor woordmerk, driehoek, kleurstrook en bediening, met een lichtere variant in donkere modus. Het logo opent hetzelfde appmenu als Spreektijd; de knop Beeldbank brengt je terug naar alle collecties met behoud van je lesselectie. De header loopt over de volledige schermbreedte. Zie [de herkomst en CSS-afspraken](docs/vormgeving.md).
 
 ## Kleine afbeeldingen
 
 - AVIF is de voorkeursversie; WebP is de terugval voor browsers zonder AVIF.
 - Miniaturen hebben maximaal 256 pixels op de langste zijde.
 - Grotere beelden hebben maximaal 768 pixels; twee overzichten maximaal 960 pixels.
-- De catalogus gebruikt miniaturen. Grotere foto's worden alleen bij het overzicht, een beeldkaart of een geopende reeks geladen.
+- Alle 53 kaarten van de badkamercollectie staan tegelijk in het overzicht: 50 beelden en drie oefenreeksen. Zoeken en sorteren werken op de complete verzameling.
+- De catalogus gebruikt miniaturen die tijdens het scrollen worden geladen. Grotere foto's worden alleen bij het overzicht, een beeldkaart of een geopende reeks geladen.
 - Foto's staan als losse bestanden met een inhoudshash in hun naam. Geen base64, originele PNG's, externe fonts of runtimepakketten.
 - De originele 50 PNG's zijn samen **99,28 MB**. De 50 AVIF-weergavebeelden zijn samen **583,7 kB**, met **96,7 kB** extra voor alle miniaturen. Inclusief alle WebP-terugvalbestanden staat er **2,08 MB** beeldmateriaal in de repository. Een browser laadt per beeld één formaat.
 
@@ -66,6 +67,8 @@ python3 scripts/optimize_images.py --source-dir /pad/naar/originals
 De bronmap bevat `1.png` tot en met `50.png`, of de geregistreerde bronbestandsnamen. Het script maakt weergavekopieën, past de JSON-verwijzingen aan en ruimt uitsluitend niet meer gebruikte AVIF/WebP-varianten in de gegenereerde beeldenmap op.
 
 ## Status
+
+Het collectieoverzicht bevat op dit moment de badkamercollectie. Andere Drive-collecties zijn nog niet geïmporteerd. Technische proefteksten en Drive-knoppen zijn verwijderd uit de docentweergave; herkomst en ontwikkelinformatie blijven in de brongegevens en documentatie beschikbaar.
 
 Een werkend prototype, zonder productie-inlog, centrale opslag of automatische beoordeling. A2/B1 zijn oefenvoorstellen; de inhoud is nog niet als examen gevalideerd. De repository is privé. Een eventuele toekomstige website heeft afzonderlijke toegangsbeveiliging nodig; die ontstaat niet door een privérepository.
 

@@ -39,6 +39,7 @@ import "./app-header.js";
     ["ACT", "Handelingen · 11"],
     ["REL", "Plaats · 7"],
     ["OVZ", "Overzicht · 2"],
+    ["REE", "Stappen · 12"],
     ["SEQ", "Reeksen · 3"],
   ];
   const typeNames = {
@@ -46,13 +47,12 @@ import "./app-header.js";
     ACT: "Handeling",
     REL: "Plaats & relaties",
     OVZ: "Overzicht",
-    REE: "Reeksbeeld",
+    REE: "Stap uit een reeks",
   };
-  let view = "catalogue",
+  let view = "collections",
     kind = "all",
     term = "",
     sort = "lesson",
-    page = 0,
     detail = 37,
     detailBack = "catalogue",
     draft = null,
@@ -61,7 +61,6 @@ import "./app-header.js";
     uid = 0,
     board = null;
   const design = { density: "compact" };
-  const PAGE = 8;
   const esc = (s) =>
     String(s).replace(
       /[&<>"']/g,
@@ -104,12 +103,6 @@ import "./app-header.js";
         "></picture>"
       );
     };
-  const sourceLink = (n) =>
-    '<a href="' +
-    esc(A(n).source) +
-    '" target="_blank" rel="noopener noreferrer">Origineel op Drive · v' +
-    A(n).version +
-    "</a>";
   const chips = (xs) =>
     '<div class="bath-chips">' +
     xs.map((x) => '<span class="bath-tag">' + esc(x) + "</span>").join("") +
@@ -145,7 +138,7 @@ import "./app-header.js";
   }
   function add(c) {
     lesson.push({ ...clone(c), uid: ++uid });
-    announce(name(c) + " toegevoegd als apart lesitem.");
+    announce(name(c) + " toegevoegd aan je les.");
     updateLessonCount();
   }
   function updateLessonCount() {
@@ -171,21 +164,41 @@ import "./app-header.js";
         ].join(" "),
       ),
     })),
-    ...data.assets
-      .filter((a) => a.n < 39)
-      .map((a) => ({
-        ...a,
-        rank: a.type === "OVZ" ? a.n - 34 : a.n + 10,
-        search: norm([a.title, a.description, ...a.words, ...a.uses].join(" ")),
-      })),
+    ...data.assets.map((a) => ({
+      ...a,
+      rank: a.type === "OVZ" ? a.n - 34 : a.n + 10,
+      search: norm([a.title, a.description, ...a.words, ...a.uses].join(" ")),
+    })),
   ];
+  function collectionOverview() {
+    main.innerHTML =
+      '<section aria-labelledby="collections-title"><div class="bath-collection-heading"><h1 id="collections-title">Collecties</h1><p class="bath-muted">Kies een collectie voor je les.</p></div><div class="bath-collections">' +
+      '<button class="bath-tile bath-collection-card" data-collection="' +
+      esc(data.collection.id) +
+      '" aria-label="Open collectie ' +
+      esc(data.collection.title) +
+      '">' +
+      photo(37, "", "bath-collection-photo", "full", true) +
+      '<span class="bath-collection-copy"><strong>' +
+      esc(data.collection.title) +
+      '</strong><span class="bath-muted">' +
+      data.assets.length +
+      " beelden · " +
+      data.sequences.length +
+      ' reeksen</span><span class="bath-collection-open">Bekijk collectie <span aria-hidden="true">→</span></span></span></button>' +
+      "</div></section>";
+  }
   function catalogue() {
     main.innerHTML =
-      '<section class="bath-hero"><button class="bath-hero-image" data-image="37" aria-label="Open beeldkaart badkamer overzicht 1">' +
+      '<button id="bath-collections" class="bath-back">Alle collecties</button><section class="bath-hero"><button class="bath-hero-image" data-image="37" aria-label="Open beeldkaart badkamer overzicht 1">' +
       photo(37, undefined, "", "full", true) +
-      '</button><div><span class="bath-muted">Collectie · wonen & persoonlijke verzorging</span><h1>Badkamer & verzorging</h1><p>Van één woord naar een hele routine.</p><div class="bath-hero-counts"><span>50 beelden</span><span>38 losse beelden</span><span>3 reeksen van 4</span></div><div class="bath-row"><button class="bath-primary" data-sequence="seq-tanden">Oefen tandenpoetsen</button><a href="' +
-      data.collection.source +
-      '" target="_blank" rel="noopener noreferrer">Collectie op Drive</a></div></div></section><section aria-label="Beelden vinden"><div class="bath-searchbar"><label class="bath-field" for="bath-search">Zoek een woord, handeling of situatie<input id="bath-search" type="search" autocomplete="off" placeholder="Bijvoorbeeld: tanden, boven of opruimen" value="' +
+      '</button><div><span class="bath-muted">Wonen & persoonlijke verzorging</span><h1>' +
+      esc(data.collection.title) +
+      '</h1><div class="bath-hero-counts"><span>' +
+      data.assets.length +
+      " beelden</span><span>" +
+      data.sequences.length +
+      ' reeksen van 4</span></div><button class="bath-primary" data-sequence="seq-tanden">Oefen tandenpoetsen</button></div></section><section aria-label="Beelden vinden"><div class="bath-searchbar"><label class="bath-field" for="bath-search">Zoek een woord, handeling of situatie<input id="bath-search" type="search" autocomplete="off" placeholder="Bijvoorbeeld: tanden, boven of opruimen" value="' +
       esc(term) +
       '"></label><label class="bath-field" for="bath-sort">Sorteren<select id="bath-sort"><option value="lesson" ' +
       (sort === "lesson" ? "selected" : "") +
@@ -224,8 +237,6 @@ import "./app-header.js";
         : (a, b) =>
             (sort === "za" ? -1 : 1) * a.title.localeCompare(b.title, "nl"),
     );
-    const pages = Math.max(1, Math.ceil(list.length / PAGE));
-    page = Math.min(page, pages - 1);
     root.querySelector("#bath-results").innerHTML =
       '<div class="bath-row bath-between bath-results-head"><span role="status" aria-live="polite">' +
       list.length +
@@ -233,7 +244,6 @@ import "./app-header.js";
       (list.length === 1 ? "resultaat" : "resultaten") +
       '</span><span class="bath-muted">Een reeks opent als één oefening</span></div><div class="bath-grid">' +
       list
-        .slice(page * PAGE, (page + 1) * PAGE)
         .map(
           (a) =>
             '<button class="bath-tile" ' +
@@ -260,16 +270,7 @@ import "./app-header.js";
       "</div>" +
       (!list.length
         ? '<p class="bath-empty">Geen beelden met deze combinatie. Pas je zoekwoord of soort materiaal aan.</p>'
-        : "") +
-      '<div class="bath-row bath-between bath-page"><button id="bath-page-prev" ' +
-      (page === 0 ? "disabled" : "") +
-      ">Vorige</button><span>Pagina " +
-      (page + 1) +
-      " van " +
-      pages +
-      '</span><button id="bath-page-next" ' +
-      (page === pages - 1 ? "disabled" : "") +
-      ">Volgende</button></div>";
+        : "");
   }
   function imageCard() {
     const a = A(detail),
@@ -279,9 +280,7 @@ import "./app-header.js";
       (detailBack === "practice" ? "de reeks" : "de collectie") +
       '</button><div class="bath-detail-grid"><div>' +
       photo(detail, a.description, "bath-detail-photo", "full", true) +
-      '<p class="bath-muted">' +
-      sourceLink(detail) +
-      '</p></div><div><span class="bath-muted">Beeldkaart · ' +
+      '</div><div><span class="bath-muted">Beeldkaart · ' +
       typeNames[a.type] +
       "</span><h1>" +
       esc(a.title) +
@@ -465,7 +464,7 @@ import "./app-header.js";
             "</button>",
         )
         .join("") +
-      '</div><div class="bath-settings"><label class="bath-field" for="bath-level">Oefenvoorstel<select id="bath-level"><option value="A2" ' +
+      '</div><div class="bath-settings"><label class="bath-field" for="bath-level">Niveau<select id="bath-level"><option value="A2" ' +
       (c.level === "A2" ? "selected" : "") +
       '>A2 · korte zinnen</option><option value="B1" ' +
       (c.level === "B1" ? "selected" : "") +
@@ -484,7 +483,7 @@ import "./app-header.js";
       "</section>" +
       panelSet(c) +
       (c.mode === "volgorde"
-        ? '<div class="bath-row bath-actions"><button id="bath-shuffle">Hussel beelden</button><button id="bath-source-order">Bronvolgorde terug</button><span class="bath-muted">Vertelvolgorde vrij bespreekbaar</span></div>'
+        ? '<div class="bath-row bath-actions"><button id="bath-shuffle">Hussel beelden</button><button id="bath-source-order">Volgorde herstellen</button><span class="bath-muted">Vertelvolgorde vrij bespreekbaar</span></div>'
         : "") +
       '<div class="bath-row bath-actions"><button class="bath-primary" id="bath-practice-board">Toon op bord</button><button id="bath-practice-add">' +
       (editUid === null ? "Voeg toe aan les" : "Voeg nogmaals toe") +
@@ -492,7 +491,7 @@ import "./app-header.js";
       answers(c)
         .map((v, i) => "<li>" + (i + 1) + ". " + esc(v) + "</li>")
         .join("") +
-      '</ul><p class="bath-muted">Voorbeelden bij de bronvolgorde; andere passende formuleringen zijn mogelijk.</p></details><details><summary>Aandachtspunt bij deze reeks</summary><p>' +
+      '</ul><p class="bath-muted">Voorbeelden bij de oorspronkelijke volgorde.</p></details><details><summary>Aandachtspunt bij deze reeks</summary><p>' +
       esc(s.note) +
       "</p></details>";
   }
@@ -502,7 +501,7 @@ import "./app-header.js";
       (!lesson.length ? "disabled" : "") +
       ">Start les op bord</button></div><h1>Mijn lesselectie · " +
       lesson.length +
-      '</h1><p class="bath-muted">Iedere toevoeging is een apart lesitem met eigen oefenstand en steun.</p>' +
+      '</h1><p class="bath-muted">Zet je beelden en reeksen in de gewenste volgorde.</p>' +
       (lesson.length
         ? lesson
             .map((c, i) => {
@@ -566,7 +565,7 @@ import "./app-header.js";
     const c = board.items[board.index],
       seq = c.type === "sequence";
     main.innerHTML =
-      '<section class="bath-board"><div class="bath-row bath-between bath-back"><button id="bath-board-back">Terug naar voorbereiding</button><span class="bath-tag">Bordvoorbeeld</span></div>' +
+      '<section class="bath-board"><div class="bath-row bath-between bath-back"><button id="bath-board-back">Terug naar voorbereiding</button></div>' +
       (seq
         ? "<h1>" +
           modeLong[c.mode] +
@@ -608,6 +607,7 @@ import "./app-header.js";
     root.querySelector("#bath-lesson").hidden = view === "board";
     updateLessonCount();
     ({
+      collections: collectionOverview,
       catalogue,
       detail: imageCard,
       practice,
@@ -621,9 +621,10 @@ import "./app-header.js";
     const d = b.dataset,
       oldId = b.id;
     let full = true;
-    if (d.kind) {
+    if (d.collection === data.collection.id) {
+      view = "catalogue";
+    } else if (d.kind) {
       kind = d.kind;
-      page = 0;
       root
         .querySelectorAll("[data-kind]")
         .forEach((x) =>
@@ -672,16 +673,6 @@ import "./app-header.js";
         case "bath-lesson":
           view = "lesson";
           break;
-        case "bath-page-prev":
-          page--;
-          results();
-          full = false;
-          break;
-        case "bath-page-next":
-          page++;
-          results();
-          full = false;
-          break;
         case "bath-card-back":
           view = detailBack;
           break;
@@ -689,6 +680,9 @@ import "./app-header.js";
           view = editUid === null ? "catalogue" : "lesson";
           break;
         case "bath-home":
+        case "bath-collections":
+          view = "collections";
+          break;
         case "bath-catalogue-back":
           view = "catalogue";
           break;
@@ -753,7 +747,8 @@ import "./app-header.js";
           full = false;
       }
     if (full) render();
-    if (oldId === "bath-home") {
+    if (oldId === "bath-home" || oldId === "bath-collections" || d.collection) {
+      announce("");
       root.scrollIntoView({ block: "start", behavior: "instant" });
       const heading = main.querySelector("h1");
       heading.setAttribute("tabindex", "-1");
@@ -768,7 +763,6 @@ import "./app-header.js";
   root.addEventListener("input", (e) => {
     if (e.target.id === "bath-search") {
       term = e.target.value;
-      page = 0;
       results();
     }
   });
@@ -777,7 +771,6 @@ import "./app-header.js";
     switch (e.target.id) {
       case "bath-sort":
         sort = e.target.value;
-        page = 0;
         results();
         redraw = false;
         break;
