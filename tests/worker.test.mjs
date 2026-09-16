@@ -265,7 +265,7 @@ test("publieke testversie opent app en beelden zonder account en houdt D1-select
   );
 });
 
-test("publicatie van keukenregister behoudt eerdere D1-inhoud en docentselecties", async () => {
+test("publicatie van woonkamerregister behoudt eerdere D1-inhoud en docentselecties", async () => {
   const db = database();
   db.sql
     .prepare("INSERT INTO content_packages(id,payload) VALUES (?,?)")
@@ -278,7 +278,7 @@ test("publicatie van keukenregister behoudt eerdere D1-inhoud en docentselecties
   const registry = await content(db, "collections.json");
   assert.ok(
     registry.nodes.some(
-      (n) => n.id === "keuken-koken" && n.status === "published",
+      (n) => n.id === "woonkamer" && n.status === "published",
     ),
   );
   assert.equal(
@@ -293,7 +293,20 @@ test("publicatie van keukenregister behoudt eerdere D1-inhoud en docentselecties
       .get("existing").revision,
     7,
   );
-  const items = [image, { type: "image", n: 1001, uid: 2 }];
+  const items = [
+    image,
+    { type: "image", n: 1001, uid: 2 },
+    { type: "image", n: 2001, uid: 3 },
+    {
+      type: "sequence",
+      id: "woo-woonkamer-opruimen",
+      uid: 4,
+      mode: "volgorde",
+      level: "A2",
+      help: "none",
+      order: [0, 1, 2, 3],
+    },
+  ];
   assert.equal(
     (
       await handle(

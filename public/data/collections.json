@@ -55,8 +55,12 @@
       "title": "Woonkamer",
       "kind": "collection",
       "parentId": "het-huis",
-      "status": "draft",
-      "topics": ["ontmoeten", "wonen-inrichten"]
+      "status": "published",
+      "topics": ["ontmoeten", "wonen-inrichten"],
+      "dataset": "woonkamer.json",
+      "coverImageNumber": 2037,
+      "subtitle": "Wonen, ontspannen & ontmoeten",
+      "description": "Voorwerpen, handelingen en reeksen over de woonkamer, opruimen, planten verzorgen en bezoek ontvangen."
     },
     {
       "id": "slaapkamer",

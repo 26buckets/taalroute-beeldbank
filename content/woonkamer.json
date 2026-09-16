@@ -1,0 +1,1184 @@
+{
+  "collection": {
+    "id": "woonkamer",
+    "title": "Woonkamer",
+    "imageCount": 50,
+    "independentImages": 38,
+    "sequences": 3
+  },
+  "assets": [
+    {
+      "id": "woo-001",
+      "n": 2001,
+      "sourceNumber": 1,
+      "title": "De bank",
+      "description": "De bank is duidelijk en volledig zichtbaar.",
+      "words": [
+        "de bank",
+        "de leuning",
+        "zitten"
+      ],
+      "uses": [
+        "herkennen",
+        "benoemen",
+        "wonen en inrichten"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_WOO_001_bank_OBJ_v02.png",
+      "version": 2
+    },
+    {
+      "id": "woo-002",
+      "n": 2002,
+      "sourceNumber": 2,
+      "title": "De fauteuil",
+      "description": "De fauteuil is duidelijk en volledig zichtbaar.",
+      "words": [
+        "de fauteuil",
+        "de stoel",
+        "zitten"
+      ],
+      "uses": [
+        "herkennen",
+        "benoemen",
+        "wonen en inrichten"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_WOO_002_fauteuil_OBJ_v02.png",
+      "version": 2
+    },
+    {
+      "id": "woo-003",
+      "n": 2003,
+      "sourceNumber": 3,
+      "title": "De salontafel",
+      "description": "De salontafel is duidelijk en volledig zichtbaar.",
+      "words": [
+        "de salontafel",
+        "de tafel",
+        "neerzetten"
+      ],
+      "uses": [
+        "herkennen",
+        "benoemen",
+        "wonen en inrichten"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_WOO_003_salontafel_OBJ_v02.png",
+      "version": 2
+    },
+    {
+      "id": "woo-004",
+      "n": 2004,
+      "sourceNumber": 4,
+      "title": "De boekenkast",
+      "description": "De boekenkast is duidelijk en volledig zichtbaar.",
+      "words": [
+        "de boekenkast",
+        "de plank",
+        "het boek"
+      ],
+      "uses": [
+        "herkennen",
+        "benoemen",
+        "wonen en inrichten"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_WOO_004_boekenkast_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-005",
+      "n": 2005,
+      "sourceNumber": 5,
+      "title": "De televisie",
+      "description": "De televisie is duidelijk en volledig zichtbaar.",
+      "words": [
+        "de televisie",
+        "het scherm",
+        "kijken"
+      ],
+      "uses": [
+        "herkennen",
+        "benoemen",
+        "wonen en inrichten"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_WOO_005_televisie_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-006",
+      "n": 2006,
+      "sourceNumber": 6,
+      "title": "De afstandsbediening",
+      "description": "De afstandsbediening is duidelijk en volledig zichtbaar.",
+      "words": [
+        "de afstandsbediening",
+        "de knop",
+        "indrukken"
+      ],
+      "uses": [
+        "herkennen",
+        "benoemen",
+        "wonen en inrichten"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_WOO_006_afstandsbediening_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-007",
+      "n": 2007,
+      "sourceNumber": 7,
+      "title": "De vloerlamp",
+      "description": "De vloerlamp is duidelijk en volledig zichtbaar.",
+      "words": [
+        "de lamp",
+        "het licht",
+        "aanzetten"
+      ],
+      "uses": [
+        "herkennen",
+        "benoemen",
+        "wonen en inrichten"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_WOO_007_vloerlamp_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-008",
+      "n": 2008,
+      "sourceNumber": 8,
+      "title": "Het kussen",
+      "description": "Het kussen is duidelijk en volledig zichtbaar.",
+      "words": [
+        "het kussen",
+        "zacht",
+        "de bank"
+      ],
+      "uses": [
+        "herkennen",
+        "benoemen",
+        "wonen en inrichten"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_WOO_008_kussen_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-009",
+      "n": 2009,
+      "sourceNumber": 9,
+      "title": "De deken",
+      "description": "De deken is duidelijk en volledig zichtbaar.",
+      "words": [
+        "de deken",
+        "warm",
+        "opvouwen"
+      ],
+      "uses": [
+        "herkennen",
+        "benoemen",
+        "wonen en inrichten"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_WOO_009_deken_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-010",
+      "n": 2010,
+      "sourceNumber": 10,
+      "title": "Het vloerkleed",
+      "description": "Het vloerkleed is duidelijk en volledig zichtbaar.",
+      "words": [
+        "het vloerkleed",
+        "de vloer",
+        "liggen"
+      ],
+      "uses": [
+        "herkennen",
+        "benoemen",
+        "wonen en inrichten"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_WOO_010_vloerkleed_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-011",
+      "n": 2011,
+      "sourceNumber": 11,
+      "title": "Het gordijn",
+      "description": "Het gordijn is duidelijk en volledig zichtbaar.",
+      "words": [
+        "het gordijn",
+        "het raam",
+        "open",
+        "dicht"
+      ],
+      "uses": [
+        "herkennen",
+        "benoemen",
+        "wonen en inrichten"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_WOO_011_gordijn_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-012",
+      "n": 2012,
+      "sourceNumber": 12,
+      "title": "De kamerplant",
+      "description": "De kamerplant is duidelijk en volledig zichtbaar.",
+      "words": [
+        "de plant",
+        "het blad",
+        "de pot",
+        "water geven"
+      ],
+      "uses": [
+        "herkennen",
+        "benoemen",
+        "wonen en inrichten"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_WOO_012_kamerplant_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-013",
+      "n": 2013,
+      "sourceNumber": 13,
+      "title": "De vaas",
+      "description": "Een vaas met bloemen staat in de woonkamer.",
+      "words": [
+        "de vaas",
+        "de opening",
+        "de bloemen"
+      ],
+      "uses": [
+        "herkennen",
+        "benoemen",
+        "wonen en inrichten"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_WOO_013_vaas_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-014",
+      "n": 2014,
+      "sourceNumber": 14,
+      "title": "Het boek",
+      "description": "Een gesloten boek met een ontworpen kaft ligt op de fauteuil.",
+      "words": [
+        "het boek",
+        "de bladzijde",
+        "lezen"
+      ],
+      "uses": [
+        "herkennen",
+        "benoemen",
+        "wonen en inrichten"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_WOO_014_boek_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-015",
+      "n": 2015,
+      "sourceNumber": 15,
+      "title": "Het tijdschrift",
+      "description": "Een open tijdschrift met afbeeldingen ligt op de salontafel.",
+      "words": [
+        "het tijdschrift",
+        "de bladzijde",
+        "lezen"
+      ],
+      "uses": [
+        "herkennen",
+        "benoemen",
+        "wonen en inrichten"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_WOO_015_tijdschrift_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-016",
+      "n": 2016,
+      "sourceNumber": 16,
+      "title": "Het dienblad",
+      "description": "Op het houten dienblad staan twee verschillende mokken.",
+      "words": [
+        "het dienblad",
+        "dragen",
+        "neerzetten"
+      ],
+      "uses": [
+        "herkennen",
+        "benoemen",
+        "wonen en inrichten"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_WOO_016_dienblad_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-017",
+      "n": 2017,
+      "sourceNumber": 17,
+      "title": "De radiator",
+      "description": "De radiator is duidelijk en volledig zichtbaar.",
+      "words": [
+        "de radiator",
+        "de verwarming",
+        "warm"
+      ],
+      "uses": [
+        "herkennen",
+        "benoemen",
+        "wonen en inrichten"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_WOO_017_radiator_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-018",
+      "n": 2018,
+      "sourceNumber": 18,
+      "title": "De opbergmand",
+      "description": "In de gevlochten opbergmand liggen spullen uit de woonkamer.",
+      "words": [
+        "de mand",
+        "opruimen",
+        "erin"
+      ],
+      "uses": [
+        "herkennen",
+        "benoemen",
+        "wonen en inrichten"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_WOO_018_opbergmand_OBJ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-019",
+      "n": 2019,
+      "sourceNumber": 19,
+      "title": "Op de bank zitten",
+      "description": "Hij zit op de bank.",
+      "words": [
+        "zitten",
+        "de bank",
+        "de leuning"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "dagelijkse routines"
+      ],
+      "type": "ACT",
+      "note": "",
+      "sourceName": "WB_WOO_019_zitten_ACT_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-020",
+      "n": 2020,
+      "sourceNumber": 20,
+      "title": "Een boek lezen",
+      "description": "Zij leest een boek.",
+      "words": [
+        "lezen",
+        "het boek",
+        "de bladzijde"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "dagelijkse routines"
+      ],
+      "type": "ACT",
+      "note": "",
+      "sourceName": "WB_WOO_020_lezen_ACT_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-021",
+      "n": 2021,
+      "sourceNumber": 21,
+      "title": "Televisiekijken",
+      "description": "Zij kijkt televisie.",
+      "words": [
+        "kijken",
+        "de televisie",
+        "het scherm"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "dagelijkse routines"
+      ],
+      "type": "ACT",
+      "note": "",
+      "sourceName": "WB_WOO_021_televisiekijken_ACT_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-022",
+      "n": 2022,
+      "sourceNumber": 22,
+      "title": "Samen praten",
+      "description": "Hij praat met zijn bezoek.",
+      "words": [
+        "praten",
+        "luisteren",
+        "het bezoek"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "dagelijkse routines"
+      ],
+      "type": "ACT",
+      "note": "",
+      "sourceName": "WB_WOO_022_praten_ACT_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-023",
+      "n": 2023,
+      "sourceNumber": 23,
+      "title": "De vloer stofzuigen",
+      "description": "Hij stofzuigt de vloer.",
+      "words": [
+        "stofzuigen",
+        "de vloer",
+        "de stofzuiger"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "dagelijkse routines"
+      ],
+      "type": "ACT",
+      "note": "",
+      "sourceName": "WB_WOO_023_stofzuigen_ACT_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-024",
+      "n": 2024,
+      "sourceNumber": 24,
+      "title": "De tafel afstoffen",
+      "description": "Zij stoft de tafel af.",
+      "words": [
+        "afstoffen",
+        "de tafel",
+        "de doek"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "dagelijkse routines"
+      ],
+      "type": "ACT",
+      "note": "",
+      "sourceName": "WB_WOO_024_afstoffen_ACT_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-025",
+      "n": 2025,
+      "sourceNumber": 25,
+      "title": "De plant water geven",
+      "description": "Hij geeft de plant water.",
+      "words": [
+        "water geven",
+        "de plant",
+        "de gieter"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "dagelijkse routines"
+      ],
+      "type": "ACT",
+      "note": "",
+      "sourceName": "WB_WOO_025_watergeven_ACT_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-026",
+      "n": 2026,
+      "sourceNumber": 26,
+      "title": "De gordijnen openen",
+      "description": "Zij opent de gordijnen.",
+      "words": [
+        "openen",
+        "het gordijn",
+        "het raam"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "dagelijkse routines"
+      ],
+      "type": "ACT",
+      "note": "",
+      "sourceName": "WB_WOO_026_gordijnenopenen_ACT_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-027",
+      "n": 2027,
+      "sourceNumber": 27,
+      "title": "De lamp aanzetten",
+      "description": "Hij zet de lamp aan.",
+      "words": [
+        "aanzetten",
+        "de lamp",
+        "de schakelaar"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "dagelijkse routines"
+      ],
+      "type": "ACT",
+      "note": "",
+      "sourceName": "WB_WOO_027_lampaanzetten_ACT_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-028",
+      "n": 2028,
+      "sourceNumber": 28,
+      "title": "Het kussen rechtleggen",
+      "description": "Zij legt het kussen recht.",
+      "words": [
+        "rechtleggen",
+        "het kussen",
+        "de bank"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "dagelijkse routines"
+      ],
+      "type": "ACT",
+      "note": "",
+      "sourceName": "WB_WOO_028_kussenrechtleggen_ACT_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-029",
+      "n": 2029,
+      "sourceNumber": 29,
+      "title": "De boeken opruimen",
+      "description": "Hij ruimt de boeken op.",
+      "words": [
+        "opruimen",
+        "het boek",
+        "de boekenkast"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "dagelijkse routines"
+      ],
+      "type": "ACT",
+      "note": "",
+      "sourceName": "WB_WOO_029_boekenopruimen_ACT_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-030",
+      "n": 2030,
+      "sourceNumber": 30,
+      "title": "Een drankje aanbieden",
+      "description": "Zij biedt een drankje aan.",
+      "words": [
+        "aanbieden",
+        "het glas",
+        "het water",
+        "het bezoek"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "dagelijkse routines"
+      ],
+      "type": "ACT",
+      "note": "",
+      "sourceName": "WB_WOO_030_drankjeaanbieden_ACT_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-031",
+      "n": 2031,
+      "sourceNumber": 31,
+      "title": "Het boek ligt op de tafel.",
+      "description": "Het boek ligt op de tafel.",
+      "words": [
+        "op",
+        "het boek",
+        "de tafel"
+      ],
+      "uses": [
+        "plaats beschrijven",
+        "voorzetsels"
+      ],
+      "type": "REL",
+      "note": "",
+      "sourceName": "WB_WOO_031_boek_op_tafel_REL_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-032",
+      "n": 2032,
+      "sourceNumber": 32,
+      "title": "Het kussen op de bank",
+      "description": "Het kussen staat tegen de rugleuning op de bank.",
+      "words": [
+        "op",
+        "het kussen",
+        "de bank"
+      ],
+      "uses": [
+        "plaats beschrijven",
+        "voorzetsels"
+      ],
+      "type": "REL",
+      "note": "",
+      "sourceName": "WB_WOO_032_kussen_op_bank_REL_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-033",
+      "n": 2033,
+      "sourceNumber": 33,
+      "title": "De afstandsbediening ligt onder de tafel.",
+      "description": "De afstandsbediening ligt onder de tafel.",
+      "words": [
+        "onder",
+        "de afstandsbediening",
+        "de tafel"
+      ],
+      "uses": [
+        "plaats beschrijven",
+        "voorzetsels"
+      ],
+      "type": "REL",
+      "note": "",
+      "sourceName": "WB_WOO_033_afstandsbediening_onder_tafel_REL_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-034",
+      "n": 2034,
+      "sourceNumber": 34,
+      "title": "De plant staat naast het raam.",
+      "description": "De plant staat naast het raam.",
+      "words": [
+        "naast",
+        "de plant",
+        "het raam"
+      ],
+      "uses": [
+        "plaats beschrijven",
+        "voorzetsels"
+      ],
+      "type": "REL",
+      "note": "",
+      "sourceName": "WB_WOO_034_plant_naast_raam_REL_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-035",
+      "n": 2035,
+      "sourceNumber": 35,
+      "title": "Het tijdschrift in de mand",
+      "description": "Het tijdschrift staat in de mand.",
+      "words": [
+        "in",
+        "het tijdschrift",
+        "de mand"
+      ],
+      "uses": [
+        "plaats beschrijven",
+        "voorzetsels"
+      ],
+      "type": "REL",
+      "note": "",
+      "sourceName": "WB_WOO_035_tijdschrift_in_mand_REL_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-036",
+      "n": 2036,
+      "sourceNumber": 36,
+      "title": "De lamp staat tussen de bank en de stoel.",
+      "description": "De lamp staat tussen de bank en de stoel.",
+      "words": [
+        "tussen",
+        "de lamp",
+        "de bank",
+        "de stoel"
+      ],
+      "uses": [
+        "plaats beschrijven",
+        "voorzetsels"
+      ],
+      "type": "REL",
+      "note": "",
+      "sourceName": "WB_WOO_036_lamp_tussen_meubels_REL_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-037",
+      "n": 2037,
+      "sourceNumber": 37,
+      "title": "De woonkamer",
+      "description": "Een kleurrijk ingerichte woonkamer met een petrolblauwe bank, kussens, een mosterdgele deken, terracotta fauteuil, salontafel met tijdschrift en rode mok, een veelkleurig kleed, boekenkast, televisie, planten en een raam met radiator.",
+      "words": [
+        "de woonkamer",
+        "de bank",
+        "de stoel",
+        "de tafel",
+        "het raam",
+        "de televisie",
+        "de boekenkast",
+        "de plant"
+      ],
+      "uses": [
+        "de woonkamer beschrijven",
+        "wonen en ontmoeten"
+      ],
+      "type": "OVZ",
+      "note": "",
+      "sourceName": "WB_WOO_037_woonkamer_overzicht_OVZ_v02.png",
+      "version": 2
+    },
+    {
+      "id": "woo-038",
+      "n": 2038,
+      "sourceNumber": 38,
+      "title": "Bezoek in de woonkamer",
+      "description": "Twee volwassenen zitten tegenover elkaar in de woonkamer.",
+      "words": [
+        "het bezoek",
+        "de woonkamer",
+        "praten",
+        "luisteren",
+        "samen"
+      ],
+      "uses": [
+        "de woonkamer beschrijven",
+        "wonen en ontmoeten"
+      ],
+      "type": "OVZ",
+      "note": "",
+      "sourceName": "WB_WOO_038_bezoek_overzicht_OVZ_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-039",
+      "n": 2039,
+      "sourceNumber": 39,
+      "title": "Een boek pakken",
+      "description": "Hij pakt een kleine pocket van de tafel. Er liggen ook twee grotere boeken.",
+      "words": [
+        "pakken",
+        "het boek",
+        "de tafel"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "volgorde vertellen",
+        "instructies geven"
+      ],
+      "type": "REE",
+      "note": "",
+      "sourceName": "WB_WOO_039_woonkamer_opruimen_stap_01_REE_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-040",
+      "n": 2040,
+      "sourceNumber": 40,
+      "title": "De boeken stapelen",
+      "description": "Hij legt de boeken op elkaar.",
+      "words": [
+        "stapelen",
+        "op elkaar",
+        "het boek"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "volgorde vertellen",
+        "instructies geven"
+      ],
+      "type": "REE",
+      "note": "",
+      "sourceName": "WB_WOO_040_woonkamer_opruimen_stap_02_REE_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-041",
+      "n": 2041,
+      "sourceNumber": 41,
+      "title": "De boeken in de kast zetten",
+      "description": "Hij zet de boeken in de kast.",
+      "words": [
+        "zetten",
+        "in",
+        "de boekenkast"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "volgorde vertellen",
+        "instructies geven"
+      ],
+      "type": "REE",
+      "note": "",
+      "sourceName": "WB_WOO_041_woonkamer_opruimen_stap_03_REE_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-042",
+      "n": 2042,
+      "sourceNumber": 42,
+      "title": "De tafel afnemen",
+      "description": "Hij neemt de tafel af.",
+      "words": [
+        "afnemen",
+        "de tafel",
+        "de doek"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "volgorde vertellen",
+        "instructies geven"
+      ],
+      "type": "REE",
+      "note": "",
+      "sourceName": "WB_WOO_042_woonkamer_opruimen_stap_04_REE_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-043",
+      "n": 2043,
+      "sourceNumber": 43,
+      "title": "De aarde voelen",
+      "description": "Zij voelt aan de aarde.",
+      "words": [
+        "voelen",
+        "de aarde",
+        "droog"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "volgorde vertellen",
+        "instructies geven"
+      ],
+      "type": "REE",
+      "note": "",
+      "sourceName": "WB_WOO_043_plant_verzorgen_stap_01_REE_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-044",
+      "n": 2044,
+      "sourceNumber": 44,
+      "title": "De gieter pakken",
+      "description": "Zij pakt de gieter.",
+      "words": [
+        "pakken",
+        "de gieter",
+        "het handvat"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "volgorde vertellen",
+        "instructies geven"
+      ],
+      "type": "REE",
+      "note": "",
+      "sourceName": "WB_WOO_044_plant_verzorgen_stap_02_REE_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-045",
+      "n": 2045,
+      "sourceNumber": 45,
+      "title": "De plant water geven",
+      "description": "Zij geeft de plant water.",
+      "words": [
+        "water geven",
+        "de plant",
+        "de aarde"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "volgorde vertellen",
+        "instructies geven"
+      ],
+      "type": "REE",
+      "note": "",
+      "sourceName": "WB_WOO_045_plant_verzorgen_stap_03_REE_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-046",
+      "n": 2046,
+      "sourceNumber": 46,
+      "title": "De gieter terugzetten",
+      "description": "Zij zet de gieter terug.",
+      "words": [
+        "terugzetten",
+        "de gieter",
+        "de vloer"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "volgorde vertellen",
+        "instructies geven"
+      ],
+      "type": "REE",
+      "note": "",
+      "sourceName": "WB_WOO_046_plant_verzorgen_stap_04_REE_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-047",
+      "n": 2047,
+      "sourceNumber": 47,
+      "title": "De deur openen",
+      "description": "Hij opent de deur voor het bezoek.",
+      "words": [
+        "openen",
+        "de deur",
+        "het bezoek"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "volgorde vertellen",
+        "instructies geven"
+      ],
+      "type": "REE",
+      "note": "",
+      "sourceName": "WB_WOO_047_bezoek_ontvangen_stap_01_REE_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-048",
+      "n": 2048,
+      "sourceNumber": 48,
+      "title": "De jas aannemen",
+      "description": "Hij neemt de jas aan.",
+      "words": [
+        "aannemen",
+        "de jas",
+        "het bezoek"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "volgorde vertellen",
+        "instructies geven"
+      ],
+      "type": "REE",
+      "note": "",
+      "sourceName": "WB_WOO_048_bezoek_ontvangen_stap_02_REE_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-049",
+      "n": 2049,
+      "sourceNumber": 49,
+      "title": "Een plaats aanbieden",
+      "description": "Hij biedt een plaats aan.",
+      "words": [
+        "aanbieden",
+        "zitten",
+        "de bank"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "volgorde vertellen",
+        "instructies geven"
+      ],
+      "type": "REE",
+      "note": "",
+      "sourceName": "WB_WOO_049_bezoek_ontvangen_stap_03_REE_v01.png",
+      "version": 1
+    },
+    {
+      "id": "woo-050",
+      "n": 2050,
+      "sourceNumber": 50,
+      "title": "Water aanbieden",
+      "description": "Hij biedt een glas water aan.",
+      "words": [
+        "aanbieden",
+        "het glas",
+        "het water"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "volgorde vertellen",
+        "instructies geven"
+      ],
+      "type": "REE",
+      "note": "",
+      "sourceName": "WB_WOO_050_bezoek_ontvangen_stap_04_REE_v01.png",
+      "version": 1
+    }
+  ],
+  "sequences": [
+    {
+      "id": "woo-woonkamer-opruimen",
+      "title": "De woonkamer opruimen",
+      "pronoun": "Hij",
+      "steps": [
+        2039,
+        2040,
+        2041,
+        2042
+      ],
+      "verbs": [
+        "pakt een boek van de tafel",
+        "legt de boeken op elkaar",
+        "zet de boeken in de kast",
+        "neemt de tafel af"
+      ],
+      "instruction": [
+        "Je moet het boek van de tafel pakken.",
+        "Je moet de boeken op elkaar leggen.",
+        "Je moet de boeken in de kast zetten.",
+        "Je moet de tafel afnemen."
+      ],
+      "past": [
+        "Ik heb het boek van de tafel gepakt.",
+        "Ik heb de boeken op elkaar gelegd.",
+        "Ik heb de boeken in de kast gezet.",
+        "Ik heb de tafel afgenomen."
+      ],
+      "order": [
+        "Eerst pakt hij een boek van de tafel.",
+        "Dan legt hij de boeken op elkaar.",
+        "Daarna zet hij de boeken in de kast.",
+        "Ten slotte neemt hij de tafel af."
+      ],
+      "keywords": [
+        "pakken · het boek · de tafel",
+        "stapelen · op elkaar · het boek",
+        "zetten · in · de boekenkast",
+        "afnemen · de tafel · de doek"
+      ],
+      "b1": "Vertel de vier handelingen in samenhang. De docent kan een tijdsvorm kiezen.",
+      "note": "Laat de cursist vertellen wat er met de boeken en de tafel gebeurt. De boeken verschillen in formaat; benoemen van de titels is niet nodig."
+    },
+    {
+      "id": "woo-plant-verzorgen",
+      "title": "De kamerplant verzorgen",
+      "pronoun": "Zij",
+      "steps": [
+        2043,
+        2044,
+        2045,
+        2046
+      ],
+      "verbs": [
+        "voelt aan de aarde",
+        "pakt de gieter",
+        "geeft de plant water",
+        "zet de gieter terug"
+      ],
+      "instruction": [
+        "Je moet aan de aarde voelen.",
+        "Je moet de gieter pakken.",
+        "Je moet de plant water geven.",
+        "Je moet de gieter terugzetten."
+      ],
+      "past": [
+        "Ik heb aan de aarde gevoeld.",
+        "Ik heb de gieter gepakt.",
+        "Ik heb de plant water gegeven.",
+        "Ik heb de gieter teruggezet."
+      ],
+      "order": [
+        "Eerst voelt zij aan de aarde.",
+        "Dan pakt zij de gieter.",
+        "Daarna geeft zij de plant water.",
+        "Ten slotte zet zij de gieter terug."
+      ],
+      "keywords": [
+        "voelen · de aarde · droog",
+        "pakken · de gieter · het handvat",
+        "water geven · de plant · de aarde",
+        "terugzetten · de gieter · de vloer"
+      ],
+      "b1": "Vertel de vier handelingen in samenhang. De docent kan een tijdsvorm kiezen.",
+      "note": "Laat de cursist de vier handelingen beschrijven. Bespreek eventueel waarom je eerst aan de aarde voelt."
+    },
+    {
+      "id": "woo-bezoek-ontvangen",
+      "title": "Bezoek ontvangen",
+      "pronoun": "Hij",
+      "steps": [
+        2047,
+        2048,
+        2049,
+        2050
+      ],
+      "verbs": [
+        "opent de deur voor het bezoek",
+        "neemt de jas aan",
+        "biedt een plaats aan",
+        "biedt een glas water aan"
+      ],
+      "instruction": [
+        "Je moet de deur voor het bezoek openen.",
+        "Je moet de jas aannemen.",
+        "Je moet een plaats aanbieden.",
+        "Je moet een glas water aanbieden."
+      ],
+      "past": [
+        "Ik heb de deur voor het bezoek geopend.",
+        "Ik heb de jas aangenomen.",
+        "Ik heb een plaats aangeboden.",
+        "Ik heb een glas water aangeboden."
+      ],
+      "order": [
+        "Eerst opent hij de deur voor het bezoek.",
+        "Dan neemt hij de jas aan.",
+        "Daarna biedt hij een plaats aan.",
+        "Ten slotte biedt hij een glas water aan."
+      ],
+      "keywords": [
+        "openen · de deur · het bezoek",
+        "aannemen · de jas · het bezoek",
+        "aanbieden · zitten · de bank",
+        "aanbieden · het glas · het water"
+      ],
+      "b1": "Vertel de vier handelingen in samenhang. De docent kan een tijdsvorm kiezen.",
+      "note": "De man ontvangt het bezoek. Laat de cursist ook oefenen met: Kom binnen, ga zitten en wil je een glas water?"
+    }
+  ],
+  "methodLinks": []
+}

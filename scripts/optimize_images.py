@@ -15,7 +15,7 @@ ROOT = Path(__file__).resolve().parents[1]
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--source-dir', type=Path, required=True)
-    parser.add_argument('--collection', choices=('badkamer', 'keuken'), default='badkamer')
+    parser.add_argument('--collection', choices=('badkamer', 'keuken', 'woonkamer'), default='badkamer')
     args = parser.parse_args()
     if not features.check('avif') or not features.check('webp'):
         parser.error('Pillow met AVIF en WebP is nodig.')

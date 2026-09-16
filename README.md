@@ -1,6 +1,6 @@
 # Taalroute Beeldbank
 
-Docentweergave met Het huis als hoofdcollectie: Badkamer & verzorging (50 beelden, drie oefenreeksen) en Keuken & koken (51 beelden, één oefenreeks). Beide collecties hebben beschrijvingen en zoekwoorden en kunnen samen in één lesselectie. Zoeken, filteren, sorteren, lesselecties en het bordvoorbeeld werken volledig in de browser.
+Docentweergave met Het huis als hoofdcollectie: Badkamer & verzorging (50 beelden, drie oefenreeksen), Keuken & koken (51 beelden, één oefenreeks) en Woonkamer (50 beelden, drie oefenreeksen). Alle drie de collecties hebben beschrijvingen en zoekwoorden en kunnen samen in één lesselectie. Zoeken, filteren, sorteren, lesselecties en het bordvoorbeeld werken volledig in de browser.
 
 ## Starten
 
@@ -80,3 +80,7 @@ De app is gehost op Cloudflare. Er is geen externe dienst nodig voor de losse lo
 ## Keuken
 
 [Open Keuken & koken](https://beeldbank.taalroute.nl/#keuken-koken). De 51 foto’s uit Drive zijn verkleind naar AVIF en WebP. De volledige AVIF-set inclusief miniaturen is 758,8 kB; de oorspronkelijke PNG’s waren 98,75 MB. De oefenreeks Groente bereiden combineert wassen, snijden, bakken en opscheppen. Meer over bronkeuze en publicatie: [keukenimport](docs/keuken-import.md).
+
+## Woonkamer
+
+[Open Woonkamer](https://beeldbank.taalroute.nl/#woonkamer). De collectie bevat 18 voorwerpen, 12 handelingen, 6 plaatsbeelden, 2 overzichten en 12 stappen. De drie reeksen zijn De woonkamer opruimen, De kamerplant verzorgen en Bezoek ontvangen. Alle 50 beelden en drie reeksen staan op één pagina. De AVIF-set inclusief miniaturen is 1,05 MB; met WebP-terugval is dit 3,56 MB. Zie [het bestandsgrootterapport](docs/image-sizes-woonkamer.json).

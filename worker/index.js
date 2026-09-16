@@ -1,20 +1,22 @@
 import { createRemoteJWKSet, jwtVerify } from "jose";
 import bathroom from "../public/data/badkamer.json" with { type: "json" };
 import kitchen from "../public/data/keuken.json" with { type: "json" };
+import livingroom from "../public/data/woonkamer.json" with { type: "json" };
 import collections from "../public/data/collections.json" with { type: "json" };
 
 const seeds = {
   "badkamer.json": bathroom,
   "keuken.json": kitchen,
+  "woonkamer.json": livingroom,
   "collections.json": collections,
 };
 // A new registry release uses its own D1 key; old packages and teacher selections remain intact.
 const packageKeys = {
-  "collections.json": "collections-20260915-keuken-v1.json",
+  "collections.json": "collections-20260916-woonkamer-v1.json",
 };
 const allContent = {
-  assets: [...bathroom.assets, ...kitchen.assets],
-  sequences: [...bathroom.sequences, ...kitchen.sequences],
+  assets: [...bathroom.assets, ...kitchen.assets, ...livingroom.assets],
+  sequences: [...bathroom.sequences, ...kitchen.sequences, ...livingroom.sequences],
 };
 const keys = new Map();
 const json = (value, status = 200, headers = {}) =>
@@ -151,7 +153,7 @@ export async function lesson(request, db, owner) {
     return json({ error: "Ongeldige selectie" }, 400);
   }
   const packages = await Promise.all(
-    ["badkamer.json", "keuken.json"].map((id) => content(db, id)),
+    ["badkamer.json", "keuken.json", "woonkamer.json"].map((id) => content(db, id)),
   );
   const data = {
     assets: packages.flatMap((p) => p.assets),

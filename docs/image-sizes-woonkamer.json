@@ -1,0 +1,1426 @@
+{
+  "sourceBytes": 125186433,
+  "files": [
+    {
+      "image": "woo-001",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-001-thumb-bc1ce538f0.avif",
+      "bytes": 2346
+    },
+    {
+      "image": "woo-001",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-001-thumb-b0cefe52e2.webp",
+      "bytes": 6344
+    },
+    {
+      "image": "woo-001",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-001-full-b4aa274be4.avif",
+      "bytes": 16024
+    },
+    {
+      "image": "woo-001",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-001-full-cb0de80f8c.webp",
+      "bytes": 38600
+    },
+    {
+      "image": "woo-002",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-002-thumb-b1d48a1c29.avif",
+      "bytes": 2442
+    },
+    {
+      "image": "woo-002",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-002-thumb-8c9e8ef677.webp",
+      "bytes": 6730
+    },
+    {
+      "image": "woo-002",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-002-full-e84c6a7dc0.avif",
+      "bytes": 18378
+    },
+    {
+      "image": "woo-002",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-002-full-96c74c20a5.webp",
+      "bytes": 46182
+    },
+    {
+      "image": "woo-003",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-003-thumb-6a7435bfeb.avif",
+      "bytes": 2634
+    },
+    {
+      "image": "woo-003",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-003-thumb-fcdc02b39b.webp",
+      "bytes": 8366
+    },
+    {
+      "image": "woo-003",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-003-full-bc7593e70d.avif",
+      "bytes": 22267
+    },
+    {
+      "image": "woo-003",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-003-full-b32371b2c7.webp",
+      "bytes": 56262
+    },
+    {
+      "image": "woo-004",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-004-thumb-bc16b00a79.avif",
+      "bytes": 2248
+    },
+    {
+      "image": "woo-004",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-004-thumb-056e4d8ae0.webp",
+      "bytes": 5980
+    },
+    {
+      "image": "woo-004",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-004-full-25327fa4f5.avif",
+      "bytes": 14586
+    },
+    {
+      "image": "woo-004",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-004-full-733ae09817.webp",
+      "bytes": 33712
+    },
+    {
+      "image": "woo-005",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-005-thumb-c80c25bf78.avif",
+      "bytes": 2339
+    },
+    {
+      "image": "woo-005",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-005-thumb-1be7f8a08c.webp",
+      "bytes": 6150
+    },
+    {
+      "image": "woo-005",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-005-full-913d599ddd.avif",
+      "bytes": 17431
+    },
+    {
+      "image": "woo-005",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-005-full-54393b21bf.webp",
+      "bytes": 41190
+    },
+    {
+      "image": "woo-006",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-006-thumb-68b9e70cfe.avif",
+      "bytes": 2345
+    },
+    {
+      "image": "woo-006",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-006-thumb-d0e9371c4f.webp",
+      "bytes": 6108
+    },
+    {
+      "image": "woo-006",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-006-full-a44aa3686b.avif",
+      "bytes": 15478
+    },
+    {
+      "image": "woo-006",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-006-full-c3f79115d8.webp",
+      "bytes": 34758
+    },
+    {
+      "image": "woo-007",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-007-thumb-59f3326b40.avif",
+      "bytes": 2375
+    },
+    {
+      "image": "woo-007",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-007-thumb-8c183da1a9.webp",
+      "bytes": 6050
+    },
+    {
+      "image": "woo-007",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-007-full-295b97d31e.avif",
+      "bytes": 15663
+    },
+    {
+      "image": "woo-007",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-007-full-3afaff6ac6.webp",
+      "bytes": 37686
+    },
+    {
+      "image": "woo-008",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-008-thumb-f61c4c0604.avif",
+      "bytes": 2302
+    },
+    {
+      "image": "woo-008",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-008-thumb-354f55eace.webp",
+      "bytes": 5494
+    },
+    {
+      "image": "woo-008",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-008-full-355c19e5ed.avif",
+      "bytes": 13378
+    },
+    {
+      "image": "woo-008",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-008-full-85cfe5c234.webp",
+      "bytes": 34876
+    },
+    {
+      "image": "woo-009",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-009-thumb-c499468599.avif",
+      "bytes": 2383
+    },
+    {
+      "image": "woo-009",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-009-thumb-c651957af0.webp",
+      "bytes": 6076
+    },
+    {
+      "image": "woo-009",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-009-full-c3f8a57786.avif",
+      "bytes": 16286
+    },
+    {
+      "image": "woo-009",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-009-full-832c303945.webp",
+      "bytes": 40430
+    },
+    {
+      "image": "woo-010",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-010-thumb-2eef8c30e3.avif",
+      "bytes": 2736
+    },
+    {
+      "image": "woo-010",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-010-thumb-1a62e5de11.webp",
+      "bytes": 9254
+    },
+    {
+      "image": "woo-010",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-010-full-9ce79fe558.avif",
+      "bytes": 30014
+    },
+    {
+      "image": "woo-010",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-010-full-3c462f3e77.webp",
+      "bytes": 80300
+    },
+    {
+      "image": "woo-011",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-011-thumb-73f7e8eabc.avif",
+      "bytes": 2185
+    },
+    {
+      "image": "woo-011",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-011-thumb-ec4fcf8c20.webp",
+      "bytes": 5884
+    },
+    {
+      "image": "woo-011",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-011-full-bb3d749bd2.avif",
+      "bytes": 17629
+    },
+    {
+      "image": "woo-011",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-011-full-e40a25a0aa.webp",
+      "bytes": 41436
+    },
+    {
+      "image": "woo-012",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-012-thumb-d82f437dd9.avif",
+      "bytes": 2723
+    },
+    {
+      "image": "woo-012",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-012-thumb-37b346b2cf.webp",
+      "bytes": 7038
+    },
+    {
+      "image": "woo-012",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-012-full-5481b57676.avif",
+      "bytes": 18537
+    },
+    {
+      "image": "woo-012",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-012-full-c9f5802ae0.webp",
+      "bytes": 43220
+    },
+    {
+      "image": "woo-013",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-013-thumb-1680159ac6.avif",
+      "bytes": 2647
+    },
+    {
+      "image": "woo-013",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-013-thumb-749535e758.webp",
+      "bytes": 6770
+    },
+    {
+      "image": "woo-013",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-013-full-949d8ebb01.avif",
+      "bytes": 16768
+    },
+    {
+      "image": "woo-013",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-013-full-2004c007bd.webp",
+      "bytes": 37504
+    },
+    {
+      "image": "woo-014",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-014-thumb-7e4f80a908.avif",
+      "bytes": 1668
+    },
+    {
+      "image": "woo-014",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-014-thumb-81e0a161cf.webp",
+      "bytes": 4054
+    },
+    {
+      "image": "woo-014",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-014-full-5e2a56c9d6.avif",
+      "bytes": 15604
+    },
+    {
+      "image": "woo-014",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-014-full-2949117c61.webp",
+      "bytes": 44388
+    },
+    {
+      "image": "woo-015",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-015-thumb-ded181f6f6.avif",
+      "bytes": 2353
+    },
+    {
+      "image": "woo-015",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-015-thumb-bd0887e1d0.webp",
+      "bytes": 6194
+    },
+    {
+      "image": "woo-015",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-015-full-f3f675cacf.avif",
+      "bytes": 13924
+    },
+    {
+      "image": "woo-015",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-015-full-740f4272ad.webp",
+      "bytes": 33188
+    },
+    {
+      "image": "woo-016",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-016-thumb-be10785c84.avif",
+      "bytes": 2400
+    },
+    {
+      "image": "woo-016",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-016-thumb-b51ce1f33f.webp",
+      "bytes": 6126
+    },
+    {
+      "image": "woo-016",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-016-full-2614c6153e.avif",
+      "bytes": 14583
+    },
+    {
+      "image": "woo-016",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-016-full-a19460862d.webp",
+      "bytes": 33098
+    },
+    {
+      "image": "woo-017",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-017-thumb-288387e7f3.avif",
+      "bytes": 2243
+    },
+    {
+      "image": "woo-017",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-017-thumb-91c02915a7.webp",
+      "bytes": 5966
+    },
+    {
+      "image": "woo-017",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-017-full-13a304eebf.avif",
+      "bytes": 16606
+    },
+    {
+      "image": "woo-017",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-017-full-695815efd6.webp",
+      "bytes": 38336
+    },
+    {
+      "image": "woo-018",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-018-thumb-0ce166f95a.avif",
+      "bytes": 2696
+    },
+    {
+      "image": "woo-018",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-018-thumb-2af86fce76.webp",
+      "bytes": 7506
+    },
+    {
+      "image": "woo-018",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-018-full-bf1a978eb0.avif",
+      "bytes": 19628
+    },
+    {
+      "image": "woo-018",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-018-full-e35302d907.webp",
+      "bytes": 49492
+    },
+    {
+      "image": "woo-019",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-019-thumb-f1550239c7.avif",
+      "bytes": 2771
+    },
+    {
+      "image": "woo-019",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-019-thumb-47ea05281a.webp",
+      "bytes": 7272
+    },
+    {
+      "image": "woo-019",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-019-full-48d09609e8.avif",
+      "bytes": 19089
+    },
+    {
+      "image": "woo-019",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-019-full-5d24f434ca.webp",
+      "bytes": 44410
+    },
+    {
+      "image": "woo-020",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-020-thumb-27b5538404.avif",
+      "bytes": 2736
+    },
+    {
+      "image": "woo-020",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-020-thumb-adb675dac4.webp",
+      "bytes": 6678
+    },
+    {
+      "image": "woo-020",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-020-full-8fbd68c731.avif",
+      "bytes": 17666
+    },
+    {
+      "image": "woo-020",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-020-full-5c5aacd94a.webp",
+      "bytes": 38768
+    },
+    {
+      "image": "woo-021",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-021-thumb-78ae56ac42.avif",
+      "bytes": 2466
+    },
+    {
+      "image": "woo-021",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-021-thumb-574cb63327.webp",
+      "bytes": 6704
+    },
+    {
+      "image": "woo-021",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-021-full-bc3f2466d9.avif",
+      "bytes": 18999
+    },
+    {
+      "image": "woo-021",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-021-full-36bf5fc877.webp",
+      "bytes": 44654
+    },
+    {
+      "image": "woo-022",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-022-thumb-3c79871534.avif",
+      "bytes": 2653
+    },
+    {
+      "image": "woo-022",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-022-thumb-16e211cf36.webp",
+      "bytes": 6786
+    },
+    {
+      "image": "woo-022",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-022-full-004dd34126.avif",
+      "bytes": 19889
+    },
+    {
+      "image": "woo-022",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-022-full-ed3bf52de8.webp",
+      "bytes": 46188
+    },
+    {
+      "image": "woo-023",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-023-thumb-b515824027.avif",
+      "bytes": 2722
+    },
+    {
+      "image": "woo-023",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-023-thumb-50bab6c479.webp",
+      "bytes": 7060
+    },
+    {
+      "image": "woo-023",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-023-full-612678bdc1.avif",
+      "bytes": 19998
+    },
+    {
+      "image": "woo-023",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-023-full-f3eef8c1ca.webp",
+      "bytes": 50312
+    },
+    {
+      "image": "woo-024",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-024-thumb-56267d6f09.avif",
+      "bytes": 2674
+    },
+    {
+      "image": "woo-024",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-024-thumb-2a46edf823.webp",
+      "bytes": 6762
+    },
+    {
+      "image": "woo-024",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-024-full-e0572a25c9.avif",
+      "bytes": 18882
+    },
+    {
+      "image": "woo-024",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-024-full-d983cfcdfa.webp",
+      "bytes": 42972
+    },
+    {
+      "image": "woo-025",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-025-thumb-5c4ee588b2.avif",
+      "bytes": 2840
+    },
+    {
+      "image": "woo-025",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-025-thumb-3789020be0.webp",
+      "bytes": 7600
+    },
+    {
+      "image": "woo-025",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-025-full-9e40557eee.avif",
+      "bytes": 20697
+    },
+    {
+      "image": "woo-025",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-025-full-4422c2efb4.webp",
+      "bytes": 48566
+    },
+    {
+      "image": "woo-026",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-026-thumb-2fac6c7103.avif",
+      "bytes": 2514
+    },
+    {
+      "image": "woo-026",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-026-thumb-9ffe2f8906.webp",
+      "bytes": 6382
+    },
+    {
+      "image": "woo-026",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-026-full-5dee25f08b.avif",
+      "bytes": 17668
+    },
+    {
+      "image": "woo-026",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-026-full-343a5aae76.webp",
+      "bytes": 40680
+    },
+    {
+      "image": "woo-027",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-027-thumb-e94b455e5e.avif",
+      "bytes": 2584
+    },
+    {
+      "image": "woo-027",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-027-thumb-7783f8f8c6.webp",
+      "bytes": 6400
+    },
+    {
+      "image": "woo-027",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-027-full-bc8a149de7.avif",
+      "bytes": 17588
+    },
+    {
+      "image": "woo-027",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-027-full-90f676bccb.webp",
+      "bytes": 40574
+    },
+    {
+      "image": "woo-028",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-028-thumb-0f24717600.avif",
+      "bytes": 2502
+    },
+    {
+      "image": "woo-028",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-028-thumb-5a64d2318c.webp",
+      "bytes": 6316
+    },
+    {
+      "image": "woo-028",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-028-full-242868171e.avif",
+      "bytes": 16803
+    },
+    {
+      "image": "woo-028",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-028-full-f34f6457b5.webp",
+      "bytes": 38088
+    },
+    {
+      "image": "woo-029",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-029-thumb-7b27c7cb52.avif",
+      "bytes": 2730
+    },
+    {
+      "image": "woo-029",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-029-thumb-75dd34805e.webp",
+      "bytes": 6788
+    },
+    {
+      "image": "woo-029",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-029-full-1d7f39f04c.avif",
+      "bytes": 17548
+    },
+    {
+      "image": "woo-029",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-029-full-39739be23d.webp",
+      "bytes": 40300
+    },
+    {
+      "image": "woo-030",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-030-thumb-22cabf6d23.avif",
+      "bytes": 2666
+    },
+    {
+      "image": "woo-030",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-030-thumb-0a297cc66e.webp",
+      "bytes": 6152
+    },
+    {
+      "image": "woo-030",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-030-full-1acc3fdd5c.avif",
+      "bytes": 16783
+    },
+    {
+      "image": "woo-030",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-030-full-12b67e8cc4.webp",
+      "bytes": 37668
+    },
+    {
+      "image": "woo-031",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-031-thumb-3db372a1c0.avif",
+      "bytes": 2491
+    },
+    {
+      "image": "woo-031",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-031-thumb-ee176f680c.webp",
+      "bytes": 6754
+    },
+    {
+      "image": "woo-031",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-031-full-a42c624f90.avif",
+      "bytes": 17896
+    },
+    {
+      "image": "woo-031",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-031-full-606331a18d.webp",
+      "bytes": 41688
+    },
+    {
+      "image": "woo-032",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-032-thumb-09b6b0a5c9.avif",
+      "bytes": 2525
+    },
+    {
+      "image": "woo-032",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-032-thumb-0c763eec89.webp",
+      "bytes": 6242
+    },
+    {
+      "image": "woo-032",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-032-full-825da66c8b.avif",
+      "bytes": 16057
+    },
+    {
+      "image": "woo-032",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-032-full-befffee63e.webp",
+      "bytes": 37878
+    },
+    {
+      "image": "woo-033",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-033-thumb-f3c3820b96.avif",
+      "bytes": 2794
+    },
+    {
+      "image": "woo-033",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-033-thumb-466d07ba7a.webp",
+      "bytes": 8262
+    },
+    {
+      "image": "woo-033",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-033-full-5c2f729e32.avif",
+      "bytes": 22044
+    },
+    {
+      "image": "woo-033",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-033-full-e2221003e8.webp",
+      "bytes": 54832
+    },
+    {
+      "image": "woo-034",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-034-thumb-1ae41fed19.avif",
+      "bytes": 2423
+    },
+    {
+      "image": "woo-034",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-034-thumb-4e58ae3949.webp",
+      "bytes": 6748
+    },
+    {
+      "image": "woo-034",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-034-full-96e87af14f.avif",
+      "bytes": 19473
+    },
+    {
+      "image": "woo-034",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-034-full-613632fc44.webp",
+      "bytes": 47928
+    },
+    {
+      "image": "woo-035",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-035-thumb-088e3f7533.avif",
+      "bytes": 2559
+    },
+    {
+      "image": "woo-035",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-035-thumb-d61315c99f.webp",
+      "bytes": 7220
+    },
+    {
+      "image": "woo-035",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-035-full-cb59356e15.avif",
+      "bytes": 19035
+    },
+    {
+      "image": "woo-035",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-035-full-e33d567062.webp",
+      "bytes": 46574
+    },
+    {
+      "image": "woo-036",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-036-thumb-2094477950.avif",
+      "bytes": 2357
+    },
+    {
+      "image": "woo-036",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-036-thumb-d171763d23.webp",
+      "bytes": 6076
+    },
+    {
+      "image": "woo-036",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-036-full-6597d81283.avif",
+      "bytes": 16569
+    },
+    {
+      "image": "woo-036",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-036-full-e7786ffc53.webp",
+      "bytes": 39616
+    },
+    {
+      "image": "woo-037",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-037-thumb-79073ac87e.avif",
+      "bytes": 2360
+    },
+    {
+      "image": "woo-037",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-037-thumb-f1fbf8186e.webp",
+      "bytes": 5974
+    },
+    {
+      "image": "woo-037",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-037-full-4697696379.avif",
+      "bytes": 26465
+    },
+    {
+      "image": "woo-037",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-037-full-b0a8d5d9c2.webp",
+      "bytes": 65332
+    },
+    {
+      "image": "woo-038",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-038-thumb-143c04d468.avif",
+      "bytes": 2552
+    },
+    {
+      "image": "woo-038",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-038-thumb-b325359587.webp",
+      "bytes": 6738
+    },
+    {
+      "image": "woo-038",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-038-full-58f220eeba.avif",
+      "bytes": 27320
+    },
+    {
+      "image": "woo-038",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-038-full-a5a9612eb1.webp",
+      "bytes": 63298
+    },
+    {
+      "image": "woo-039",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-039-thumb-be56a09a7b.avif",
+      "bytes": 2594
+    },
+    {
+      "image": "woo-039",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-039-thumb-bbd6f91615.webp",
+      "bytes": 7022
+    },
+    {
+      "image": "woo-039",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-039-full-db29499cb7.avif",
+      "bytes": 18454
+    },
+    {
+      "image": "woo-039",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-039-full-fe95b26497.webp",
+      "bytes": 43232
+    },
+    {
+      "image": "woo-040",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-040-thumb-abed111159.avif",
+      "bytes": 2596
+    },
+    {
+      "image": "woo-040",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-040-thumb-9f8f074e7d.webp",
+      "bytes": 6890
+    },
+    {
+      "image": "woo-040",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-040-full-79f1c12181.avif",
+      "bytes": 18136
+    },
+    {
+      "image": "woo-040",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-040-full-d3a3c9d230.webp",
+      "bytes": 41130
+    },
+    {
+      "image": "woo-041",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-041-thumb-74da6bf99f.avif",
+      "bytes": 2606
+    },
+    {
+      "image": "woo-041",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-041-thumb-732182463f.webp",
+      "bytes": 6528
+    },
+    {
+      "image": "woo-041",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-041-full-a996f27e7b.avif",
+      "bytes": 16533
+    },
+    {
+      "image": "woo-041",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-041-full-2bf06fd7ac.webp",
+      "bytes": 37478
+    },
+    {
+      "image": "woo-042",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-042-thumb-cbe66bf3ca.avif",
+      "bytes": 2573
+    },
+    {
+      "image": "woo-042",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-042-thumb-128422cf00.webp",
+      "bytes": 6768
+    },
+    {
+      "image": "woo-042",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-042-full-9857efffba.avif",
+      "bytes": 17243
+    },
+    {
+      "image": "woo-042",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-042-full-6ef517cca1.webp",
+      "bytes": 39448
+    },
+    {
+      "image": "woo-043",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-043-thumb-6ef96edad6.avif",
+      "bytes": 2540
+    },
+    {
+      "image": "woo-043",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-043-thumb-c4d7839966.webp",
+      "bytes": 6988
+    },
+    {
+      "image": "woo-043",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-043-full-4f3c222055.avif",
+      "bytes": 19394
+    },
+    {
+      "image": "woo-043",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-043-full-a5cc392eb2.webp",
+      "bytes": 44374
+    },
+    {
+      "image": "woo-044",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-044-thumb-c34aa9df35.avif",
+      "bytes": 2566
+    },
+    {
+      "image": "woo-044",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-044-thumb-41a3379f91.webp",
+      "bytes": 6526
+    },
+    {
+      "image": "woo-044",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-044-full-ed0c7a4dcb.avif",
+      "bytes": 18520
+    },
+    {
+      "image": "woo-044",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-044-full-e76f791f5e.webp",
+      "bytes": 42126
+    },
+    {
+      "image": "woo-045",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-045-thumb-d41ac95f27.avif",
+      "bytes": 2647
+    },
+    {
+      "image": "woo-045",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-045-thumb-700b981a8c.webp",
+      "bytes": 6870
+    },
+    {
+      "image": "woo-045",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-045-full-face2e00b0.avif",
+      "bytes": 18745
+    },
+    {
+      "image": "woo-045",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-045-full-df5ae4fd06.webp",
+      "bytes": 42772
+    },
+    {
+      "image": "woo-046",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-046-thumb-1484797914.avif",
+      "bytes": 2630
+    },
+    {
+      "image": "woo-046",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-046-thumb-5bf79459b6.webp",
+      "bytes": 6616
+    },
+    {
+      "image": "woo-046",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-046-full-80e1bcc70e.avif",
+      "bytes": 18504
+    },
+    {
+      "image": "woo-046",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-046-full-e98cea7390.webp",
+      "bytes": 41040
+    },
+    {
+      "image": "woo-047",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-047-thumb-39ed80aaa8.avif",
+      "bytes": 2662
+    },
+    {
+      "image": "woo-047",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-047-thumb-e075475944.webp",
+      "bytes": 6664
+    },
+    {
+      "image": "woo-047",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-047-full-71ff686120.avif",
+      "bytes": 18818
+    },
+    {
+      "image": "woo-047",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-047-full-9b67a285c9.webp",
+      "bytes": 45010
+    },
+    {
+      "image": "woo-048",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-048-thumb-ac1060d57d.avif",
+      "bytes": 2550
+    },
+    {
+      "image": "woo-048",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-048-thumb-facac86600.webp",
+      "bytes": 6240
+    },
+    {
+      "image": "woo-048",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-048-full-9560d875d1.avif",
+      "bytes": 17994
+    },
+    {
+      "image": "woo-048",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-048-full-3d26a38625.webp",
+      "bytes": 41460
+    },
+    {
+      "image": "woo-049",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-049-thumb-30ddeefbd4.avif",
+      "bytes": 2667
+    },
+    {
+      "image": "woo-049",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-049-thumb-e74c77b6ff.webp",
+      "bytes": 6634
+    },
+    {
+      "image": "woo-049",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-049-full-a71d0290a3.avif",
+      "bytes": 18471
+    },
+    {
+      "image": "woo-049",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-049-full-dec46b25d4.webp",
+      "bytes": 42614
+    },
+    {
+      "image": "woo-050",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/woonkamer/woo-050-thumb-2a7ed5f428.avif",
+      "bytes": 2647
+    },
+    {
+      "image": "woo-050",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/woonkamer/woo-050-thumb-6f30bd535b.webp",
+      "bytes": 6700
+    },
+    {
+      "image": "woo-050",
+      "size": "full",
+      "format": "avif",
+      "path": "images/woonkamer/woo-050-full-ff47234a0c.avif",
+      "bytes": 19185
+    },
+    {
+      "image": "woo-050",
+      "size": "full",
+      "format": "webp",
+      "path": "images/woonkamer/woo-050-full-650e523a14.webp",
+      "bytes": 45370
+    }
+  ],
+  "settings": {
+    "thumb": {
+      "edge": 256,
+      "avifQuality": 28,
+      "webpQuality": 45
+    },
+    "full": {
+      "edge": 768,
+      "overviewEdge": 960,
+      "avifQuality": 38,
+      "webpQuality": 58
+    },
+    "avifSpeed": 4,
+    "webpMethod": 6,
+    "metadata": "EXIF en overige bronmetadata niet overgenomen"
+  },
+  "totalBytes": 3558000,
+  "avifBytes": 1045512,
+  "avifFullBytes": 919250,
+  "webpBytes": 2512488,
+  "webpFullBytes": 2181038
+}
