@@ -12,6 +12,9 @@ const seeds = {
 };
 // A new registry release uses its own D1 key; old packages and teacher selections remain intact.
 const packageKeys = {
+  "badkamer.json": "badkamer-20260916-imperatief-v1.json",
+  "keuken.json": "keuken-20260916-imperatief-v1.json",
+  "woonkamer.json": "woonkamer-20260916-imperatief-v1.json",
   "collections.json": "collections-20260916-woonkamer-v1.json",
 };
 const allContent = {
@@ -98,10 +101,12 @@ export function validItems(items, data = allContent) {
     return (
       item.type === "sequence" &&
       Object.keys(item).every((k) =>
-        ["type", "id", "uid", "mode", "level", "help", "order"].includes(k),
+        ["type", "id", "uid", "mode", "level", "help", "order", "instructionForm"].includes(k),
       ) &&
       data.sequences.some((s) => s.id === item.id) &&
       ["nu", "volgorde", "instructie", "verleden"].includes(item.mode) &&
+      (!Object.hasOwn(item, "instructionForm") ||
+        ["moet", "imperatief"].includes(item.instructionForm)) &&
       ["A2", "B1"].includes(item.level) &&
       ["none", "words", "starters"].includes(item.help) &&
       Array.isArray(item.order) &&

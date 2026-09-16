@@ -80,3 +80,9 @@ Op 15 september 2026 is Keuken & koken toegevoegd. Het actuele register gebruikt
 De woonkamer voegt 50 beelden en drie vierstapsreeksen toe. Het register gebruikt D1-pakketsleutel `collections-20260916-woonkamer-v1.json`, naast het nieuwe pakket `woonkamer.json`. Bestaande pakketten en docentselecties blijven intact. Beeldnummers 2001–2050 voorkomen overlap met badkamer en keuken. De 200 compacte beeldvarianten worden vóór de Worker-publicatie geüpload met `node scripts/upload-images.mjs woonkamer`.
 
 Gepubliceerd op 16 september 2026 als Worker-versie `394eea79-54d6-4aa6-a32f-ca552d640825`. Alle 22 tests slagen. De openbare collectiegegevens en alle 200 AVIF/WebP-bestanden zijn zonder cookies opgehaald en byte voor byte vergeleken met de lokale bestanden. De browsercontrole bevestigt Woonkamer onder Het huis en de complete collectie; de vierstapsweergave en voorbeeldzinnen zijn lokaal visueel gecontroleerd.
+
+## Instructievormen
+
+De collectiepakketten gebruiken nu de D1-sleutels `badkamer-20260916-imperatief-v1.json`, `keuken-20260916-imperatief-v1.json` en `woonkamer-20260916-imperatief-v1.json`. Deze bevatten per reeks vier expliciete gebiedende-wijszinnen. De publieke URLs blijven gelijk; eerdere pakketten en lesselecties blijven behouden. Lesitems ondersteunen het optionele veld `instructionForm` (`moet` of `imperatief`); zonder dit veld blijft het bestaande gedrag gelden. De docentnotitie verschijnt uitsluitend bij de voorbereiding van de gebiedende wijs.
+
+Gepubliceerd op 16 september 2026 als `ea2e4350-7ea5-4b50-af52-1c0653480eab`; 23 tests slagen. Alle drie live collectiepakketten en de appcode komen overeen met de lokale bron. In de browser zijn docentnotitie, gebiedende-wijszinnen, zinsstarters en opslag na herladen gecontroleerd. Het tijdelijke testitem is verwijderd.

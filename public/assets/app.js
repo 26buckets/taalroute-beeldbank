@@ -40,7 +40,7 @@ import { indexCollections } from "./collection-data.js";
   const modeNames = {
       nu: "Nu",
       volgorde: "Eerst–dan",
-      instructie: "Je moet",
+      instructie: "Instructie",
       verleden: "Ik heb",
     },
     modeLong = {
@@ -519,6 +519,9 @@ import { indexCollections } from "./collection-data.js";
         : "") +
       "</div></div></div>";
   }
+  function isImperative(c) {
+    return c.mode === "instructie" && c.instructionForm === "imperatief";
+  }
   function prompt(c) {
     const s = S(c.id);
     const text = {
@@ -528,14 +531,17 @@ import { indexCollections } from "./collection-data.js";
         " op de foto’s? Vertel bij iedere foto wat je ziet.",
       volgorde:
         "Vertel wat er eerst gebeurt en wat daarna gebeurt. Gebruik eerst, dan, daarna en ten slotte.",
-      instructie:
-        "Leg aan iemand uit wat die moet doen. Begin je zinnen met “Je moet”.",
+      instructie: isImperative(c)
+        ? "Geef bij iedere foto een instructie in de gebiedende wijs. Begin met het werkwoord, bijvoorbeeld: “" + s.imperative[0] + "”"
+        : "Leg aan iemand uit wat die moet doen. Begin je zinnen met “Je moet”.",
       verleden:
         "Stel je voor: jij hebt deze handelingen vanochtend gedaan. Vertel achteraf wat je hebt gedaan. Begin met “Ik heb”.",
     }[c.mode];
     return (
       text +
-      (c.level === "B1"
+      (isImperative(c)
+        ? " Geef de instructies in een logische volgorde."
+        : c.level === "B1"
         ? " Verbind je zinnen tot één verhaal."
         : " Gebruik korte, volledige zinnen.")
     );
@@ -548,7 +554,7 @@ import { indexCollections } from "./collection-data.js";
           c.mode === "verleden"
             ? "past"
             : c.mode === "instructie"
-              ? "instruction"
+              ? (isImperative(c) ? "imperative" : "instruction")
               : "order"
         ];
   }
@@ -559,7 +565,7 @@ import { indexCollections } from "./collection-data.js";
     return c.mode === "nu"
       ? s.pronoun + " …"
       : c.mode === "instructie"
-        ? "Je moet …"
+        ? (isImperative(c) ? s.imperative[idx].split(" ")[0] + " …" : "Je moet …")
         : c.mode === "verleden"
           ? "Ik heb …"
           : ["Eerst …", "Dan …", "Daarna …", "Ten slotte …"][pos];
@@ -677,12 +683,24 @@ import { indexCollections } from "./collection-data.js";
       (c.help === "words" ? "selected" : "") +
       '>Kernwoorden</option><option value="starters" ' +
       (c.help === "starters" ? "selected" : "") +
-      '>Zinsstarters</option></select></label></div><section class="bath-prompt"><strong>' +
+      '>Zinsstarters</option></select></label>' +
+      (c.mode === "instructie"
+        ? '<label class="bath-field" for="bath-instruction-form">Instructievorm<select id="bath-instruction-form"><option value="moet" ' +
+          (!isImperative(c) ? "selected" : "") +
+          '>Je moet …</option><option value="imperatief" ' +
+          (isImperative(c) ? "selected" : "") +
+          '>Gebiedende wijs (imperatief)</option></select></label>'
+        : "") +
+      '</div>' +
+      (isImperative(c)
+        ? '<aside class="bath-notice"><strong>Voor de docent · dagelijks taalgebruik</strong><p>De gebiedende wijs is bruikbaar om instructies te geven in het dagelijks leven. Voor de examenvoorbereiding adviseren we in deze beeldbank de vorm “Je moet …”. De gebiedende wijs wordt hier niet als examenantwoord geadviseerd.</p></aside>'
+        : "") +
+      '<section class="bath-prompt"><strong>' +
       modeLong[c.mode] +
       "</strong><p>" +
       esc(prompt(c)) +
       "</p>" +
-      (c.level === "B1" ? "<p>" + esc(s.b1) + "</p>" : "") +
+      (c.level === "B1" && !isImperative(c) ? "<p>" + esc(s.b1) + "</p>" : "") +
       "</section>" +
       panelSet(c) +
       (c.mode === "volgorde"
@@ -718,7 +736,7 @@ import { indexCollections } from "./collection-data.js";
                 esc(name(c)) +
                 '</strong><p class="bath-muted">' +
                 (c.type === "sequence"
-                  ? modeNames[c.mode] +
+                  ? (c.mode === "instructie" ? (isImperative(c) ? "Gebiedende wijs" : "Je moet") : modeNames[c.mode]) +
                     " · " +
                     c.level +
                     " · " +
@@ -775,7 +793,7 @@ import { indexCollections } from "./collection-data.js";
           "</h1><p>" +
           esc(prompt(c)) +
           "</p>" +
-          (c.level === "B1" ? "<p>" + esc(S(c.id).b1) + "</p>" : "") +
+          (c.level === "B1" && !isImperative(c) ? "<p>" + esc(S(c.id).b1) + "</p>" : "") +
           panelSet(c, true)
         : photo(c.n, A(c.n).description, "bath-board-photo", "full", true) +
           (board.words
@@ -1009,6 +1027,10 @@ import { indexCollections } from "./collection-data.js";
         break;
       case "bath-level":
         draft.level = e.target.value;
+        updateEdited();
+        break;
+      case "bath-instruction-form":
+        draft.instructionForm = e.target.value;
         updateEdited();
         break;
       case "bath-help":

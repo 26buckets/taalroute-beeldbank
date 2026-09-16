@@ -189,7 +189,7 @@ test("collectie-initialisatie behoudt latere inhoudswijzigingen in D1", async ()
   assert.equal(data.assets.length, 50);
   db.sql
     .prepare("UPDATE content_packages SET payload=? WHERE id=?")
-    .run('{"edited":true}', "badkamer.json");
+    .run('{"edited":true}', "badkamer-20260916-imperatief-v1.json");
   assert.deepEqual(await content(db, "badkamer.json"), { edited: true });
   assert.equal(await content(db, "unlisted.json"), null);
 });
@@ -323,4 +323,29 @@ test("publicatie van woonkamerregister behoudt eerdere D1-inhoud en docentselect
     ).json(),
     { items, revision: 1 },
   );
+});
+
+test("instructievormen blijven bewaard; oude lessen en inhoud blijven beschikbaar", async () => {
+  const db = database();
+  for (const id of ["badkamer.json", "keuken.json", "woonkamer.json"]) {
+    db.sql.prepare("INSERT INTO content_packages(id,payload) VALUES (?,?)")
+      .run(id, '{"previous":true}');
+    const data = await content(db, id);
+    for (const sequence of data.sequences) {
+      assert.equal(sequence.imperative.length, 4);
+      assert.ok(sequence.imperative.every(text => text.trim().endsWith(".")));
+    }
+    assert.equal(db.sql.prepare("SELECT payload FROM content_packages WHERE id=?").get(id).payload, '{"previous":true}');
+  }
+  const base = { type: "sequence", id: "seq-keuken-groente", mode: "instructie", level: "A2", help: "starters", order: [0, 1, 2, 3] };
+  const items = [
+    { ...base, uid: 1 },
+    { ...base, uid: 2, instructionForm: "moet" },
+    { ...base, uid: 3, instructionForm: "imperatief" },
+  ];
+  assert.equal((await handle(req("/api/lesson", { items, revision: 0 }), { DB: db }, async () => "forms")).status, 200);
+  assert.deepEqual(await (await handle(req("/api/lesson"), { DB: db }, async () => "forms")).json(), { items, revision: 1 });
+  for (const value of [null, "unknown", 3]) {
+    assert.equal((await handle(req("/api/lesson", { items: [{ ...base, uid: 1, instructionForm: value }], revision: 1 }), { DB: db }, async () => "forms")).status, 400);
+  }
 });

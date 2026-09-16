@@ -1222,7 +1222,13 @@
         "het bord · opscheppen"
       ],
       "b1": "Vertel de vier handelingen in samenhang. De docent kan een tijdsvorm kiezen.",
-      "note": "Samengesteld uit drie losse handelingen en één beschikbaar reeksbeeld. Kleding en schort verschillen tussen de foto’s. Gebruik de beelden om de handelingen te ordenen."
+      "note": "Samengesteld uit drie losse handelingen en één beschikbaar reeksbeeld. Kleding en schort verschillen tussen de foto’s. Gebruik de beelden om de handelingen te ordenen.",
+      "imperative": [
+        "Was de paprika.",
+        "Snijd de paprika.",
+        "Bak de groente.",
+        "Schep de groente op een bord."
+      ]
     }
   ],
   "methodLinks": []

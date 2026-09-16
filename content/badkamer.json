@@ -1153,7 +1153,13 @@
       ],
       "note": "Bij stap 3 is mond spoelen de bedoelde context; de losse foto kan ook op drinken lijken. Dit is een taaloefening over de afgebeelde routine.",
       "b1": "Vergelijk deze routine met jouw eigen routine. Noem een verschil en leg dat uit.",
-      "shuffle": true
+      "shuffle": true,
+      "imperative": [
+        "Doe tandpasta op de tandenborstel.",
+        "Poets je tanden.",
+        "Spoel je mond met water.",
+        "Zet de tandenborstel terug in de beker."
+      ]
     },
     {
       "id": "seq-handen",
@@ -1198,7 +1204,13 @@
       ],
       "note": "Deze vier beelden tonen een deel van de routine. De kraan sluiten en handen afdrogen ontbreken. De oefening presenteert dit niet als volledig hygiëneprotocol.",
       "b1": "Welke handeling zou je hierna nog doen? Leg uit waarom je die toevoegt.",
-      "shuffle": true
+      "shuffle": true,
+      "imperative": [
+        "Doe de kraan open.",
+        "Doe zeep op je hand.",
+        "Wrijf je handen met zeep tegen elkaar.",
+        "Spoel je handen af."
+      ]
     },
     {
       "id": "seq-scheren",
@@ -1243,7 +1255,13 @@
       ],
       "note": "De twee middelste handelingen mogen ook omgekeerd. Gebruik de getoonde volgorde voor vertellen; er is geen unieke juiste middenvolgorde.",
       "b1": "Kunnen twee stappen ook in een andere volgorde? Licht je antwoord toe.",
-      "shuffle": false
+      "shuffle": false,
+      "imperative": [
+        "Smeer scheerschuim op je wang.",
+        "Scheer je wang.",
+        "Scheer je kin.",
+        "Spoel je gezicht af."
+      ]
     }
   ],
   "status": "Proefinhoud: beeldbeschrijvingen visueel gecontroleerd; oefenprofielen voorgesteld, nog niet didactisch gevalideerd.",

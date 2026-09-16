@@ -1091,7 +1091,13 @@
         "afnemen · de tafel · de doek"
       ],
       "b1": "Vertel de vier handelingen in samenhang. De docent kan een tijdsvorm kiezen.",
-      "note": "Laat de cursist vertellen wat er met de boeken en de tafel gebeurt. De boeken verschillen in formaat; benoemen van de titels is niet nodig."
+      "note": "Laat de cursist vertellen wat er met de boeken en de tafel gebeurt. De boeken verschillen in formaat; benoemen van de titels is niet nodig.",
+      "imperative": [
+        "Pak het boek van de tafel.",
+        "Leg de boeken op elkaar.",
+        "Zet de boeken in de kast.",
+        "Neem de tafel af."
+      ]
     },
     {
       "id": "woo-plant-verzorgen",
@@ -1134,7 +1140,13 @@
         "terugzetten · de gieter · de vloer"
       ],
       "b1": "Vertel de vier handelingen in samenhang. De docent kan een tijdsvorm kiezen.",
-      "note": "Laat de cursist de vier handelingen beschrijven. Bespreek eventueel waarom je eerst aan de aarde voelt."
+      "note": "Laat de cursist de vier handelingen beschrijven. Bespreek eventueel waarom je eerst aan de aarde voelt.",
+      "imperative": [
+        "Voel aan de aarde.",
+        "Pak de gieter.",
+        "Geef de plant water.",
+        "Zet de gieter terug."
+      ]
     },
     {
       "id": "woo-bezoek-ontvangen",
@@ -1177,7 +1189,13 @@
         "aanbieden · het glas · het water"
       ],
       "b1": "Vertel de vier handelingen in samenhang. De docent kan een tijdsvorm kiezen.",
-      "note": "De man ontvangt het bezoek. Laat de cursist ook oefenen met: Kom binnen, ga zitten en wil je een glas water?"
+      "note": "De man ontvangt het bezoek. Laat de cursist ook oefenen met: Kom binnen, ga zitten en wil je een glas water?",
+      "imperative": [
+        "Open de deur voor het bezoek.",
+        "Neem de jas aan.",
+        "Bied een plaats aan.",
+        "Bied een glas water aan."
+      ]
     }
   ],
   "methodLinks": []

@@ -15,7 +15,7 @@ Open daarna <http://127.0.0.1:8852>. Ook `npm start` start deze lokale server. O
 ## Proberen
 
 1. Open **Het huis** en vervolgens **Badkamer & verzorging**. Alle 50 beeldkaarten en de drie reeksen staan op één pagina, zonder paginering.
-2. Open **Oefen tandenpoetsen** en kies **Nu**, **Eerst–dan**, **Je moet** of **Ik heb**.
+2. Open **Oefen tandenpoetsen** en kies **Nu**, **Eerst–dan**, **Instructie** of **Ik heb**. Bij Instructie kies je **Je moet …** of **Gebiedende wijs (imperatief)**.
 3. Kies een niveau en kernwoorden of zinsstarters.
 4. Voeg de reeks toe aan je les of kies **Toon op bord**.
 5. Open een beeldkaart voor de letterlijke beschrijving, woorden, gebruikssituaties en eventuele docentnotitie.
@@ -84,3 +84,5 @@ De app is gehost op Cloudflare. Er is geen externe dienst nodig voor de losse lo
 ## Woonkamer
 
 [Open Woonkamer](https://beeldbank.taalroute.nl/#woonkamer). De collectie bevat 18 voorwerpen, 12 handelingen, 6 plaatsbeelden, 2 overzichten en 12 stappen. De drie reeksen zijn De woonkamer opruimen, De kamerplant verzorgen en Bezoek ontvangen. Alle 50 beelden en drie reeksen staan op één pagina. De AVIF-set inclusief miniaturen is 1,05 MB; met WebP-terugval is dit 3,56 MB. Zie [het bestandsgrootterapport](docs/image-sizes-woonkamer.json).
+
+De gebiedende wijs heeft voor alle zeven reeksen eigen voorbeeldzinnen en zinsstarters. De docentvoorbereiding vermeldt dat deze optie dagelijks taalgebruik oefent en hier niet als examenantwoord wordt geadviseerd. De lesselectie bewaart de gekozen instructievorm; bestaande lessen blijven standaard “Je moet …” gebruiken.
