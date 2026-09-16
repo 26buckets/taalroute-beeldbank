@@ -1,5 +1,5 @@
 {
-  "sourceBytes": 99278029,
+  "sourceBytes": 99057784,
   "files": [
     {
       "image": "bav-001",
@@ -1041,29 +1041,29 @@
       "image": "bav-038",
       "size": "thumb",
       "format": "avif",
-      "path": "images/badkamer/bav-038-thumb-2cffab3920.avif",
-      "bytes": 1891
+      "path": "images/badkamer/bav-038-thumb-b1acbb123d.avif",
+      "bytes": 1778
     },
     {
       "image": "bav-038",
       "size": "thumb",
       "format": "webp",
-      "path": "images/badkamer/bav-038-thumb-20573476ec.webp",
-      "bytes": 4026
+      "path": "images/badkamer/bav-038-thumb-6fd2b5cf73.webp",
+      "bytes": 3916
     },
     {
       "image": "bav-038",
       "size": "full",
       "format": "avif",
-      "path": "images/badkamer/bav-038-full-ca4316030f.avif",
-      "bytes": 18822
+      "path": "images/badkamer/bav-038-full-f9a5f4b55a.avif",
+      "bytes": 17874
     },
     {
       "image": "bav-038",
       "size": "full",
       "format": "webp",
-      "path": "images/badkamer/bav-038-full-b94f143748.webp",
-      "bytes": 42718
+      "path": "images/badkamer/bav-038-full-7d3c0a9175.webp",
+      "bytes": 38890
     },
     {
       "image": "bav-039",
@@ -1418,9 +1418,9 @@
     "webpMethod": 6,
     "metadata": "EXIF en overige bronmetadata niet overgenomen"
   },
-  "totalBytes": 2084128,
-  "avifBytes": 680384,
-  "avifFullBytes": 583677,
-  "webpBytes": 1403744,
-  "webpFullBytes": 1206868
+  "totalBytes": 2079129,
+  "avifBytes": 679323,
+  "avifFullBytes": 582729,
+  "webpBytes": 1399806,
+  "webpFullBytes": 1203040
 }

@@ -34,7 +34,7 @@ De header volgt de gedeelde Spreektijd-opbouw: 60 pixels hoog, het bestaande Taa
 - Alle 53 kaarten van de badkamercollectie staan tegelijk in het overzicht: 50 beelden en drie oefenreeksen. Zoeken en sorteren werken op de complete verzameling.
 - De catalogus gebruikt miniaturen die tijdens het scrollen worden geladen. Grotere foto's worden alleen bij het overzicht, een beeldkaart of een geopende reeks geladen.
 - Foto's staan als losse bestanden met een inhoudshash in hun naam. Geen base64, originele PNG's, externe fonts of runtimepakketten.
-- De originele 50 PNG's zijn samen **99,28 MB**. De 50 AVIF-weergavebeelden zijn samen **583,7 kB**, met **96,7 kB** extra voor alle miniaturen. Inclusief alle WebP-terugvalbestanden staat er **2,08 MB** beeldmateriaal in de repository. Een browser laadt per beeld één formaat.
+- De originele 50 PNG's zijn samen **99,06 MB**. De 50 AVIF-weergavebeelden zijn samen **582,7 kB**, met **96,6 kB** extra voor alle miniaturen. Inclusief alle WebP-terugvalbestanden staat er **2,08 MB** beeldmateriaal in de repository. Een browser laadt per beeld één formaat.
 
 De nieuwe huiscover voegt een AVIF van 44,1 kB en een miniatuur van 5,5 kB toe; inclusief WebP-terugval zijn de vier huisbestanden samen 186,1 kB. [Afbeelding en gebruikte prompt](docs/huis-afbeelding.md).
 

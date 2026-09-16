@@ -818,27 +818,32 @@
       "id": "bav-038",
       "n": 38,
       "title": "De badkamer · overzicht 2",
-      "description": "Een badkamer met een toilet, een wastafel met spiegel, een douche, handdoeken, planten en een wasmand.",
+      "description": "Een badkamer met links een ligbad onder het raam, rechts een blauwe wastafelkast met een ronde spiegel, een houten badkamerkast, een handdoekenradiator en een wasmand.",
       "words": [
         "de badkamer",
-        "het toilet",
+        "het bad",
         "de wastafel",
         "de spiegel",
-        "de douche",
+        "de badkamerkast",
+        "de handdoekenradiator",
+        "het raam",
+        "het rolgordijn",
         "de wasmand",
-        "de plant"
+        "de badmat",
+        "de handdoek"
       ],
       "uses": [
         "wonen",
         "inrichting",
         "voorwerpen benoemen",
+        "plaats aangeven",
         "vergelijken"
       ],
       "type": "OVZ",
-      "note": "Geschikt om met overzicht 1 te vergelijken. Controleer aantallen steeds op dit beeld zelf.",
-      "source": "https://drive.google.com/file/d/1CLO4I791SclYQohhxjjJMzkIoLLbvguK/view?usp=drivesdk",
-      "sourceName": "WB_BAV_038_badkamer_overzicht_02_OVZ_v01.png",
-      "version": 1
+      "note": "Vergelijk met overzicht 1: benoem de verschillende voorwerpen en vertel waar ze staan. Bijvoorbeeld: het bad staat links, onder het raam.",
+      "source": "https://drive.google.com/drive/folders/1EWL-GS_2loVG-bBtTi2KLq7pbq3M26Bv",
+      "sourceName": "WB_BAV_038_badkamer_overzicht_02_OVZ_v02.png",
+      "version": 2
     },
     {
       "id": "bav-039",

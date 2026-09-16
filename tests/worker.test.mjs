@@ -189,7 +189,7 @@ test("collectie-initialisatie behoudt latere inhoudswijzigingen in D1", async ()
   assert.equal(data.assets.length, 50);
   db.sql
     .prepare("UPDATE content_packages SET payload=? WHERE id=?")
-    .run('{"edited":true}', "badkamer-20260916-imperatief-v1.json");
+    .run('{"edited":true}', "badkamer-20260916-overzicht2-v2.json");
   assert.deepEqual(await content(db, "badkamer.json"), { edited: true });
   assert.equal(await content(db, "unlisted.json"), null);
 });
