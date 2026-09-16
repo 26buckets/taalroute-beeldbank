@@ -3,7 +3,7 @@
     "id": "keuken-koken",
     "title": "Keuken & koken",
     "source": "https://drive.google.com/drive/folders/1XzzfCRMAVCDhowPeSxJrkXA3GnRSKceg",
-    "imageCount": 51,
+    "imageCount": 54,
     "independentImages": 50,
     "sequences": 1
   },
@@ -1156,6 +1156,77 @@
       "version": 1
     },
     {
+      "id": "kee-051",
+      "n": 1051,
+      "sourceNumber": 51,
+      "title": "Paprika’s wassen",
+      "description": "Een vrouw wast een rode en een gele paprika onder de stromende kraan.",
+      "words": [
+        "de paprika",
+        "de kraan",
+        "wassen"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "koken",
+        "volgorde vertellen",
+        "instructies geven"
+      ],
+      "type": "REE",
+      "note": "",
+      "source": "https://drive.google.com/drive/folders/1UllEAFjk_oo5PTUo3ZAP-WoJ35YOgCFY",
+      "sourceName": "WB_KEE_051_groente_bereiden_stap_01_REE_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-052",
+      "n": 1052,
+      "sourceNumber": 52,
+      "title": "Paprika snijden",
+      "description": "Dezelfde vrouw snijdt rode paprika op een houten snijplank.",
+      "words": [
+        "de paprika",
+        "het mes",
+        "de snijplank",
+        "snijden"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "koken",
+        "volgorde vertellen",
+        "instructies geven"
+      ],
+      "type": "REE",
+      "note": "",
+      "source": "https://drive.google.com/drive/folders/1UllEAFjk_oo5PTUo3ZAP-WoJ35YOgCFY",
+      "sourceName": "WB_KEE_052_groente_bereiden_stap_02_REE_v01.png",
+      "version": 1
+    },
+    {
+      "id": "kee-053",
+      "n": 1053,
+      "sourceNumber": 53,
+      "title": "Paprika bakken",
+      "description": "Dezelfde vrouw bakt rode en gele paprika in een koekenpan en roert met een houten spatel.",
+      "words": [
+        "de paprika",
+        "de koekenpan",
+        "de spatel",
+        "bakken"
+      ],
+      "uses": [
+        "handelingen beschrijven",
+        "koken",
+        "volgorde vertellen",
+        "instructies geven"
+      ],
+      "type": "REE",
+      "note": "",
+      "source": "https://drive.google.com/drive/folders/1UllEAFjk_oo5PTUo3ZAP-WoJ35YOgCFY",
+      "sourceName": "WB_KEE_053_groente_bereiden_stap_03_REE_v01.png",
+      "version": 1
+    },
+    {
       "id": "kee-054",
       "n": 1054,
       "sourceNumber": 54,
@@ -1186,31 +1257,31 @@
       "title": "Groente bereiden",
       "pronoun": "Zij",
       "steps": [
-        1032,
-        1021,
-        1034,
+        1051,
+        1052,
+        1053,
         1054
       ],
       "verbs": [
-        "wast de paprika",
+        "wast de paprika’s",
         "snijdt de paprika",
         "bakt de groente",
         "schept de groente op een bord"
       ],
       "instruction": [
-        "Je moet de paprika wassen.",
+        "Je moet de paprika’s wassen.",
         "Je moet de paprika snijden.",
         "Je moet de groente bakken.",
         "Je moet de groente op een bord scheppen."
       ],
       "past": [
-        "Ik heb de paprika gewassen.",
+        "Ik heb de paprika’s gewassen.",
         "Ik heb de paprika gesneden.",
         "Ik heb de groente gebakken.",
         "Ik heb de groente op een bord geschept."
       ],
       "order": [
-        "Eerst wast zij de paprika.",
+        "Eerst wast zij de paprika’s.",
         "Dan snijdt zij de paprika.",
         "Daarna bakt zij de groente.",
         "Ten slotte schept zij de groente op een bord."
@@ -1222,9 +1293,9 @@
         "het bord · opscheppen"
       ],
       "b1": "Vertel de vier handelingen in samenhang. De docent kan een tijdsvorm kiezen.",
-      "note": "Samengesteld uit drie losse handelingen en één beschikbaar reeksbeeld. Kleding en schort verschillen tussen de foto’s. Gebruik de beelden om de handelingen te ordenen.",
+      "note": "Vier stappen met dezelfde vrouw en dezelfde kleding. Laat de cursist wassen, snijden, bakken en opscheppen beschrijven.",
       "imperative": [
-        "Was de paprika.",
+        "Was de paprika’s.",
         "Snijd de paprika.",
         "Bak de groente.",
         "Schep de groente op een bord."

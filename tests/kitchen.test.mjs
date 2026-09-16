@@ -9,7 +9,7 @@ const bathroom = await read("public/data/badkamer.json");
 const kitchen = await read("public/data/keuken.json");
 test("keuken en badkamer behouden unieke verwijzingen in een gemengde les", () => {
   const library = indexCollections([bathroom, kitchen]);
-  assert.equal(library.assets.size, 101);
+  assert.equal(library.assets.size, 104);
   assert.equal(library.assets.get(1).title, "De tandenborstel");
   assert.equal(library.assets.get(1001).title, "Het bord");
   assert.equal(library.assets.get(1001).collectionId, "keuken-koken");
@@ -61,11 +61,21 @@ test("keuken heeft complete metadata, een bestaande vierstapsreeks en compacte b
       }
     }
   }
-  assert.ok(avifBytes < 800000);
+  assert.ok(avifBytes < 850000);
   for (const s of kitchen.sequences) {
     assert.equal(new Set(s.steps).size, 4);
     for (const n of s.steps) assert.ok(kitchen.assets.some((a) => a.n === n));
     for (const key of ["verbs", "instruction", "past", "order", "keywords"])
       assert.equal(s[key].length, 4);
   }
+});
+
+test("groentereeks gebruikt originele stappen en behoudt de verschillende losse acties", () => {
+  assert.deepEqual(kitchen.sequences[0].steps, [1051, 1052, 1053, 1054]);
+  assert.equal(kitchen.assets.length, 54);
+  for (const n of [1021, 1025, 1032, 1034])
+    assert.equal(kitchen.assets.find(a => a.n === n).type, "ACT");
+  assert.equal(kitchen.assets.filter(a => a.n === 1054).length, 1);
+  for (const n of kitchen.sequences[0].steps)
+    assert.equal(kitchen.assets.find(a => a.n === n).type, "REE");
 });

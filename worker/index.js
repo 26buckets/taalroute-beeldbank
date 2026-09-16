@@ -13,7 +13,7 @@ const seeds = {
 // A new registry release uses its own D1 key; old packages and teacher selections remain intact.
 const packageKeys = {
   "badkamer.json": "badkamer-20260916-imperatief-v1.json",
-  "keuken.json": "keuken-20260916-imperatief-v1.json",
+  "keuken.json": "keuken-20260916-originele-reeks-v1.json",
   "woonkamer.json": "woonkamer-20260916-imperatief-v1.json",
   "collections.json": "collections-20260916-woonkamer-v1.json",
 };

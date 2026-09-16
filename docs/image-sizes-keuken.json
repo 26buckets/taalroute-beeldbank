@@ -1,5 +1,5 @@
 {
-  "sourceBytes": 98749779,
+  "sourceBytes": 105325006,
   "files": [
     {
       "image": "kee-001",
@@ -1428,6 +1428,90 @@
       "format": "webp",
       "path": "images/keuken/kee-054-full-7ea79b97c1.webp",
       "bytes": 23846
+    },
+    {
+      "image": "kee-051",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-051-thumb-9ad1981aef.avif",
+      "bytes": 2201
+    },
+    {
+      "image": "kee-051",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-051-thumb-2e3ffc19a3.webp",
+      "bytes": 5024
+    },
+    {
+      "image": "kee-051",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-051-full-bbe8a796c3.avif",
+      "bytes": 13443
+    },
+    {
+      "image": "kee-051",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-051-full-f678a41791.webp",
+      "bytes": 27256
+    },
+    {
+      "image": "kee-052",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-052-thumb-81e0ada5fd.avif",
+      "bytes": 2158
+    },
+    {
+      "image": "kee-052",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-052-thumb-b0e2663077.webp",
+      "bytes": 4804
+    },
+    {
+      "image": "kee-052",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-052-full-fdf336f85a.avif",
+      "bytes": 12839
+    },
+    {
+      "image": "kee-052",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-052-full-82d7b11c42.webp",
+      "bytes": 25256
+    },
+    {
+      "image": "kee-053",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/keuken/kee-053-thumb-31858202f7.avif",
+      "bytes": 2001
+    },
+    {
+      "image": "kee-053",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/keuken/kee-053-thumb-1127cf6084.webp",
+      "bytes": 4418
+    },
+    {
+      "image": "kee-053",
+      "size": "full",
+      "format": "avif",
+      "path": "images/keuken/kee-053-full-3d19b88a2e.avif",
+      "bytes": 11239
+    },
+    {
+      "image": "kee-053",
+      "size": "full",
+      "format": "webp",
+      "path": "images/keuken/kee-053-full-4c13dfcb30.webp",
+      "bytes": 21978
     }
   ],
   "settings": {
@@ -1446,9 +1530,9 @@
     "webpMethod": 6,
     "metadata": "EXIF en overige bronmetadata niet overgenomen"
   },
-  "totalBytes": 2399051,
-  "avifBytes": 758799,
-  "avifFullBytes": 656649,
-  "webpBytes": 1640252,
-  "webpFullBytes": 1418794
+  "totalBytes": 2531668,
+  "avifBytes": 802680,
+  "avifFullBytes": 694170,
+  "webpBytes": 1728988,
+  "webpFullBytes": 1493284
 }
