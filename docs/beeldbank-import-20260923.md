@@ -18,4 +18,9 @@ Open een familie of deelcollectie, zoek op woord of lescode (bijvoorbeeld VS-L38
 
 Drive bewaart de originelen en familieregisters. Deze repository bevat de inhoud, stabiele beeldnummers en kleine websitevarianten. De Worker levert D1-inhoud en R2-beelden. Claude kan voortbouwen in deze repository; maak geen tweede beeldbank in Taalroute-woordbeeld. Nieuwe leskoppelingen staan per beeld in methodLinks en eventuele gebruiksopdrachten in concepts. Nieuwe families gebruiken het bestaande collectieregister. Bestaande asset-ID’s en nummers niet opnieuw uitgeven.
 
-De release gebruikt nieuwe D1-pakketsleutels met datum 20260923 en overschrijft geen eerdere pakketten of docentselecties. Controleer vóór publicatie of alle AVIF/WebP-varianten in R2 staan. Publicatiebewijzen worden na de livecontrole aangevuld.
+De release gebruikt nieuwe D1-pakketsleutels met datum 20260923 en overschrijft geen eerdere pakketten of docentselecties. Alle 2516 nieuwe AVIF/WebP-varianten zijn succesvol naar R2 geüpload. De release is gepubliceerd als Worker-versie 960189b5-1d5c-41e4-bf32-0c1043a902f8. Alle 25 tests slagen. Live gecontroleerd in aangemelde Chrome: negen families, Wonen met negen deelcollecties en 306 beelden, studeerkamerfoto uit R2, bronleslinks, digibordweergave en toevoegen/verwijderen van een testlesitem. Persistentie na herladen is niet getest. Een ouder open tabblad toonde een afwijkende weergave; vergelijking met de direct voorafgaande Worker-versie bevestigt dat de huidige frontend dezelfde productiebasis uitbreidt.
+
+
+## Zorgbatch
+
+Zes bestaande zorgonderwerpen zijn beoordeeld (zeven foto’s) en zes ontbrekende scènes zijn geproduceerd en visueel gecontroleerd: oorpijn, misselijkheid, pedicure, recept halen, huisartsconsult en straatarts. De PNG-originelen, prompts, kwaliteitsnotities en bronleskoppelingen staan in https://drive.google.com/drive/folders/1QaJ3SaHHe6UPeVGKcPnWVCC_BChpfE6O. Deze zorgfoto’s zijn nog niet in de website opgenomen; dat is de volgende import. De bijpassende losse illustraties zijn al beschikbaar.
