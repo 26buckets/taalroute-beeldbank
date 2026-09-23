@@ -10,7 +10,7 @@ test("woonkamer voegt 50 compacte beelden en drie complete reeksen toe aan het h
   const registry = await read("public/data/collections.json");
   const packages = await Promise.all(registry.nodes.filter(n => n.kind === "collection" && n.status === "published").map(n => read("public/data/" + n.dataset)));
   const library = indexCollections(packages);
-  assert.equal(library.assets.size, 154);
+  assert.equal(library.assets.size, 783);
   assert.equal(library.sequences.size, 7);
   assert.equal(library.assets.get(2001).collectionId, "woonkamer");
   assert.equal(room.assets.length, 50);

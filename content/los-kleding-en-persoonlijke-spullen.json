@@ -1,0 +1,1828 @@
+{
+  "collection": {
+    "id": "los-kleding-en-persoonlijke-spullen",
+    "title": "Losse illustraties",
+    "imageCount": 55,
+    "independentImages": 55,
+    "sequences": 0
+  },
+  "assets": [
+    {
+      "id": "los-TR-IDIOMS-P001-005-R1-p02",
+      "n": 10004,
+      "title": "jas",
+      "description": "Een losse illustratie van jas.",
+      "words": [
+        "jas"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_jas__TR-IDIOMS-P001-005-R1_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "11CxPh56ptQTmoCVX0o4xfZyoDv9aysCg",
+        "url": "https://drive.google.com/file/d/11CxPh56ptQTmoCVX0o4xfZyoDv9aysCg/view?usp=drivesdk",
+        "rebusId": "TR-IDIOMS-P001-005-R1",
+        "cropBox": [
+          1281,
+          22,
+          1973,
+          675
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-TR-IDIOMS-P001-012-R3-p02",
+      "n": 10008,
+      "title": "helm",
+      "description": "Een losse illustratie van helm.",
+      "words": [
+        "helm"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_helm__TR-IDIOMS-P001-012-R3_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "10MBVdugAOkv5XFY0sWbX_ScILatoWPOa",
+        "url": "https://drive.google.com/file/d/10MBVdugAOkv5XFY0sWbX_ScILatoWPOa/view?usp=drivesdk",
+        "rebusId": "TR-IDIOMS-P001-012-R3",
+        "cropBox": [
+          1394,
+          54,
+          1986,
+          480
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-TR-IDIOMS-P001-014-R3-p03",
+      "n": 10011,
+      "title": "petten",
+      "description": "Een losse illustratie van petten.",
+      "words": [
+        "petten"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_petten__TR-IDIOMS-P001-014-R3_p03.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "12X-dpgvCXGNWpfxbEC-tm5yD1oFMSZGR",
+        "url": "https://drive.google.com/file/d/12X-dpgvCXGNWpfxbEC-tm5yD1oFMSZGR/view?usp=drivesdk",
+        "rebusId": "TR-IDIOMS-P001-014-R3",
+        "cropBox": [
+          1424,
+          146,
+          2133,
+          468
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-TR-IDIOMS-P001-016-R4-p03",
+      "n": 10014,
+      "title": "hakken",
+      "description": "Een losse illustratie van hakken.",
+      "words": [
+        "hakken"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_hakken__TR-IDIOMS-P001-016-R4_p03.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1oxs72onCLOaN6vDDJw9UFB4R1yCmhUua",
+        "url": "https://drive.google.com/file/d/1oxs72onCLOaN6vDDJw9UFB4R1yCmhUua/view?usp=drivesdk",
+        "rebusId": "TR-IDIOMS-P001-016-R4",
+        "cropBox": [
+          1624,
+          108,
+          2133,
+          558
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-TR-REBUS-BRON01-19-p02",
+      "n": 10057,
+      "title": "schoen",
+      "description": "Een losse illustratie van schoen.",
+      "words": [
+        "schoen"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_schoen__TR-REBUS-BRON01-19_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1ys2n3_au5t-lAzHWs3dGg4B4Yx3r1vaO",
+        "url": "https://drive.google.com/file/d/1ys2n3_au5t-lAzHWs3dGg4B4Yx3r1vaO/view?usp=drivesdk",
+        "rebusId": "TR-REBUS-BRON01-19",
+        "cropBox": [
+          758,
+          152,
+          1118,
+          376
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-TR-REBUS-BRON01-19-p05",
+      "n": 10060,
+      "title": "helm",
+      "description": "Een losse illustratie van helm.",
+      "words": [
+        "helm"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_helm__TR-REBUS-BRON01-19_p05.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1B7rVOtRygYKDrdRNKXOcF3G6gecgXpBu",
+        "url": "https://drive.google.com/file/d/1B7rVOtRygYKDrdRNKXOcF3G6gecgXpBu/view?usp=drivesdk",
+        "rebusId": "TR-REBUS-BRON01-19",
+        "cropBox": [
+          735,
+          565,
+          1105,
+          832
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-TR-REBUS-BRON01-20-p04",
+      "n": 10065,
+      "title": "gesp",
+      "description": "Een losse illustratie van gesp.",
+      "words": [
+        "gesp"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_gesp__TR-REBUS-BRON01-20_p04.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1hUH_D0BCOlQ_bdfphe4_4Cbu-OTdlaCw",
+        "url": "https://drive.google.com/file/d/1hUH_D0BCOlQ_bdfphe4_4Cbu-OTdlaCw/view?usp=drivesdk",
+        "rebusId": "TR-REBUS-BRON01-20",
+        "cropBox": [
+          437,
+          630,
+          763,
+          856
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-TR-REBUS-BRON01-21-p02",
+      "n": 10069,
+      "title": "ring",
+      "description": "Een losse illustratie van ring.",
+      "words": [
+        "ring"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_ring__TR-REBUS-BRON01-21_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1eor983qDVO_C0y9vCC0Q6vWqqXPFIyxa",
+        "url": "https://drive.google.com/file/d/1eor983qDVO_C0y9vCC0Q6vWqqXPFIyxa/view?usp=drivesdk",
+        "rebusId": "TR-REBUS-BRON01-21",
+        "cropBox": [
+          860,
+          143,
+          1087,
+          425
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-TR-REBUS-KORT-24-p02",
+      "n": 10080,
+      "title": "doek",
+      "description": "Een losse illustratie van doek.",
+      "words": [
+        "doek"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_doek__TR-REBUS-KORT-24_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "14lgrO8sWVFgS9XV2rzssEV3qqcbgNmVp",
+        "url": "https://drive.google.com/file/d/14lgrO8sWVFgS9XV2rzssEV3qqcbgNmVp/view?usp=drivesdk",
+        "rebusId": "TR-REBUS-KORT-24",
+        "cropBox": [
+          943,
+          179,
+          1723,
+          789
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-TR-REBUS-KORT-32-p01",
+      "n": 10095,
+      "title": "das",
+      "description": "Een losse illustratie van das.",
+      "words": [
+        "das"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_das__TR-REBUS-KORT-32_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1EMRNdIYAGlQlfto2tqMZqn1ttZY5N8BC",
+        "url": "https://drive.google.com/file/d/1EMRNdIYAGlQlfto2tqMZqn1ttZY5N8BC/view?usp=drivesdk",
+        "rebusId": "TR-REBUS-KORT-32",
+        "cropBox": [
+          760,
+          23,
+          1029,
+          734
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-TR-REBUS-KORT-35-p02",
+      "n": 10099,
+      "title": "bril",
+      "description": "Een losse illustratie van bril.",
+      "words": [
+        "bril"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_bril__TR-REBUS-KORT-35_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "18b65nDvkxX9bkQI59c842_ZxLrV2hwAU",
+        "url": "https://drive.google.com/file/d/18b65nDvkxX9bkQI59c842_ZxLrV2hwAU/view?usp=drivesdk",
+        "rebusId": "TR-REBUS-KORT-35",
+        "cropBox": [
+          960,
+          288,
+          1715,
+          607
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-TR-REBUS-KORT-41-p02",
+      "n": 10112,
+      "title": "doek",
+      "description": "Een losse illustratie van doek.",
+      "words": [
+        "doek"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_doek__TR-REBUS-KORT-41_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1NiqcOW4dxVSOl2f3rcIK-QmJI7oF_1GR",
+        "url": "https://drive.google.com/file/d/1NiqcOW4dxVSOl2f3rcIK-QmJI7oF_1GR/view?usp=drivesdk",
+        "rebusId": "TR-REBUS-KORT-41",
+        "cropBox": [
+          580,
+          244,
+          1126,
+          637
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A1-I06-p02",
+      "n": 10126,
+      "title": "tas",
+      "description": "Een losse illustratie van tas.",
+      "words": [
+        "tas"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_tas__N-A1-I06_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "18nmOB0jH_IirfQFuk0oevmv1FwhOcs6f",
+        "url": "https://drive.google.com/file/d/18nmOB0jH_IirfQFuk0oevmv1FwhOcs6f/view?usp=drivesdk",
+        "rebusId": "N-A1-I06",
+        "cropBox": [
+          1186,
+          107,
+          1717,
+          745
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A1-I08-p02",
+      "n": 10130,
+      "title": "zak",
+      "description": "Een losse illustratie van zak.",
+      "words": [
+        "zak"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_zak__N-A1-I08_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1wzyJbJn5Av4qSKn1szbhxViqgSidVTNB",
+        "url": "https://drive.google.com/file/d/1wzyJbJn5Av4qSKn1szbhxViqgSidVTNB/view?usp=drivesdk",
+        "rebusId": "N-A1-I08",
+        "cropBox": [
+          1085,
+          118,
+          1660,
+          777
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A1-I12-p02",
+      "n": 10138,
+      "title": "jas",
+      "description": "Een losse illustratie van jas.",
+      "words": [
+        "jas"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_jas__N-A1-I12_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "17XWWmTMBlmviSpq2-KSnYKF04LpXwv48",
+        "url": "https://drive.google.com/file/d/17XWWmTMBlmviSpq2-KSnYKF04LpXwv48/view?usp=drivesdk",
+        "rebusId": "N-A1-I12",
+        "cropBox": [
+          1122,
+          91,
+          1659,
+          768
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A1-I20-p02",
+      "n": 10154,
+      "title": "tas",
+      "description": "Een losse illustratie van tas.",
+      "words": [
+        "tas"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_tas__N-A1-I20_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1-TS_xCda0OgwoKNukOnNih8xDcNcejkQ",
+        "url": "https://drive.google.com/file/d/1-TS_xCda0OgwoKNukOnNih8xDcNcejkQ/view?usp=drivesdk",
+        "rebusId": "N-A1-I20",
+        "cropBox": [
+          1106,
+          82,
+          1673,
+          764
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A1-V04-p01",
+      "n": 10158,
+      "title": "doek",
+      "description": "Een losse illustratie van doek.",
+      "words": [
+        "doek"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_doek__N-A1-V04_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1tdDHzb8E-liQ07IJBOIFCz5DQjihqeip",
+        "url": "https://drive.google.com/file/d/1tdDHzb8E-liQ07IJBOIFCz5DQjihqeip/view?usp=drivesdk",
+        "rebusId": "N-A1-V04",
+        "cropBox": [
+          59,
+          181,
+          779,
+          645
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A1-V08-p01",
+      "n": 10162,
+      "title": "rok",
+      "description": "Een losse illustratie van rok.",
+      "words": [
+        "rok"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_rok__N-A1-V08_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1UnH8SlAfANKF14jQgL_RDbXACuP68rgZ",
+        "url": "https://drive.google.com/file/d/1UnH8SlAfANKF14jQgL_RDbXACuP68rgZ/view?usp=drivesdk",
+        "rebusId": "N-A1-V08",
+        "cropBox": [
+          142,
+          115,
+          727,
+          660
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A1-V09-p01",
+      "n": 10163,
+      "title": "tas",
+      "description": "Een losse illustratie van tas.",
+      "words": [
+        "tas"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_tas__N-A1-V09_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "10fgHzknuNRftT-ste9u5KYAOR7MhpXY2",
+        "url": "https://drive.google.com/file/d/10fgHzknuNRftT-ste9u5KYAOR7MhpXY2/view?usp=drivesdk",
+        "rebusId": "N-A1-V09",
+        "cropBox": [
+          203,
+          41,
+          825,
+          683
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A1-U04-p01",
+      "n": 10181,
+      "title": "jas",
+      "description": "Een losse illustratie van jas.",
+      "words": [
+        "jas"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_jas__N-A1-U04_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1r9nK6Lct_j2u-jaEvhG25gC3V_mPGp5z",
+        "url": "https://drive.google.com/file/d/1r9nK6Lct_j2u-jaEvhG25gC3V_mPGp5z/view?usp=drivesdk",
+        "rebusId": "N-A1-U04",
+        "cropBox": [
+          536,
+          96,
+          1040,
+          634
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A1-U07-p01",
+      "n": 10187,
+      "title": "zak",
+      "description": "Een losse illustratie van zak.",
+      "words": [
+        "zak"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_zak__N-A1-U07_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1MPahOXEzr1VeHB0DUWhjeS1-qktP5n9d",
+        "url": "https://drive.google.com/file/d/1MPahOXEzr1VeHB0DUWhjeS1-qktP5n9d/view?usp=drivesdk",
+        "rebusId": "N-A1-U07",
+        "cropBox": [
+          57,
+          151,
+          541,
+          710
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A1-U10-p02",
+      "n": 10194,
+      "title": "schoen",
+      "description": "Een losse illustratie van schoen.",
+      "words": [
+        "schoen"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_schoen__N-A1-U10_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1Uw5CSfSsU9_f0J5uoXGKpeNRUvfoVZBS",
+        "url": "https://drive.google.com/file/d/1Uw5CSfSsU9_f0J5uoXGKpeNRUvfoVZBS/view?usp=drivesdk",
+        "rebusId": "N-A1-U10",
+        "cropBox": [
+          964,
+          219,
+          1690,
+          681
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A1-U11-p01",
+      "n": 10195,
+      "title": "schoen",
+      "description": "Een losse illustratie van schoen.",
+      "words": [
+        "schoen"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_schoen__N-A1-U11_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1O_vX-es7-YIgPcGTwj-hGtXkCwmJn_Ko",
+        "url": "https://drive.google.com/file/d/1O_vX-es7-YIgPcGTwj-hGtXkCwmJn_Ko/view?usp=drivesdk",
+        "rebusId": "N-A1-U11",
+        "cropBox": [
+          22,
+          173,
+          730,
+          687
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A1-U18-p02",
+      "n": 10210,
+      "title": "broek",
+      "description": "Een losse illustratie van broek.",
+      "words": [
+        "broek"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_broek__N-A1-U18_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1b74kIA9ekUjbSIAmWXCArIfQw1LsSN_u",
+        "url": "https://drive.google.com/file/d/1b74kIA9ekUjbSIAmWXCArIfQw1LsSN_u/view?usp=drivesdk",
+        "rebusId": "N-A1-U18",
+        "cropBox": [
+          1242,
+          87,
+          1607,
+          792
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A2-I08-p02",
+      "n": 10230,
+      "title": "hanger",
+      "description": "Een losse illustratie van hanger.",
+      "words": [
+        "hanger"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_hanger__N-A2-I08_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1mgqb-1kZPInfg9lL2vLPeaF7YglWEqTO",
+        "url": "https://drive.google.com/file/d/1mgqb-1kZPInfg9lL2vLPeaF7YglWEqTO/view?usp=drivesdk",
+        "rebusId": "N-A2-I08",
+        "cropBox": [
+          886,
+          130,
+          1723,
+          661
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A2-I09-p01",
+      "n": 10231,
+      "title": "was",
+      "description": "Een losse illustratie van was.",
+      "words": [
+        "was"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_was__N-A2-I09_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1p7iG_5J56bt1xq9WYQay3YOa4828boj9",
+        "url": "https://drive.google.com/file/d/1p7iG_5J56bt1xq9WYQay3YOa4828boj9/view?usp=drivesdk",
+        "rebusId": "N-A2-I09",
+        "cropBox": [
+          51,
+          141,
+          773,
+          737
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A2-I10-p01",
+      "n": 10233,
+      "title": "was",
+      "description": "Een losse illustratie van was.",
+      "words": [
+        "was"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_was__N-A2-I10_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1-8j4TKYfck1nfGBXDHy_o9lLEY93Lg_a",
+        "url": "https://drive.google.com/file/d/1-8j4TKYfck1nfGBXDHy_o9lLEY93Lg_a/view?usp=drivesdk",
+        "rebusId": "N-A2-I10",
+        "cropBox": [
+          52,
+          180,
+          758,
+          681
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A2-I11-p01",
+      "n": 10235,
+      "title": "was",
+      "description": "Een losse illustratie van was.",
+      "words": [
+        "was"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_was__N-A2-I11_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1LlS91HYY4YzAULACfLJyHnLQevdOohuL",
+        "url": "https://drive.google.com/file/d/1LlS91HYY4YzAULACfLJyHnLQevdOohuL/view?usp=drivesdk",
+        "rebusId": "N-A2-I11",
+        "cropBox": [
+          36,
+          166,
+          769,
+          677
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A2-I12-p01",
+      "n": 10237,
+      "title": "kleding",
+      "description": "Een losse illustratie van kleding.",
+      "words": [
+        "kleding"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_kleding__N-A2-I12_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1ev7EMfQ7XRARPll44eJ3nGFwV26mdozh",
+        "url": "https://drive.google.com/file/d/1ev7EMfQ7XRARPll44eJ3nGFwV26mdozh/view?usp=drivesdk",
+        "rebusId": "N-A2-I12",
+        "cropBox": [
+          57,
+          110,
+          935,
+          716
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A2-I13-p01",
+      "n": 10239,
+      "title": "kleding",
+      "description": "Een losse illustratie van kleding.",
+      "words": [
+        "kleding"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_kleding__N-A2-I13_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1T3pWMkm2AY9rYSUolxRKv2h6CEP2zDWW",
+        "url": "https://drive.google.com/file/d/1T3pWMkm2AY9rYSUolxRKv2h6CEP2zDWW/view?usp=drivesdk",
+        "rebusId": "N-A2-I13",
+        "cropBox": [
+          40,
+          107,
+          785,
+          739
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A2-I20-p02",
+      "n": 10254,
+      "title": "tas",
+      "description": "Een losse illustratie van tas.",
+      "words": [
+        "tas"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_tas__N-A2-I20_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1uTgK2K_c2Iacu7x2bdjg-v4wipqKjYbx",
+        "url": "https://drive.google.com/file/d/1uTgK2K_c2Iacu7x2bdjg-v4wipqKjYbx/view?usp=drivesdk",
+        "rebusId": "N-A2-I20",
+        "cropBox": [
+          1198,
+          136,
+          1705,
+          697
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A2-V01-p02",
+      "n": 10256,
+      "title": "jas",
+      "description": "Een losse illustratie van jas.",
+      "words": [
+        "jas"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_jas__N-A2-V01_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1UxWbN05EHWtx9FAbshtCvsCK3p0skjmf",
+        "url": "https://drive.google.com/file/d/1UxWbN05EHWtx9FAbshtCvsCK3p0skjmf/view?usp=drivesdk",
+        "rebusId": "N-A2-V01",
+        "cropBox": [
+          1116,
+          157,
+          1655,
+          736
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A2-V07-p02",
+      "n": 10268,
+      "title": "zak",
+      "description": "Een losse illustratie van zak.",
+      "words": [
+        "zak"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_zak__N-A2-V07_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1fCKOgvN2UrFwz3PWHmA4V6RyI4Mv1Pih",
+        "url": "https://drive.google.com/file/d/1fCKOgvN2UrFwz3PWHmA4V6RyI4Mv1Pih/view?usp=drivesdk",
+        "rebusId": "N-A2-V07",
+        "cropBox": [
+          1096,
+          94,
+          1675,
+          730
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A2-V14-p03",
+      "n": 10283,
+      "title": "doek",
+      "description": "Een losse illustratie van doek.",
+      "words": [
+        "doek"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_doek__N-A2-V14_p03.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "10_YNf45Wu_xTCegUShUATWm72PtvLN5I",
+        "url": "https://drive.google.com/file/d/10_YNf45Wu_xTCegUShUATWm72PtvLN5I/view?usp=drivesdk",
+        "rebusId": "N-A2-V14",
+        "cropBox": [
+          1277,
+          255,
+          1747,
+          700
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A2-V19-p02",
+      "n": 10293,
+      "title": "doek",
+      "description": "Een losse illustratie van doek.",
+      "words": [
+        "doek"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_doek__N-A2-V19_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1QjRT2QY5Vd7hE_oPJ9BfNCxYOhRaIlx-",
+        "url": "https://drive.google.com/file/d/1QjRT2QY5Vd7hE_oPJ9BfNCxYOhRaIlx-/view?usp=drivesdk",
+        "rebusId": "N-A2-V19",
+        "cropBox": [
+          1033,
+          161,
+          1740,
+          674
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A2-V20-p02",
+      "n": 10295,
+      "title": "das",
+      "description": "Een losse illustratie van das.",
+      "words": [
+        "das"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_das__N-A2-V20_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1hjXSQ9YmKO_Gk0de6bCbrF1LFAPhTdsN",
+        "url": "https://drive.google.com/file/d/1hjXSQ9YmKO_Gk0de6bCbrF1LFAPhTdsN/view?usp=drivesdk",
+        "rebusId": "N-A2-V20",
+        "cropBox": [
+          1292,
+          91,
+          1574,
+          688
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A2-U11-p02",
+      "n": 10316,
+      "title": "tas",
+      "description": "Een losse illustratie van tas.",
+      "words": [
+        "tas"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_tas__N-A2-U11_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "16gkOsNhCXOzYEItYIkuwRRmkWB-o0mPr",
+        "url": "https://drive.google.com/file/d/16gkOsNhCXOzYEItYIkuwRRmkWB-o0mPr/view?usp=drivesdk",
+        "rebusId": "N-A2-U11",
+        "cropBox": [
+          1275,
+          76,
+          1752,
+          639
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A2-U13-p02",
+      "n": 10320,
+      "title": "tas",
+      "description": "Een losse illustratie van tas.",
+      "words": [
+        "tas"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_tas__N-A2-U13_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1uJsFTwzmX1wOHCT8HN6Vq3wH3wFvUe2C",
+        "url": "https://drive.google.com/file/d/1uJsFTwzmX1wOHCT8HN6Vq3wH3wFvUe2C/view?usp=drivesdk",
+        "rebusId": "N-A2-U13",
+        "cropBox": [
+          1369,
+          170,
+          1752,
+          627
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A2-U18-p01",
+      "n": 10329,
+      "title": "pet",
+      "description": "Een losse illustratie van pet.",
+      "words": [
+        "pet"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_pet__N-A2-U18_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "14-yicXK-tNM9Yy8gPvK2EOT_NA0oaHmS",
+        "url": "https://drive.google.com/file/d/14-yicXK-tNM9Yy8gPvK2EOT_NA0oaHmS/view?usp=drivesdk",
+        "rebusId": "N-A2-U18",
+        "cropBox": [
+          28,
+          228,
+          479,
+          577
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A2-U18-p02",
+      "n": 10330,
+      "title": "tas",
+      "description": "Een losse illustratie van tas.",
+      "words": [
+        "tas"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_tas__N-A2-U18_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1IJf0SlaVoPbLOrtCc7oq8-Rk-G9DdMrT",
+        "url": "https://drive.google.com/file/d/1IJf0SlaVoPbLOrtCc7oq8-Rk-G9DdMrT/view?usp=drivesdk",
+        "rebusId": "N-A2-U18",
+        "cropBox": [
+          905,
+          177,
+          1316,
+          626
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B1-I07-p02",
+      "n": 10350,
+      "title": "doek",
+      "description": "Een losse illustratie van doek.",
+      "words": [
+        "doek"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_doek__N-B1-I07_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1qlMQW8z_pdWnA6SAWI-D8CdIblC98PZV",
+        "url": "https://drive.google.com/file/d/1qlMQW8z_pdWnA6SAWI-D8CdIblC98PZV/view?usp=drivesdk",
+        "rebusId": "N-B1-I07",
+        "cropBox": [
+          1033,
+          168,
+          1700,
+          769
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B1-V10-p02",
+      "n": 10393,
+      "title": "ring",
+      "description": "Een losse illustratie van ring.",
+      "words": [
+        "ring"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_ring__N-B1-V10_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1H4UvLKRURLJV5UPH-o4vqET2rK8MP_w2",
+        "url": "https://drive.google.com/file/d/1H4UvLKRURLJV5UPH-o4vqET2rK8MP_w2/view?usp=drivesdk",
+        "rebusId": "N-B1-V10",
+        "cropBox": [
+          1338,
+          253,
+          1733,
+          592
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B1-V15-p02",
+      "n": 10400,
+      "title": "doek",
+      "description": "Een losse illustratie van doek.",
+      "words": [
+        "doek"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_doek__N-B1-V15_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1G5ZrXQeLOFOUkTlw1qUA7htcw_AIUFC9",
+        "url": "https://drive.google.com/file/d/1G5ZrXQeLOFOUkTlw1qUA7htcw_AIUFC9/view?usp=drivesdk",
+        "rebusId": "N-B1-V15",
+        "cropBox": [
+          1012,
+          117,
+          1682,
+          654
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B1-U03-p02",
+      "n": 10414,
+      "title": "mouwen",
+      "description": "Een losse illustratie van mouwen.",
+      "words": [
+        "mouwen"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_mouwen__N-B1-U03_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1GrRDscTJfvRXZREtgS4kSDk8mSTEcugn",
+        "url": "https://drive.google.com/file/d/1GrRDscTJfvRXZREtgS4kSDk8mSTEcugn/view?usp=drivesdk",
+        "rebusId": "N-B1-U03",
+        "cropBox": [
+          1059,
+          265,
+          1363,
+          611
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B1-U13-p01",
+      "n": 10432,
+      "title": "hoed",
+      "description": "Een losse illustratie van hoed.",
+      "words": [
+        "hoed"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_hoed__N-B1-U13_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1BKYdRs9mR3DVOQPz0pybZiwo0aZ9hNc9",
+        "url": "https://drive.google.com/file/d/1BKYdRs9mR3DVOQPz0pybZiwo0aZ9hNc9/view?usp=drivesdk",
+        "rebusId": "N-B1-U13",
+        "cropBox": [
+          385,
+          278,
+          783,
+          542
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B1-U15-p01",
+      "n": 10436,
+      "title": "hoed",
+      "description": "Een losse illustratie van hoed.",
+      "words": [
+        "hoed"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_hoed__N-B1-U15_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1JVMlBpNuOpEjjKM86zuByMgbcWF6zcvq",
+        "url": "https://drive.google.com/file/d/1JVMlBpNuOpEjjKM86zuByMgbcWF6zcvq/view?usp=drivesdk",
+        "rebusId": "N-B1-U15",
+        "cropBox": [
+          638,
+          237,
+          1143,
+          635
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-I07-p01",
+      "n": 10459,
+      "title": "mantel",
+      "description": "Een losse illustratie van mantel.",
+      "words": [
+        "mantel"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_mantel__N-B2-I07_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1OLhs_h-4-tT0A_5qTQLzgW0lv6IleWur",
+        "url": "https://drive.google.com/file/d/1OLhs_h-4-tT0A_5qTQLzgW0lv6IleWur/view?usp=drivesdk",
+        "rebusId": "N-B2-I07",
+        "cropBox": [
+          226,
+          46,
+          647,
+          690
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-V08-p02",
+      "n": 10503,
+      "title": "petten",
+      "description": "Een losse illustratie van petten.",
+      "words": [
+        "petten"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_petten__N-B2-V08_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1RYqBPX168b7Eqz3CNgXxNDFM9_tmhZ4-",
+        "url": "https://drive.google.com/file/d/1RYqBPX168b7Eqz3CNgXxNDFM9_tmhZ4-/view?usp=drivesdk",
+        "rebusId": "N-B2-V08",
+        "cropBox": [
+          1248,
+          220,
+          1752,
+          641
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-V14-p01",
+      "n": 10516,
+      "title": "sok",
+      "description": "Een losse illustratie van sok.",
+      "words": [
+        "sok"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_sok__N-B2-V14_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1vfNmqAFfx5Lu8bAtOHU6mEeeX7yg_dRq",
+        "url": "https://drive.google.com/file/d/1vfNmqAFfx5Lu8bAtOHU6mEeeX7yg_dRq/view?usp=drivesdk",
+        "rebusId": "N-B2-V14",
+        "cropBox": [
+          445,
+          172,
+          774,
+          643
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-V17-p02",
+      "n": 10522,
+      "title": "petten",
+      "description": "Een losse illustratie van petten.",
+      "words": [
+        "petten"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_petten__N-B2-V17_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1I_fXhzBMdmvr8sfqG84WQVMBMRi73QSR",
+        "url": "https://drive.google.com/file/d/1I_fXhzBMdmvr8sfqG84WQVMBMRi73QSR/view?usp=drivesdk",
+        "rebusId": "N-B2-V17",
+        "cropBox": [
+          1305,
+          238,
+          1739,
+          577
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-U02-p02",
+      "n": 10532,
+      "title": "hoeden",
+      "description": "Een losse illustratie van hoeden.",
+      "words": [
+        "hoeden"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_hoeden__N-B2-U02_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1feiKJfIBm3N9hAJWi-GhTryDLzB8siyT",
+        "url": "https://drive.google.com/file/d/1feiKJfIBm3N9hAJWi-GhTryDLzB8siyT/view?usp=drivesdk",
+        "rebusId": "N-B2-U02",
+        "cropBox": [
+          953,
+          274,
+          1355,
+          579
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-U07-p02",
+      "n": 10542,
+      "title": "ringen",
+      "description": "Een losse illustratie van ringen.",
+      "words": [
+        "ringen"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_ringen__N-B2-U07_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "12ztzRV6HJdamvVGoj2jyINzg0qf590__",
+        "url": "https://drive.google.com/file/d/12ztzRV6HJdamvVGoj2jyINzg0qf590__/view?usp=drivesdk",
+        "rebusId": "N-B2-U07",
+        "cropBox": [
+          1303,
+          290,
+          1730,
+          573
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-U11-p01",
+      "n": 10549,
+      "title": "petten",
+      "description": "Een losse illustratie van petten.",
+      "words": [
+        "petten"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_petten__N-B2-U11_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1S0CWY-zChmb3pTcfNe-9DBjmKJb7_QKE",
+        "url": "https://drive.google.com/file/d/1S0CWY-zChmb3pTcfNe-9DBjmKJb7_QKE/view?usp=drivesdk",
+        "rebusId": "N-B2-U11",
+        "cropBox": [
+          277,
+          212,
+          735,
+          567
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-U13-p01",
+      "n": 10553,
+      "title": "hakken",
+      "description": "Een losse illustratie van hakken.",
+      "words": [
+        "hakken"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_hakken__N-B2-U13_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1oiCv1xU-kxzipks_JwM0oHOhVYuYgZjK",
+        "url": "https://drive.google.com/file/d/1oiCv1xU-kxzipks_JwM0oHOhVYuYgZjK/view?usp=drivesdk",
+        "rebusId": "N-B2-U13",
+        "cropBox": [
+          271,
+          244,
+          619,
+          617
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-U13-p03",
+      "n": 10555,
+      "title": "petten",
+      "description": "Een losse illustratie van petten.",
+      "words": [
+        "petten"
+      ],
+      "uses": [
+        "Kleding en persoonlijke spullen",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_petten__N-B2-U13_p03.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "11kRVlwn1WLqUhTrscGlCmIRW31rU16yY",
+        "url": "https://drive.google.com/file/d/11kRVlwn1WLqUhTrscGlCmIRW31rU16yY/view?usp=drivesdk",
+        "rebusId": "N-B2-U13",
+        "cropBox": [
+          1344,
+          251,
+          1752,
+          635
+        ]
+      },
+      "methodLinks": []
+    }
+  ],
+  "sequences": [],
+  "methodLinks": []
+}

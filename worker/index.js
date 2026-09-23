@@ -1,26 +1,46 @@
 import { createRemoteJWKSet, jwtVerify } from "jose";
-import bathroom from "../public/data/badkamer.json" with { type: "json" };
-import kitchen from "../public/data/keuken.json" with { type: "json" };
-import livingroom from "../public/data/woonkamer.json" with { type: "json" };
+import p0 from "../public/data/badkamer.json" with { type: "json" };
+import p1 from "../public/data/keuken.json" with { type: "json" };
+import p2 from "../public/data/woonkamer.json" with { type: "json" };
+import p3 from "../public/data/los-leren-en-vrije-tijd.json" with { type: "json" };
+import p4 from "../public/data/los-eten-en-drinken.json" with { type: "json" };
+import p5 from "../public/data/los-dieren-en-natuur.json" with { type: "json" };
+import p6 from "../public/data/los-kleding-en-persoonlijke-spullen.json" with { type: "json" };
+import p7 from "../public/data/los-wonen-en-het-huis.json" with { type: "json" };
+import p8 from "../public/data/los-lichaam-en-zorg.json" with { type: "json" };
+import p9 from "../public/data/los-werk-en-gereedschap.json" with { type: "json" };
+import p10 from "../public/data/los-vervoer-en-omgeving.json" with { type: "json" };
+import p11 from "../public/data/los-symbolen-en-hoeveelheden.json" with { type: "json" };
+import p12 from "../public/data/wonen-ruimtes.json" with { type: "json" };
+import p13 from "../public/data/wonen-buitenruimtes.json" with { type: "json" };
+import p14 from "../public/data/wonen-woningtypen.json" with { type: "json" };
+import p15 from "../public/data/wonen-inrichting.json" with { type: "json" };
+import p16 from "../public/data/wonen-wonen-regelen.json" with { type: "json" };
 import collections from "../public/data/collections.json" with { type: "json" };
-
 const seeds = {
-  "badkamer.json": bathroom,
-  "keuken.json": kitchen,
-  "woonkamer.json": livingroom,
+  "badkamer.json": p0,
+  "keuken.json": p1,
+  "woonkamer.json": p2,
+  "los-leren-en-vrije-tijd.json": p3,
+  "los-eten-en-drinken.json": p4,
+  "los-dieren-en-natuur.json": p5,
+  "los-kleding-en-persoonlijke-spullen.json": p6,
+  "los-wonen-en-het-huis.json": p7,
+  "los-lichaam-en-zorg.json": p8,
+  "los-werk-en-gereedschap.json": p9,
+  "los-vervoer-en-omgeving.json": p10,
+  "los-symbolen-en-hoeveelheden.json": p11,
+  "wonen-ruimtes.json": p12,
+  "wonen-buitenruimtes.json": p13,
+  "wonen-woningtypen.json": p14,
+  "wonen-inrichting.json": p15,
+  "wonen-wonen-regelen.json": p16,
   "collections.json": collections,
 };
-// A new registry release uses its own D1 key; old packages and teacher selections remain intact.
-const packageKeys = {
-  "badkamer.json": "badkamer-20260916-overzicht2-v2.json",
-  "keuken.json": "keuken-20260916-originele-reeks-v1.json",
-  "woonkamer.json": "woonkamer-20260916-imperatief-v1.json",
-  "collections.json": "collections-20260916-woonkamer-v1.json",
-};
-const allContent = {
-  assets: [...bathroom.assets, ...kitchen.assets, ...livingroom.assets],
-  sequences: [...bathroom.sequences, ...kitchen.sequences, ...livingroom.sequences],
-};
+// Versioned D1 packages preserve earlier content and teacher selections.
+const packageKeys = Object.fromEntries(Object.keys(seeds).map(id => [id, id.replace(".json", "-20260923-wonen-los-v1.json")]));
+const contentIds = Object.keys(seeds).filter(id => id !== "collections.json");
+const allContent = { assets: contentIds.flatMap(id => seeds[id].assets), sequences: contentIds.flatMap(id => seeds[id].sequences) };
 const keys = new Map();
 const json = (value, status = 200, headers = {}) =>
   Response.json(value, {
@@ -158,7 +178,7 @@ export async function lesson(request, db, owner) {
     return json({ error: "Ongeldige selectie" }, 400);
   }
   const packages = await Promise.all(
-    ["badkamer.json", "keuken.json", "woonkamer.json"].map((id) => content(db, id)),
+    contentIds.map((id) => content(db, id)),
   );
   const data = {
     assets: packages.flatMap((p) => p.assets),

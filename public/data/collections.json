@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "het-huis",
-      "title": "Het huis",
+      "title": "Wonen en het huis",
       "kind": "group",
       "parentId": null,
       "status": "published",
@@ -26,6 +26,56 @@
       }
     },
     {
+      "id": "wonen-woningtypen",
+      "title": "Woningtypen",
+      "kind": "collection",
+      "parentId": "het-huis",
+      "status": "published",
+      "dataset": "wonen-woningtypen.json",
+      "coverImageNumber": 3009,
+      "topics": []
+    },
+    {
+      "id": "wonen-ruimtes",
+      "title": "Ruimtes en bouwdelen",
+      "kind": "collection",
+      "parentId": "het-huis",
+      "status": "published",
+      "dataset": "wonen-ruimtes.json",
+      "coverImageNumber": 3001,
+      "topics": []
+    },
+    {
+      "id": "wonen-inrichting",
+      "title": "Inrichting",
+      "kind": "collection",
+      "parentId": "het-huis",
+      "status": "published",
+      "dataset": "wonen-inrichting.json",
+      "coverImageNumber": 3016,
+      "topics": []
+    },
+    {
+      "id": "wonen-buitenruimtes",
+      "title": "Buitenruimtes",
+      "kind": "collection",
+      "parentId": "het-huis",
+      "status": "published",
+      "dataset": "wonen-buitenruimtes.json",
+      "coverImageNumber": 3006,
+      "topics": []
+    },
+    {
+      "id": "wonen-wonen-regelen",
+      "title": "Wonen regelen en doen",
+      "kind": "collection",
+      "parentId": "het-huis",
+      "status": "published",
+      "dataset": "wonen-wonen-regelen.json",
+      "coverImageNumber": 3018,
+      "topics": []
+    },
+    {
       "id": "badkamer-verzorging",
       "title": "Badkamer & verzorging",
       "kind": "collection",
@@ -45,7 +95,11 @@
       "kind": "collection",
       "parentId": "het-huis",
       "status": "published",
-      "topics": ["eten-drinken", "schoonmaken", "dagelijkse-routines"],
+      "topics": [
+        "eten-drinken",
+        "schoonmaken",
+        "dagelijkse-routines"
+      ],
       "dataset": "keuken.json",
       "coverImageNumber": 1048,
       "subtitle": "Wonen, koken & eten"
@@ -56,11 +110,24 @@
       "kind": "collection",
       "parentId": "het-huis",
       "status": "published",
-      "topics": ["ontmoeten", "wonen-inrichten"],
+      "topics": [
+        "ontmoeten",
+        "wonen-inrichten"
+      ],
       "dataset": "woonkamer.json",
       "coverImageNumber": 2037,
       "subtitle": "Wonen, ontspannen & ontmoeten",
       "description": "Voorwerpen, handelingen en reeksen over de woonkamer, opruimen, planten verzorgen en bezoek ontvangen."
+    },
+    {
+      "id": "los-wonen-en-het-huis",
+      "title": "Losse illustraties",
+      "kind": "collection",
+      "parentId": "het-huis",
+      "status": "published",
+      "dataset": "los-wonen-en-het-huis.json",
+      "coverImageNumber": 10005,
+      "topics": []
     },
     {
       "id": "slaapkamer",
@@ -68,7 +135,10 @@
       "kind": "collection",
       "parentId": "het-huis",
       "status": "draft",
-      "topics": ["dagelijkse-routines", "wonen-inrichten"]
+      "topics": [
+        "dagelijkse-routines",
+        "wonen-inrichten"
+      ]
     },
     {
       "id": "hal-trap",
@@ -76,7 +146,10 @@
       "kind": "collection",
       "parentId": "het-huis",
       "status": "draft",
-      "topics": ["thuiskomen-vertrekken", "veiligheid"]
+      "topics": [
+        "thuiskomen-vertrekken",
+        "veiligheid"
+      ]
     },
     {
       "id": "tuin-balkon",
@@ -84,7 +157,10 @@
       "kind": "collection",
       "parentId": "het-huis",
       "status": "draft",
-      "topics": ["buiten", "onderhoud"]
+      "topics": [
+        "buiten",
+        "onderhoud"
+      ]
     },
     {
       "id": "energie-installaties",
@@ -92,7 +168,11 @@
       "kind": "collection",
       "parentId": "het-huis",
       "status": "draft",
-      "topics": ["energie", "onderhoud", "veiligheid"]
+      "topics": [
+        "energie",
+        "onderhoud",
+        "veiligheid"
+      ]
     },
     {
       "id": "de-buurt",
@@ -106,7 +186,24 @@
       "title": "Onderweg",
       "kind": "group",
       "parentId": null,
-      "status": "draft"
+      "status": "published",
+      "cover": {
+        "alt": "Een losse illustratie van kerken.",
+        "renditions": {
+          "thumb": {
+            "width": 256,
+            "height": 144,
+            "avif": "images/los-vervoer-en-omgeving/los-TR-IDIOMS-P001-020-R6-p02-thumb-b8fd5883ba.avif",
+            "webp": "images/los-vervoer-en-omgeving/los-TR-IDIOMS-P001-020-R6-p02-thumb-b5cda8e3e8.webp"
+          },
+          "full": {
+            "width": 768,
+            "height": 432,
+            "avif": "images/los-vervoer-en-omgeving/los-TR-IDIOMS-P001-020-R6-p02-full-d1f4b9c277.avif",
+            "webp": "images/los-vervoer-en-omgeving/los-TR-IDIOMS-P001-020-R6-p02-full-fa2e6ccae7.webp"
+          }
+        }
+      }
     },
     {
       "id": "winkels-diensten",
@@ -120,21 +217,72 @@
       "title": "Werk & beroep",
       "kind": "group",
       "parentId": null,
-      "status": "draft"
+      "status": "published",
+      "cover": {
+        "alt": "Een losse illustratie van knoop.",
+        "renditions": {
+          "thumb": {
+            "width": 256,
+            "height": 121,
+            "avif": "images/los-werk-en-gereedschap/los-TR-IDIOMS-P001-016-R4-p01-thumb-ae6cf0d1c3.avif",
+            "webp": "images/los-werk-en-gereedschap/los-TR-IDIOMS-P001-016-R4-p01-thumb-c144881464.webp"
+          },
+          "full": {
+            "width": 525,
+            "height": 249,
+            "avif": "images/los-werk-en-gereedschap/los-TR-IDIOMS-P001-016-R4-p01-full-4cdbec2055.avif",
+            "webp": "images/los-werk-en-gereedschap/los-TR-IDIOMS-P001-016-R4-p01-full-844541e55f.webp"
+          }
+        }
+      }
     },
     {
       "id": "gezondheid-zorg",
-      "title": "Gezondheid & zorg",
+      "title": "Lichaam, verzorging en zorg",
       "kind": "group",
       "parentId": null,
-      "status": "draft"
+      "status": "published",
+      "cover": {
+        "alt": "Een losse illustratie van hand.",
+        "renditions": {
+          "thumb": {
+            "width": 216,
+            "height": 256,
+            "avif": "images/los-lichaam-en-zorg/los-TR-IDIOMS-P001-012-R3-p01-thumb-d717477f69.avif",
+            "webp": "images/los-lichaam-en-zorg/los-TR-IDIOMS-P001-012-R3-p01-thumb-47df14c2c1.webp"
+          },
+          "full": {
+            "width": 428,
+            "height": 508,
+            "avif": "images/los-lichaam-en-zorg/los-TR-IDIOMS-P001-012-R3-p01-full-8c213cd321.avif",
+            "webp": "images/los-lichaam-en-zorg/los-TR-IDIOMS-P001-012-R3-p01-full-2278ceb52f.webp"
+          }
+        }
+      }
     },
     {
       "id": "school-leren",
       "title": "School & leren",
       "kind": "group",
       "parentId": null,
-      "status": "draft"
+      "status": "published",
+      "cover": {
+        "alt": "Een losse illustratie van bal.",
+        "renditions": {
+          "thumb": {
+            "width": 255,
+            "height": 256,
+            "avif": "images/los-leren-en-vrije-tijd/los-TR-IDIOMS-P001-002-R0-p01-thumb-835876e849.avif",
+            "webp": "images/los-leren-en-vrije-tijd/los-TR-IDIOMS-P001-002-R0-p01-thumb-7b9ccf3d0a.webp"
+          },
+          "full": {
+            "width": 623,
+            "height": 626,
+            "avif": "images/los-leren-en-vrije-tijd/los-TR-IDIOMS-P001-002-R0-p01-full-951c0f7a1f.avif",
+            "webp": "images/los-leren-en-vrije-tijd/los-TR-IDIOMS-P001-002-R0-p01-full-c25d6cb652.webp"
+          }
+        }
+      }
     },
     {
       "id": "vrije-tijd",
@@ -142,6 +290,186 @@
       "kind": "group",
       "parentId": null,
       "status": "draft"
+    },
+    {
+      "id": "dieren-natuur",
+      "title": "Dieren en natuur",
+      "kind": "group",
+      "parentId": null,
+      "status": "published",
+      "description": "Woorden en beelden bij dieren en natuur.",
+      "cover": {
+        "alt": "Een losse illustratie van regen.",
+        "renditions": {
+          "thumb": {
+            "width": 245,
+            "height": 256,
+            "avif": "images/los-dieren-en-natuur/los-TR-IDIOMS-P001-005-R1-p01-thumb-4af3826fa5.avif",
+            "webp": "images/los-dieren-en-natuur/los-TR-IDIOMS-P001-005-R1-p01-thumb-0366744eef.webp"
+          },
+          "full": {
+            "width": 642,
+            "height": 672,
+            "avif": "images/los-dieren-en-natuur/los-TR-IDIOMS-P001-005-R1-p01-full-11a7a00e86.avif",
+            "webp": "images/los-dieren-en-natuur/los-TR-IDIOMS-P001-005-R1-p01-full-3bc0c17a1c.webp"
+          }
+        }
+      }
+    },
+    {
+      "id": "eten-drinken-familie",
+      "title": "Eten en drinken",
+      "kind": "group",
+      "parentId": null,
+      "status": "published",
+      "description": "Woorden en beelden bij eten en drinken.",
+      "cover": {
+        "alt": "Een losse illustratie van pan.",
+        "renditions": {
+          "thumb": {
+            "width": 256,
+            "height": 113,
+            "avif": "images/los-eten-en-drinken/los-TR-IDIOMS-P001-003-R0-p01-thumb-0037f0054a.avif",
+            "webp": "images/los-eten-en-drinken/los-TR-IDIOMS-P001-003-R0-p01-thumb-e873ccb464.webp"
+          },
+          "full": {
+            "width": 768,
+            "height": 340,
+            "avif": "images/los-eten-en-drinken/los-TR-IDIOMS-P001-003-R0-p01-full-15d6e6a5f2.avif",
+            "webp": "images/los-eten-en-drinken/los-TR-IDIOMS-P001-003-R0-p01-full-35f6ccebf8.webp"
+          }
+        }
+      }
+    },
+    {
+      "id": "kleding-spullen",
+      "title": "Kleding en persoonlijke spullen",
+      "kind": "group",
+      "parentId": null,
+      "status": "published",
+      "description": "Woorden en beelden bij kleding en persoonlijke spullen.",
+      "cover": {
+        "alt": "Een losse illustratie van jas.",
+        "renditions": {
+          "thumb": {
+            "width": 256,
+            "height": 242,
+            "avif": "images/los-kleding-en-persoonlijke-spullen/los-TR-IDIOMS-P001-005-R1-p02-thumb-2f4a38b900.avif",
+            "webp": "images/los-kleding-en-persoonlijke-spullen/los-TR-IDIOMS-P001-005-R1-p02-thumb-6e0d14e023.webp"
+          },
+          "full": {
+            "width": 692,
+            "height": 653,
+            "avif": "images/los-kleding-en-persoonlijke-spullen/los-TR-IDIOMS-P001-005-R1-p02-full-91c7aec5f8.avif",
+            "webp": "images/los-kleding-en-persoonlijke-spullen/los-TR-IDIOMS-P001-005-R1-p02-full-dcc6d5cc10.webp"
+          }
+        }
+      }
+    },
+    {
+      "id": "symbolen-hoeveelheden",
+      "title": "Symbolen en hoeveelheden",
+      "kind": "group",
+      "parentId": null,
+      "status": "published",
+      "description": "Woorden en beelden bij symbolen en hoeveelheden.",
+      "cover": {
+        "alt": "Een losse illustratie van één.",
+        "renditions": {
+          "thumb": {
+            "width": 147,
+            "height": 256,
+            "avif": "images/los-symbolen-en-hoeveelheden/los-TR-REBUS-BRON01-14-p02-thumb-c47aa129c5.avif",
+            "webp": "images/los-symbolen-en-hoeveelheden/los-TR-REBUS-BRON01-14-p02-thumb-c1c41e9a09.webp"
+          },
+          "full": {
+            "width": 187,
+            "height": 326,
+            "avif": "images/los-symbolen-en-hoeveelheden/los-TR-REBUS-BRON01-14-p02-full-17c9b932ac.avif",
+            "webp": "images/los-symbolen-en-hoeveelheden/los-TR-REBUS-BRON01-14-p02-full-7c5e807040.webp"
+          }
+        }
+      }
+    },
+    {
+      "id": "los-leren-en-vrije-tijd",
+      "title": "Losse illustraties",
+      "kind": "collection",
+      "parentId": "school-leren",
+      "status": "published",
+      "dataset": "los-leren-en-vrije-tijd.json",
+      "coverImageNumber": 10000,
+      "topics": []
+    },
+    {
+      "id": "los-eten-en-drinken",
+      "title": "Losse illustraties",
+      "kind": "collection",
+      "parentId": "eten-drinken-familie",
+      "status": "published",
+      "dataset": "los-eten-en-drinken.json",
+      "coverImageNumber": 10002,
+      "topics": []
+    },
+    {
+      "id": "los-dieren-en-natuur",
+      "title": "Losse illustraties",
+      "kind": "collection",
+      "parentId": "dieren-natuur",
+      "status": "published",
+      "dataset": "los-dieren-en-natuur.json",
+      "coverImageNumber": 10003,
+      "topics": []
+    },
+    {
+      "id": "los-kleding-en-persoonlijke-spullen",
+      "title": "Losse illustraties",
+      "kind": "collection",
+      "parentId": "kleding-spullen",
+      "status": "published",
+      "dataset": "los-kleding-en-persoonlijke-spullen.json",
+      "coverImageNumber": 10004,
+      "topics": []
+    },
+    {
+      "id": "los-lichaam-en-zorg",
+      "title": "Losse illustraties",
+      "kind": "collection",
+      "parentId": "gezondheid-zorg",
+      "status": "published",
+      "dataset": "los-lichaam-en-zorg.json",
+      "coverImageNumber": 10007,
+      "topics": []
+    },
+    {
+      "id": "los-werk-en-gereedschap",
+      "title": "Losse illustraties",
+      "kind": "collection",
+      "parentId": "werk-beroep",
+      "status": "published",
+      "dataset": "los-werk-en-gereedschap.json",
+      "coverImageNumber": 10012,
+      "topics": []
+    },
+    {
+      "id": "los-vervoer-en-omgeving",
+      "title": "Losse illustraties",
+      "kind": "collection",
+      "parentId": "onderweg",
+      "status": "published",
+      "dataset": "los-vervoer-en-omgeving.json",
+      "coverImageNumber": 10018,
+      "topics": []
+    },
+    {
+      "id": "los-symbolen-en-hoeveelheden",
+      "title": "Losse illustraties",
+      "kind": "collection",
+      "parentId": "symbolen-hoeveelheden",
+      "status": "published",
+      "dataset": "los-symbolen-en-hoeveelheden.json",
+      "coverImageNumber": 10031,
+      "topics": []
     }
   ],
   "topics": [

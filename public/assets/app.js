@@ -238,7 +238,7 @@ import { indexCollections } from "./collection-data.js";
         a.type === "OVZ"
           ? 100 + (a.sourceNumber ?? a.n)
           : 1000 + (a.sourceNumber ?? a.n),
-      search: norm([a.title, a.description, ...a.words, ...a.uses].join(" ")),
+      search: norm([a.title, a.description, ...a.words, ...a.uses, ...(a.methodLinks ?? []).flatMap(l => [l.lesson, l.route])].join(" ")),
     })),
   ];
   function collectionCover(node, size = "thumb", priority = false) {
@@ -345,7 +345,7 @@ import { indexCollections } from "./collection-data.js";
       counts.count +
       " beelden</span><span>" +
       counts.sequences +
-      ' reeksen</span></div><button class="bath-primary" id="bath-group-images">Alle beelden uit het huis</button></div></section>' +
+      ' reeksen</span></div><button class="bath-primary" id="bath-group-images">Alle beelden in deze familie</button></div></section>' +
       '<section aria-labelledby="group-children-title"><h2 id="group-children-title">Ruimtes en onderwerpen</h2><div class="bath-collections">' +
       tree.children(node.id).map(collectionCard).join("") +
       "</div></section>";
@@ -380,11 +380,11 @@ import { indexCollections } from "./collection-data.js";
       '<div><span class="bath-muted">' +
       esc(
         allImages
-          ? "Wonen & dagelijkse routines"
-          : node.subtitle || "Wonen & persoonlijke verzorging",
+          ? tree.get(groupId).title
+          : node.subtitle || tree.get(node.parentId).title,
       ) +
       "</span><h1>" +
-      esc(allImages ? "Alle beelden uit het huis" : data.collection.title) +
+      esc(allImages ? "Alle beelden · " + tree.get(groupId).title : data.collection.title) +
       '</h1><div class="bath-hero-counts"><span>' +
       counts.count +
       " beelden</span><span>" +
@@ -499,6 +499,8 @@ import { indexCollections } from "./collection-data.js";
           esc(a.note) +
           "</p></section>"
         : "") +
+      (a.methodLinks?.length ? '<section><strong>Bij deze lessen</strong><ul>' + [...new Map(a.methodLinks.map(l => [l.url, l])).values()].sort((a,b) => ["Van Start","Inzicht","De Finale","Vooruit"].indexOf(a.route) - ["Van Start","Inzicht","De Finale","Vooruit"].indexOf(b.route)).map(l => '<li><a href="' + esc(l.url) + '" target="_blank" rel="noopener">' + esc(l.route + " · " + l.lesson) + "</a></li>").join("") + "</ul></section>" : "") +
+      (a.concepts ?? []).filter(c => c.exercise).map(c => "<section><strong>Oefenen met " + esc(c.word) + "</strong><p>" + esc(c.exercise.instruction) + "</p><p>Voorbeeld: " + esc(c.exercise.example_answer) + "</p><p>" + esc(c.exercise.note) + "</p></section>").join("") +
       "<section><strong>Startvraag</strong><p>" +
       esc(
         a.type === "OBJ"
@@ -1055,11 +1057,16 @@ import { indexCollections } from "./collection-data.js";
   const linkedCollection = tree.get(location.hash.slice(1));
   if (
     linkedCollection?.status === "published" &&
-    linkedCollection.kind === "collection"
+    ["collection", "group"].includes(linkedCollection.kind)
   ) {
-    data = library.collections.get(linkedCollection.id);
-    groupId = linkedCollection.parentId;
-    view = "catalogue";
+    if (linkedCollection.kind === "collection") {
+      data = library.collections.get(linkedCollection.id);
+      groupId = linkedCollection.parentId;
+      view = "catalogue";
+    } else {
+      groupId = linkedCollection.id;
+      view = "collections";
+    }
   }
   render();
 })();

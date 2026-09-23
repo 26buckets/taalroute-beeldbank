@@ -330,18 +330,40 @@
         "de koelkast",
         "de deur",
         "koel",
-        "bewaren"
+        "bewaren",
+        "koelkast"
       ],
       "uses": [
         "benoemen",
         "eten bewaren",
-        "keukenapparaten"
+        "keukenapparaten",
+        "Wonen en het huis",
+        "Inrichting"
       ],
       "type": "OBJ",
       "note": "",
-      "source": "https://drive.google.com/file/d/1ZoHP1YswgDDK90s4oIf8szi5H5myDNad/view?usp=drivesdk",
+      "source": {
+        "driveFileId": "1ZoHP1YswgDDK90s4oIf8szi5H5myDNad",
+        "url": "https://drive.google.com/file/d/1ZoHP1YswgDDK90s4oIf8szi5H5myDNad/view?usp=drivesdk"
+      },
       "sourceName": "WB_KEE_015_koelkast_OBJ_v01.png",
-      "version": 1
+      "version": 1,
+      "methodLinks": [
+        {
+          "lesson": "VS-L41",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "word": "koelkast",
+          "conceptId": "WB-4374d7a10d"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-4374d7a10d",
+          "word": "koelkast",
+          "group": "inrichting"
+        }
+      ]
     },
     {
       "id": "kee-016",
@@ -353,18 +375,47 @@
         "de oven",
         "de ovendeur",
         "het aanrecht",
-        "bakken"
+        "bakken",
+        "oven"
       ],
       "uses": [
         "benoemen",
         "bakken",
-        "keukenapparaten"
+        "keukenapparaten",
+        "Wonen en het huis",
+        "Inrichting"
       ],
       "type": "OBJ",
       "note": "",
-      "source": "https://drive.google.com/file/d/15YjTz5eJPWbu8_UV3YG0CdI68scYUpJm/view?usp=drivesdk",
+      "source": {
+        "driveFileId": "15YjTz5eJPWbu8_UV3YG0CdI68scYUpJm",
+        "url": "https://drive.google.com/file/d/15YjTz5eJPWbu8_UV3YG0CdI68scYUpJm/view?usp=drivesdk"
+      },
       "sourceName": "WB_KEE_016_oven_OBJ_v01.png",
-      "version": 1
+      "version": 1,
+      "methodLinks": [
+        {
+          "lesson": "VS-L35",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-3-les-35",
+          "word": "oven",
+          "conceptId": "WB-4817d35175"
+        },
+        {
+          "lesson": "VS-L41",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "word": "oven",
+          "conceptId": "WB-4817d35175"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-4817d35175",
+          "word": "oven",
+          "group": "inrichting"
+        }
+      ]
     },
     {
       "id": "kee-017",
@@ -375,18 +426,40 @@
       "words": [
         "de magnetron",
         "de knop",
-        "opwarmen"
+        "opwarmen",
+        "magnetron"
       ],
       "uses": [
         "benoemen",
         "eten opwarmen",
-        "keukenapparaten"
+        "keukenapparaten",
+        "Wonen en het huis",
+        "Inrichting"
       ],
       "type": "OBJ",
       "note": "",
-      "source": "https://drive.google.com/file/d/1EIdiGcrqeaGzHKiXNC0b-h6gZYvL7svv/view?usp=drivesdk",
+      "source": {
+        "driveFileId": "1EIdiGcrqeaGzHKiXNC0b-h6gZYvL7svv",
+        "url": "https://drive.google.com/file/d/1EIdiGcrqeaGzHKiXNC0b-h6gZYvL7svv/view?usp=drivesdk"
+      },
       "sourceName": "WB_KEE_017_magnetron_OBJ_v01.png",
-      "version": 1
+      "version": 1,
+      "methodLinks": [
+        {
+          "lesson": "VS-L41",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "word": "magnetron",
+          "conceptId": "WB-ce57fcf3d9"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-ce57fcf3d9",
+          "word": "magnetron",
+          "group": "inrichting"
+        }
+      ]
     },
     {
       "id": "kee-018",
@@ -421,18 +494,40 @@
         "de gootsteen",
         "de kraan",
         "het aanrecht",
-        "afwassen"
+        "afwassen",
+        "gootsteen"
       ],
       "uses": [
         "benoemen",
         "afwassen",
-        "groente wassen"
+        "groente wassen",
+        "Wonen en het huis",
+        "Inrichting"
       ],
       "type": "OBJ",
       "note": "",
-      "source": "https://drive.google.com/file/d/1AZ642zLZAWsP6us_X5KiAOUyWePuaRUU/view?usp=drivesdk",
+      "source": {
+        "driveFileId": "1AZ642zLZAWsP6us_X5KiAOUyWePuaRUU",
+        "url": "https://drive.google.com/file/d/1AZ642zLZAWsP6us_X5KiAOUyWePuaRUU/view?usp=drivesdk"
+      },
       "sourceName": "WB_KEE_019_gootsteen_OBJ_v01.png",
-      "version": 1
+      "version": 1,
+      "methodLinks": [
+        {
+          "lesson": "VS-L41",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "word": "gootsteen",
+          "conceptId": "WB-74bbd1cbd1"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-74bbd1cbd1",
+          "word": "gootsteen",
+          "group": "inrichting"
+        }
+      ]
     },
     {
       "id": "kee-020",
@@ -1091,18 +1186,40 @@
         "de gootsteen",
         "de keukenkast",
         "de oven",
-        "de kookplaat"
+        "de kookplaat",
+        "keuken"
       ],
       "uses": [
         "overzicht beschrijven",
         "keukeninrichting",
-        "plaats beschrijven"
+        "plaats beschrijven",
+        "Wonen en het huis",
+        "Ruimtes en bouwdelen"
       ],
       "type": "OVZ",
       "note": "",
-      "source": "https://drive.google.com/file/d/1OD6S3t3m85D3imULOZ4BIOK1_oRO_YjZ/view?usp=drivesdk",
+      "source": {
+        "driveFileId": "1OD6S3t3m85D3imULOZ4BIOK1_oRO_YjZ",
+        "url": "https://drive.google.com/file/d/1OD6S3t3m85D3imULOZ4BIOK1_oRO_YjZ/view?usp=drivesdk"
+      },
       "sourceName": "WB_KEE_048_keukenoverzicht_plaatsrelaties_OVZ_v01.png",
-      "version": 1
+      "version": 1,
+      "methodLinks": [
+        {
+          "lesson": "VS-L38",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "word": "keuken",
+          "conceptId": "WB-AUD-0391"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-AUD-0391",
+          "word": "keuken",
+          "group": "ruimtes"
+        }
+      ]
     },
     {
       "id": "kee-049",
@@ -1302,5 +1419,54 @@
       ]
     }
   ],
-  "methodLinks": []
+  "methodLinks": [
+    {
+      "lesson": "VS-L41",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+      "word": "koelkast",
+      "conceptId": "WB-4374d7a10d",
+      "assetId": "kee-015"
+    },
+    {
+      "lesson": "VS-L35",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-3-les-35",
+      "word": "oven",
+      "conceptId": "WB-4817d35175",
+      "assetId": "kee-016"
+    },
+    {
+      "lesson": "VS-L41",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+      "word": "oven",
+      "conceptId": "WB-4817d35175",
+      "assetId": "kee-016"
+    },
+    {
+      "lesson": "VS-L41",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+      "word": "magnetron",
+      "conceptId": "WB-ce57fcf3d9",
+      "assetId": "kee-017"
+    },
+    {
+      "lesson": "VS-L41",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+      "word": "gootsteen",
+      "conceptId": "WB-74bbd1cbd1",
+      "assetId": "kee-019"
+    },
+    {
+      "lesson": "VS-L38",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+      "word": "keuken",
+      "conceptId": "WB-AUD-0391",
+      "assetId": "kee-048"
+    }
+  ]
 }

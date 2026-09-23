@@ -1,0 +1,3291 @@
+{
+  "date": "2026-09-23",
+  "concepts": [
+    {
+      "id": "WB-AUD-0379",
+      "word": "achtertuin",
+      "group_id": "buitenruimtes",
+      "website_asset_ids": [
+        "won-006"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L40",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als gemeubileerd, eengezinswoning, oppervlakte, huurprijs, borg, voortuin, achtertuin, hal, trap, woonkamer, zitbank, salontafel, openslaande deuren, apparatuur, serviesgoed, slaapkamer, kledingkast, verlichting, douche, ligbad, wastafel, zolder en werkkamer. Laat cursisten woord en betekenis koppelen en daarna drie woorden in een voorbeeldzin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0380",
+      "word": "badkamer",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "bav-037"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L38",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als de tuin, de schuur, de hal, de trap, de wc, de keuken, de woonkamer, de slaapkamer, de badkamer, de zolder, het dak, de schoorsteen, de begane grond, de verdieping, het balkon en de garage. Laat cursisten de woorden koppelen aan de juiste plek op een plaatje of plattegrond en daarna drie zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0381",
+      "word": "balkon",
+      "group_id": "buitenruimtes",
+      "website_asset_ids": [
+        "won-008"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L38",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als de tuin, de schuur, de hal, de trap, de wc, de keuken, de woonkamer, de slaapkamer, de badkamer, de zolder, het dak, de schoorsteen, de begane grond, de verdieping, het balkon en de garage. Laat cursisten de woorden koppelen aan de juiste plek op een plaatje of plattegrond en daarna drie zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0382",
+      "word": "begane grond",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "won-017"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L22",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-2-les-22-week-8",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als rechtdoor, linksaf, rechtsaf, rotonde, stoplichten, kruispunt, parkeerterrein, parkeerplaats, begane grond, eerste etage, gang, roltrap, linkerhand, rechterhand, informatiebalie en schoenwinkel. Laat cursisten woord en betekenis koppelen en daarna drie korte routezinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "VS-L38",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als de tuin, de schuur, de hal, de trap, de wc, de keuken, de woonkamer, de slaapkamer, de badkamer, de zolder, het dak, de schoorsteen, de begane grond, de verdieping, het balkon en de garage. Laat cursisten de woorden koppelen aan de juiste plek op een plaatje of plattegrond en daarna drie zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "FI-L11",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+          "route": "De Finale",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden en uitdrukkingen als advies, suggestie, hulp nodig hebben, raad geven, een tip, op zoek zijn naar, een oplossing, statig, monumentaal, futuristisch, puntdak, gevel, begane grond, etage, karakteristiek, sfeervol en modern ingericht. Laat cursisten woorden eerst koppelen aan betekenis en daarna vier woorden gebruiken in een mondelinge of schriftelijke zin.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0383",
+      "word": "boerderij",
+      "group_id": "woningtypen",
+      "website_asset_ids": [
+        "won-009"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L37",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als de boerderij, het grachtenpand, de tuin, de moestuin, de verdieping, de garage, de zolder, de hypotheek, tuinieren, klussen, barbecueën, last hebben van buren, uitzicht en natuur. Laat cursisten de woorden eerst koppelen aan een afbeelding of betekenis en daarna drie woorden gebruiken in een zin.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0384",
+      "word": "dak",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "won-reuse-1mYS7G_layy7vHMsDGVkdPGCWV4_6SCW8"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L38",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als de tuin, de schuur, de hal, de trap, de wc, de keuken, de woonkamer, de slaapkamer, de badkamer, de zolder, het dak, de schoorsteen, de begane grond, de verdieping, het balkon en de garage. Laat cursisten de woorden koppelen aan de juiste plek op een plaatje of plattegrond en daarna drie zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0385",
+      "word": "eengezinswoning",
+      "group_id": "woningtypen",
+      "website_asset_ids": [
+        "won-reuse-1mYS7G_layy7vHMsDGVkdPGCWV4_6SCW8"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L40",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als gemeubileerd, eengezinswoning, oppervlakte, huurprijs, borg, voortuin, achtertuin, hal, trap, woonkamer, zitbank, salontafel, openslaande deuren, apparatuur, serviesgoed, slaapkamer, kledingkast, verlichting, douche, ligbad, wastafel, zolder en werkkamer. Laat cursisten woord en betekenis koppelen en daarna drie woorden in een voorbeeldzin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0386",
+      "word": "eerste etage",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "won-017"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L22",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-2-les-22-week-8",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als rechtdoor, linksaf, rechtsaf, rotonde, stoplichten, kruispunt, parkeerterrein, parkeerplaats, begane grond, eerste etage, gang, roltrap, linkerhand, rechterhand, informatiebalie en schoenwinkel. Laat cursisten woord en betekenis koppelen en daarna drie korte routezinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0387",
+      "word": "garage",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "won-005"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L37",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als de boerderij, het grachtenpand, de tuin, de moestuin, de verdieping, de garage, de zolder, de hypotheek, tuinieren, klussen, barbecueën, last hebben van buren, uitzicht en natuur. Laat cursisten de woorden eerst koppelen aan een afbeelding of betekenis en daarna drie woorden gebruiken in een zin.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "VS-L38",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als de tuin, de schuur, de hal, de trap, de wc, de keuken, de woonkamer, de slaapkamer, de badkamer, de zolder, het dak, de schoorsteen, de begane grond, de verdieping, het balkon en de garage. Laat cursisten de woorden koppelen aan de juiste plek op een plaatje of plattegrond en daarna drie zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "VS-L42",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-42",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nLaat cursisten na de toets 5 woorden uit thema 7 herhalen die nog lastig zijn, zoals huurprijs, borg, gemeubileerd, zolder, voorraad, tegenover, naast, kledingkast, wastafel of garage. Laat hen deze opnieuw in een zin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0388",
+      "word": "grachtenpand",
+      "group_id": "woningtypen",
+      "website_asset_ids": [
+        "won-010"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L37",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als de boerderij, het grachtenpand, de tuin, de moestuin, de verdieping, de garage, de zolder, de hypotheek, tuinieren, klussen, barbecueën, last hebben van buren, uitzicht en natuur. Laat cursisten de woorden eerst koppelen aan een afbeelding of betekenis en daarna drie woorden gebruiken in een zin.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0389",
+      "word": "hal",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "won-reuse-1-TbMCHf4e2mjyQGzZ6jSOAl4FUZ5OUJh"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L38",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als de tuin, de schuur, de hal, de trap, de wc, de keuken, de woonkamer, de slaapkamer, de badkamer, de zolder, het dak, de schoorsteen, de begane grond, de verdieping, het balkon en de garage. Laat cursisten de woorden koppelen aan de juiste plek op een plaatje of plattegrond en daarna drie zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "VS-L40",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als gemeubileerd, eengezinswoning, oppervlakte, huurprijs, borg, voortuin, achtertuin, hal, trap, woonkamer, zitbank, salontafel, openslaande deuren, apparatuur, serviesgoed, slaapkamer, kledingkast, verlichting, douche, ligbad, wastafel, zolder en werkkamer. Laat cursisten woord en betekenis koppelen en daarna drie woorden in een voorbeeldzin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0390",
+      "word": "huis",
+      "group_id": "woningtypen",
+      "website_asset_ids": [
+        "won-reuse-1mYS7G_layy7vHMsDGVkdPGCWV4_6SCW8"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L15",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-2-les-15",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als de vader, de moeder, het kind, de broer, de zus, de vriendin, het gezin, de buur en het huis. Laat cursisten woorden sorteren en daarna korte zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0391",
+      "word": "keuken",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "kee-048"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L38",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als de tuin, de schuur, de hal, de trap, de wc, de keuken, de woonkamer, de slaapkamer, de badkamer, de zolder, het dak, de schoorsteen, de begane grond, de verdieping, het balkon en de garage. Laat cursisten de woorden koppelen aan de juiste plek op een plaatje of plattegrond en daarna drie zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0392",
+      "word": "klussen",
+      "group_id": "wonen-regelen",
+      "website_asset_ids": [
+        "won-021"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L37",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als de boerderij, het grachtenpand, de tuin, de moestuin, de verdieping, de garage, de zolder, de hypotheek, tuinieren, klussen, barbecueën, last hebben van buren, uitzicht en natuur. Laat cursisten de woorden eerst koppelen aan een afbeelding of betekenis en daarna drie woorden gebruiken in een zin.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0393",
+      "word": "moestuin",
+      "group_id": "buitenruimtes",
+      "website_asset_ids": [
+        "won-007"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L37",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als de boerderij, het grachtenpand, de tuin, de moestuin, de verdieping, de garage, de zolder, de hypotheek, tuinieren, klussen, barbecueën, last hebben van buren, uitzicht en natuur. Laat cursisten de woorden eerst koppelen aan een afbeelding of betekenis en daarna drie woorden gebruiken in een zin.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0394",
+      "word": "openslaande deuren",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "won-006"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L40",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als gemeubileerd, eengezinswoning, oppervlakte, huurprijs, borg, voortuin, achtertuin, hal, trap, woonkamer, zitbank, salontafel, openslaande deuren, apparatuur, serviesgoed, slaapkamer, kledingkast, verlichting, douche, ligbad, wastafel, zolder en werkkamer. Laat cursisten woord en betekenis koppelen en daarna drie woorden in een voorbeeldzin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0395",
+      "word": "schoorsteen",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "won-reuse-1mYS7G_layy7vHMsDGVkdPGCWV4_6SCW8"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L38",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als de tuin, de schuur, de hal, de trap, de wc, de keuken, de woonkamer, de slaapkamer, de badkamer, de zolder, het dak, de schoorsteen, de begane grond, de verdieping, het balkon en de garage. Laat cursisten de woorden koppelen aan de juiste plek op een plaatje of plattegrond en daarna drie zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0396",
+      "word": "schuur",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "won-004"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L38",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als de tuin, de schuur, de hal, de trap, de wc, de keuken, de woonkamer, de slaapkamer, de badkamer, de zolder, het dak, de schoorsteen, de begane grond, de verdieping, het balkon en de garage. Laat cursisten de woorden koppelen aan de juiste plek op een plaatje of plattegrond en daarna drie zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0397",
+      "word": "slaapkamer",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "won-reuse-1PH1Jux4vpKMuWUBOROLNpPwjl9CQDzoO"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L38",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als de tuin, de schuur, de hal, de trap, de wc, de keuken, de woonkamer, de slaapkamer, de badkamer, de zolder, het dak, de schoorsteen, de begane grond, de verdieping, het balkon en de garage. Laat cursisten de woorden koppelen aan de juiste plek op een plaatje of plattegrond en daarna drie zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "VS-L40",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als gemeubileerd, eengezinswoning, oppervlakte, huurprijs, borg, voortuin, achtertuin, hal, trap, woonkamer, zitbank, salontafel, openslaande deuren, apparatuur, serviesgoed, slaapkamer, kledingkast, verlichting, douche, ligbad, wastafel, zolder en werkkamer. Laat cursisten woord en betekenis koppelen en daarna drie woorden in een voorbeeldzin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0398",
+      "word": "trap",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "won-002"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L38",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als de tuin, de schuur, de hal, de trap, de wc, de keuken, de woonkamer, de slaapkamer, de badkamer, de zolder, het dak, de schoorsteen, de begane grond, de verdieping, het balkon en de garage. Laat cursisten de woorden koppelen aan de juiste plek op een plaatje of plattegrond en daarna drie zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "VS-L40",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als gemeubileerd, eengezinswoning, oppervlakte, huurprijs, borg, voortuin, achtertuin, hal, trap, woonkamer, zitbank, salontafel, openslaande deuren, apparatuur, serviesgoed, slaapkamer, kledingkast, verlichting, douche, ligbad, wastafel, zolder en werkkamer. Laat cursisten woord en betekenis koppelen en daarna drie woorden in een voorbeeldzin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0399",
+      "word": "tuin",
+      "group_id": "buitenruimtes",
+      "website_asset_ids": [
+        "won-006"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L37",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als de boerderij, het grachtenpand, de tuin, de moestuin, de verdieping, de garage, de zolder, de hypotheek, tuinieren, klussen, barbecueën, last hebben van buren, uitzicht en natuur. Laat cursisten de woorden eerst koppelen aan een afbeelding of betekenis en daarna drie woorden gebruiken in een zin.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "VS-L38",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als de tuin, de schuur, de hal, de trap, de wc, de keuken, de woonkamer, de slaapkamer, de badkamer, de zolder, het dak, de schoorsteen, de begane grond, de verdieping, het balkon en de garage. Laat cursisten de woorden koppelen aan de juiste plek op een plaatje of plattegrond en daarna drie zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "IN-L10",
+          "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-1-les-10",
+          "route": "Inzicht",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden en zinsdelen zoals droom, wens, wereldreis, groter huis, pensioen, uitslapen, vrije tijd, doorbrengen, ruimte, tuin, klimaat en vrij. Laat cursisten woorden koppelen aan personen uit de teksten en daarna twee eigen wenszinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0400",
+      "word": "uitzicht",
+      "group_id": "buitenruimtes",
+      "website_asset_ids": [
+        "won-008"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L37",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als de boerderij, het grachtenpand, de tuin, de moestuin, de verdieping, de garage, de zolder, de hypotheek, tuinieren, klussen, barbecueën, last hebben van buren, uitzicht en natuur. Laat cursisten de woorden eerst koppelen aan een afbeelding of betekenis en daarna drie woorden gebruiken in een zin.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0401",
+      "word": "verdieping",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "won-015"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L23",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-2-les-23",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als kruispunt, brug, receptie, loket, lift, verdieping, roltrap, balie, linkerkant, rechterkant, naast, tegenover, bij, achter, voor en tussen. Laat cursisten woorden koppelen aan een plek of routezin en daarna twee voorbeeldzinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "VS-L37",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als de boerderij, het grachtenpand, de tuin, de moestuin, de verdieping, de garage, de zolder, de hypotheek, tuinieren, klussen, barbecueën, last hebben van buren, uitzicht en natuur. Laat cursisten de woorden eerst koppelen aan een afbeelding of betekenis en daarna drie woorden gebruiken in een zin.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "VS-L38",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als de tuin, de schuur, de hal, de trap, de wc, de keuken, de woonkamer, de slaapkamer, de badkamer, de zolder, het dak, de schoorsteen, de begane grond, de verdieping, het balkon en de garage. Laat cursisten de woorden koppelen aan de juiste plek op een plaatje of plattegrond en daarna drie zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0402",
+      "word": "voortuin",
+      "group_id": "buitenruimtes",
+      "website_asset_ids": [
+        "won-reuse-1mYS7G_layy7vHMsDGVkdPGCWV4_6SCW8"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L40",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als gemeubileerd, eengezinswoning, oppervlakte, huurprijs, borg, voortuin, achtertuin, hal, trap, woonkamer, zitbank, salontafel, openslaande deuren, apparatuur, serviesgoed, slaapkamer, kledingkast, verlichting, douche, ligbad, wastafel, zolder en werkkamer. Laat cursisten woord en betekenis koppelen en daarna drie woorden in een voorbeeldzin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0403",
+      "word": "wc",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "bav-007"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L38",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als de tuin, de schuur, de hal, de trap, de wc, de keuken, de woonkamer, de slaapkamer, de badkamer, de zolder, het dak, de schoorsteen, de begane grond, de verdieping, het balkon en de garage. Laat cursisten de woorden koppelen aan de juiste plek op een plaatje of plattegrond en daarna drie zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0404",
+      "word": "werkkamer",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "won-001"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L40",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als gemeubileerd, eengezinswoning, oppervlakte, huurprijs, borg, voortuin, achtertuin, hal, trap, woonkamer, zitbank, salontafel, openslaande deuren, apparatuur, serviesgoed, slaapkamer, kledingkast, verlichting, douche, ligbad, wastafel, zolder en werkkamer. Laat cursisten woord en betekenis koppelen en daarna drie woorden in een voorbeeldzin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0405",
+      "word": "woonkamer",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "woo-037"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L38",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als de tuin, de schuur, de hal, de trap, de wc, de keuken, de woonkamer, de slaapkamer, de badkamer, de zolder, het dak, de schoorsteen, de begane grond, de verdieping, het balkon en de garage. Laat cursisten de woorden koppelen aan de juiste plek op een plaatje of plattegrond en daarna drie zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "VS-L40",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als gemeubileerd, eengezinswoning, oppervlakte, huurprijs, borg, voortuin, achtertuin, hal, trap, woonkamer, zitbank, salontafel, openslaande deuren, apparatuur, serviesgoed, slaapkamer, kledingkast, verlichting, douche, ligbad, wastafel, zolder en werkkamer. Laat cursisten woord en betekenis koppelen en daarna drie woorden in een voorbeeldzin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0406",
+      "word": "zolder",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "won-003"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L37",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als de boerderij, het grachtenpand, de tuin, de moestuin, de verdieping, de garage, de zolder, de hypotheek, tuinieren, klussen, barbecueën, last hebben van buren, uitzicht en natuur. Laat cursisten de woorden eerst koppelen aan een afbeelding of betekenis en daarna drie woorden gebruiken in een zin.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "VS-L38",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als de tuin, de schuur, de hal, de trap, de wc, de keuken, de woonkamer, de slaapkamer, de badkamer, de zolder, het dak, de schoorsteen, de begane grond, de verdieping, het balkon en de garage. Laat cursisten de woorden koppelen aan de juiste plek op een plaatje of plattegrond en daarna drie zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "VS-L40",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als gemeubileerd, eengezinswoning, oppervlakte, huurprijs, borg, voortuin, achtertuin, hal, trap, woonkamer, zitbank, salontafel, openslaande deuren, apparatuur, serviesgoed, slaapkamer, kledingkast, verlichting, douche, ligbad, wastafel, zolder en werkkamer. Laat cursisten woord en betekenis koppelen en daarna drie woorden in een voorbeeldzin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "VS-L42",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-42",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nLaat cursisten na de toets 5 woorden uit thema 7 herhalen die nog lastig zijn, zoals huurprijs, borg, gemeubileerd, zolder, voorraad, tegenover, naast, kledingkast, wastafel of garage. Laat hen deze opnieuw in een zin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0407",
+      "word": "groter huis",
+      "group_id": "woningtypen",
+      "website_asset_ids": [
+        "won-011",
+        "won-013"
+      ],
+      "sources": [
+        {
+          "lesson": "IN-L10",
+          "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-1-les-10",
+          "route": "Inzicht",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden en zinsdelen zoals droom, wens, wereldreis, groter huis, pensioen, uitslapen, vrije tijd, doorbrengen, ruimte, tuin, klimaat en vrij. Laat cursisten woorden koppelen aan personen uit de teksten en daarna twee eigen wenszinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0408",
+      "word": "ruimte",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "won-001",
+        "won-013"
+      ],
+      "sources": [
+        {
+          "lesson": "IN-L10",
+          "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-1-les-10",
+          "route": "Inzicht",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden en zinsdelen zoals droom, wens, wereldreis, groter huis, pensioen, uitslapen, vrije tijd, doorbrengen, ruimte, tuin, klimaat en vrij. Laat cursisten woorden koppelen aan personen uit de teksten en daarna twee eigen wenszinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0409",
+      "word": "etage",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "won-015"
+      ],
+      "sources": [
+        {
+          "lesson": "FI-L11",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+          "route": "De Finale",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden en uitdrukkingen als advies, suggestie, hulp nodig hebben, raad geven, een tip, op zoek zijn naar, een oplossing, statig, monumentaal, futuristisch, puntdak, gevel, begane grond, etage, karakteristiek, sfeervol en modern ingericht. Laat cursisten woorden eerst koppelen aan betekenis en daarna vier woorden gebruiken in een mondelinge of schriftelijke zin.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0410",
+      "word": "gevel",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "won-010"
+      ],
+      "sources": [
+        {
+          "lesson": "FI-L11",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+          "route": "De Finale",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden en uitdrukkingen als advies, suggestie, hulp nodig hebben, raad geven, een tip, op zoek zijn naar, een oplossing, statig, monumentaal, futuristisch, puntdak, gevel, begane grond, etage, karakteristiek, sfeervol en modern ingericht. Laat cursisten woorden eerst koppelen aan betekenis en daarna vier woorden gebruiken in een mondelinge of schriftelijke zin.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0411",
+      "word": "puntdak",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "won-009"
+      ],
+      "sources": [
+        {
+          "lesson": "FI-L11",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+          "route": "De Finale",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden en uitdrukkingen als advies, suggestie, hulp nodig hebben, raad geven, een tip, op zoek zijn naar, een oplossing, statig, monumentaal, futuristisch, puntdak, gevel, begane grond, etage, karakteristiek, sfeervol en modern ingericht. Laat cursisten woorden eerst koppelen aan betekenis en daarna vier woorden gebruiken in een mondelinge of schriftelijke zin.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0412",
+      "word": "apparatuur",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "won-014"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L40",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als gemeubileerd, eengezinswoning, oppervlakte, huurprijs, borg, voortuin, achtertuin, hal, trap, woonkamer, zitbank, salontafel, openslaande deuren, apparatuur, serviesgoed, slaapkamer, kledingkast, verlichting, douche, ligbad, wastafel, zolder en werkkamer. Laat cursisten woord en betekenis koppelen en daarna drie woorden in een voorbeeldzin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0413",
+      "word": "bank",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "woo-001"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L41",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als bank, stoel, salontafel, kast, televisie, lamp, vaas, eettafel, gordijn, tapijt, kleed, schilderij, bed, kussen, wastafel, spiegel, kapstok en met voorzetsels als naast, tegen, voor, tussen, tegenover, boven, onder, op, achter, in en rond. Laat cursisten woord en plaats combineren en daarna twee volledige zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0414",
+      "word": "bed",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "won-reuse-1WJ0tL6vt1uhZ24Ta5k_0-KGvg-PxFcxP"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L41",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als bank, stoel, salontafel, kast, televisie, lamp, vaas, eettafel, gordijn, tapijt, kleed, schilderij, bed, kussen, wastafel, spiegel, kapstok en met voorzetsels als naast, tegen, voor, tussen, tegenover, boven, onder, op, achter, in en rond. Laat cursisten woord en plaats combineren en daarna twee volledige zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0415",
+      "word": "douche",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "bav-006"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L40",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als gemeubileerd, eengezinswoning, oppervlakte, huurprijs, borg, voortuin, achtertuin, hal, trap, woonkamer, zitbank, salontafel, openslaande deuren, apparatuur, serviesgoed, slaapkamer, kledingkast, verlichting, douche, ligbad, wastafel, zolder en werkkamer. Laat cursisten woord en betekenis koppelen en daarna drie woorden in een voorbeeldzin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0416",
+      "word": "eettafel",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "won-reuse-13-MaharPCv5Oj2PZ9im7ivVb8KwVuwex"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L41",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als bank, stoel, salontafel, kast, televisie, lamp, vaas, eettafel, gordijn, tapijt, kleed, schilderij, bed, kussen, wastafel, spiegel, kapstok en met voorzetsels als naast, tegen, voor, tussen, tegenover, boven, onder, op, achter, in en rond. Laat cursisten woord en plaats combineren en daarna twee volledige zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0417",
+      "word": "gordijn",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "woo-011"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L41",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als bank, stoel, salontafel, kast, televisie, lamp, vaas, eettafel, gordijn, tapijt, kleed, schilderij, bed, kussen, wastafel, spiegel, kapstok en met voorzetsels als naast, tegen, voor, tussen, tegenover, boven, onder, op, achter, in en rond. Laat cursisten woord en plaats combineren en daarna twee volledige zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0418",
+      "word": "kapstok",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "won-reuse-1vAiYY22Ot-K-w7QrwaKZRVQjzgFU2l4S"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L41",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als bank, stoel, salontafel, kast, televisie, lamp, vaas, eettafel, gordijn, tapijt, kleed, schilderij, bed, kussen, wastafel, spiegel, kapstok en met voorzetsels als naast, tegen, voor, tussen, tegenover, boven, onder, op, achter, in en rond. Laat cursisten woord en plaats combineren en daarna twee volledige zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0419",
+      "word": "kast",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "won-reuse-1YG3wF9piLv6aLn_iNAACrWbgZCq1OWQj"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L41",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als bank, stoel, salontafel, kast, televisie, lamp, vaas, eettafel, gordijn, tapijt, kleed, schilderij, bed, kussen, wastafel, spiegel, kapstok en met voorzetsels als naast, tegen, voor, tussen, tegenover, boven, onder, op, achter, in en rond. Laat cursisten woord en plaats combineren en daarna twee volledige zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0420",
+      "word": "kledingkast",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "won-016"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L40",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als gemeubileerd, eengezinswoning, oppervlakte, huurprijs, borg, voortuin, achtertuin, hal, trap, woonkamer, zitbank, salontafel, openslaande deuren, apparatuur, serviesgoed, slaapkamer, kledingkast, verlichting, douche, ligbad, wastafel, zolder en werkkamer. Laat cursisten woord en betekenis koppelen en daarna drie woorden in een voorbeeldzin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "VS-L42",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-42",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nLaat cursisten na de toets 5 woorden uit thema 7 herhalen die nog lastig zijn, zoals huurprijs, borg, gemeubileerd, zolder, voorraad, tegenover, naast, kledingkast, wastafel of garage. Laat hen deze opnieuw in een zin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0421",
+      "word": "kleed",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "woo-010"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L41",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als bank, stoel, salontafel, kast, televisie, lamp, vaas, eettafel, gordijn, tapijt, kleed, schilderij, bed, kussen, wastafel, spiegel, kapstok en met voorzetsels als naast, tegen, voor, tussen, tegenover, boven, onder, op, achter, in en rond. Laat cursisten woord en plaats combineren en daarna twee volledige zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0422",
+      "word": "kussen",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "woo-008"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L41",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als bank, stoel, salontafel, kast, televisie, lamp, vaas, eettafel, gordijn, tapijt, kleed, schilderij, bed, kussen, wastafel, spiegel, kapstok en met voorzetsels als naast, tegen, voor, tussen, tegenover, boven, onder, op, achter, in en rond. Laat cursisten woord en plaats combineren en daarna twee volledige zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0423",
+      "word": "lamp",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "woo-007"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L41",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als bank, stoel, salontafel, kast, televisie, lamp, vaas, eettafel, gordijn, tapijt, kleed, schilderij, bed, kussen, wastafel, spiegel, kapstok en met voorzetsels als naast, tegen, voor, tussen, tegenover, boven, onder, op, achter, in en rond. Laat cursisten woord en plaats combineren en daarna twee volledige zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0424",
+      "word": "ligbad",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "bav-038"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L40",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als gemeubileerd, eengezinswoning, oppervlakte, huurprijs, borg, voortuin, achtertuin, hal, trap, woonkamer, zitbank, salontafel, openslaande deuren, apparatuur, serviesgoed, slaapkamer, kledingkast, verlichting, douche, ligbad, wastafel, zolder en werkkamer. Laat cursisten woord en betekenis koppelen en daarna drie woorden in een voorbeeldzin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0425",
+      "word": "salontafel",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "woo-003"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L40",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als gemeubileerd, eengezinswoning, oppervlakte, huurprijs, borg, voortuin, achtertuin, hal, trap, woonkamer, zitbank, salontafel, openslaande deuren, apparatuur, serviesgoed, slaapkamer, kledingkast, verlichting, douche, ligbad, wastafel, zolder en werkkamer. Laat cursisten woord en betekenis koppelen en daarna drie woorden in een voorbeeldzin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "VS-L41",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als bank, stoel, salontafel, kast, televisie, lamp, vaas, eettafel, gordijn, tapijt, kleed, schilderij, bed, kussen, wastafel, spiegel, kapstok en met voorzetsels als naast, tegen, voor, tussen, tegenover, boven, onder, op, achter, in en rond. Laat cursisten woord en plaats combineren en daarna twee volledige zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0426",
+      "word": "schilderij",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "woo-037"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L41",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als bank, stoel, salontafel, kast, televisie, lamp, vaas, eettafel, gordijn, tapijt, kleed, schilderij, bed, kussen, wastafel, spiegel, kapstok en met voorzetsels als naast, tegen, voor, tussen, tegenover, boven, onder, op, achter, in en rond. Laat cursisten woord en plaats combineren en daarna twee volledige zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0427",
+      "word": "serviesgoed",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "won-034"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L40",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als gemeubileerd, eengezinswoning, oppervlakte, huurprijs, borg, voortuin, achtertuin, hal, trap, woonkamer, zitbank, salontafel, openslaande deuren, apparatuur, serviesgoed, slaapkamer, kledingkast, verlichting, douche, ligbad, wastafel, zolder en werkkamer. Laat cursisten woord en betekenis koppelen en daarna drie woorden in een voorbeeldzin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0428",
+      "word": "spiegel",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "bav-005"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L41",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als bank, stoel, salontafel, kast, televisie, lamp, vaas, eettafel, gordijn, tapijt, kleed, schilderij, bed, kussen, wastafel, spiegel, kapstok en met voorzetsels als naast, tegen, voor, tussen, tegenover, boven, onder, op, achter, in en rond. Laat cursisten woord en plaats combineren en daarna twee volledige zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0429",
+      "word": "stoel",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "won-reuse-1uY97q5JfBTScX5HxUrokrYhbZv-Zjyad"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L41",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als bank, stoel, salontafel, kast, televisie, lamp, vaas, eettafel, gordijn, tapijt, kleed, schilderij, bed, kussen, wastafel, spiegel, kapstok en met voorzetsels als naast, tegen, voor, tussen, tegenover, boven, onder, op, achter, in en rond. Laat cursisten woord en plaats combineren en daarna twee volledige zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0430",
+      "word": "tapijt",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "woo-010"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L41",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als bank, stoel, salontafel, kast, televisie, lamp, vaas, eettafel, gordijn, tapijt, kleed, schilderij, bed, kussen, wastafel, spiegel, kapstok en met voorzetsels als naast, tegen, voor, tussen, tegenover, boven, onder, op, achter, in en rond. Laat cursisten woord en plaats combineren en daarna twee volledige zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0431",
+      "word": "televisie",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "woo-005"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L41",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als bank, stoel, salontafel, kast, televisie, lamp, vaas, eettafel, gordijn, tapijt, kleed, schilderij, bed, kussen, wastafel, spiegel, kapstok en met voorzetsels als naast, tegen, voor, tussen, tegenover, boven, onder, op, achter, in en rond. Laat cursisten woord en plaats combineren en daarna twee volledige zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0432",
+      "word": "vaas",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "woo-013"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L41",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als bank, stoel, salontafel, kast, televisie, lamp, vaas, eettafel, gordijn, tapijt, kleed, schilderij, bed, kussen, wastafel, spiegel, kapstok en met voorzetsels als naast, tegen, voor, tussen, tegenover, boven, onder, op, achter, in en rond. Laat cursisten woord en plaats combineren en daarna twee volledige zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0433",
+      "word": "verlichting",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "won-001",
+        "won-013"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L40",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als gemeubileerd, eengezinswoning, oppervlakte, huurprijs, borg, voortuin, achtertuin, hal, trap, woonkamer, zitbank, salontafel, openslaande deuren, apparatuur, serviesgoed, slaapkamer, kledingkast, verlichting, douche, ligbad, wastafel, zolder en werkkamer. Laat cursisten woord en betekenis koppelen en daarna drie woorden in een voorbeeldzin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0434",
+      "word": "wastafel",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "bav-008"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L40",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als gemeubileerd, eengezinswoning, oppervlakte, huurprijs, borg, voortuin, achtertuin, hal, trap, woonkamer, zitbank, salontafel, openslaande deuren, apparatuur, serviesgoed, slaapkamer, kledingkast, verlichting, douche, ligbad, wastafel, zolder en werkkamer. Laat cursisten woord en betekenis koppelen en daarna drie woorden in een voorbeeldzin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "VS-L41",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als bank, stoel, salontafel, kast, televisie, lamp, vaas, eettafel, gordijn, tapijt, kleed, schilderij, bed, kussen, wastafel, spiegel, kapstok en met voorzetsels als naast, tegen, voor, tussen, tegenover, boven, onder, op, achter, in en rond. Laat cursisten woord en plaats combineren en daarna twee volledige zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "VS-L42",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-42",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nLaat cursisten na de toets 5 woorden uit thema 7 herhalen die nog lastig zijn, zoals huurprijs, borg, gemeubileerd, zolder, voorraad, tegenover, naast, kledingkast, wastafel of garage. Laat hen deze opnieuw in een zin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0435",
+      "word": "zitbank",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "woo-001"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L40",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als gemeubileerd, eengezinswoning, oppervlakte, huurprijs, borg, voortuin, achtertuin, hal, trap, woonkamer, zitbank, salontafel, openslaande deuren, apparatuur, serviesgoed, slaapkamer, kledingkast, verlichting, douche, ligbad, wastafel, zolder en werkkamer. Laat cursisten woord en betekenis koppelen en daarna drie woorden in een voorbeeldzin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0436",
+      "word": "futuristisch",
+      "group_id": "wonen-regelen",
+      "website_asset_ids": [
+        "won-018"
+      ],
+      "sources": [
+        {
+          "lesson": "FI-L11",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+          "route": "De Finale",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden en uitdrukkingen als advies, suggestie, hulp nodig hebben, raad geven, een tip, op zoek zijn naar, een oplossing, statig, monumentaal, futuristisch, puntdak, gevel, begane grond, etage, karakteristiek, sfeervol en modern ingericht. Laat cursisten woorden eerst koppelen aan betekenis en daarna vier woorden gebruiken in een mondelinge of schriftelijke zin.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0437",
+      "word": "interieur",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "won-013"
+      ],
+      "sources": [
+        {
+          "lesson": "FI-L10",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-1-les-10",
+          "route": "De Finale",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als cultuurlandschap, monumentaal, karakteristiek, traditie, gewoonte, behouden, verdrag, conservatief, interieur, eigentijds, ongeëvenaard, toegankelijk, culturele waarde en wederzijds begrip. Laat cursisten de woorden in categorieën zetten en daarna vier woorden gebruiken in een inhoudelijke samenvattingszin.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0438",
+      "word": "karakteristiek",
+      "group_id": "wonen-regelen",
+      "website_asset_ids": [
+        "won-010",
+        "won-018"
+      ],
+      "sources": [
+        {
+          "lesson": "FI-L10",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-1-les-10",
+          "route": "De Finale",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als cultuurlandschap, monumentaal, karakteristiek, traditie, gewoonte, behouden, verdrag, conservatief, interieur, eigentijds, ongeëvenaard, toegankelijk, culturele waarde en wederzijds begrip. Laat cursisten de woorden in categorieën zetten en daarna vier woorden gebruiken in een inhoudelijke samenvattingszin.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "FI-L11",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+          "route": "De Finale",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden en uitdrukkingen als advies, suggestie, hulp nodig hebben, raad geven, een tip, op zoek zijn naar, een oplossing, statig, monumentaal, futuristisch, puntdak, gevel, begane grond, etage, karakteristiek, sfeervol en modern ingericht. Laat cursisten woorden eerst koppelen aan betekenis en daarna vier woorden gebruiken in een mondelinge of schriftelijke zin.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "FI-L12",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-12",
+          "route": "De Finale",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nHerhaal kernwoorden uit thema 3 zoals werelderfgoed, culturele diversiteit, traditie, eetgewoonte, cultuurverschil, advies, karakteristiek, monumentaal, culturele waarde en wederzijds begrip. Laat cursisten deze woorden in categorieën zetten en daarna drie korte zinnen of definities formuleren.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0439",
+      "word": "modern ingericht",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "won-001",
+        "won-013"
+      ],
+      "sources": [
+        {
+          "lesson": "FI-L11",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+          "route": "De Finale",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden en uitdrukkingen als advies, suggestie, hulp nodig hebben, raad geven, een tip, op zoek zijn naar, een oplossing, statig, monumentaal, futuristisch, puntdak, gevel, begane grond, etage, karakteristiek, sfeervol en modern ingericht. Laat cursisten woorden eerst koppelen aan betekenis en daarna vier woorden gebruiken in een mondelinge of schriftelijke zin.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0440",
+      "word": "monumentaal",
+      "group_id": "wonen-regelen",
+      "website_asset_ids": [
+        "won-010"
+      ],
+      "sources": [
+        {
+          "lesson": "FI-L10",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-1-les-10",
+          "route": "De Finale",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als cultuurlandschap, monumentaal, karakteristiek, traditie, gewoonte, behouden, verdrag, conservatief, interieur, eigentijds, ongeëvenaard, toegankelijk, culturele waarde en wederzijds begrip. Laat cursisten de woorden in categorieën zetten en daarna vier woorden gebruiken in een inhoudelijke samenvattingszin.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "FI-L11",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+          "route": "De Finale",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden en uitdrukkingen als advies, suggestie, hulp nodig hebben, raad geven, een tip, op zoek zijn naar, een oplossing, statig, monumentaal, futuristisch, puntdak, gevel, begane grond, etage, karakteristiek, sfeervol en modern ingericht. Laat cursisten woorden eerst koppelen aan betekenis en daarna vier woorden gebruiken in een mondelinge of schriftelijke zin.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "FI-L12",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-12",
+          "route": "De Finale",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nHerhaal kernwoorden uit thema 3 zoals werelderfgoed, culturele diversiteit, traditie, eetgewoonte, cultuurverschil, advies, karakteristiek, monumentaal, culturele waarde en wederzijds begrip. Laat cursisten deze woorden in categorieën zetten en daarna drie korte zinnen of definities formuleren.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0441",
+      "word": "sfeervol",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "won-001",
+        "won-013"
+      ],
+      "sources": [
+        {
+          "lesson": "FI-L11",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+          "route": "De Finale",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden en uitdrukkingen als advies, suggestie, hulp nodig hebben, raad geven, een tip, op zoek zijn naar, een oplossing, statig, monumentaal, futuristisch, puntdak, gevel, begane grond, etage, karakteristiek, sfeervol en modern ingericht. Laat cursisten woorden eerst koppelen aan betekenis en daarna vier woorden gebruiken in een mondelinge of schriftelijke zin.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0442",
+      "word": "statig",
+      "group_id": "wonen-regelen",
+      "website_asset_ids": [
+        "won-010"
+      ],
+      "sources": [
+        {
+          "lesson": "FI-L11",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+          "route": "De Finale",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden en uitdrukkingen als advies, suggestie, hulp nodig hebben, raad geven, een tip, op zoek zijn naar, een oplossing, statig, monumentaal, futuristisch, puntdak, gevel, begane grond, etage, karakteristiek, sfeervol en modern ingericht. Laat cursisten woorden eerst koppelen aan betekenis en daarna vier woorden gebruiken in een mondelinge of schriftelijke zin.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0443",
+      "word": "borg",
+      "group_id": "wonen-regelen",
+      "website_asset_ids": [
+        "won-019"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L40",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als gemeubileerd, eengezinswoning, oppervlakte, huurprijs, borg, voortuin, achtertuin, hal, trap, woonkamer, zitbank, salontafel, openslaande deuren, apparatuur, serviesgoed, slaapkamer, kledingkast, verlichting, douche, ligbad, wastafel, zolder en werkkamer. Laat cursisten woord en betekenis koppelen en daarna drie woorden in een voorbeeldzin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "VS-L42",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-42",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nLaat cursisten na de toets 5 woorden uit thema 7 herhalen die nog lastig zijn, zoals huurprijs, borg, gemeubileerd, zolder, voorraad, tegenover, naast, kledingkast, wastafel of garage. Laat hen deze opnieuw in een zin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0444",
+      "word": "gemeubileerd",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "won-013"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L40",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als gemeubileerd, eengezinswoning, oppervlakte, huurprijs, borg, voortuin, achtertuin, hal, trap, woonkamer, zitbank, salontafel, openslaande deuren, apparatuur, serviesgoed, slaapkamer, kledingkast, verlichting, douche, ligbad, wastafel, zolder en werkkamer. Laat cursisten woord en betekenis koppelen en daarna drie woorden in een voorbeeldzin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "VS-L42",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-42",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nLaat cursisten na de toets 5 woorden uit thema 7 herhalen die nog lastig zijn, zoals huurprijs, borg, gemeubileerd, zolder, voorraad, tegenover, naast, kledingkast, wastafel of garage. Laat hen deze opnieuw in een zin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0445",
+      "word": "huurprijs",
+      "group_id": "wonen-regelen",
+      "website_asset_ids": [
+        "won-019"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L40",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als gemeubileerd, eengezinswoning, oppervlakte, huurprijs, borg, voortuin, achtertuin, hal, trap, woonkamer, zitbank, salontafel, openslaande deuren, apparatuur, serviesgoed, slaapkamer, kledingkast, verlichting, douche, ligbad, wastafel, zolder en werkkamer. Laat cursisten woord en betekenis koppelen en daarna drie woorden in een voorbeeldzin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "VS-L42",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-42",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nLaat cursisten na de toets 5 woorden uit thema 7 herhalen die nog lastig zijn, zoals huurprijs, borg, gemeubileerd, zolder, voorraad, tegenover, naast, kledingkast, wastafel of garage. Laat hen deze opnieuw in een zin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0446",
+      "word": "hypotheek",
+      "group_id": "wonen-regelen",
+      "website_asset_ids": [
+        "won-020"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L37",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als de boerderij, het grachtenpand, de tuin, de moestuin, de verdieping, de garage, de zolder, de hypotheek, tuinieren, klussen, barbecueën, last hebben van buren, uitzicht en natuur. Laat cursisten de woorden eerst koppelen aan een afbeelding of betekenis en daarna drie woorden gebruiken in een zin.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "IN-L25",
+          "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-3-les-25",
+          "route": "Inzicht",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als overschrijvingskaart, premie, zorgverzekering, bankpas, inboedelverzekering, overmaken, automatische overschrijving, afschrift, rente, vaste lasten, hypotheek, afsluiten, opnemen en elektronisch. Laat cursisten eerst woord en omschrijving koppelen en daarna drie woorden in een eigen zin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "IN-L30",
+          "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-3-les-30",
+          "route": "Inzicht",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nLaat cursisten na de toets 5 woorden uit thema 5 herhalen die nog lastig zijn, zoals premie, hypotheek, deposito, klacht, afschrift, overmaken, werelddekking of doorlopende verzekering. Laat hen deze opnieuw in een zin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0447",
+      "word": "last hebben van buren",
+      "group_id": "wonen-regelen",
+      "website_asset_ids": [
+        "won-021"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L37",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als de boerderij, het grachtenpand, de tuin, de moestuin, de verdieping, de garage, de zolder, de hypotheek, tuinieren, klussen, barbecueën, last hebben van buren, uitzicht en natuur. Laat cursisten de woorden eerst koppelen aan een afbeelding of betekenis en daarna drie woorden gebruiken in een zin.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0448",
+      "word": "oppervlakte",
+      "group_id": "wonen-regelen",
+      "website_asset_ids": [
+        "won-019"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L40",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als gemeubileerd, eengezinswoning, oppervlakte, huurprijs, borg, voortuin, achtertuin, hal, trap, woonkamer, zitbank, salontafel, openslaande deuren, apparatuur, serviesgoed, slaapkamer, kledingkast, verlichting, douche, ligbad, wastafel, zolder en werkkamer. Laat cursisten woord en betekenis koppelen en daarna drie woorden in een voorbeeldzin gebruiken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0449",
+      "word": "te koop",
+      "group_id": "wonen-regelen",
+      "website_asset_ids": [
+        "won-031"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L39",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-39-week-14",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden en uitdrukkingen als hier, daar, er is, er zijn, naartoe, vandaan, in de tuin, in de wijk, in de kamer, in het park, te koop en dichtbij. Laat cursisten de uitdrukkingen koppelen aan een voorbeeldzin en daarna twee eigen zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0503",
+      "word": "meenemen",
+      "group_id": "wonen-regelen",
+      "website_asset_ids": [
+        "won-022"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L45",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-3-les-34",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met werkwoorden en uitdrukkingen als opmaken, aantrekken, uitdoen, afwassen, opruimen, terugbellen, meenemen, uitrusten, ophalen en handelingen als nagels knippen, haren wassen, kleren strijken, crème insmeren en een warm bad nemen. Laat cursisten woord en handeling koppelen en daarna drie korte voorbeeldzinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0505",
+      "word": "ophalen",
+      "group_id": "wonen-regelen",
+      "website_asset_ids": [
+        "won-033"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L45",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-3-les-34",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met werkwoorden en uitdrukkingen als opmaken, aantrekken, uitdoen, afwassen, opruimen, terugbellen, meenemen, uitrusten, ophalen en handelingen als nagels knippen, haren wassen, kleren strijken, crème insmeren en een warm bad nemen. Laat cursisten woord en handeling koppelen en daarna drie korte voorbeeldzinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "IN-L27",
+          "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-3-les-27",
+          "route": "Inzicht",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met de kernwerkwoorden overmaken, opnemen, afrekenen, afsluiten, uitstappen, uitslapen, opendoen, voorstellen, terugbellen, aankomen, ophalen en langskomen. Laat cursisten de werkwoorden koppelen aan een betekenis en daarna per werkwoord een korte voorbeeldzin maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0507",
+      "word": "opruimen",
+      "group_id": "wonen-regelen",
+      "website_asset_ids": [
+        "woo-039",
+        "woo-040",
+        "woo-041",
+        "woo-042"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L45",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-3-les-34",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met werkwoorden en uitdrukkingen als opmaken, aantrekken, uitdoen, afwassen, opruimen, terugbellen, meenemen, uitrusten, ophalen en handelingen als nagels knippen, haren wassen, kleren strijken, crème insmeren en een warm bad nemen. Laat cursisten woord en handeling koppelen en daarna drie korte voorbeeldzinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0510",
+      "word": "bezorgen",
+      "group_id": "wonen-regelen",
+      "website_asset_ids": [
+        "won-023"
+      ],
+      "sources": [
+        {
+          "lesson": "IN-L45",
+          "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-4-les-45",
+          "route": "Inzicht",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met werkwoorden en participia als repareren, bezorgen, bakken, betalen, verkopen, bezoeken, maken, spelen en posten. Laat cursisten elk werkwoord koppelen aan een object en daarna een actieve en passieve zin maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "IN-L47",
+          "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-4-les-46",
+          "route": "Inzicht",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met werkwoorden en participia als knippen, bezorgen, koken, betalen, verkopen, bezoeken, maken, spelen, posten, corrigeren, boeken en vervangen. Laat cursisten actieve en passieve zinnen naast elkaar zetten en het verschil benoemen.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0511",
+      "word": "een brief posten",
+      "group_id": "wonen-regelen",
+      "website_asset_ids": [
+        "won-024"
+      ],
+      "sources": [
+        {
+          "lesson": "IN-L35",
+          "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-3-les-35",
+          "route": "Inzicht",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met werkwoorden als durven, proberen, beloven, beginnen, besluiten, vergeten, hoeven en activiteiten als naar horrorfilms kijken, de Mont Blanc beklimmen, mijn fiets repareren, met de verhuizing helpen, pannenkoeken bakken en een brief posten. Laat cursisten de werkwoorden koppelen aan een passende zin en daarna twee eigen zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0512",
+      "word": "een vriend helpen verhuizen",
+      "group_id": "wonen-regelen",
+      "website_asset_ids": [
+        "won-022"
+      ],
+      "sources": [
+        {
+          "lesson": "IN-L34",
+          "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-3-les-34-week-12",
+          "route": "Inzicht",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden en activiteiten als fitnessen, picknicken, winkelen, zeilen, een ijsje eten, naar een concert gaan, naar een museum gaan, naar het strand gaan, voor een toets leren, een vriend helpen verhuizen, mijn fiets repareren, in de tuin werken, een feestje voorbereiden en mee met een vriend sporten. Laat cursisten de activiteiten eerst indelen en daarna drie voorbeeldzinnen maken met ik ben … aan het ….",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0513",
+      "word": "knippen",
+      "group_id": "wonen-regelen",
+      "website_asset_ids": [
+        "los-N-B1-I16-p01"
+      ],
+      "sources": [
+        {
+          "lesson": "IN-L47",
+          "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-4-les-46",
+          "route": "Inzicht",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met werkwoorden en participia als knippen, bezorgen, koken, betalen, verkopen, bezoeken, maken, spelen, posten, corrigeren, boeken en vervangen. Laat cursisten actieve en passieve zinnen naast elkaar zetten en het verschil benoemen.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0514",
+      "word": "maken",
+      "group_id": "wonen-regelen",
+      "website_asset_ids": [
+        "won-021"
+      ],
+      "sources": [
+        {
+          "lesson": "IN-L45",
+          "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-4-les-45",
+          "route": "Inzicht",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met werkwoorden en participia als repareren, bezorgen, bakken, betalen, verkopen, bezoeken, maken, spelen en posten. Laat cursisten elk werkwoord koppelen aan een object en daarna een actieve en passieve zin maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "IN-L47",
+          "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-4-les-46",
+          "route": "Inzicht",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met werkwoorden en participia als knippen, bezorgen, koken, betalen, verkopen, bezoeken, maken, spelen, posten, corrigeren, boeken en vervangen. Laat cursisten actieve en passieve zinnen naast elkaar zetten en het verschil benoemen.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0515",
+      "word": "met de verhuizing helpen",
+      "group_id": "wonen-regelen",
+      "website_asset_ids": [
+        "won-022"
+      ],
+      "sources": [
+        {
+          "lesson": "IN-L35",
+          "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-3-les-35",
+          "route": "Inzicht",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met werkwoorden als durven, proberen, beloven, beginnen, besluiten, vergeten, hoeven en activiteiten als naar horrorfilms kijken, de Mont Blanc beklimmen, mijn fiets repareren, met de verhuizing helpen, pannenkoeken bakken en een brief posten. Laat cursisten de werkwoorden koppelen aan een passende zin en daarna twee eigen zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0516",
+      "word": "opendoen",
+      "group_id": "wonen-regelen",
+      "website_asset_ids": [
+        "won-reuse-19XBL_Ebgad1xYHTg3cQaA1sR_a7thgrN"
+      ],
+      "sources": [
+        {
+          "lesson": "IN-L27",
+          "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-3-les-27",
+          "route": "Inzicht",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met de kernwerkwoorden overmaken, opnemen, afrekenen, afsluiten, uitstappen, uitslapen, opendoen, voorstellen, terugbellen, aankomen, ophalen en langskomen. Laat cursisten de werkwoorden koppelen aan een betekenis en daarna per werkwoord een korte voorbeeldzin maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0517",
+      "word": "posten",
+      "group_id": "wonen-regelen",
+      "website_asset_ids": [
+        "won-024"
+      ],
+      "sources": [
+        {
+          "lesson": "IN-L45",
+          "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-4-les-45",
+          "route": "Inzicht",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met werkwoorden en participia als repareren, bezorgen, bakken, betalen, verkopen, bezoeken, maken, spelen en posten. Laat cursisten elk werkwoord koppelen aan een object en daarna een actieve en passieve zin maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "IN-L47",
+          "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-4-les-46",
+          "route": "Inzicht",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met werkwoorden en participia als knippen, bezorgen, koken, betalen, verkopen, bezoeken, maken, spelen, posten, corrigeren, boeken en vervangen. Laat cursisten actieve en passieve zinnen naast elkaar zetten en het verschil benoemen.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-AUD-0518",
+      "word": "uitslapen",
+      "group_id": "wonen-regelen",
+      "website_asset_ids": [
+        "won-025"
+      ],
+      "sources": [
+        {
+          "lesson": "IN-L10",
+          "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-1-les-10",
+          "route": "Inzicht",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden en zinsdelen zoals droom, wens, wereldreis, groter huis, pensioen, uitslapen, vrije tijd, doorbrengen, ruimte, tuin, klimaat en vrij. Laat cursisten woorden koppelen aan personen uit de teksten en daarna twee eigen wenszinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        },
+        {
+          "lesson": "IN-L27",
+          "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-3-les-27",
+          "route": "Inzicht",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met de kernwerkwoorden overmaken, opnemen, afrekenen, afsluiten, uitstappen, uitslapen, opendoen, voorstellen, terugbellen, aankomen, ophalen en langskomen. Laat cursisten de werkwoorden koppelen aan een betekenis en daarna per werkwoord een korte voorbeeldzin maken.",
+          "check_date": "2026-09-23",
+          "origin": "Bestaande inventaris, actuele bron bevestigd"
+        }
+      ]
+    },
+    {
+      "id": "WB-2942dcaf24",
+      "word": "deur",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "won-reuse-19XBL_Ebgad1xYHTg3cQaA1sR_a7thgrN"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L38",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 196 tot en met 209. In dit deel staat de taaalhulp Indeling van huizen centraal. Cursisten leren woorden als de tuin, de schuur, de deur, de hal, de trap, de wc, de kelder, de keuken, de woonkamer, de slaapkamer, de badkamer, de studeerkamer, de zolder, het dak, de schoorsteen, de begane grond, de eerste verdieping, de tweede verdieping, het balkon en de garage. Daarna vullen cursisten de juiste woorden in zinnen in. Verder volgt een luister en spreekopdracht waarin Annet en Hugo met een makelaar naar een appartement kijken en de cursist de looproute moet volgen in een plattegrond. Ook praten cursisten later over welk huis in advertenties het beste past bij verschillende personen.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        }
+      ]
+    },
+    {
+      "id": "WB-57f5b6c015",
+      "word": "kelder",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "won-002"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L38",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 196 tot en met 209. In dit deel staat de taaalhulp Indeling van huizen centraal. Cursisten leren woorden als de tuin, de schuur, de deur, de hal, de trap, de wc, de kelder, de keuken, de woonkamer, de slaapkamer, de badkamer, de studeerkamer, de zolder, het dak, de schoorsteen, de begane grond, de eerste verdieping, de tweede verdieping, het balkon en de garage. Daarna vullen cursisten de juiste woorden in zinnen in. Verder volgt een luister en spreekopdracht waarin Annet en Hugo met een makelaar naar een appartement kijken en de cursist de looproute moet volgen in een plattegrond. Ook praten cursisten later over welk huis in advertenties het beste past bij verschillende personen.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        }
+      ]
+    },
+    {
+      "id": "WB-d49b37983f",
+      "word": "studeerkamer",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "won-001"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L38",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 196 tot en met 209. In dit deel staat de taaalhulp Indeling van huizen centraal. Cursisten leren woorden als de tuin, de schuur, de deur, de hal, de trap, de wc, de kelder, de keuken, de woonkamer, de slaapkamer, de badkamer, de studeerkamer, de zolder, het dak, de schoorsteen, de begane grond, de eerste verdieping, de tweede verdieping, het balkon en de garage. Daarna vullen cursisten de juiste woorden in zinnen in. Verder volgt een luister en spreekopdracht waarin Annet en Hugo met een makelaar naar een appartement kijken en de cursist de looproute moet volgen in een plattegrond. Ook praten cursisten later over welk huis in advertenties het beste past bij verschillende personen.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        }
+      ]
+    },
+    {
+      "id": "WB-ee50ba381b",
+      "word": "eerste verdieping",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "won-017"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L38",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 196 tot en met 209. In dit deel staat de taaalhulp Indeling van huizen centraal. Cursisten leren woorden als de tuin, de schuur, de deur, de hal, de trap, de wc, de kelder, de keuken, de woonkamer, de slaapkamer, de badkamer, de studeerkamer, de zolder, het dak, de schoorsteen, de begane grond, de eerste verdieping, de tweede verdieping, het balkon en de garage. Daarna vullen cursisten de juiste woorden in zinnen in. Verder volgt een luister en spreekopdracht waarin Annet en Hugo met een makelaar naar een appartement kijken en de cursist de looproute moet volgen in een plattegrond. Ook praten cursisten later over welk huis in advertenties het beste past bij verschillende personen.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        },
+        {
+          "lesson": "VS-L40",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 210 tot en met 225. In dit deel van thema 7 staat een woningadvertentie centraal. De leestekst begint met Compleet gemeubileerde woning te huur in Amersfoort. In de advertentie staat informatie over de plaats, oppervlakte, huurprijs per maand, borg en vanaf wanneer de woning te huur is. Daarna wordt het huis stap voor stap beschreven: een grote voor en achtertuin, een hal met toilet, trap en woonkamer, een gemeubileerde woonkamer met eettafel, stoelen, zitbank, stoel, salontafel en televisie, een keuken met moderne apparatuur en serviesgoed, drie slaapkamers op de eerste verdieping, een badkamer met douche, ligbad, toilet en wastafel en een zolder met aansluiting voor wasmachine en droger en een extra kamer. Daarna volgen waar of niet waar vragen en een woordenschatopdracht met woorden als gemeubileerd, voorzien van, ruim, openslaande deuren, ligbad, wastafel en borg.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        }
+      ]
+    },
+    {
+      "id": "WB-618cc5a239",
+      "word": "tweede verdieping",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "won-017"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L38",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 196 tot en met 209. In dit deel staat de taaalhulp Indeling van huizen centraal. Cursisten leren woorden als de tuin, de schuur, de deur, de hal, de trap, de wc, de kelder, de keuken, de woonkamer, de slaapkamer, de badkamer, de studeerkamer, de zolder, het dak, de schoorsteen, de begane grond, de eerste verdieping, de tweede verdieping, het balkon en de garage. Daarna vullen cursisten de juiste woorden in zinnen in. Verder volgt een luister en spreekopdracht waarin Annet en Hugo met een makelaar naar een appartement kijken en de cursist de looproute moet volgen in een plattegrond. Ook praten cursisten later over welk huis in advertenties het beste past bij verschillende personen.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        }
+      ]
+    },
+    {
+      "id": "WB-140c56d1f6",
+      "word": "verwarming",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "woo-017"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L41",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 210 tot en met 225. In dit deel staat de taaalhulp Objecten in huizen en voorzetsels van plaats centraal. De woordenschatlijst bevat meubels en onderdelen van kamers zoals de bank, de stoel, de salontafel, de kast, de televisie, de lamp, de vaas, de eettafel, de verwarming, de houthaard, het gordijn, het tapijt, het kleed, het schilderij, het aanrecht, de gootsteen, de kraan, de magnetron, de oven, de koelkast, het bed, het kussen, de kledingkast, de douche, het bad, de wastafel, de spiegel, de bureaustoel, de kapstok, de laptop en de printer. Daarna volgen voorbeeldzinnen met voorzetsels van plaats zoals naast, tegen, voor, tussen, tegenover, aan, boven, in, onder, op, achter en rond of om. Ook staan er spreekopdrachten waarin cursisten een tekening beschrijven en een woonkamer natekenen op basis van een mondelinge beschrijving. Omdat dit de vijfde les van blok 7 is, bevat deze les ook standaard tijd voor herhaling, zwakke punten en afwisselende examentraining.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        }
+      ]
+    },
+    {
+      "id": "WB-913369304d",
+      "word": "houthaard",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "won-reuse-1bWGjIqFgCGroAnj100K2RQwBXiP8EkA0"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L41",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 210 tot en met 225. In dit deel staat de taaalhulp Objecten in huizen en voorzetsels van plaats centraal. De woordenschatlijst bevat meubels en onderdelen van kamers zoals de bank, de stoel, de salontafel, de kast, de televisie, de lamp, de vaas, de eettafel, de verwarming, de houthaard, het gordijn, het tapijt, het kleed, het schilderij, het aanrecht, de gootsteen, de kraan, de magnetron, de oven, de koelkast, het bed, het kussen, de kledingkast, de douche, het bad, de wastafel, de spiegel, de bureaustoel, de kapstok, de laptop en de printer. Daarna volgen voorbeeldzinnen met voorzetsels van plaats zoals naast, tegen, voor, tussen, tegenover, aan, boven, in, onder, op, achter en rond of om. Ook staan er spreekopdrachten waarin cursisten een tekening beschrijven en een woonkamer natekenen op basis van een mondelinge beschrijving. Omdat dit de vijfde les van blok 7 is, bevat deze les ook standaard tijd voor herhaling, zwakke punten en afwisselende examentraining.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        }
+      ]
+    },
+    {
+      "id": "WB-44bfd6c36e",
+      "word": "aanrecht",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "won-reuse-13nhwHynDeD8xy463Nu2ieXhapGqzBGoK"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L41",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 210 tot en met 225. In dit deel staat de taaalhulp Objecten in huizen en voorzetsels van plaats centraal. De woordenschatlijst bevat meubels en onderdelen van kamers zoals de bank, de stoel, de salontafel, de kast, de televisie, de lamp, de vaas, de eettafel, de verwarming, de houthaard, het gordijn, het tapijt, het kleed, het schilderij, het aanrecht, de gootsteen, de kraan, de magnetron, de oven, de koelkast, het bed, het kussen, de kledingkast, de douche, het bad, de wastafel, de spiegel, de bureaustoel, de kapstok, de laptop en de printer. Daarna volgen voorbeeldzinnen met voorzetsels van plaats zoals naast, tegen, voor, tussen, tegenover, aan, boven, in, onder, op, achter en rond of om. Ook staan er spreekopdrachten waarin cursisten een tekening beschrijven en een woonkamer natekenen op basis van een mondelinge beschrijving. Omdat dit de vijfde les van blok 7 is, bevat deze les ook standaard tijd voor herhaling, zwakke punten en afwisselende examentraining.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        }
+      ]
+    },
+    {
+      "id": "WB-74bbd1cbd1",
+      "word": "gootsteen",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "kee-019"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L41",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 210 tot en met 225. In dit deel staat de taaalhulp Objecten in huizen en voorzetsels van plaats centraal. De woordenschatlijst bevat meubels en onderdelen van kamers zoals de bank, de stoel, de salontafel, de kast, de televisie, de lamp, de vaas, de eettafel, de verwarming, de houthaard, het gordijn, het tapijt, het kleed, het schilderij, het aanrecht, de gootsteen, de kraan, de magnetron, de oven, de koelkast, het bed, het kussen, de kledingkast, de douche, het bad, de wastafel, de spiegel, de bureaustoel, de kapstok, de laptop en de printer. Daarna volgen voorbeeldzinnen met voorzetsels van plaats zoals naast, tegen, voor, tussen, tegenover, aan, boven, in, onder, op, achter en rond of om. Ook staan er spreekopdrachten waarin cursisten een tekening beschrijven en een woonkamer natekenen op basis van een mondelinge beschrijving. Omdat dit de vijfde les van blok 7 is, bevat deze les ook standaard tijd voor herhaling, zwakke punten en afwisselende examentraining.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        }
+      ]
+    },
+    {
+      "id": "WB-260328e560",
+      "word": "kraan",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "bav-009"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L41",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 210 tot en met 225. In dit deel staat de taaalhulp Objecten in huizen en voorzetsels van plaats centraal. De woordenschatlijst bevat meubels en onderdelen van kamers zoals de bank, de stoel, de salontafel, de kast, de televisie, de lamp, de vaas, de eettafel, de verwarming, de houthaard, het gordijn, het tapijt, het kleed, het schilderij, het aanrecht, de gootsteen, de kraan, de magnetron, de oven, de koelkast, het bed, het kussen, de kledingkast, de douche, het bad, de wastafel, de spiegel, de bureaustoel, de kapstok, de laptop en de printer. Daarna volgen voorbeeldzinnen met voorzetsels van plaats zoals naast, tegen, voor, tussen, tegenover, aan, boven, in, onder, op, achter en rond of om. Ook staan er spreekopdrachten waarin cursisten een tekening beschrijven en een woonkamer natekenen op basis van een mondelinge beschrijving. Omdat dit de vijfde les van blok 7 is, bevat deze les ook standaard tijd voor herhaling, zwakke punten en afwisselende examentraining.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        }
+      ]
+    },
+    {
+      "id": "WB-ce57fcf3d9",
+      "word": "magnetron",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "kee-017"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L41",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 210 tot en met 225. In dit deel staat de taaalhulp Objecten in huizen en voorzetsels van plaats centraal. De woordenschatlijst bevat meubels en onderdelen van kamers zoals de bank, de stoel, de salontafel, de kast, de televisie, de lamp, de vaas, de eettafel, de verwarming, de houthaard, het gordijn, het tapijt, het kleed, het schilderij, het aanrecht, de gootsteen, de kraan, de magnetron, de oven, de koelkast, het bed, het kussen, de kledingkast, de douche, het bad, de wastafel, de spiegel, de bureaustoel, de kapstok, de laptop en de printer. Daarna volgen voorbeeldzinnen met voorzetsels van plaats zoals naast, tegen, voor, tussen, tegenover, aan, boven, in, onder, op, achter en rond of om. Ook staan er spreekopdrachten waarin cursisten een tekening beschrijven en een woonkamer natekenen op basis van een mondelinge beschrijving. Omdat dit de vijfde les van blok 7 is, bevat deze les ook standaard tijd voor herhaling, zwakke punten en afwisselende examentraining.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        }
+      ]
+    },
+    {
+      "id": "WB-4817d35175",
+      "word": "oven",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "kee-016"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L35",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-3-les-35",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden en zinsdelen als eerst, dan, daarna, ten slotte, luisteren, opletten, goed voorbereiden, inleveren, opladen, inchecken, uitchecken, geld opnemen, app installeren en oven gebruiken. Laat cursisten woord en handeling koppelen en daarna twee instructiezinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        },
+        {
+          "lesson": "VS-L41",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 210 tot en met 225. In dit deel staat de taaalhulp Objecten in huizen en voorzetsels van plaats centraal. De woordenschatlijst bevat meubels en onderdelen van kamers zoals de bank, de stoel, de salontafel, de kast, de televisie, de lamp, de vaas, de eettafel, de verwarming, de houthaard, het gordijn, het tapijt, het kleed, het schilderij, het aanrecht, de gootsteen, de kraan, de magnetron, de oven, de koelkast, het bed, het kussen, de kledingkast, de douche, het bad, de wastafel, de spiegel, de bureaustoel, de kapstok, de laptop en de printer. Daarna volgen voorbeeldzinnen met voorzetsels van plaats zoals naast, tegen, voor, tussen, tegenover, aan, boven, in, onder, op, achter en rond of om. Ook staan er spreekopdrachten waarin cursisten een tekening beschrijven en een woonkamer natekenen op basis van een mondelinge beschrijving. Omdat dit de vijfde les van blok 7 is, bevat deze les ook standaard tijd voor herhaling, zwakke punten en afwisselende examentraining.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        }
+      ]
+    },
+    {
+      "id": "WB-4374d7a10d",
+      "word": "koelkast",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "kee-015"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L41",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 210 tot en met 225. In dit deel staat de taaalhulp Objecten in huizen en voorzetsels van plaats centraal. De woordenschatlijst bevat meubels en onderdelen van kamers zoals de bank, de stoel, de salontafel, de kast, de televisie, de lamp, de vaas, de eettafel, de verwarming, de houthaard, het gordijn, het tapijt, het kleed, het schilderij, het aanrecht, de gootsteen, de kraan, de magnetron, de oven, de koelkast, het bed, het kussen, de kledingkast, de douche, het bad, de wastafel, de spiegel, de bureaustoel, de kapstok, de laptop en de printer. Daarna volgen voorbeeldzinnen met voorzetsels van plaats zoals naast, tegen, voor, tussen, tegenover, aan, boven, in, onder, op, achter en rond of om. Ook staan er spreekopdrachten waarin cursisten een tekening beschrijven en een woonkamer natekenen op basis van een mondelinge beschrijving. Omdat dit de vijfde les van blok 7 is, bevat deze les ook standaard tijd voor herhaling, zwakke punten en afwisselende examentraining.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        }
+      ]
+    },
+    {
+      "id": "WB-c457921422",
+      "word": "bad",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "bav-038"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L41",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 210 tot en met 225. In dit deel staat de taaalhulp Objecten in huizen en voorzetsels van plaats centraal. De woordenschatlijst bevat meubels en onderdelen van kamers zoals de bank, de stoel, de salontafel, de kast, de televisie, de lamp, de vaas, de eettafel, de verwarming, de houthaard, het gordijn, het tapijt, het kleed, het schilderij, het aanrecht, de gootsteen, de kraan, de magnetron, de oven, de koelkast, het bed, het kussen, de kledingkast, de douche, het bad, de wastafel, de spiegel, de bureaustoel, de kapstok, de laptop en de printer. Daarna volgen voorbeeldzinnen met voorzetsels van plaats zoals naast, tegen, voor, tussen, tegenover, aan, boven, in, onder, op, achter en rond of om. Ook staan er spreekopdrachten waarin cursisten een tekening beschrijven en een woonkamer natekenen op basis van een mondelinge beschrijving. Omdat dit de vijfde les van blok 7 is, bevat deze les ook standaard tijd voor herhaling, zwakke punten en afwisselende examentraining.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        },
+        {
+          "lesson": "VS-L45",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-3-les-34",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met werkwoorden en uitdrukkingen als opmaken, aantrekken, uitdoen, afwassen, opruimen, terugbellen, meenemen, uitrusten, ophalen en handelingen als nagels knippen, haren wassen, kleren strijken, crème insmeren en een warm bad nemen. Laat cursisten woord en handeling koppelen en daarna drie korte voorbeeldzinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        }
+      ]
+    },
+    {
+      "id": "WB-3953361948",
+      "word": "bureaustoel",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "won-reuse-1uGtwzc-0K_u0pmUNewMF9T5kHFEz6In5"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L41",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 210 tot en met 225. In dit deel staat de taaalhulp Objecten in huizen en voorzetsels van plaats centraal. De woordenschatlijst bevat meubels en onderdelen van kamers zoals de bank, de stoel, de salontafel, de kast, de televisie, de lamp, de vaas, de eettafel, de verwarming, de houthaard, het gordijn, het tapijt, het kleed, het schilderij, het aanrecht, de gootsteen, de kraan, de magnetron, de oven, de koelkast, het bed, het kussen, de kledingkast, de douche, het bad, de wastafel, de spiegel, de bureaustoel, de kapstok, de laptop en de printer. Daarna volgen voorbeeldzinnen met voorzetsels van plaats zoals naast, tegen, voor, tussen, tegenover, aan, boven, in, onder, op, achter en rond of om. Ook staan er spreekopdrachten waarin cursisten een tekening beschrijven en een woonkamer natekenen op basis van een mondelinge beschrijving. Omdat dit de vijfde les van blok 7 is, bevat deze les ook standaard tijd voor herhaling, zwakke punten en afwisselende examentraining.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        }
+      ]
+    },
+    {
+      "id": "WB-4deefd7185",
+      "word": "laptop",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "won-reuse-198ztNxWRi0BVrxY2rvcMT8CnoA9Ikarw"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L41",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 210 tot en met 225. In dit deel staat de taaalhulp Objecten in huizen en voorzetsels van plaats centraal. De woordenschatlijst bevat meubels en onderdelen van kamers zoals de bank, de stoel, de salontafel, de kast, de televisie, de lamp, de vaas, de eettafel, de verwarming, de houthaard, het gordijn, het tapijt, het kleed, het schilderij, het aanrecht, de gootsteen, de kraan, de magnetron, de oven, de koelkast, het bed, het kussen, de kledingkast, de douche, het bad, de wastafel, de spiegel, de bureaustoel, de kapstok, de laptop en de printer. Daarna volgen voorbeeldzinnen met voorzetsels van plaats zoals naast, tegen, voor, tussen, tegenover, aan, boven, in, onder, op, achter en rond of om. Ook staan er spreekopdrachten waarin cursisten een tekening beschrijven en een woonkamer natekenen op basis van een mondelinge beschrijving. Omdat dit de vijfde les van blok 7 is, bevat deze les ook standaard tijd voor herhaling, zwakke punten en afwisselende examentraining.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        }
+      ]
+    },
+    {
+      "id": "WB-adb0faec30",
+      "word": "printer",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "won-reuse-1hUhmf23Kv1hFkpSl3te26-QWA7mU1OND"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L41",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 210 tot en met 225. In dit deel staat de taaalhulp Objecten in huizen en voorzetsels van plaats centraal. De woordenschatlijst bevat meubels en onderdelen van kamers zoals de bank, de stoel, de salontafel, de kast, de televisie, de lamp, de vaas, de eettafel, de verwarming, de houthaard, het gordijn, het tapijt, het kleed, het schilderij, het aanrecht, de gootsteen, de kraan, de magnetron, de oven, de koelkast, het bed, het kussen, de kledingkast, de douche, het bad, de wastafel, de spiegel, de bureaustoel, de kapstok, de laptop en de printer. Daarna volgen voorbeeldzinnen met voorzetsels van plaats zoals naast, tegen, voor, tussen, tegenover, aan, boven, in, onder, op, achter en rond of om. Ook staan er spreekopdrachten waarin cursisten een tekening beschrijven en een woonkamer natekenen op basis van een mondelinge beschrijving. Omdat dit de vijfde les van blok 7 is, bevat deze les ook standaard tijd voor herhaling, zwakke punten en afwisselende examentraining.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        }
+      ]
+    },
+    {
+      "id": "WB-698249727d",
+      "word": "wasmachine",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "won-reuse-1-GT643FWcchqim9Is4Pt_2wS4HobR8ZH"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L40",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 210 tot en met 225. In dit deel van thema 7 staat een woningadvertentie centraal. De leestekst begint met Compleet gemeubileerde woning te huur in Amersfoort. In de advertentie staat informatie over de plaats, oppervlakte, huurprijs per maand, borg en vanaf wanneer de woning te huur is. Daarna wordt het huis stap voor stap beschreven: een grote voor en achtertuin, een hal met toilet, trap en woonkamer, een gemeubileerde woonkamer met eettafel, stoelen, zitbank, stoel, salontafel en televisie, een keuken met moderne apparatuur en serviesgoed, drie slaapkamers op de eerste verdieping, een badkamer met douche, ligbad, toilet en wastafel en een zolder met aansluiting voor wasmachine en droger en een extra kamer. Daarna volgen waar of niet waar vragen en een woordenschatopdracht met woorden als gemeubileerd, voorzien van, ruim, openslaande deuren, ligbad, wastafel en borg.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        },
+        {
+          "lesson": "VS-L45",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-3-les-34",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 226 tot en met 243. In dit deel staat grammatica over scheidbare werkwoorden centraal. De grammaticalijn van thema 8 koppelt scheidbare werkwoorden aan dagelijkse handelingen en gezondheid. In het praktisch vocabulaire voor persoonlijke verzorging komen handelingen voor als zich opmaken, nagels knippen, haren wassen, tanden poetsen, de wasmachine gebruiken, de droger gebruiken, kleding strijken, naar de kapper gaan, naar de pedicure gaan en naar de sauna gaan. In de oefeningen wordt ook gewerkt met werkwoorden die deelbaar zijn in betekenis en vorm, en die passen bij gezondheid en dagelijks leven. In dit lesdeel is het doel dat cursisten scheidbare werkwoorden leren herkennen en gebruiken in eenvoudige zinnen.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        },
+        {
+          "lesson": "IN-L45",
+          "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-4-les-45",
+          "route": "Inzicht",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 265 tot en met 284. In dit deel staat grammatica over passief presens. De uitleg vergelijkt actieve en passieve zinnen. Voorbeelden zijn:\n“De man repareert maandag de wasmachine.”\n“De wasmachine wordt maandag gerepareerd.”\n“De jongen bezorgt elke ochtend de krant.”\n“De krant wordt elke ochtend bezorgd.”\nDaarbij wordt uitgelegd dat in actieve zinnen het subject voorop staat, maar in passieve zinnen juist het object. Ook staat er dat passieve zinnen gebruikt worden als de handeling belangrijker is dan wie het doet. In de vormregels wordt uitgelegd dat je een vorm van worden en een participium gebruikt. Daarna volgen oefeningen waarin actieve zinnen omgezet worden naar passieve zinnen in het presens, bijvoorbeeld met woorden als factuur, bloemen, soep, tentoonstelling, foto’s, concert en brief.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        }
+      ]
+    },
+    {
+      "id": "WB-22eb8a18a7",
+      "word": "droger",
+      "group_id": "inrichting",
+      "website_asset_ids": [
+        "won-reuse-1CPjWIMl5xkPs9j9K8IjtNOAS6enHCypL"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L40",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 210 tot en met 225. In dit deel van thema 7 staat een woningadvertentie centraal. De leestekst begint met Compleet gemeubileerde woning te huur in Amersfoort. In de advertentie staat informatie over de plaats, oppervlakte, huurprijs per maand, borg en vanaf wanneer de woning te huur is. Daarna wordt het huis stap voor stap beschreven: een grote voor en achtertuin, een hal met toilet, trap en woonkamer, een gemeubileerde woonkamer met eettafel, stoelen, zitbank, stoel, salontafel en televisie, een keuken met moderne apparatuur en serviesgoed, drie slaapkamers op de eerste verdieping, een badkamer met douche, ligbad, toilet en wastafel en een zolder met aansluiting voor wasmachine en droger en een extra kamer. Daarna volgen waar of niet waar vragen en een woordenschatopdracht met woorden als gemeubileerd, voorzien van, ruim, openslaande deuren, ligbad, wastafel en borg.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        },
+        {
+          "lesson": "VS-L45",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-3-les-34",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 226 tot en met 243. In dit deel staat grammatica over scheidbare werkwoorden centraal. De grammaticalijn van thema 8 koppelt scheidbare werkwoorden aan dagelijkse handelingen en gezondheid. In het praktisch vocabulaire voor persoonlijke verzorging komen handelingen voor als zich opmaken, nagels knippen, haren wassen, tanden poetsen, de wasmachine gebruiken, de droger gebruiken, kleding strijken, naar de kapper gaan, naar de pedicure gaan en naar de sauna gaan. In de oefeningen wordt ook gewerkt met werkwoorden die deelbaar zijn in betekenis en vorm, en die passen bij gezondheid en dagelijks leven. In dit lesdeel is het doel dat cursisten scheidbare werkwoorden leren herkennen en gebruiken in eenvoudige zinnen.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        }
+      ]
+    },
+    {
+      "id": "WB-43c1d7bad6",
+      "word": "de wasmachine gebruiken",
+      "group_id": "wonen-regelen",
+      "website_asset_ids": [
+        "won-026"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L45",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-3-les-34",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 226 tot en met 243. In dit deel staat grammatica over scheidbare werkwoorden centraal. De grammaticalijn van thema 8 koppelt scheidbare werkwoorden aan dagelijkse handelingen en gezondheid. In het praktisch vocabulaire voor persoonlijke verzorging komen handelingen voor als zich opmaken, nagels knippen, haren wassen, tanden poetsen, de wasmachine gebruiken, de droger gebruiken, kleding strijken, naar de kapper gaan, naar de pedicure gaan en naar de sauna gaan. In de oefeningen wordt ook gewerkt met werkwoorden die deelbaar zijn in betekenis en vorm, en die passen bij gezondheid en dagelijks leven. In dit lesdeel is het doel dat cursisten scheidbare werkwoorden leren herkennen en gebruiken in eenvoudige zinnen.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        }
+      ]
+    },
+    {
+      "id": "WB-9e5b7e711e",
+      "word": "de droger gebruiken",
+      "group_id": "wonen-regelen",
+      "website_asset_ids": [
+        "won-027"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L45",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-3-les-34",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 226 tot en met 243. In dit deel staat grammatica over scheidbare werkwoorden centraal. De grammaticalijn van thema 8 koppelt scheidbare werkwoorden aan dagelijkse handelingen en gezondheid. In het praktisch vocabulaire voor persoonlijke verzorging komen handelingen voor als zich opmaken, nagels knippen, haren wassen, tanden poetsen, de wasmachine gebruiken, de droger gebruiken, kleding strijken, naar de kapper gaan, naar de pedicure gaan en naar de sauna gaan. In de oefeningen wordt ook gewerkt met werkwoorden die deelbaar zijn in betekenis en vorm, en die passen bij gezondheid en dagelijks leven. In dit lesdeel is het doel dat cursisten scheidbare werkwoorden leren herkennen en gebruiken in eenvoudige zinnen.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        }
+      ]
+    },
+    {
+      "id": "WB-72f759b649",
+      "word": "wonen",
+      "group_id": "wonen-regelen",
+      "website_asset_ids": [
+        "won-reuse-19cMvZ9H5cmB1C5k51ll6OQFLuu-wZNy0"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L37",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 196 tot en met 209. In dit deel van thema 7 staat wonen centraal. De les opent met Lezen en luisteren waarin zes mensen vertellen over hun droomhuis. Saskia wil graag in een groot huis wonen buiten de stad, direct in de natuur, met een moestuin en ruimte voor dieren. Martijn wil in een oud huis aan een gracht wonen, met uitzicht op bootjes en fietsers in het centrum van de stad. Jan wil een huis met een voor en achtertuin, zodat hij kan tuinieren en in de zomer met gezin en buren kan barbecueën. Anja droomt van een groot huis met tuin, garage, zwembad, sauna en fitnessruimte en wil geen last hebben van buren. Peter en zijn vriendin willen juist geen groot huis, omdat ze weinig thuis zijn en geen hoge hypotheekkosten willen. Victor wil een huis met een grote tuin aan drie kanten en een garage, omdat er twee auto’s zijn en zijn man van klussen houdt. Daarna volgen een leesopdracht, begripsvragen en woordenschat bij woorden als klussen, tuinieren, de moestuin, de verdieping, de hypotheek en last hebben van.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        },
+        {
+          "lesson": "VS-L39",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-39-week-14",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 196 tot en met 209. In dit deel staat grammatica over er en daar als plaats centraal. De basislijn is:\n“Hoe lang woon je al in Nederland?”\n“Ik woon er al drie jaar.”\n“Ik ga in juli op vakantie naar Spanje.”\n“Oh leuk, daar ga ik elk jaar naartoe.”\nDaarna volgen ook voorbeelden als:\n“Hoelang wonen jullie in Utrecht? We wonen daar al ons hele leven.”\n“Er staan veel bomen in het park.”\n“Er staan een paar huizen te koop in onze wijk.”\n“Werk je bij een leuk bedrijf? Ja, ik werk er met veel plezier.”\nDaarmee zien cursisten drie functies: daar voor een genoemde plaats, er als verwijzing naar een plaats of onderwerp en er in zinnen als er staat, er zijn. De les sluit aan op wonen en plaatsen in en om het huis.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        },
+        {
+          "lesson": "FI-L18",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-18",
+          "route": "De Finale",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als ruimtelijke ordening, leefbaarheid, scenario, verdichten, uitbreiden, parkeerbeleid, verkeersdrukte, openbaar vervoer, voorzieningen, groenstructuur, woningnood, distributie, bereikbaarheid en duurzame inrichting. Laat cursisten de woorden in categorieën zetten, zoals wonen, verkeer, ruimte en beleid, en daarna vier woorden gebruiken in een korte samenvattingszin.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        },
+        {
+          "lesson": "FI-L23",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-23",
+          "route": "De Finale",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nVervolg en afronding van thema 6 Duurzaamheid binnen pagina 170 tot en met 205, met gerichte herhaling van thema 5 Infrastructuur en planologie. In deze les komen de belangrijkste thema’s samen: duurzaamheid, energie, voedselverspilling, mobiliteit, wonen, bereikbaarheid, wijkinrichting, ruimtegebruik en maatschappelijke keuzes. De nadruk ligt op spreken, argumenteren, standpunten innemen, reageren op anderen en debatvaardigheid op B2 niveau.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        },
+        {
+          "lesson": "VO-L12",
+          "url": "https://docent.lingua-academy.nl/examentraining/les-12",
+          "route": "Vooruit",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nHoofdstuk 6 Veilig en gezond, Schrijven pagina 200 tot en met 205 en Spreken pagina 206 tot en met 209. In het schrijfgedeelte oefenen cursisten met een ongevallenformulier, een e mail over schoon werken in de keuken, een folder met adviezen over veilig fietsen en een klachtmail over een kapot speelgoedbeest. In het spreekgedeelte oefenen zij met korte en middellange spreekopgaven over veiligheidsgordels, te hard rijden, sportschoenen op de bouwplaats, koffie bij de computer, veilig werken op de bouw, brandmelders, veilig verkeer en kindvriendelijk wonen. Het hoofdstuk koppelt dit ook expliciet aan het tempo van het examen.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        }
+      ]
+    },
+    {
+      "id": "WB-5236a75831",
+      "word": "voorzien van",
+      "group_id": "wonen-regelen",
+      "website_asset_ids": [
+        "won-014",
+        "won-008"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L40",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 210 tot en met 225. In dit deel van thema 7 staat een woningadvertentie centraal. De leestekst begint met Compleet gemeubileerde woning te huur in Amersfoort. In de advertentie staat informatie over de plaats, oppervlakte, huurprijs per maand, borg en vanaf wanneer de woning te huur is. Daarna wordt het huis stap voor stap beschreven: een grote voor en achtertuin, een hal met toilet, trap en woonkamer, een gemeubileerde woonkamer met eettafel, stoelen, zitbank, stoel, salontafel en televisie, een keuken met moderne apparatuur en serviesgoed, drie slaapkamers op de eerste verdieping, een badkamer met douche, ligbad, toilet en wastafel en een zolder met aansluiting voor wasmachine en droger en een extra kamer. Daarna volgen waar of niet waar vragen en een woordenschatopdracht met woorden als gemeubileerd, voorzien van, ruim, openslaande deuren, ligbad, wastafel en borg.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        }
+      ]
+    },
+    {
+      "id": "WB-e0b477dd87",
+      "word": "ruim",
+      "group_id": "wonen-regelen",
+      "website_asset_ids": [
+        "won-013",
+        "won-014"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L40",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 210 tot en met 225. In dit deel van thema 7 staat een woningadvertentie centraal. De leestekst begint met Compleet gemeubileerde woning te huur in Amersfoort. In de advertentie staat informatie over de plaats, oppervlakte, huurprijs per maand, borg en vanaf wanneer de woning te huur is. Daarna wordt het huis stap voor stap beschreven: een grote voor en achtertuin, een hal met toilet, trap en woonkamer, een gemeubileerde woonkamer met eettafel, stoelen, zitbank, stoel, salontafel en televisie, een keuken met moderne apparatuur en serviesgoed, drie slaapkamers op de eerste verdieping, een badkamer met douche, ligbad, toilet en wastafel en een zolder met aansluiting voor wasmachine en droger en een extra kamer. Daarna volgen waar of niet waar vragen en een woordenschatopdracht met woorden als gemeubileerd, voorzien van, ruim, openslaande deuren, ligbad, wastafel en borg.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        },
+        {
+          "lesson": "VS-L44",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-44",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 226 tot en met 243. In dit deel staan twee dialogen centraal. In Dialoog 1 belt Johan met de huisartsenpraktijk om een afspraak te maken. De doktersassistent vraagt: Wat is de klacht, als ik vragen mag? Johan zegt dat hij al ruim een week verkouden is en ook last heeft van hoofdpijn en hoesten. Hij krijgt een afspraak voor vanmiddag om half vier. In Dialoog 2 Bij de dokter zegt Johan dat hij flink verkouden is, hoofdpijn heeft en veel moet hoesten. De dokter meet zijn temperatuur, ziet 38,5 en zegt dat Johan waarschijnlijk griep heeft. Johan krijgt advies: thuisblijven, veel rust nemen, paracetamol of ibuprofen tegen de hoofdpijn en een recept voor hoestdrank. De dokter zegt ook dat een griep meestal niet langer dan twee weken duurt.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        },
+        {
+          "lesson": "FI-L27",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-27-week-14",
+          "route": "De Finale",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met uitdrukkingen als ongeveer 20%, circa 150 studenten, een kleine 20 universiteiten, ruim 30%, een flinke stijging, een forse afname, verreweg de meeste, een geringe verandering, meer dan de helft, een verdubbeling en een halvering. Laat cursisten die eerst koppelen aan de juiste betekenis en daarna in twee of drie beschrijvende zinnen gebruiken. Deze zinsbouw staat letterlijk in de taaalhulp voor statistische gegevens beschrijven.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        }
+      ]
+    },
+    {
+      "id": "WB-6af8a38dfc",
+      "word": "zwembad",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "won-028"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L37",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 196 tot en met 209. In dit deel van thema 7 staat wonen centraal. De les opent met Lezen en luisteren waarin zes mensen vertellen over hun droomhuis. Saskia wil graag in een groot huis wonen buiten de stad, direct in de natuur, met een moestuin en ruimte voor dieren. Martijn wil in een oud huis aan een gracht wonen, met uitzicht op bootjes en fietsers in het centrum van de stad. Jan wil een huis met een voor en achtertuin, zodat hij kan tuinieren en in de zomer met gezin en buren kan barbecueën. Anja droomt van een groot huis met tuin, garage, zwembad, sauna en fitnessruimte en wil geen last hebben van buren. Peter en zijn vriendin willen juist geen groot huis, omdat ze weinig thuis zijn en geen hoge hypotheekkosten willen. Victor wil een huis met een grote tuin aan drie kanten en een garage, omdat er twee auto’s zijn en zijn man van klussen houdt. Daarna volgen een leesopdracht, begripsvragen en woordenschat bij woorden als klussen, tuinieren, de moestuin, de verdieping, de hypotheek en last hebben van.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        }
+      ]
+    },
+    {
+      "id": "WB-cd9d2f1efb",
+      "word": "sauna",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "won-029"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L37",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 196 tot en met 209. In dit deel van thema 7 staat wonen centraal. De les opent met Lezen en luisteren waarin zes mensen vertellen over hun droomhuis. Saskia wil graag in een groot huis wonen buiten de stad, direct in de natuur, met een moestuin en ruimte voor dieren. Martijn wil in een oud huis aan een gracht wonen, met uitzicht op bootjes en fietsers in het centrum van de stad. Jan wil een huis met een voor en achtertuin, zodat hij kan tuinieren en in de zomer met gezin en buren kan barbecueën. Anja droomt van een groot huis met tuin, garage, zwembad, sauna en fitnessruimte en wil geen last hebben van buren. Peter en zijn vriendin willen juist geen groot huis, omdat ze weinig thuis zijn en geen hoge hypotheekkosten willen. Victor wil een huis met een grote tuin aan drie kanten en een garage, omdat er twee auto’s zijn en zijn man van klussen houdt. Daarna volgen een leesopdracht, begripsvragen en woordenschat bij woorden als klussen, tuinieren, de moestuin, de verdieping, de hypotheek en last hebben van.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        },
+        {
+          "lesson": "VS-L45",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-3-les-34",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 226 tot en met 243. In dit deel staat grammatica over scheidbare werkwoorden centraal. De grammaticalijn van thema 8 koppelt scheidbare werkwoorden aan dagelijkse handelingen en gezondheid. In het praktisch vocabulaire voor persoonlijke verzorging komen handelingen voor als zich opmaken, nagels knippen, haren wassen, tanden poetsen, de wasmachine gebruiken, de droger gebruiken, kleding strijken, naar de kapper gaan, naar de pedicure gaan en naar de sauna gaan. In de oefeningen wordt ook gewerkt met werkwoorden die deelbaar zijn in betekenis en vorm, en die passen bij gezondheid en dagelijks leven. In dit lesdeel is het doel dat cursisten scheidbare werkwoorden leren herkennen en gebruiken in eenvoudige zinnen.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        }
+      ]
+    },
+    {
+      "id": "WB-cde0ca9812",
+      "word": "fitnessruimte",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "won-030"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L37",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 196 tot en met 209. In dit deel van thema 7 staat wonen centraal. De les opent met Lezen en luisteren waarin zes mensen vertellen over hun droomhuis. Saskia wil graag in een groot huis wonen buiten de stad, direct in de natuur, met een moestuin en ruimte voor dieren. Martijn wil in een oud huis aan een gracht wonen, met uitzicht op bootjes en fietsers in het centrum van de stad. Jan wil een huis met een voor en achtertuin, zodat hij kan tuinieren en in de zomer met gezin en buren kan barbecueën. Anja droomt van een groot huis met tuin, garage, zwembad, sauna en fitnessruimte en wil geen last hebben van buren. Peter en zijn vriendin willen juist geen groot huis, omdat ze weinig thuis zijn en geen hoge hypotheekkosten willen. Victor wil een huis met een grote tuin aan drie kanten en een garage, omdat er twee auto’s zijn en zijn man van klussen houdt. Daarna volgen een leesopdracht, begripsvragen en woordenschat bij woorden als klussen, tuinieren, de moestuin, de verdieping, de hypotheek en last hebben van.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        }
+      ]
+    },
+    {
+      "id": "WB-fc6f64c504",
+      "word": "makelaar",
+      "group_id": "wonen-regelen",
+      "website_asset_ids": [
+        "won-031"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L38",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 196 tot en met 209. In dit deel staat de taaalhulp Indeling van huizen centraal. Cursisten leren woorden als de tuin, de schuur, de deur, de hal, de trap, de wc, de kelder, de keuken, de woonkamer, de slaapkamer, de badkamer, de studeerkamer, de zolder, het dak, de schoorsteen, de begane grond, de eerste verdieping, de tweede verdieping, het balkon en de garage. Daarna vullen cursisten de juiste woorden in zinnen in. Verder volgt een luister en spreekopdracht waarin Annet en Hugo met een makelaar naar een appartement kijken en de cursist de looproute moet volgen in een plattegrond. Ook praten cursisten later over welk huis in advertenties het beste past bij verschillende personen.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        }
+      ]
+    },
+    {
+      "id": "WB-6394684712",
+      "word": "plattegrond",
+      "group_id": "wonen-regelen",
+      "website_asset_ids": [
+        "won-032"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L38",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "route": "Van Start",
+          "section": "Woordenschatactiviteit",
+          "evidence": "Woordenschatactiviteit:\nWerk met woorden als de tuin, de schuur, de hal, de trap, de wc, de keuken, de woonkamer, de slaapkamer, de badkamer, de zolder, het dak, de schoorsteen, de begane grond, de verdieping, het balkon en de garage. Laat cursisten de woorden koppelen aan de juiste plek op een plaatje of plattegrond en daarna drie zinnen maken.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        }
+      ]
+    },
+    {
+      "id": "WB-f48b2db35f",
+      "word": "woningadvertentie",
+      "group_id": "wonen-regelen",
+      "website_asset_ids": [
+        "won-019"
+      ],
+      "sources": [
+        {
+          "lesson": "VS-L40",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "route": "Van Start",
+          "section": "Boek / pagina’s",
+          "evidence": "Boek / pagina’s:\nPagina 210 tot en met 225. In dit deel van thema 7 staat een woningadvertentie centraal. De leestekst begint met Compleet gemeubileerde woning te huur in Amersfoort. In de advertentie staat informatie over de plaats, oppervlakte, huurprijs per maand, borg en vanaf wanneer de woning te huur is. Daarna wordt het huis stap voor stap beschreven: een grote voor en achtertuin, een hal met toilet, trap en woonkamer, een gemeubileerde woonkamer met eettafel, stoelen, zitbank, stoel, salontafel en televisie, een keuken met moderne apparatuur en serviesgoed, drie slaapkamers op de eerste verdieping, een badkamer met douche, ligbad, toilet en wastafel en een zolder met aansluiting voor wasmachine en droger en een extra kamer. Daarna volgen waar of niet waar vragen en een woordenschatopdracht met woorden als gemeubileerd, voorzien van, ruim, openslaande deuren, ligbad, wastafel en borg.",
+          "check_date": "2026-09-23",
+          "origin": "Aanvulling uit actuele lesbeschrijving"
+        }
+      ]
+    },
+    {
+      "id": "WB-6fb6d23ae1",
+      "word": "rijtjeshuis",
+      "group_id": "woningtypen",
+      "website_asset_ids": [
+        "won-reuse-1QIcpRDSUjsU5Edhr-Qu20QnC7KMbZGkx"
+      ],
+      "sources": []
+    },
+    {
+      "id": "WB-d64f4b49f9",
+      "word": "hoekhuis",
+      "group_id": "woningtypen",
+      "website_asset_ids": [
+        "won-reuse-1mYS7G_layy7vHMsDGVkdPGCWV4_6SCW8"
+      ],
+      "sources": []
+    },
+    {
+      "id": "WB-d7f4daeb75",
+      "word": "villa",
+      "group_id": "woningtypen",
+      "website_asset_ids": [
+        "won-011"
+      ],
+      "sources": []
+    },
+    {
+      "id": "WB-ec0bc86d88",
+      "word": "vrijstaand huis",
+      "group_id": "woningtypen",
+      "website_asset_ids": [
+        "won-011"
+      ],
+      "sources": []
+    },
+    {
+      "id": "WB-9f8b96aa38",
+      "word": "twee-onder-een-kapwoning",
+      "group_id": "woningtypen",
+      "website_asset_ids": [
+        "won-012"
+      ],
+      "sources": []
+    },
+    {
+      "id": "WB-f455fc492b",
+      "word": "studio",
+      "group_id": "woningtypen",
+      "website_asset_ids": [
+        "won-013"
+      ],
+      "sources": []
+    },
+    {
+      "id": "WB-a2d54bc3bf",
+      "word": "berging",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "won-004"
+      ],
+      "sources": []
+    },
+    {
+      "id": "WB-b6afa2c1a9",
+      "word": "bijkeuken",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "won-014"
+      ],
+      "sources": []
+    },
+    {
+      "id": "WB-4d18ed2b54",
+      "word": "overloop",
+      "group_id": "ruimtes",
+      "website_asset_ids": [
+        "won-015"
+      ],
+      "sources": []
+    },
+    {
+      "id": "WB-WON-BEGRIP-flat",
+      "word": "flat",
+      "group_id": "woningtypen",
+      "website_asset_ids": [
+        "won-reuse-1b1A5U5-YXx2fcj6N3WF356Jm3h5fPp26"
+      ],
+      "sources": []
+    },
+    {
+      "id": "WB-WON-BEGRIP-appartement",
+      "word": "appartement",
+      "group_id": "woningtypen",
+      "website_asset_ids": [
+        "won-reuse-1M2YFl2otoFDefB4csV-tSXM5B65R7AQs"
+      ],
+      "sources": []
+    }
+  ],
+  "reuse_review": [
+    {
+      "conceptId": "WB-AUD-0380",
+      "word": "badkamer",
+      "previousStatus": "Hergebruik beoordelen",
+      "assetIds": [
+        "bav-037"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-AUD-0384",
+      "word": "dak",
+      "previousStatus": "Hergebruik beoordelen",
+      "assetIds": [
+        "won-reuse-1mYS7G_layy7vHMsDGVkdPGCWV4_6SCW8"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-AUD-0385",
+      "word": "eengezinswoning",
+      "previousStatus": "Hergebruik beoordelen",
+      "assetIds": [
+        "won-reuse-1mYS7G_layy7vHMsDGVkdPGCWV4_6SCW8"
+      ],
+      "decision": "hergebruik met opdracht",
+      "note": "Voorbeeld van een eengezinswoning; wie er woont is niet zichtbaar.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-AUD-0389",
+      "word": "hal",
+      "previousStatus": "Hergebruik beoordelen",
+      "assetIds": [
+        "won-reuse-1-TbMCHf4e2mjyQGzZ6jSOAl4FUZ5OUJh"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-AUD-0390",
+      "word": "huis",
+      "previousStatus": "Beeldbestand gevonden",
+      "assetIds": [
+        "won-reuse-1mYS7G_layy7vHMsDGVkdPGCWV4_6SCW8"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-AUD-0391",
+      "word": "keuken",
+      "previousStatus": "Beeldbestand gevonden",
+      "assetIds": [
+        "kee-048"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-AUD-0395",
+      "word": "schoorsteen",
+      "previousStatus": "Hergebruik beoordelen",
+      "assetIds": [
+        "won-reuse-1mYS7G_layy7vHMsDGVkdPGCWV4_6SCW8"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-AUD-0397",
+      "word": "slaapkamer",
+      "previousStatus": "Hergebruik beoordelen",
+      "assetIds": [
+        "won-reuse-1PH1Jux4vpKMuWUBOROLNpPwjl9CQDzoO"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-AUD-0402",
+      "word": "voortuin",
+      "previousStatus": "Hergebruik beoordelen",
+      "assetIds": [
+        "won-reuse-1mYS7G_layy7vHMsDGVkdPGCWV4_6SCW8"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-AUD-0403",
+      "word": "wc",
+      "previousStatus": "Hergebruik beoordelen",
+      "assetIds": [
+        "bav-007"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-AUD-0405",
+      "word": "woonkamer",
+      "previousStatus": "Hergebruik beoordelen",
+      "assetIds": [
+        "woo-037"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-AUD-0413",
+      "word": "bank",
+      "previousStatus": "Beeldbestand gevonden",
+      "assetIds": [
+        "woo-001"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-AUD-0414",
+      "word": "bed",
+      "previousStatus": "Beeldbestand gevonden",
+      "assetIds": [
+        "won-reuse-1WJ0tL6vt1uhZ24Ta5k_0-KGvg-PxFcxP"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-AUD-0415",
+      "word": "douche",
+      "previousStatus": "Beeldbestand gevonden",
+      "assetIds": [
+        "bav-006"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-AUD-0416",
+      "word": "eettafel",
+      "previousStatus": "Beeldbestand gevonden",
+      "assetIds": [
+        "won-reuse-13-MaharPCv5Oj2PZ9im7ivVb8KwVuwex"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-AUD-0417",
+      "word": "gordijn",
+      "previousStatus": "Beeldbestand gevonden",
+      "assetIds": [
+        "woo-011"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-AUD-0418",
+      "word": "kapstok",
+      "previousStatus": "Hergebruik beoordelen",
+      "assetIds": [
+        "won-reuse-1vAiYY22Ot-K-w7QrwaKZRVQjzgFU2l4S"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-AUD-0419",
+      "word": "kast",
+      "previousStatus": "Beeldbestand gevonden",
+      "assetIds": [
+        "won-reuse-1YG3wF9piLv6aLn_iNAACrWbgZCq1OWQj"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-AUD-0421",
+      "word": "kleed",
+      "previousStatus": "Hergebruik beoordelen",
+      "assetIds": [
+        "woo-010"
+      ],
+      "decision": "hergebruik met opdracht",
+      "note": "Hier betekent kleed: vloerkleed.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-AUD-0422",
+      "word": "kussen",
+      "previousStatus": "Beeldbestand gevonden",
+      "assetIds": [
+        "woo-008"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-AUD-0423",
+      "word": "lamp",
+      "previousStatus": "Hergebruik beoordelen",
+      "assetIds": [
+        "woo-007"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-AUD-0424",
+      "word": "ligbad",
+      "previousStatus": "Hergebruik beoordelen",
+      "assetIds": [
+        "bav-038"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-AUD-0425",
+      "word": "salontafel",
+      "previousStatus": "Beeldbestand gevonden",
+      "assetIds": [
+        "woo-003"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-AUD-0426",
+      "word": "schilderij",
+      "previousStatus": "Hergebruik beoordelen",
+      "assetIds": [
+        "woo-037"
+      ],
+      "decision": "hergebruik met opdracht",
+      "note": "Gebruik de ingelijste abstracte wandafbeelding als voorbeeld bij het woord schilderij; schildertechniek of origineel versus reproductie is niet uit de foto af te leiden.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-AUD-0428",
+      "word": "spiegel",
+      "previousStatus": "Beeldbestand gevonden",
+      "assetIds": [
+        "bav-005"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-AUD-0429",
+      "word": "stoel",
+      "previousStatus": "Beeldbestand gevonden",
+      "assetIds": [
+        "won-reuse-1uY97q5JfBTScX5HxUrokrYhbZv-Zjyad"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-AUD-0430",
+      "word": "tapijt",
+      "previousStatus": "Hergebruik beoordelen",
+      "assetIds": [
+        "woo-010"
+      ],
+      "decision": "hergebruik met opdracht",
+      "note": "Hier: een los vloerkleed, geen kamerbrede vloerbedekking.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-AUD-0431",
+      "word": "televisie",
+      "previousStatus": "Beeldbestand gevonden",
+      "assetIds": [
+        "woo-005"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-AUD-0432",
+      "word": "vaas",
+      "previousStatus": "Beeldbestand gevonden",
+      "assetIds": [
+        "woo-013"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-AUD-0434",
+      "word": "wastafel",
+      "previousStatus": "Beeldbestand gevonden",
+      "assetIds": [
+        "bav-008"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-AUD-0435",
+      "word": "zitbank",
+      "previousStatus": "Hergebruik beoordelen",
+      "assetIds": [
+        "woo-001"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-AUD-0507",
+      "word": "opruimen",
+      "previousStatus": "Hergebruik beoordelen",
+      "assetIds": [
+        "woo-039",
+        "woo-040",
+        "woo-041",
+        "woo-042"
+      ],
+      "decision": "hergebruik met opdracht",
+      "note": "De lege keuken met open lade toont geen opruimhandeling. Gebruik de bestaande reeks De woonkamer opruimen.",
+      "rejectedCandidate": {
+        "filename": "WB_KEE_050_keukenoverzicht_opruimen_OVZ_v01.png",
+        "id": "107RRRiBnPgoQPJp7XmusHUtoLX_qQBrQ",
+        "url": "https://drive.google.com/file/d/107RRRiBnPgoQPJp7XmusHUtoLX_qQBrQ/view?usp=drivesdk",
+        "family": "02_Keuken_en_eten",
+        "match": "Context / verwant begrip",
+        "visual_check": "",
+        "in_app_manifest": true
+      }
+    },
+    {
+      "conceptId": "WB-AUD-0513",
+      "word": "knippen",
+      "previousStatus": "Hergebruik beoordelen",
+      "assetIds": [
+        "los-N-B1-I16-p01"
+      ],
+      "decision": "hergebruik met opdracht",
+      "note": "Gebruik het papier als taalsteun: Zij knipt het papier. Het papier wordt door haar geknipt. De illustratie toont alleen papier; de handeling komt uit de opdracht.",
+      "rejectedCandidate": {
+        "filename": "WB_BAV_030_nagels_knippen_ACT_v01.png",
+        "id": "1PV2zcifnzd1EUYULAcc3yV_owkFyLBLf",
+        "url": "https://drive.google.com/file/d/1PV2zcifnzd1EUYULAcc3yV_owkFyLBLf/view?usp=drivesdk",
+        "family": "01_Badkamer_en_verzorging",
+        "match": "Context / verwant begrip",
+        "visual_check": "",
+        "in_app_manifest": false
+      }
+    },
+    {
+      "conceptId": "WB-AUD-0516",
+      "word": "opendoen",
+      "previousStatus": "Hergebruik beoordelen",
+      "assetIds": [
+        "won-reuse-19XBL_Ebgad1xYHTg3cQaA1sR_a7thgrN"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-2942dcaf24",
+      "word": "deur",
+      "previousStatus": "Hergebruik beoordelen",
+      "assetIds": [
+        "won-reuse-19XBL_Ebgad1xYHTg3cQaA1sR_a7thgrN"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-140c56d1f6",
+      "word": "verwarming",
+      "previousStatus": "Hergebruik beoordelen",
+      "assetIds": [
+        "woo-017"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-913369304d",
+      "word": "houthaard",
+      "previousStatus": "Beeldbestand gevonden",
+      "assetIds": [
+        "won-reuse-1bWGjIqFgCGroAnj100K2RQwBXiP8EkA0"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-44bfd6c36e",
+      "word": "aanrecht",
+      "previousStatus": "Beeldbestand gevonden",
+      "assetIds": [
+        "won-reuse-13nhwHynDeD8xy463Nu2ieXhapGqzBGoK"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-74bbd1cbd1",
+      "word": "gootsteen",
+      "previousStatus": "Beeldbestand gevonden",
+      "assetIds": [
+        "kee-019"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-260328e560",
+      "word": "kraan",
+      "previousStatus": "Beeldbestand gevonden",
+      "assetIds": [
+        "bav-009"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-ce57fcf3d9",
+      "word": "magnetron",
+      "previousStatus": "Beeldbestand gevonden",
+      "assetIds": [
+        "kee-017"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-4817d35175",
+      "word": "oven",
+      "previousStatus": "Beeldbestand gevonden",
+      "assetIds": [
+        "kee-016"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-4374d7a10d",
+      "word": "koelkast",
+      "previousStatus": "Beeldbestand gevonden",
+      "assetIds": [
+        "kee-015"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-c457921422",
+      "word": "bad",
+      "previousStatus": "Hergebruik beoordelen",
+      "assetIds": [
+        "bav-038"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-3953361948",
+      "word": "bureaustoel",
+      "previousStatus": "Beeldbestand gevonden",
+      "assetIds": [
+        "won-reuse-1uGtwzc-0K_u0pmUNewMF9T5kHFEz6In5"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-4deefd7185",
+      "word": "laptop",
+      "previousStatus": "Beeldbestand gevonden",
+      "assetIds": [
+        "won-reuse-198ztNxWRi0BVrxY2rvcMT8CnoA9Ikarw"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-adb0faec30",
+      "word": "printer",
+      "previousStatus": "Beeldbestand gevonden",
+      "assetIds": [
+        "won-reuse-1hUhmf23Kv1hFkpSl3te26-QWA7mU1OND"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-698249727d",
+      "word": "wasmachine",
+      "previousStatus": "Beeldbestand gevonden",
+      "assetIds": [
+        "won-reuse-1-GT643FWcchqim9Is4Pt_2wS4HobR8ZH"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-22eb8a18a7",
+      "word": "droger",
+      "previousStatus": "Beeldbestand gevonden",
+      "assetIds": [
+        "won-reuse-1CPjWIMl5xkPs9j9K8IjtNOAS6enHCypL"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-72f759b649",
+      "word": "wonen",
+      "previousStatus": "Beeldbestand gevonden",
+      "assetIds": [
+        "won-reuse-19cMvZ9H5cmB1C5k51ll6OQFLuu-wZNy0"
+      ],
+      "decision": "hergebruik met opdracht",
+      "note": "Een bewoner verzorgt planten thuis. Voeg de zin toe: zij woont hier; eigendom en adres zijn niet zichtbaar.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-6fb6d23ae1",
+      "word": "rijtjeshuis",
+      "previousStatus": "Hergebruik beoordelen",
+      "assetIds": [
+        "won-reuse-1QIcpRDSUjsU5Edhr-Qu20QnC7KMbZGkx"
+      ],
+      "decision": "hergebruik met opdracht",
+      "note": "Deze woning staat tussen andere aaneengesloten woningen. Vergelijk met het hoekhuis.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-d64f4b49f9",
+      "word": "hoekhuis",
+      "previousStatus": "Hergebruik beoordelen",
+      "assetIds": [
+        "won-reuse-1mYS7G_layy7vHMsDGVkdPGCWV4_6SCW8"
+      ],
+      "decision": "hergebruik met opdracht",
+      "note": "De vrije zijgevel toont dat deze woning op de hoek van een rij staat.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-WON-BEGRIP-flat",
+      "word": "flat",
+      "previousStatus": "Hergebruik beoordelen",
+      "assetIds": [
+        "won-reuse-1b1A5U5-YXx2fcj6N3WF356Jm3h5fPp26"
+      ],
+      "decision": "hergebruik",
+      "note": "Zichtbaar onderwerp past bij de woordbetekenis; bronversie geselecteerd.",
+      "rejectedCandidate": null
+    },
+    {
+      "conceptId": "WB-WON-BEGRIP-appartement",
+      "word": "appartement",
+      "previousStatus": "Hergebruik beoordelen",
+      "assetIds": [
+        "won-reuse-1M2YFl2otoFDefB4csV-tSXM5B65R7AQs"
+      ],
+      "decision": "hergebruik met opdracht",
+      "note": "De vrouw staat bij de eigen voordeur aan een gedeelde galerij. Bespreek: een appartement is één woning in een gebouw; een flat is het gebouw. Het interieur van deze woning is niet zichtbaar.",
+      "rejectedCandidate": null
+    }
+  ]
+}

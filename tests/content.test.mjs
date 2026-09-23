@@ -84,5 +84,5 @@ test("de broninhoud en de gepubliceerde inhoud hebben dezelfde betekenissen en r
     data.assets.map(({ renditions, ...a }) => a),
     original.assets,
   );
-  assert.deepEqual(data.methodLinks, []);
+  assert.ok(data.methodLinks.every(l => l.assetId && l.lesson && l.url.startsWith("https://docent.lingua-academy.nl/")));
 });

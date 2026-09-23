@@ -1,0 +1,1168 @@
+{
+  "collection": {
+    "id": "los-werk-en-gereedschap",
+    "title": "Losse illustraties",
+    "imageCount": 35,
+    "independentImages": 35,
+    "sequences": 0
+  },
+  "assets": [
+    {
+      "id": "los-TR-IDIOMS-P001-016-R4-p01",
+      "n": 10012,
+      "title": "knoop",
+      "description": "Een losse illustratie van knoop.",
+      "words": [
+        "knoop"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_knoop__TR-IDIOMS-P001-016-R4_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1vVjEZEkZkVlxtf8jcMx37IOf34ysUiKz",
+        "url": "https://drive.google.com/file/d/1vVjEZEkZkVlxtf8jcMx37IOf34ysUiKz/view?usp=drivesdk",
+        "rebusId": "TR-IDIOMS-P001-016-R4",
+        "cropBox": [
+          401,
+          220,
+          926,
+          469
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-TR-REBUS-BRON01-13-p05",
+      "n": 10029,
+      "title": "keten (ketting)",
+      "description": "Een losse illustratie van keten (ketting).",
+      "words": [
+        "keten (ketting)"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_keten_ketting__TR-REBUS-BRON01-13_p05.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1Vo6kP71cEH3j9XbZYdLTHLDqrYxHfIpl",
+        "url": "https://drive.google.com/file/d/1Vo6kP71cEH3j9XbZYdLTHLDqrYxHfIpl/view?usp=drivesdk",
+        "rebusId": "TR-REBUS-BRON01-13",
+        "cropBox": [
+          986,
+          533,
+          1439,
+          821
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-TR-REBUS-BRON01-16-p03",
+      "n": 10041,
+      "title": "zaag",
+      "description": "Een losse illustratie van zaag.",
+      "words": [
+        "zaag"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_zaag__TR-REBUS-BRON01-16_p03.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1QjMEOur78ti0xvx0CXK6HymPPDrbk5Sm",
+        "url": "https://drive.google.com/file/d/1QjMEOur78ti0xvx0CXK6HymPPDrbk5Sm/view?usp=drivesdk",
+        "rebusId": "TR-REBUS-BRON01-16",
+        "cropBox": [
+          26,
+          539,
+          609,
+          859
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-TR-REBUS-BRON01-21-p05",
+      "n": 10072,
+      "title": "keten (ketting)",
+      "description": "Een losse illustratie van keten (ketting).",
+      "words": [
+        "keten (ketting)"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_keten_ketting__TR-REBUS-BRON01-21_p05.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1A1ZygLnYW1Ks41dv8il_JhPv_lYN1UU8",
+        "url": "https://drive.google.com/file/d/1A1ZygLnYW1Ks41dv8il_JhPv_lYN1UU8/view?usp=drivesdk",
+        "rebusId": "TR-REBUS-BRON01-21",
+        "cropBox": [
+          1080,
+          592,
+          1508,
+          841
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A1-V16-p01",
+      "n": 10170,
+      "title": "vuur",
+      "description": "Een losse illustratie van vuur.",
+      "words": [
+        "vuur"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_vuur__N-A1-V16_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1CERHWWZq24A7atyesCaNVeFvjP0WsXg1",
+        "url": "https://drive.google.com/file/d/1CERHWWZq24A7atyesCaNVeFvjP0WsXg1/view?usp=drivesdk",
+        "rebusId": "N-A1-V16",
+        "cropBox": [
+          61,
+          132,
+          739,
+          613
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A2-I11-p02",
+      "n": 10236,
+      "title": "machine",
+      "description": "Een losse illustratie van machine.",
+      "words": [
+        "machine"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_machine__N-A2-I11_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1fT4pVypO9_QreQjRyv0BXh9v7PQseZ7A",
+        "url": "https://drive.google.com/file/d/1fT4pVypO9_QreQjRyv0BXh9v7PQseZ7A/view?usp=drivesdk",
+        "rebusId": "N-A2-I11",
+        "cropBox": [
+          985,
+          196,
+          1737,
+          696
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A2-V18-p02",
+      "n": 10291,
+      "title": "brand",
+      "description": "Een losse illustratie van brand.",
+      "words": [
+        "brand"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_brand__N-A2-V18_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1_fO-2qccAtDg64IKT1yP1PmvPj0-xyJD",
+        "url": "https://drive.google.com/file/d/1_fO-2qccAtDg64IKT1yP1PmvPj0-xyJD/view?usp=drivesdk",
+        "rebusId": "N-A2-V18",
+        "cropBox": [
+          1223,
+          172,
+          1748,
+          714
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A2-U02-p01",
+      "n": 10298,
+      "title": "gas",
+      "description": "Een losse illustratie van gas.",
+      "words": [
+        "gas"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_gas__N-A2-U02_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1cFpigrabsjsl939N8IVQKncuvMQdeHFD",
+        "url": "https://drive.google.com/file/d/1cFpigrabsjsl939N8IVQKncuvMQdeHFD/view?usp=drivesdk",
+        "rebusId": "N-A2-U02",
+        "cropBox": [
+          310,
+          253,
+          718,
+          595
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A2-U15-p01",
+      "n": 10323,
+      "title": "keten",
+      "description": "Een losse illustratie van keten.",
+      "words": [
+        "keten"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_keten__N-A2-U15_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1a7uaA71gAWvQSHfmNdbHeWKJ9bROPPiB",
+        "url": "https://drive.google.com/file/d/1a7uaA71gAWvQSHfmNdbHeWKJ9bROPPiB/view?usp=drivesdk",
+        "rebusId": "N-A2-U15",
+        "cropBox": [
+          600,
+          144,
+          1076,
+          597
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A2-U20-p03",
+      "n": 10336,
+      "title": "licht",
+      "description": "Een losse illustratie van licht.",
+      "words": [
+        "licht"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_licht__N-A2-U20_p03.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1S3KCRnGMmJVIqxYGouTuUxgTcCwEeXik",
+        "url": "https://drive.google.com/file/d/1S3KCRnGMmJVIqxYGouTuUxgTcCwEeXik/view?usp=drivesdk",
+        "rebusId": "N-A2-U20",
+        "cropBox": [
+          1357,
+          237,
+          1743,
+          595
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B1-I01-p01",
+      "n": 10337,
+      "title": "brand",
+      "description": "Een losse illustratie van brand.",
+      "words": [
+        "brand"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_brand__N-B1-I01_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1XI6DrdLqsSQ2T07Gmxkl_aMv1GM5FgVY",
+        "url": "https://drive.google.com/file/d/1XI6DrdLqsSQ2T07Gmxkl_aMv1GM5FgVY/view?usp=drivesdk",
+        "rebusId": "N-B1-I01",
+        "cropBox": [
+          55,
+          43,
+          781,
+          774
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B1-I15-p01",
+      "n": 10365,
+      "title": "afval",
+      "description": "Een losse illustratie van afval.",
+      "words": [
+        "afval"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_afval__N-B1-I15_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "19AhmKku1dvofZmIASRvnz4myDhJ-685O",
+        "url": "https://drive.google.com/file/d/19AhmKku1dvofZmIASRvnz4myDhJ-685O/view?usp=drivesdk",
+        "rebusId": "N-B1-I15",
+        "cropBox": [
+          50,
+          120,
+          757,
+          724
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B1-V01-p01",
+      "n": 10375,
+      "title": "wieken",
+      "description": "Een losse illustratie van wieken.",
+      "words": [
+        "wieken"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_wieken__N-B1-V01_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1rIhYN4jeX6BYrtNcvBiAyoqsJ3aJtRCm",
+        "url": "https://drive.google.com/file/d/1rIhYN4jeX6BYrtNcvBiAyoqsJ3aJtRCm/view?usp=drivesdk",
+        "rebusId": "N-B1-V01",
+        "cropBox": [
+          132,
+          33,
+          885,
+          705
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B1-V02-p02",
+      "n": 10378,
+      "title": "rooster",
+      "description": "Een losse illustratie van rooster.",
+      "words": [
+        "rooster"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_rooster__N-B1-V02_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1g6E8u_iq2ULpSaSBTTaYYDLFHk2pwSbU",
+        "url": "https://drive.google.com/file/d/1g6E8u_iq2ULpSaSBTTaYYDLFHk2pwSbU/view?usp=drivesdk",
+        "rebusId": "N-B1-V02",
+        "cropBox": [
+          1003,
+          233,
+          1734,
+          700
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B1-U02-p02",
+      "n": 10412,
+      "title": "licht",
+      "description": "Een losse illustratie van licht.",
+      "words": [
+        "licht"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_licht__N-B1-U02_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1CcNJQkEdX8sdAPfPqeJcwwVnhuagzaJM",
+        "url": "https://drive.google.com/file/d/1CcNJQkEdX8sdAPfPqeJcwwVnhuagzaJM/view?usp=drivesdk",
+        "rebusId": "N-B1-U02",
+        "cropBox": [
+          1032,
+          231,
+          1266,
+          604
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B1-U05-p01",
+      "n": 10417,
+      "title": "hark",
+      "description": "Een losse illustratie van hark.",
+      "words": [
+        "hark"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_hark__N-B1-U05_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1vMq398ufZd5Zy_8x0WqUd9P6eWDwRpr3",
+        "url": "https://drive.google.com/file/d/1vMq398ufZd5Zy_8x0WqUd9P6eWDwRpr3/view?usp=drivesdk",
+        "rebusId": "N-B1-U05",
+        "cropBox": [
+          297,
+          186,
+          670,
+          663
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B1-U14-p01",
+      "n": 10434,
+      "title": "tang",
+      "description": "Een losse illustratie van tang.",
+      "words": [
+        "tang"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_tang__N-B1-U14_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1GKb8FaRlCne5WA9Bfw6EPL0WJCyIjyfP",
+        "url": "https://drive.google.com/file/d/1GKb8FaRlCne5WA9Bfw6EPL0WJCyIjyfP/view?usp=drivesdk",
+        "rebusId": "N-B1-U14",
+        "cropBox": [
+          392,
+          221,
+          783,
+          586
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-I02-p02",
+      "n": 10450,
+      "title": "licht",
+      "description": "Een losse illustratie van licht.",
+      "words": [
+        "licht"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_licht__N-B2-I02_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1jIuDQZmVbWRryOByV7cB0Tp3E71fa8h_",
+        "url": "https://drive.google.com/file/d/1jIuDQZmVbWRryOByV7cB0Tp3E71fa8h_/view?usp=drivesdk",
+        "rebusId": "N-B2-I02",
+        "cropBox": [
+          1059,
+          36,
+          1635,
+          728
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-I05-p02",
+      "n": 10456,
+      "title": "tang",
+      "description": "Een losse illustratie van tang.",
+      "words": [
+        "tang"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_tang__N-B2-I05_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1IL6leh8avPq6sZ4moMQCL77uF8c5gTcs",
+        "url": "https://drive.google.com/file/d/1IL6leh8avPq6sZ4moMQCL77uF8c5gTcs/view?usp=drivesdk",
+        "rebusId": "N-B2-I05",
+        "cropBox": [
+          693,
+          150,
+          1226,
+          661
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-I11-p01",
+      "n": 10467,
+      "title": "net",
+      "description": "Een losse illustratie van net.",
+      "words": [
+        "net"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_net__N-B2-I11_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1zs_XVLzWIohxIXXaeT8uL3-8Md4nL2Zg",
+        "url": "https://drive.google.com/file/d/1zs_XVLzWIohxIXXaeT8uL3-8Md4nL2Zg/view?usp=drivesdk",
+        "rebusId": "N-B2-I11",
+        "cropBox": [
+          31,
+          207,
+          829,
+          712
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-I12-p01",
+      "n": 10469,
+      "title": "tang",
+      "description": "Een losse illustratie van tang.",
+      "words": [
+        "tang"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_tang__N-B2-I12_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1jHaFU5w2jJH4JHAh3HMuhCj_VOrVVJCj",
+        "url": "https://drive.google.com/file/d/1jHaFU5w2jJH4JHAh3HMuhCj_VOrVVJCj/view?usp=drivesdk",
+        "rebusId": "N-B2-I12",
+        "cropBox": [
+          60,
+          144,
+          833,
+          622
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-I12-p02",
+      "n": 10470,
+      "title": "net",
+      "description": "Een losse illustratie van net.",
+      "words": [
+        "net"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_net__N-B2-I12_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1ifJlWJK5Wqf-o_TUVEsnhHoLrpkSkGiq",
+        "url": "https://drive.google.com/file/d/1ifJlWJK5Wqf-o_TUVEsnhHoLrpkSkGiq/view?usp=drivesdk",
+        "rebusId": "N-B2-I12",
+        "cropBox": [
+          963,
+          123,
+          1742,
+          689
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-I13-p01",
+      "n": 10471,
+      "title": "val",
+      "description": "Een losse illustratie van val.",
+      "words": [
+        "val"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_val__N-B2-I13_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1-FUaqGnC6fiTmlG8H1CwcQlp9i-yG0FN",
+        "url": "https://drive.google.com/file/d/1-FUaqGnC6fiTmlG8H1CwcQlp9i-yG0FN/view?usp=drivesdk",
+        "rebusId": "N-B2-I13",
+        "cropBox": [
+          30,
+          168,
+          820,
+          698
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-I15-p01",
+      "n": 10475,
+      "title": "bijl",
+      "description": "Een losse illustratie van bijl.",
+      "words": [
+        "bijl"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_bijl__N-B2-I15_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1Pm1B8kBKW9sEoDaVPaTt-zpfcJXseECB",
+        "url": "https://drive.google.com/file/d/1Pm1B8kBKW9sEoDaVPaTt-zpfcJXseECB/view?usp=drivesdk",
+        "rebusId": "N-B2-I15",
+        "cropBox": [
+          106,
+          75,
+          808,
+          654
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-I16-p01",
+      "n": 10477,
+      "title": "bouw",
+      "description": "Een losse illustratie van bouw.",
+      "words": [
+        "bouw"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_bouw__N-B2-I16_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1v4RnLtrV0n_FIY2L1ysQ_9vNVTllRNfQ",
+        "url": "https://drive.google.com/file/d/1v4RnLtrV0n_FIY2L1ysQ_9vNVTllRNfQ/view?usp=drivesdk",
+        "rebusId": "N-B2-I16",
+        "cropBox": [
+          22,
+          97,
+          826,
+          731
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-I17-p01",
+      "n": 10479,
+      "title": "brand",
+      "description": "Een losse illustratie van brand.",
+      "words": [
+        "brand"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_brand__N-B2-I17_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1Oz5SWz5UazQG-0Dse_E-_3ICpaXXTxhJ",
+        "url": "https://drive.google.com/file/d/1Oz5SWz5UazQG-0Dse_E-_3ICpaXXTxhJ/view?usp=drivesdk",
+        "rebusId": "N-B2-I17",
+        "cropBox": [
+          124,
+          49,
+          804,
+          774
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-I18-p01",
+      "n": 10481,
+      "title": "licht",
+      "description": "Een losse illustratie van licht.",
+      "words": [
+        "licht"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_licht__N-B2-I18_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1LqegrfSKEKM-7A4FJgn_brV9qm8wnrBs",
+        "url": "https://drive.google.com/file/d/1LqegrfSKEKM-7A4FJgn_brV9qm8wnrBs/view?usp=drivesdk",
+        "rebusId": "N-B2-I18",
+        "cropBox": [
+          55,
+          193,
+          823,
+          739
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-I19-p02",
+      "n": 10484,
+      "title": "licht",
+      "description": "Een losse illustratie van licht.",
+      "words": [
+        "licht"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_licht__N-B2-I19_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1l8veJIwNB6MaCsQ_aImV-c-5LEoE6lLh",
+        "url": "https://drive.google.com/file/d/1l8veJIwNB6MaCsQ_aImV-c-5LEoE6lLh/view?usp=drivesdk",
+        "rebusId": "N-B2-I19",
+        "cropBox": [
+          1101,
+          88,
+          1527,
+          686
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-V01-p01",
+      "n": 10487,
+      "title": "spijker",
+      "description": "Een losse illustratie van spijker.",
+      "words": [
+        "spijker"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_spijker__N-B2-V01_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1FKfQdg0NtA-E3zsMcJoWj_WVKcOt8tgc",
+        "url": "https://drive.google.com/file/d/1FKfQdg0NtA-E3zsMcJoWj_WVKcOt8tgc/view?usp=drivesdk",
+        "rebusId": "N-B2-V01",
+        "cropBox": [
+          316,
+          253,
+          608,
+          624
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-V11-p02",
+      "n": 10511,
+      "title": "licht",
+      "description": "Een losse illustratie van licht.",
+      "words": [
+        "licht"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_licht__N-B2-V11_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1-qDMZgzshgvNyU8Gc4Ab4-rYXWr1M_4G",
+        "url": "https://drive.google.com/file/d/1-qDMZgzshgvNyU8Gc4Ab4-rYXWr1M_4G/view?usp=drivesdk",
+        "rebusId": "N-B2-V11",
+        "cropBox": [
+          815,
+          215,
+          1067,
+          608
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-V13-p01",
+      "n": 10514,
+      "title": "tang",
+      "description": "Een losse illustratie van tang.",
+      "words": [
+        "tang"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_tang__N-B2-V13_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1a9FPw3lh6rr6lETT9cAuXZTcgA0OZ_74",
+        "url": "https://drive.google.com/file/d/1a9FPw3lh6rr6lETT9cAuXZTcgA0OZ_74/view?usp=drivesdk",
+        "rebusId": "N-B2-V13",
+        "cropBox": [
+          411,
+          177,
+          749,
+          591
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-U01-p03",
+      "n": 10530,
+      "title": "bakker",
+      "description": "Een losse illustratie van bakker.",
+      "words": [
+        "bakker"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_bakker__N-B2-U01_p03.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1C0jViw_uHFfBLmQwt8t5PL8fGfCGrpiA",
+        "url": "https://drive.google.com/file/d/1C0jViw_uHFfBLmQwt8t5PL8fGfCGrpiA/view?usp=drivesdk",
+        "rebusId": "N-B2-U01",
+        "cropBox": [
+          1185,
+          240,
+          1458,
+          623
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-U14-p01",
+      "n": 10556,
+      "title": "touw",
+      "description": "Een losse illustratie van touw.",
+      "words": [
+        "touw"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_touw__N-B2-U14_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1d1Sp94QCF47YUCVLEGQDb_U7c-hiEQOC",
+        "url": "https://drive.google.com/file/d/1d1Sp94QCF47YUCVLEGQDb_U7c-hiEQOC/view?usp=drivesdk",
+        "rebusId": "N-B2-U14",
+        "cropBox": [
+          254,
+          269,
+          613,
+          579
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-U15-p01",
+      "n": 10559,
+      "title": "boer",
+      "description": "Een losse illustratie van boer.",
+      "words": [
+        "boer"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_boer__N-B2-U15_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1n3ws9vNErMRLmSytnOa2Z79ldVrMtubj",
+        "url": "https://drive.google.com/file/d/1n3ws9vNErMRLmSytnOa2Z79ldVrMtubj/view?usp=drivesdk",
+        "rebusId": "N-B2-U15",
+        "cropBox": [
+          378,
+          102,
+          866,
+          588
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-U20-p01",
+      "n": 10572,
+      "title": "knuppel",
+      "description": "Een losse illustratie van knuppel.",
+      "words": [
+        "knuppel"
+      ],
+      "uses": [
+        "Werk en gereedschap",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_knuppel__N-B2-U20_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1OiFuBjsMv-FawrLXPuemExi2z3-cSn7d",
+        "url": "https://drive.google.com/file/d/1OiFuBjsMv-FawrLXPuemExi2z3-cSn7d/view?usp=drivesdk",
+        "rebusId": "N-B2-U20",
+        "cropBox": [
+          263,
+          245,
+          518,
+          577
+        ]
+      },
+      "methodLinks": []
+    }
+  ],
+  "sequences": [],
+  "methodLinks": []
+}

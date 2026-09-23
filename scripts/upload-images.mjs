@@ -3,7 +3,7 @@ import { spawn } from "node:child_process";
 const files = (await readdir("public/images", { recursive: true })).filter(
   (f) =>
     /\.(avif|webp)$/.test(f) &&
-    (!process.argv[2] || f.startsWith(process.argv[2] + "/")),
+    (process.argv.length < 3 || process.argv.slice(2).some(prefix => f.startsWith(prefix + "/"))),
 );
 let done = 0;
 async function upload() {

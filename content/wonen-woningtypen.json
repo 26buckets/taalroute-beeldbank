@@ -1,0 +1,872 @@
+{
+  "collection": {
+    "id": "wonen-woningtypen",
+    "title": "Woningtypen",
+    "imageCount": 9,
+    "independentImages": 9,
+    "sequences": 0
+  },
+  "assets": [
+    {
+      "id": "won-009",
+      "n": 3009,
+      "title": "boerderij",
+      "description": "Woondeel met aangebouwde agrarische schuur en weiland maakt boerderij herkenbaar.",
+      "words": [
+        "boerderij",
+        "puntdak"
+      ],
+      "uses": [
+        "Wonen en het huis",
+        "Natuur",
+        "foto",
+        "Woningtypen",
+        "Ruimtes en bouwdelen"
+      ],
+      "type": "OVZ",
+      "note": "Woondeel met aangebouwde agrarische schuur en weiland maakt boerderij herkenbaar. Puntdak duidelijk zichtbaar.",
+      "sourceName": "WB_WON_009_boerderij_overzicht_OVZ_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1Bu0_oW4SeeQ6NnmxMenGSn7jkWuEwTQD",
+        "url": "https://drive.google.com/file/d/1Bu0_oW4SeeQ6NnmxMenGSn7jkWuEwTQD/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "VS-L37",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+          "word": "boerderij",
+          "conceptId": "WB-AUD-0383"
+        },
+        {
+          "lesson": "FI-L11",
+          "route": "De Finale",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+          "word": "puntdak",
+          "conceptId": "WB-AUD-0411"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-AUD-0383",
+          "word": "boerderij",
+          "group": "woningtypen"
+        },
+        {
+          "id": "WB-AUD-0411",
+          "word": "puntdak",
+          "group": "ruimtes"
+        }
+      ]
+    },
+    {
+      "id": "won-010",
+      "n": 3010,
+      "title": "grachtenpand",
+      "description": "Historisch grachtenpand met water en kade herkenbaar.",
+      "words": [
+        "grachtenpand",
+        "gevel",
+        "karakteristiek",
+        "monumentaal",
+        "statig"
+      ],
+      "uses": [
+        "Wonen en het huis",
+        "Buurt en omgeving",
+        "foto",
+        "Woningtypen",
+        "Ruimtes en bouwdelen",
+        "Wonen regelen en doen"
+      ],
+      "type": "OVZ",
+      "note": "Historisch grachtenpand met water en kade herkenbaar. Geschikt als context voor statig/karakteristiek; geen claim over officiële monumentstatus.",
+      "sourceName": "WB_WON_010_grachtenpand_overzicht_OVZ_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1hrLEYO1OVs38v8KU7SAXvXAT63-4ejzl",
+        "url": "https://drive.google.com/file/d/1hrLEYO1OVs38v8KU7SAXvXAT63-4ejzl/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "VS-L37",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+          "word": "grachtenpand",
+          "conceptId": "WB-AUD-0388"
+        },
+        {
+          "lesson": "FI-L11",
+          "route": "De Finale",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+          "word": "gevel",
+          "conceptId": "WB-AUD-0410"
+        },
+        {
+          "lesson": "FI-L10",
+          "route": "De Finale",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-1-les-10",
+          "word": "karakteristiek",
+          "conceptId": "WB-AUD-0438"
+        },
+        {
+          "lesson": "FI-L11",
+          "route": "De Finale",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+          "word": "karakteristiek",
+          "conceptId": "WB-AUD-0438"
+        },
+        {
+          "lesson": "FI-L12",
+          "route": "De Finale",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-12",
+          "word": "karakteristiek",
+          "conceptId": "WB-AUD-0438"
+        },
+        {
+          "lesson": "FI-L10",
+          "route": "De Finale",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-1-les-10",
+          "word": "monumentaal",
+          "conceptId": "WB-AUD-0440"
+        },
+        {
+          "lesson": "FI-L11",
+          "route": "De Finale",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+          "word": "monumentaal",
+          "conceptId": "WB-AUD-0440"
+        },
+        {
+          "lesson": "FI-L12",
+          "route": "De Finale",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-12",
+          "word": "monumentaal",
+          "conceptId": "WB-AUD-0440"
+        },
+        {
+          "lesson": "FI-L11",
+          "route": "De Finale",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+          "word": "statig",
+          "conceptId": "WB-AUD-0442"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-AUD-0388",
+          "word": "grachtenpand",
+          "group": "woningtypen"
+        },
+        {
+          "id": "WB-AUD-0410",
+          "word": "gevel",
+          "group": "ruimtes"
+        },
+        {
+          "id": "WB-AUD-0438",
+          "word": "karakteristiek",
+          "group": "wonen-regelen",
+          "exercise": {
+            "instruction": "Vergelijk beide gebouwen. Welke kenmerken maken het grachtenpand herkenbaar?",
+            "example_answer": "De smalle gevel en de versierde top zijn karakteristiek voor dit grachtenpand.",
+            "note": "Bespreek kenmerken; niet één vaste beeldbetekenis."
+          }
+        },
+        {
+          "id": "WB-AUD-0440",
+          "word": "monumentaal",
+          "group": "wonen-regelen",
+          "exercise": {
+            "instruction": "Beschrijf de hoge gevel en de versieringen. Leg uit waarom iemand dit pand monumentaal kan noemen.",
+            "example_answer": "Het hoge grachtenpand heeft een monumentale uitstraling.",
+            "note": "Fictief gebouw. Geen claim dat het pand een officieel beschermd monument is."
+          }
+        },
+        {
+          "id": "WB-AUD-0442",
+          "word": "statig",
+          "group": "wonen-regelen",
+          "exercise": {
+            "instruction": "Bekijk de gevel. Wat geeft het pand volgens jou een statige uitstraling?",
+            "example_answer": "De hoge ramen en de versierde gevel maken het pand statig.",
+            "note": "Bijvoeglijk naamwoord toelichten en laten onderbouwen."
+          }
+        }
+      ]
+    },
+    {
+      "id": "won-011",
+      "n": 3011,
+      "title": "villa",
+      "description": "Ruime vrijstaande woning met eigen tuin en vrij zicht langs beide zijden.",
+      "words": [
+        "villa",
+        "vrijstaand huis",
+        "groter huis"
+      ],
+      "uses": [
+        "Wonen en het huis",
+        "foto",
+        "Woningtypen"
+      ],
+      "type": "OVZ",
+      "note": "Ruime vrijstaande woning met eigen tuin en vrij zicht langs beide zijden. Villa en vrijstaande woning kunnen dit voorbeeld delen; niet alle vrijstaande huizen zijn villa's.",
+      "sourceName": "WB_WON_011_villa_overzicht_OVZ_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1hp3IVU5-fkUHwcjheHQiHLEXcBmgsmAX",
+        "url": "https://drive.google.com/file/d/1hp3IVU5-fkUHwcjheHQiHLEXcBmgsmAX/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "IN-L10",
+          "route": "Inzicht",
+          "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-1-les-10",
+          "word": "groter huis",
+          "conceptId": "WB-AUD-0407"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-AUD-0407",
+          "word": "groter huis",
+          "group": "woningtypen",
+          "exercise": {
+            "instruction": "Vergelijk de villa met de studio. Gebruik fictieve oefengegevens: de studio is 30 m² en de villa is 140 m². Welke woning is groter?",
+            "example_answer": "De villa is groter dan de studio.",
+            "note": "Maten zijn toegevoegd als fictieve taalsteun; niet uit de afbeeldingen gemeten."
+          }
+        },
+        {
+          "id": "WB-d7f4daeb75",
+          "word": "villa",
+          "group": "woningtypen"
+        },
+        {
+          "id": "WB-ec0bc86d88",
+          "word": "vrijstaand huis",
+          "group": "woningtypen"
+        }
+      ]
+    },
+    {
+      "id": "won-012",
+      "n": 3012,
+      "title": "twee-onder-een-kapwoning",
+      "description": "Precies twee woningen onder gedeeld dak, twee deuren/paden en open zijkanten.",
+      "words": [
+        "twee-onder-een-kapwoning"
+      ],
+      "uses": [
+        "Wonen en het huis",
+        "foto",
+        "Woningtypen"
+      ],
+      "type": "OVZ",
+      "note": "Precies twee woningen onder gedeeld dak, twee deuren/paden en open zijkanten. Duidelijk te vergelijken met rijwoning en vrijstaand huis.",
+      "sourceName": "WB_WON_012_twee-onder-een-kapwoning_overzicht_OVZ_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1ff6Blo2d8MtCSp_3VpXjpWsSS3JMIVcT",
+        "url": "https://drive.google.com/file/d/1ff6Blo2d8MtCSp_3VpXjpWsSS3JMIVcT/view?usp=drivesdk"
+      },
+      "methodLinks": [],
+      "concepts": [
+        {
+          "id": "WB-9f8b96aa38",
+          "word": "twee-onder-een-kapwoning",
+          "group": "woningtypen"
+        }
+      ]
+    },
+    {
+      "id": "won-013",
+      "n": 3013,
+      "title": "studio",
+      "description": "Bed, zithoek en kitchenette zichtbaar in één ruimte.",
+      "words": [
+        "studio",
+        "gemeubileerd",
+        "interieur",
+        "groter huis",
+        "ruimte",
+        "verlichting",
+        "modern ingericht",
+        "sfeervol",
+        "ruim"
+      ],
+      "uses": [
+        "Wonen en het huis",
+        "foto",
+        "Woningtypen",
+        "Ruimtes en bouwdelen",
+        "Inrichting",
+        "Wonen regelen en doen"
+      ],
+      "type": "OVZ",
+      "note": "Bed, zithoek en kitchenette zichtbaar in één ruimte. Inrichting duidelijk; niet als afzonderlijke slaapkamer registreren.",
+      "sourceName": "WB_WON_013_studio_overzicht_OVZ_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1vLGIRIVAio289sEzyO09HEvkjf9K58Vd",
+        "url": "https://drive.google.com/file/d/1vLGIRIVAio289sEzyO09HEvkjf9K58Vd/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "IN-L10",
+          "route": "Inzicht",
+          "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-1-les-10",
+          "word": "groter huis",
+          "conceptId": "WB-AUD-0407"
+        },
+        {
+          "lesson": "IN-L10",
+          "route": "Inzicht",
+          "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-1-les-10",
+          "word": "ruimte",
+          "conceptId": "WB-AUD-0408"
+        },
+        {
+          "lesson": "VS-L40",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "word": "verlichting",
+          "conceptId": "WB-AUD-0433"
+        },
+        {
+          "lesson": "FI-L10",
+          "route": "De Finale",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-1-les-10",
+          "word": "interieur",
+          "conceptId": "WB-AUD-0437"
+        },
+        {
+          "lesson": "FI-L11",
+          "route": "De Finale",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+          "word": "modern ingericht",
+          "conceptId": "WB-AUD-0439"
+        },
+        {
+          "lesson": "FI-L11",
+          "route": "De Finale",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+          "word": "sfeervol",
+          "conceptId": "WB-AUD-0441"
+        },
+        {
+          "lesson": "VS-L40",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "word": "gemeubileerd",
+          "conceptId": "WB-AUD-0444"
+        },
+        {
+          "lesson": "VS-L42",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-42",
+          "word": "gemeubileerd",
+          "conceptId": "WB-AUD-0444"
+        },
+        {
+          "lesson": "VS-L40",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "word": "ruim",
+          "conceptId": "WB-e0b477dd87"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-AUD-0407",
+          "word": "groter huis",
+          "group": "woningtypen",
+          "exercise": {
+            "instruction": "Vergelijk de villa met de studio. Gebruik fictieve oefengegevens: de studio is 30 m² en de villa is 140 m². Welke woning is groter?",
+            "example_answer": "De villa is groter dan de studio.",
+            "note": "Maten zijn toegevoegd als fictieve taalsteun; niet uit de afbeeldingen gemeten."
+          }
+        },
+        {
+          "id": "WB-AUD-0408",
+          "word": "ruimte",
+          "group": "ruimtes",
+          "exercise": {
+            "instruction": "Wijs in het beeld een ruimte aan. Welke activiteiten kun je daar doen? Bespreek ook het verschil tussen een kamer en beschikbare ruimte.",
+            "example_answer": "Dit is een studeerkamer. Er is ruimte om te werken.",
+            "note": "Betekenis kamer versus beschikbare plek expliciet kiezen bij de bronles."
+          }
+        },
+        {
+          "id": "WB-AUD-0433",
+          "word": "verlichting",
+          "group": "inrichting",
+          "exercise": {
+            "instruction": "Wijs de verlichting aan. Welke lamp staat op het bureau en welke hangt boven de tafel?",
+            "example_answer": "De bureaulamp staat op het bureau. De hanglamp hangt boven de tafel.",
+            "note": "Verlichting is een verzamelbegrip; aanwezige lampen zijn rechtstreeks zichtbaar."
+          }
+        },
+        {
+          "id": "WB-AUD-0437",
+          "word": "interieur",
+          "group": "inrichting"
+        },
+        {
+          "id": "WB-AUD-0439",
+          "word": "modern ingericht",
+          "group": "inrichting",
+          "exercise": {
+            "instruction": "Beschrijf de inrichting. Welke meubels of apparaten vind jij modern? Leg uit waarom.",
+            "example_answer": "De studio is modern ingericht met een compacte keuken en eenvoudige meubels.",
+            "note": "Modern is contextafhankelijk; modelzin is een mogelijke beschrijving."
+          }
+        },
+        {
+          "id": "WB-AUD-0441",
+          "word": "sfeervol",
+          "group": "inrichting",
+          "exercise": {
+            "instruction": "Welke ruimte vind jij sfeervol? Noem twee details die bijdragen aan die sfeer.",
+            "example_answer": "Ik vind de studeerkamer sfeervol door het hout en de planten.",
+            "note": "Subjectieve beoordeling: meerdere antwoorden goed."
+          }
+        },
+        {
+          "id": "WB-AUD-0444",
+          "word": "gemeubileerd",
+          "group": "inrichting"
+        },
+        {
+          "id": "WB-e0b477dd87",
+          "word": "ruim",
+          "group": "wonen-regelen",
+          "exercise": {
+            "instruction": "Vergelijk de beschikbare loopruimte. Welke ruimte oogt ruimer en waarom?",
+            "example_answer": "De studio oogt ruim doordat er veel vrije vloer is.",
+            "note": "Oordeel op foto is relatief; geen werkelijke afmetingen claimen."
+          }
+        },
+        {
+          "id": "WB-f455fc492b",
+          "word": "studio",
+          "group": "woningtypen"
+        }
+      ]
+    },
+    {
+      "id": "won-reuse-1QIcpRDSUjsU5Edhr-Qu20QnC7KMbZGkx",
+      "n": 4018,
+      "title": "Het rijtjeshuis",
+      "description": "Een bakstenen woning staat tussen andere woningen in een aaneengesloten rij.",
+      "words": [
+        "rijtjeshuis"
+      ],
+      "uses": [
+        "Wonen en het huis",
+        "foto",
+        "Woningtypen"
+      ],
+      "type": "OBJ",
+      "note": "Deze woning staat tussen andere aaneengesloten woningen. Vergelijk met het hoekhuis.",
+      "sourceName": "WB_SMT_WRD022_huis_OBJ_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1QIcpRDSUjsU5Edhr-Qu20QnC7KMbZGkx",
+        "url": "https://drive.google.com/file/d/1QIcpRDSUjsU5Edhr-Qu20QnC7KMbZGkx/view?usp=drivesdk"
+      },
+      "methodLinks": [],
+      "concepts": [
+        {
+          "id": "WB-6fb6d23ae1",
+          "word": "rijtjeshuis",
+          "group": "woningtypen",
+          "note": "Deze woning staat tussen andere aaneengesloten woningen. Vergelijk met het hoekhuis."
+        }
+      ]
+    },
+    {
+      "id": "won-reuse-1b1A5U5-YXx2fcj6N3WF356Jm3h5fPp26",
+      "n": 4019,
+      "title": "De flat",
+      "description": "Een flatgebouw met meerdere woonlagen en balkons.",
+      "words": [
+        "flat"
+      ],
+      "uses": [
+        "Wonen en het huis",
+        "foto",
+        "Woningtypen"
+      ],
+      "type": "OVZ",
+      "note": "",
+      "sourceName": "WB_SMT_WRD024_flat_PLC_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1b1A5U5-YXx2fcj6N3WF356Jm3h5fPp26",
+        "url": "https://drive.google.com/file/d/1b1A5U5-YXx2fcj6N3WF356Jm3h5fPp26/view?usp=drivesdk"
+      },
+      "methodLinks": [],
+      "concepts": [
+        {
+          "id": "WB-WON-BEGRIP-flat",
+          "word": "flat",
+          "group": "woningtypen"
+        }
+      ]
+    },
+    {
+      "id": "won-reuse-1M2YFl2otoFDefB4csV-tSXM5B65R7AQs",
+      "n": 4020,
+      "title": "Het appartement",
+      "description": "Een vrouw opent haar voordeur aan de gedeelde galerij van een appartementengebouw.",
+      "words": [
+        "appartement"
+      ],
+      "uses": [
+        "Wonen en het huis",
+        "foto",
+        "Woningtypen"
+      ],
+      "type": "OBJ",
+      "note": "De vrouw staat bij de eigen voordeur aan een gedeelde galerij. Bespreek: een appartement is één woning in een gebouw; een flat is het gebouw. Het interieur van deze woning is niet zichtbaar.",
+      "sourceName": "WB_SMT_WRD023_appartement_OBJ_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1M2YFl2otoFDefB4csV-tSXM5B65R7AQs",
+        "url": "https://drive.google.com/file/d/1M2YFl2otoFDefB4csV-tSXM5B65R7AQs/view?usp=drivesdk"
+      },
+      "methodLinks": [],
+      "concepts": [
+        {
+          "id": "WB-WON-BEGRIP-appartement",
+          "word": "appartement",
+          "group": "woningtypen",
+          "note": "De vrouw staat bij de eigen voordeur aan een gedeelde galerij. Bespreek: een appartement is één woning in een gebouw; een flat is het gebouw. Het interieur van deze woning is niet zichtbaar."
+        }
+      ]
+    },
+    {
+      "id": "won-reuse-1mYS7G_layy7vHMsDGVkdPGCWV4_6SCW8",
+      "n": 4001,
+      "title": "Hoekhuis",
+      "description": "Een bakstenen hoekhuis aan het einde van een rij, met dak, schoorsteen en voortuin.",
+      "words": [
+        "dak",
+        "eengezinswoning",
+        "huis",
+        "schoorsteen",
+        "voortuin",
+        "hoekhuis"
+      ],
+      "uses": [
+        "Wonen en het huis",
+        "foto",
+        "Ruimtes en bouwdelen",
+        "Woningtypen",
+        "Buitenruimtes"
+      ],
+      "type": "OBJ",
+      "note": "Voorbeeld van een eengezinswoning; wie er woont is niet zichtbaar. De vrije zijgevel toont dat deze woning op de hoek van een rij staat.",
+      "sourceName": "WB_SMT_WRD022_huis_OBJ_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1mYS7G_layy7vHMsDGVkdPGCWV4_6SCW8",
+        "url": "https://drive.google.com/file/d/1mYS7G_layy7vHMsDGVkdPGCWV4_6SCW8/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "VS-L38",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "word": "dak",
+          "conceptId": "WB-AUD-0384"
+        },
+        {
+          "lesson": "VS-L40",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "word": "eengezinswoning",
+          "conceptId": "WB-AUD-0385"
+        },
+        {
+          "lesson": "VS-L15",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-2-les-15",
+          "word": "huis",
+          "conceptId": "WB-AUD-0390"
+        },
+        {
+          "lesson": "VS-L38",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "word": "schoorsteen",
+          "conceptId": "WB-AUD-0395"
+        },
+        {
+          "lesson": "VS-L40",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "word": "voortuin",
+          "conceptId": "WB-AUD-0402"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-AUD-0384",
+          "word": "dak",
+          "group": "ruimtes"
+        },
+        {
+          "id": "WB-AUD-0385",
+          "word": "eengezinswoning",
+          "group": "woningtypen",
+          "note": "Voorbeeld van een eengezinswoning; wie er woont is niet zichtbaar."
+        },
+        {
+          "id": "WB-AUD-0390",
+          "word": "huis",
+          "group": "woningtypen"
+        },
+        {
+          "id": "WB-AUD-0395",
+          "word": "schoorsteen",
+          "group": "ruimtes"
+        },
+        {
+          "id": "WB-AUD-0402",
+          "word": "voortuin",
+          "group": "buitenruimtes"
+        },
+        {
+          "id": "WB-d64f4b49f9",
+          "word": "hoekhuis",
+          "group": "woningtypen",
+          "note": "De vrije zijgevel toont dat deze woning op de hoek van een rij staat."
+        }
+      ]
+    }
+  ],
+  "sequences": [],
+  "methodLinks": [
+    {
+      "lesson": "VS-L37",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+      "word": "boerderij",
+      "conceptId": "WB-AUD-0383",
+      "assetId": "won-009"
+    },
+    {
+      "lesson": "FI-L11",
+      "route": "De Finale",
+      "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+      "word": "puntdak",
+      "conceptId": "WB-AUD-0411",
+      "assetId": "won-009"
+    },
+    {
+      "lesson": "VS-L37",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+      "word": "grachtenpand",
+      "conceptId": "WB-AUD-0388",
+      "assetId": "won-010"
+    },
+    {
+      "lesson": "FI-L11",
+      "route": "De Finale",
+      "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+      "word": "gevel",
+      "conceptId": "WB-AUD-0410",
+      "assetId": "won-010"
+    },
+    {
+      "lesson": "FI-L10",
+      "route": "De Finale",
+      "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-1-les-10",
+      "word": "karakteristiek",
+      "conceptId": "WB-AUD-0438",
+      "assetId": "won-010"
+    },
+    {
+      "lesson": "FI-L11",
+      "route": "De Finale",
+      "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+      "word": "karakteristiek",
+      "conceptId": "WB-AUD-0438",
+      "assetId": "won-010"
+    },
+    {
+      "lesson": "FI-L12",
+      "route": "De Finale",
+      "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-12",
+      "word": "karakteristiek",
+      "conceptId": "WB-AUD-0438",
+      "assetId": "won-010"
+    },
+    {
+      "lesson": "FI-L10",
+      "route": "De Finale",
+      "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-1-les-10",
+      "word": "monumentaal",
+      "conceptId": "WB-AUD-0440",
+      "assetId": "won-010"
+    },
+    {
+      "lesson": "FI-L11",
+      "route": "De Finale",
+      "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+      "word": "monumentaal",
+      "conceptId": "WB-AUD-0440",
+      "assetId": "won-010"
+    },
+    {
+      "lesson": "FI-L12",
+      "route": "De Finale",
+      "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-12",
+      "word": "monumentaal",
+      "conceptId": "WB-AUD-0440",
+      "assetId": "won-010"
+    },
+    {
+      "lesson": "FI-L11",
+      "route": "De Finale",
+      "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+      "word": "statig",
+      "conceptId": "WB-AUD-0442",
+      "assetId": "won-010"
+    },
+    {
+      "lesson": "IN-L10",
+      "route": "Inzicht",
+      "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-1-les-10",
+      "word": "groter huis",
+      "conceptId": "WB-AUD-0407",
+      "assetId": "won-011"
+    },
+    {
+      "lesson": "IN-L10",
+      "route": "Inzicht",
+      "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-1-les-10",
+      "word": "groter huis",
+      "conceptId": "WB-AUD-0407",
+      "assetId": "won-013"
+    },
+    {
+      "lesson": "IN-L10",
+      "route": "Inzicht",
+      "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-1-les-10",
+      "word": "ruimte",
+      "conceptId": "WB-AUD-0408",
+      "assetId": "won-013"
+    },
+    {
+      "lesson": "VS-L40",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+      "word": "verlichting",
+      "conceptId": "WB-AUD-0433",
+      "assetId": "won-013"
+    },
+    {
+      "lesson": "FI-L10",
+      "route": "De Finale",
+      "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-1-les-10",
+      "word": "interieur",
+      "conceptId": "WB-AUD-0437",
+      "assetId": "won-013"
+    },
+    {
+      "lesson": "FI-L11",
+      "route": "De Finale",
+      "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+      "word": "modern ingericht",
+      "conceptId": "WB-AUD-0439",
+      "assetId": "won-013"
+    },
+    {
+      "lesson": "FI-L11",
+      "route": "De Finale",
+      "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+      "word": "sfeervol",
+      "conceptId": "WB-AUD-0441",
+      "assetId": "won-013"
+    },
+    {
+      "lesson": "VS-L40",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+      "word": "gemeubileerd",
+      "conceptId": "WB-AUD-0444",
+      "assetId": "won-013"
+    },
+    {
+      "lesson": "VS-L42",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-42",
+      "word": "gemeubileerd",
+      "conceptId": "WB-AUD-0444",
+      "assetId": "won-013"
+    },
+    {
+      "lesson": "VS-L40",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+      "word": "ruim",
+      "conceptId": "WB-e0b477dd87",
+      "assetId": "won-013"
+    },
+    {
+      "lesson": "VS-L38",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+      "word": "dak",
+      "conceptId": "WB-AUD-0384",
+      "assetId": "won-reuse-1mYS7G_layy7vHMsDGVkdPGCWV4_6SCW8"
+    },
+    {
+      "lesson": "VS-L40",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+      "word": "eengezinswoning",
+      "conceptId": "WB-AUD-0385",
+      "assetId": "won-reuse-1mYS7G_layy7vHMsDGVkdPGCWV4_6SCW8"
+    },
+    {
+      "lesson": "VS-L15",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-2-les-15",
+      "word": "huis",
+      "conceptId": "WB-AUD-0390",
+      "assetId": "won-reuse-1mYS7G_layy7vHMsDGVkdPGCWV4_6SCW8"
+    },
+    {
+      "lesson": "VS-L38",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+      "word": "schoorsteen",
+      "conceptId": "WB-AUD-0395",
+      "assetId": "won-reuse-1mYS7G_layy7vHMsDGVkdPGCWV4_6SCW8"
+    },
+    {
+      "lesson": "VS-L40",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+      "word": "voortuin",
+      "conceptId": "WB-AUD-0402",
+      "assetId": "won-reuse-1mYS7G_layy7vHMsDGVkdPGCWV4_6SCW8"
+    }
+  ]
+}

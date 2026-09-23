@@ -15,7 +15,7 @@ ROOT = Path(__file__).resolve().parents[1]
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--source-dir', type=Path, required=True)
-    parser.add_argument('--collection', choices=('badkamer', 'keuken', 'woonkamer'), default='badkamer')
+    parser.add_argument('--collection', choices=tuple(p.stem for p in (ROOT / 'content').glob('*.json')), default='badkamer')
     args = parser.parse_args()
     if not features.check('avif') or not features.check('webp'):
         parser.error('Pillow met AVIF en WebP is nodig.')
@@ -29,12 +29,16 @@ def main():
         'metadata': 'EXIF en overige bronmetadata niet overgenomen',
     }}
     for asset in content['assets']:
-        source = args.source_dir / asset['sourceName']
+        source = args.source_dir / (asset.get('source', {}).get('driveFileId', '') + '.png')
+        if not source.exists():
+            source = args.source_dir / asset['sourceName']
         if not source.exists():
             source = args.source_dir / f'{asset["n"]}.png'
         report['sourceBytes'] += source.stat().st_size
         with Image.open(source) as raw:
-            original = ImageOps.exif_transpose(raw).convert('RGB')
+            rgba = ImageOps.exif_transpose(raw).convert('RGBA')
+            original = Image.new('RGB', rgba.size, 'white')
+            original.paste(rgba, mask=rgba.getchannel('A'))
         asset['renditions'] = {}
         for size in ('thumb', 'full'):
             edge = 256 if size == 'thumb' else 960 if asset['type'] == 'OVZ' else 768

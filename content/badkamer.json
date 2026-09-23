@@ -100,18 +100,40 @@
       "words": [
         "de spiegel",
         "de lamp",
-        "de wastafel"
+        "de wastafel",
+        "spiegel"
       ],
       "uses": [
         "benoemen",
         "inrichting",
-        "plaats aangeven"
+        "plaats aangeven",
+        "Wonen en het huis",
+        "Inrichting"
       ],
       "type": "OBJ",
       "note": "",
-      "source": "https://drive.google.com/file/d/1u2cv6BJ-K81kGJg3QANFrcYem16BAfWq/view?usp=drivesdk",
+      "source": {
+        "driveFileId": "1u2cv6BJ-K81kGJg3QANFrcYem16BAfWq",
+        "url": "https://drive.google.com/file/d/1u2cv6BJ-K81kGJg3QANFrcYem16BAfWq/view?usp=drivesdk"
+      },
       "sourceName": "WB_BAV_005_spiegel_OBJ_v01.png",
-      "version": 1
+      "version": 1,
+      "methodLinks": [
+        {
+          "lesson": "VS-L41",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "word": "spiegel",
+          "conceptId": "WB-AUD-0428"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-AUD-0428",
+          "word": "spiegel",
+          "group": "inrichting"
+        }
+      ]
     },
     {
       "id": "bav-006",
@@ -121,18 +143,40 @@
       "words": [
         "de douche",
         "de douchekop",
-        "het glas"
+        "het glas",
+        "douche"
       ],
       "uses": [
         "benoemen",
         "wonen",
-        "persoonlijke verzorging"
+        "persoonlijke verzorging",
+        "Wonen en het huis",
+        "Inrichting"
       ],
       "type": "OBJ",
       "note": "",
-      "source": "https://drive.google.com/file/d/1E1tZpXydQ8mufAfcAj6Bd-bGNN9iwWw_/view?usp=drivesdk",
+      "source": {
+        "driveFileId": "1E1tZpXydQ8mufAfcAj6Bd-bGNN9iwWw_",
+        "url": "https://drive.google.com/file/d/1E1tZpXydQ8mufAfcAj6Bd-bGNN9iwWw_/view?usp=drivesdk"
+      },
       "sourceName": "WB_BAV_006_douche_OBJ_v01.png",
-      "version": 1
+      "version": 1,
+      "methodLinks": [
+        {
+          "lesson": "VS-L40",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "word": "douche",
+          "conceptId": "WB-AUD-0415"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-AUD-0415",
+          "word": "douche",
+          "group": "inrichting"
+        }
+      ]
     },
     {
       "id": "bav-007",
@@ -142,18 +186,40 @@
       "words": [
         "het toilet",
         "de deksel",
-        "de spoelknop"
+        "de spoelknop",
+        "wc"
       ],
       "uses": [
         "benoemen",
         "wonen",
-        "schoonmaken"
+        "schoonmaken",
+        "Wonen en het huis",
+        "Ruimtes en bouwdelen"
       ],
       "type": "OBJ",
       "note": "",
-      "source": "https://drive.google.com/file/d/1nZ11wgLx8nwgr7y87rqlEfIB6dlgwCXJ/view?usp=drivesdk",
+      "source": {
+        "driveFileId": "1nZ11wgLx8nwgr7y87rqlEfIB6dlgwCXJ",
+        "url": "https://drive.google.com/file/d/1nZ11wgLx8nwgr7y87rqlEfIB6dlgwCXJ/view?usp=drivesdk"
+      },
       "sourceName": "WB_BAV_007_toilet_OBJ_v01.png",
-      "version": 1
+      "version": 1,
+      "methodLinks": [
+        {
+          "lesson": "VS-L38",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "word": "wc",
+          "conceptId": "WB-AUD-0403"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-AUD-0403",
+          "word": "wc",
+          "group": "ruimtes"
+        }
+      ]
     },
     {
       "id": "bav-008",
@@ -163,18 +229,54 @@
       "words": [
         "de wastafel",
         "de kraan",
-        "het badkamermeubel"
+        "het badkamermeubel",
+        "wastafel"
       ],
       "uses": [
         "benoemen",
         "wonen",
-        "handen wassen"
+        "handen wassen",
+        "Wonen en het huis",
+        "Inrichting"
       ],
       "type": "OBJ",
       "note": "",
-      "source": "https://drive.google.com/file/d/1gVDo2WYaent59bIu5tcTdk_BxqO88qZU/view?usp=drivesdk",
+      "source": {
+        "driveFileId": "1gVDo2WYaent59bIu5tcTdk_BxqO88qZU",
+        "url": "https://drive.google.com/file/d/1gVDo2WYaent59bIu5tcTdk_BxqO88qZU/view?usp=drivesdk"
+      },
       "sourceName": "WB_BAV_008_wastafel_OBJ_v01.png",
-      "version": 1
+      "version": 1,
+      "methodLinks": [
+        {
+          "lesson": "VS-L40",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "word": "wastafel",
+          "conceptId": "WB-AUD-0434"
+        },
+        {
+          "lesson": "VS-L41",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "word": "wastafel",
+          "conceptId": "WB-AUD-0434"
+        },
+        {
+          "lesson": "VS-L42",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-42",
+          "word": "wastafel",
+          "conceptId": "WB-AUD-0434"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-AUD-0434",
+          "word": "wastafel",
+          "group": "inrichting"
+        }
+      ]
     },
     {
       "id": "bav-009",
@@ -184,18 +286,40 @@
       "words": [
         "de kraan",
         "de hendel",
-        "het water"
+        "het water",
+        "kraan"
       ],
       "uses": [
         "benoemen",
         "open en dicht",
-        "water besparen"
+        "water besparen",
+        "Wonen en het huis",
+        "Inrichting"
       ],
       "type": "OBJ",
       "note": "",
-      "source": "https://drive.google.com/file/d/1_kq6rCK4rFkGwF2gDO5IcEHuqsVqqwmv/view?usp=drivesdk",
+      "source": {
+        "driveFileId": "1_kq6rCK4rFkGwF2gDO5IcEHuqsVqqwmv",
+        "url": "https://drive.google.com/file/d/1_kq6rCK4rFkGwF2gDO5IcEHuqsVqqwmv/view?usp=drivesdk"
+      },
       "sourceName": "WB_BAV_009_kraan_OBJ_v01.png",
-      "version": 1
+      "version": 1,
+      "methodLinks": [
+        {
+          "lesson": "VS-L41",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "word": "kraan",
+          "conceptId": "WB-260328e560"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-260328e560",
+          "word": "kraan",
+          "group": "inrichting"
+        }
+      ]
     },
     {
       "id": "bav-010",
@@ -799,20 +923,42 @@
         "rechts",
         "boven",
         "drie",
-        "twee"
+        "twee",
+        "badkamer"
       ],
       "uses": [
         "wonen",
         "inrichting",
         "voorwerpen benoemen",
         "plaats aangeven",
-        "tellen"
+        "tellen",
+        "Wonen en het huis",
+        "Ruimtes en bouwdelen"
       ],
       "type": "OVZ",
       "note": "Tel alleen duidelijk zichtbare voorwerpen. De spiegel kan dezelfde ruimte nogmaals tonen; tel spiegelbeelden niet dubbel.",
-      "source": "https://drive.google.com/file/d/1CCRPjoV4WXTMrzH99TWIwhShr-uX-I8h/view?usp=drivesdk",
+      "source": {
+        "driveFileId": "1CCRPjoV4WXTMrzH99TWIwhShr-uX-I8h",
+        "url": "https://drive.google.com/file/d/1CCRPjoV4WXTMrzH99TWIwhShr-uX-I8h/view?usp=drivesdk"
+      },
       "sourceName": "WB_BAV_037_badkamer_overzicht_01_OVZ_v02.png",
-      "version": 2
+      "version": 2,
+      "methodLinks": [
+        {
+          "lesson": "VS-L38",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "word": "badkamer",
+          "conceptId": "WB-AUD-0380"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-AUD-0380",
+          "word": "badkamer",
+          "group": "ruimtes"
+        }
+      ]
     },
     {
       "id": "bav-038",
@@ -830,20 +976,62 @@
         "het rolgordijn",
         "de wasmand",
         "de badmat",
-        "de handdoek"
+        "de handdoek",
+        "ligbad",
+        "bad"
       ],
       "uses": [
         "wonen",
         "inrichting",
         "voorwerpen benoemen",
         "plaats aangeven",
-        "vergelijken"
+        "vergelijken",
+        "Wonen en het huis",
+        "Inrichting"
       ],
       "type": "OVZ",
       "note": "Vergelijk met overzicht 1: benoem de verschillende voorwerpen en vertel waar ze staan. Bijvoorbeeld: het bad staat links, onder het raam.",
-      "source": "https://drive.google.com/drive/folders/1EWL-GS_2loVG-bBtTi2KLq7pbq3M26Bv",
+      "source": {
+        "driveFileId": "1L4LqcxZKOZdh_HXStLEVm7NpGdgZ8_Nm",
+        "url": "https://drive.google.com/file/d/1L4LqcxZKOZdh_HXStLEVm7NpGdgZ8_Nm/view?usp=drivesdk"
+      },
       "sourceName": "WB_BAV_038_badkamer_overzicht_02_OVZ_v02.png",
-      "version": 2
+      "version": 2,
+      "methodLinks": [
+        {
+          "lesson": "VS-L40",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "word": "ligbad",
+          "conceptId": "WB-AUD-0424"
+        },
+        {
+          "lesson": "VS-L41",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+          "word": "bad",
+          "conceptId": "WB-c457921422"
+        },
+        {
+          "lesson": "VS-L45",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-3-les-34",
+          "word": "bad",
+          "conceptId": "WB-c457921422"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-AUD-0424",
+          "word": "ligbad",
+          "group": "inrichting"
+        },
+        {
+          "id": "WB-c457921422",
+          "word": "bad",
+          "group": "inrichting"
+        }
+      ]
     },
     {
       "id": "bav-039",
@@ -1270,5 +1458,94 @@
     }
   ],
   "status": "Proefinhoud: beeldbeschrijvingen visueel gecontroleerd; oefenprofielen voorgesteld, nog niet didactisch gevalideerd.",
-  "methodLinks": []
+  "methodLinks": [
+    {
+      "lesson": "VS-L41",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+      "word": "spiegel",
+      "conceptId": "WB-AUD-0428",
+      "assetId": "bav-005"
+    },
+    {
+      "lesson": "VS-L40",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+      "word": "douche",
+      "conceptId": "WB-AUD-0415",
+      "assetId": "bav-006"
+    },
+    {
+      "lesson": "VS-L38",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+      "word": "wc",
+      "conceptId": "WB-AUD-0403",
+      "assetId": "bav-007"
+    },
+    {
+      "lesson": "VS-L40",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+      "word": "wastafel",
+      "conceptId": "WB-AUD-0434",
+      "assetId": "bav-008"
+    },
+    {
+      "lesson": "VS-L41",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+      "word": "wastafel",
+      "conceptId": "WB-AUD-0434",
+      "assetId": "bav-008"
+    },
+    {
+      "lesson": "VS-L42",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-42",
+      "word": "wastafel",
+      "conceptId": "WB-AUD-0434",
+      "assetId": "bav-008"
+    },
+    {
+      "lesson": "VS-L41",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+      "word": "kraan",
+      "conceptId": "WB-260328e560",
+      "assetId": "bav-009"
+    },
+    {
+      "lesson": "VS-L38",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+      "word": "badkamer",
+      "conceptId": "WB-AUD-0380",
+      "assetId": "bav-037"
+    },
+    {
+      "lesson": "VS-L40",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+      "word": "ligbad",
+      "conceptId": "WB-AUD-0424",
+      "assetId": "bav-038"
+    },
+    {
+      "lesson": "VS-L41",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-41",
+      "word": "bad",
+      "conceptId": "WB-c457921422",
+      "assetId": "bav-038"
+    },
+    {
+      "lesson": "VS-L45",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-3-les-34",
+      "word": "bad",
+      "conceptId": "WB-c457921422",
+      "assetId": "bav-038"
+    }
+  ]
 }

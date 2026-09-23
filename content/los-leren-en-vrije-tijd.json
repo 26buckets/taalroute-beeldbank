@@ -1,0 +1,1328 @@
+{
+  "collection": {
+    "id": "los-leren-en-vrije-tijd",
+    "title": "Losse illustraties",
+    "imageCount": 39,
+    "independentImages": 39,
+    "sequences": 0
+  },
+  "assets": [
+    {
+      "id": "los-TR-IDIOMS-P001-002-R0-p01",
+      "n": 10000,
+      "title": "bal",
+      "description": "Een losse illustratie van bal.",
+      "words": [
+        "bal"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_bal__TR-IDIOMS-P001-002-R0_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1U1HoXW3hT3SOtcH7wPUtRKQw6C9uNLhr",
+        "url": "https://drive.google.com/file/d/1U1HoXW3hT3SOtcH7wPUtRKQw6C9uNLhr/view?usp=drivesdk",
+        "rebusId": "TR-IDIOMS-P001-002-R0",
+        "cropBox": [
+          183,
+          44,
+          806,
+          670
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-TR-IDIOMS-P001-002-R0-p02",
+      "n": 10001,
+      "title": "pen",
+      "description": "Een losse illustratie van pen.",
+      "words": [
+        "pen"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_pen__TR-IDIOMS-P001-002-R0_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "11CgM3bSG3aPJQSe6dRrQAnVw69skL4xU",
+        "url": "https://drive.google.com/file/d/11CgM3bSG3aPJQSe6dRrQAnVw69skL4xU/view?usp=drivesdk",
+        "rebusId": "TR-IDIOMS-P001-002-R0",
+        "cropBox": [
+          1248,
+          44,
+          1985,
+          680
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-TR-REBUS-BRON01-12-p01",
+      "n": 10021,
+      "title": "ballen",
+      "description": "Een losse illustratie van ballen.",
+      "words": [
+        "ballen"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_ballen__TR-REBUS-BRON01-12_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "18J6KY-o2TxfGwBlz2Vii_ys1NDI3gp_g",
+        "url": "https://drive.google.com/file/d/18J6KY-o2TxfGwBlz2Vii_ys1NDI3gp_g/view?usp=drivesdk",
+        "rebusId": "TR-REBUS-BRON01-12",
+        "cropBox": [
+          81,
+          64,
+          655,
+          369
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-TR-REBUS-BRON01-16-p04",
+      "n": 10042,
+      "title": "pen",
+      "description": "Een losse illustratie van pen.",
+      "words": [
+        "pen"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_pen__TR-REBUS-BRON01-16_p04.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "16xFoV0VfC_TNDJKMcxe-fIn4fL3TiM1z",
+        "url": "https://drive.google.com/file/d/16xFoV0VfC_TNDJKMcxe-fIn4fL3TiM1z/view?usp=drivesdk",
+        "rebusId": "TR-REBUS-BRON01-16",
+        "cropBox": [
+          633,
+          530,
+          953,
+          847
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-TR-REBUS-BRON01-20-p01",
+      "n": 10062,
+      "title": "boog",
+      "description": "Een losse illustratie van boog.",
+      "words": [
+        "boog"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_boog__TR-REBUS-BRON01-20_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1MVTvds469NDZe_nlUS_TdVL6QxtcO5pP",
+        "url": "https://drive.google.com/file/d/1MVTvds469NDZe_nlUS_TdVL6QxtcO5pP/view?usp=drivesdk",
+        "rebusId": "TR-REBUS-BRON01-20",
+        "cropBox": [
+          459,
+          22,
+          644,
+          533
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-TR-REBUS-KORT-23-p02",
+      "n": 10078,
+      "title": "bal",
+      "description": "Een losse illustratie van bal.",
+      "words": [
+        "bal"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_bal__TR-REBUS-KORT-23_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "13T67kT7v3ElYYaUScxtpylLz8GBI203s",
+        "url": "https://drive.google.com/file/d/13T67kT7v3ElYYaUScxtpylLz8GBI203s/view?usp=drivesdk",
+        "rebusId": "TR-REBUS-KORT-23",
+        "cropBox": [
+          1150,
+          150,
+          1679,
+          694
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-TR-REBUS-KORT-33-p01",
+      "n": 10096,
+      "title": "pen",
+      "description": "Een losse illustratie van pen.",
+      "words": [
+        "pen"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_pen__TR-REBUS-KORT-33_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1KP7h_SuJVxgULMtFPWuIzpOGRFeLQRaF",
+        "url": "https://drive.google.com/file/d/1KP7h_SuJVxgULMtFPWuIzpOGRFeLQRaF/view?usp=drivesdk",
+        "rebusId": "TR-REBUS-KORT-33",
+        "cropBox": [
+          646,
+          90,
+          1143,
+          695
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-TR-REBUS-KORT-36-p01",
+      "n": 10100,
+      "title": "boek",
+      "description": "Een losse illustratie van boek.",
+      "words": [
+        "boek"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_boek__TR-REBUS-KORT-36_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1JIpGnJJ7GomJ0aVXNixJvEAJvcYZs-l2",
+        "url": "https://drive.google.com/file/d/1JIpGnJJ7GomJ0aVXNixJvEAJvcYZs-l2/view?usp=drivesdk",
+        "rebusId": "TR-REBUS-KORT-36",
+        "cropBox": [
+          140,
+          214,
+          809,
+          630
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-TR-REBUS-KORT-39-p02",
+      "n": 10107,
+      "title": "boek",
+      "description": "Een losse illustratie van boek.",
+      "words": [
+        "boek"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_boek__TR-REBUS-KORT-39_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1vj3dkKUY1evCB_ERYZIuA4SVi97pzNjT",
+        "url": "https://drive.google.com/file/d/1vj3dkKUY1evCB_ERYZIuA4SVi97pzNjT/view?usp=drivesdk",
+        "rebusId": "TR-REBUS-KORT-39",
+        "cropBox": [
+          1057,
+          201,
+          1695,
+          781
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-TR-REBUS-KORT-40-p02",
+      "n": 10109,
+      "title": "bal",
+      "description": "Een losse illustratie van bal.",
+      "words": [
+        "bal"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_bal__TR-REBUS-KORT-40_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1rD-kfPreeMgtUuUOYJoOn21q8xJ7hovO",
+        "url": "https://drive.google.com/file/d/1rD-kfPreeMgtUuUOYJoOn21q8xJ7hovO/view?usp=drivesdk",
+        "rebusId": "TR-REBUS-KORT-40",
+        "cropBox": [
+          681,
+          243,
+          1037,
+          618
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-TR-REBUS-KORT-40-p03",
+      "n": 10110,
+      "title": "veld",
+      "description": "Een losse illustratie van veld.",
+      "words": [
+        "veld"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_veld__TR-REBUS-KORT-40_p03.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1ql2sOF_pJ3DxQSkoXFmWJVbkc5pHrhxN",
+        "url": "https://drive.google.com/file/d/1ql2sOF_pJ3DxQSkoXFmWJVbkc5pHrhxN/view?usp=drivesdk",
+        "rebusId": "TR-REBUS-KORT-40",
+        "cropBox": [
+          1150,
+          299,
+          1752,
+          603
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A1-I06-p01",
+      "n": 10125,
+      "title": "school",
+      "description": "Een losse illustratie van school.",
+      "words": [
+        "school"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_school__N-A1-I06_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1F4l8beInpStiS6iibeAAiRbU_DR587LO",
+        "url": "https://drive.google.com/file/d/1F4l8beInpStiS6iibeAAiRbU_DR587LO/view?usp=drivesdk",
+        "rebusId": "N-A1-I06",
+        "cropBox": [
+          27,
+          236,
+          965,
+          700
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A1-I07-p01",
+      "n": 10127,
+      "title": "school",
+      "description": "Een losse illustratie van school.",
+      "words": [
+        "school"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_school__N-A1-I07_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1Jp4UBcdizfRkMP-cmew9TeLwjawntgub",
+        "url": "https://drive.google.com/file/d/1Jp4UBcdizfRkMP-cmew9TeLwjawntgub/view?usp=drivesdk",
+        "rebusId": "N-A1-I07",
+        "cropBox": [
+          22,
+          203,
+          852,
+          627
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A1-I07-p02",
+      "n": 10128,
+      "title": "boek",
+      "description": "Een losse illustratie van boek.",
+      "words": [
+        "boek"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_boek__N-A1-I07_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1i-uQtyvlPDpF_vKTV6_ifvlR1_fHSeb_",
+        "url": "https://drive.google.com/file/d/1i-uQtyvlPDpF_vKTV6_ifvlR1_fHSeb_/view?usp=drivesdk",
+        "rebusId": "N-A1-I07",
+        "cropBox": [
+          1100,
+          225,
+          1706,
+          684
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A1-U02-p01",
+      "n": 10177,
+      "title": "brief",
+      "description": "Een losse illustratie van brief.",
+      "words": [
+        "brief"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_brief__N-A1-U02_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1jWlI_nAanpHkMFoYoknHYs_sw97X2VkL",
+        "url": "https://drive.google.com/file/d/1jWlI_nAanpHkMFoYoknHYs_sw97X2VkL/view?usp=drivesdk",
+        "rebusId": "N-A1-U02",
+        "cropBox": [
+          61,
+          178,
+          635,
+          608
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A1-U05-p01",
+      "n": 10183,
+      "title": "boek",
+      "description": "Een losse illustratie van boek.",
+      "words": [
+        "boek"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_boek__N-A1-U05_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1jBDdyNvyFiqNr9DK_-ulB21TCZ854wPW",
+        "url": "https://drive.google.com/file/d/1jBDdyNvyFiqNr9DK_-ulB21TCZ854wPW/view?usp=drivesdk",
+        "rebusId": "N-A1-U05",
+        "cropBox": [
+          45,
+          236,
+          527,
+          625
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A1-U13-p02",
+      "n": 10200,
+      "title": "pop",
+      "description": "Een losse illustratie van pop.",
+      "words": [
+        "pop"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_pop__N-A1-U13_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "174_cUyatZi7OG9ROR9sBlt4xAK5dWStX",
+        "url": "https://drive.google.com/file/d/174_cUyatZi7OG9ROR9sBlt4xAK5dWStX/view?usp=drivesdk",
+        "rebusId": "N-A1-U13",
+        "cropBox": [
+          1084,
+          102,
+          1624,
+          711
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A1-U18-p01",
+      "n": 10209,
+      "title": "zwembad",
+      "description": "Een losse illustratie van zwembad.",
+      "words": [
+        "zwembad"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_zwembad__N-A1-U18_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1CXVFezSTKoOrCgp8UijIDp4_utoY_FW-",
+        "url": "https://drive.google.com/file/d/1CXVFezSTKoOrCgp8UijIDp4_utoY_FW-/view?usp=drivesdk",
+        "rebusId": "N-A1-U18",
+        "cropBox": [
+          60,
+          197,
+          957,
+          683
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A2-I14-p02",
+      "n": 10242,
+      "title": "trommel",
+      "description": "Een losse illustratie van trommel.",
+      "words": [
+        "trommel"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_trommel__N-A2-I14_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1cYlyWSh904a5upbaWe81FlqL4DWm0kcy",
+        "url": "https://drive.google.com/file/d/1cYlyWSh904a5upbaWe81FlqL4DWm0kcy/view?usp=drivesdk",
+        "rebusId": "N-A2-I14",
+        "cropBox": [
+          1084,
+          160,
+          1718,
+          698
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A2-I15-p02",
+      "n": 10244,
+      "title": "trommel",
+      "description": "Een losse illustratie van trommel.",
+      "words": [
+        "trommel"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_trommel__N-A2-I15_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1kYmg9MP8JVvnsTGiMy1oHwk-KM5PMNYn",
+        "url": "https://drive.google.com/file/d/1kYmg9MP8JVvnsTGiMy1oHwk-KM5PMNYn/view?usp=drivesdk",
+        "rebusId": "N-A2-I15",
+        "cropBox": [
+          1065,
+          108,
+          1738,
+          747
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A2-V04-p01",
+      "n": 10261,
+      "title": "koor",
+      "description": "Een losse illustratie van koor.",
+      "words": [
+        "koor"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_koor__N-A2-V04_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1Bu7jzPJntfIfMWwP9tGQvhB1JDJn56TQ",
+        "url": "https://drive.google.com/file/d/1Bu7jzPJntfIfMWwP9tGQvhB1JDJn56TQ/view?usp=drivesdk",
+        "rebusId": "N-A2-V04",
+        "cropBox": [
+          44,
+          117,
+          836,
+          634
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A2-V04-p02",
+      "n": 10262,
+      "title": "boek",
+      "description": "Een losse illustratie van boek.",
+      "words": [
+        "boek"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_boek__N-A2-V04_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1Mm35K8xKxUbU7zU8KC53oSsBapUIUrwE",
+        "url": "https://drive.google.com/file/d/1Mm35K8xKxUbU7zU8KC53oSsBapUIUrwE/view?usp=drivesdk",
+        "rebusId": "N-A2-V04",
+        "cropBox": [
+          1022,
+          256,
+          1741,
+          639
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A2-V05-p01",
+      "n": 10263,
+      "title": "koor",
+      "description": "Een losse illustratie van koor.",
+      "words": [
+        "koor"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_koor__N-A2-V05_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1kbDEyQNr9-wV94eW-ZtZ6N391AIlOu9J",
+        "url": "https://drive.google.com/file/d/1kbDEyQNr9-wV94eW-ZtZ6N391AIlOu9J/view?usp=drivesdk",
+        "rebusId": "N-A2-V05",
+        "cropBox": [
+          83,
+          105,
+          762,
+          666
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A2-V06-p01",
+      "n": 10265,
+      "title": "speer",
+      "description": "Een losse illustratie van speer.",
+      "words": [
+        "speer"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_speer__N-A2-V06_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1Em3lRde4yxavtSJW90Tt1rnlBRVpgBn-",
+        "url": "https://drive.google.com/file/d/1Em3lRde4yxavtSJW90Tt1rnlBRVpgBn-/view?usp=drivesdk",
+        "rebusId": "N-A2-V06",
+        "cropBox": [
+          66,
+          54,
+          868,
+          704
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A2-V20-p01",
+      "n": 10294,
+      "title": "feest",
+      "description": "Een losse illustratie van feest.",
+      "words": [
+        "feest"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_feest__N-A2-V20_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1I0ZjVPIU4EvyeLs5Bz4zkVqJaAyb0NAt",
+        "url": "https://drive.google.com/file/d/1I0ZjVPIU4EvyeLs5Bz4zkVqJaAyb0NAt/view?usp=drivesdk",
+        "rebusId": "N-A2-V20",
+        "cropBox": [
+          63,
+          85,
+          924,
+          736
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A2-U13-p01",
+      "n": 10319,
+      "title": "boek",
+      "description": "Een losse illustratie van boek.",
+      "words": [
+        "boek"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_boek__N-A2-U13_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1MD1BwOY1SX_xuT968f4-fBT0Z9Vpkq2I",
+        "url": "https://drive.google.com/file/d/1MD1BwOY1SX_xuT968f4-fBT0Z9Vpkq2I/view?usp=drivesdk",
+        "rebusId": "N-A2-U13",
+        "cropBox": [
+          360,
+          246,
+          803,
+          596
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B1-I16-p01",
+      "n": 10367,
+      "title": "papier",
+      "description": "Een losse illustratie van papier.",
+      "words": [
+        "papier",
+        "knippen"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie",
+        "Wonen en het huis",
+        "Wonen regelen en doen"
+      ],
+      "type": "OBJ",
+      "note": "Gebruik het papier als taalsteun: Zij knipt het papier. Het papier wordt door haar geknipt. De illustratie toont alleen papier; de handeling komt uit de opdracht.",
+      "sourceName": "WB_LOS_papier__N-B1-I16_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "13Axv4cMVh4Lgsd87fYXBpR3v41OVnNaI",
+        "url": "https://drive.google.com/file/d/13Axv4cMVh4Lgsd87fYXBpR3v41OVnNaI/view?usp=drivesdk",
+        "rebusId": "N-B1-I16",
+        "cropBox": [
+          71,
+          207,
+          774,
+          682
+        ]
+      },
+      "methodLinks": [
+        {
+          "lesson": "IN-L47",
+          "route": "Inzicht",
+          "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-4-les-46",
+          "word": "knippen",
+          "conceptId": "WB-AUD-0513"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-AUD-0513",
+          "word": "knippen",
+          "group": "wonen-regelen",
+          "note": "Gebruik het papier als taalsteun: Zij knipt het papier. Het papier wordt door haar geknipt. De illustratie toont alleen papier; de handeling komt uit de opdracht."
+        }
+      ]
+    },
+    {
+      "id": "los-N-B1-V07-p02",
+      "n": 10388,
+      "title": "strook",
+      "description": "Een losse illustratie van strook.",
+      "words": [
+        "strook"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_strook__N-B1-V07_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1kjDz8V6ewscmqXmGVCfPTk18LyrEjVzW",
+        "url": "https://drive.google.com/file/d/1kjDz8V6ewscmqXmGVCfPTk18LyrEjVzW/view?usp=drivesdk",
+        "rebusId": "N-B1-V07",
+        "cropBox": [
+          1052,
+          221,
+          1710,
+          639
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B1-V08-p01",
+      "n": 10389,
+      "title": "speer",
+      "description": "Een losse illustratie van speer.",
+      "words": [
+        "speer"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_speer__N-B1-V08_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1Zesf6DkPDSaUJM2jJjs1GU3BYGPyM3xB",
+        "url": "https://drive.google.com/file/d/1Zesf6DkPDSaUJM2jJjs1GU3BYGPyM3xB/view?usp=drivesdk",
+        "rebusId": "N-B1-V08",
+        "cropBox": [
+          109,
+          68,
+          574,
+          673
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B1-U14-p02",
+      "n": 10435,
+      "title": "reus",
+      "description": "Een losse illustratie van reus.",
+      "words": [
+        "reus"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_reus__N-B1-U14_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1Q9YcqWMs7Uxwm6vv_J2qUPjTxjqrp4zX",
+        "url": "https://drive.google.com/file/d/1Q9YcqWMs7Uxwm6vv_J2qUPjTxjqrp4zX/view?usp=drivesdk",
+        "rebusId": "N-B1-U14",
+        "cropBox": [
+          1021,
+          135,
+          1321,
+          661
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B1-U19-p02",
+      "n": 10444,
+      "title": "reus",
+      "description": "Een losse illustratie van reus.",
+      "words": [
+        "reus"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_reus__N-B1-U19_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1M7Mvhdub4WCDQxrxhLxKgJL6lTRDi5sN",
+        "url": "https://drive.google.com/file/d/1M7Mvhdub4WCDQxrxhLxKgJL6lTRDi5sN/view?usp=drivesdk",
+        "rebusId": "N-B1-U19",
+        "cropBox": [
+          885,
+          68,
+          1274,
+          683
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B1-U20-p01",
+      "n": 10445,
+      "title": "fluit",
+      "description": "Een losse illustratie van fluit.",
+      "words": [
+        "fluit"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_fluit__N-B1-U20_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1jhIV0CYKgk0U7SveLkrn0zpSEgQD6LP1",
+        "url": "https://drive.google.com/file/d/1jhIV0CYKgk0U7SveLkrn0zpSEgQD6LP1/view?usp=drivesdk",
+        "rebusId": "N-B1-U20",
+        "cropBox": [
+          591,
+          221,
+          1087,
+          555
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-I04-p02",
+      "n": 10454,
+      "title": "veld",
+      "description": "Een losse illustratie van veld.",
+      "words": [
+        "veld"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_veld__N-B2-I04_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1JUdVK2dfzpATa7vXU_Sxd64L_K8EaOO3",
+        "url": "https://drive.google.com/file/d/1JUdVK2dfzpATa7vXU_Sxd64L_K8EaOO3/view?usp=drivesdk",
+        "rebusId": "N-B2-I04",
+        "cropBox": [
+          971,
+          188,
+          1736,
+          697
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-V01-p02",
+      "n": 10488,
+      "title": "pop",
+      "description": "Een losse illustratie van pop.",
+      "words": [
+        "pop"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_pop__N-B2-V01_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1-Y6Vk3z_-zBBK47DvccIIaY0Jtktp6SN",
+        "url": "https://drive.google.com/file/d/1-Y6Vk3z_-zBBK47DvccIIaY0Jtktp6SN/view?usp=drivesdk",
+        "rebusId": "N-B2-V01",
+        "cropBox": [
+          1078,
+          212,
+          1427,
+          626
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-V06-p01",
+      "n": 10498,
+      "title": "vlag",
+      "description": "Een losse illustratie van vlag.",
+      "words": [
+        "vlag"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_vlag__N-B2-V06_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1qxBwV-QX-vFXteeRSQMPAWEi_hpVPmM9",
+        "url": "https://drive.google.com/file/d/1qxBwV-QX-vFXteeRSQMPAWEi_hpVPmM9/view?usp=drivesdk",
+        "rebusId": "N-B2-V06",
+        "cropBox": [
+          334,
+          239,
+          625,
+          596
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-V07-p01",
+      "n": 10500,
+      "title": "bal",
+      "description": "Een losse illustratie van bal.",
+      "words": [
+        "bal"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_bal__N-B2-V07_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "188PWQewSnJJ0R_aQzJfbZD6dutRFO-vR",
+        "url": "https://drive.google.com/file/d/188PWQewSnJJ0R_aQzJfbZD6dutRFO-vR/view?usp=drivesdk",
+        "rebusId": "N-B2-V07",
+        "cropBox": [
+          428,
+          283,
+          725,
+          559
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-V11-p01",
+      "n": 10510,
+      "title": "bal",
+      "description": "Een losse illustratie van bal.",
+      "words": [
+        "bal"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_bal__N-B2-V11_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1ijXdf34I2d_gGOv2v-q3U3Tos28Uc5cV",
+        "url": "https://drive.google.com/file/d/1ijXdf34I2d_gGOv2v-q3U3Tos28Uc5cV/view?usp=drivesdk",
+        "rebusId": "N-B2-V11",
+        "cropBox": [
+          360,
+          281,
+          659,
+          597
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-U08-p01",
+      "n": 10543,
+      "title": "zwaard",
+      "description": "Een losse illustratie van zwaard.",
+      "words": [
+        "zwaard"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_zwaard__N-B2-U08_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1JssIqHYo0X_f5hhxjUA9C2J9mjTN7cgG",
+        "url": "https://drive.google.com/file/d/1JssIqHYo0X_f5hhxjUA9C2J9mjTN7cgG/view?usp=drivesdk",
+        "rebusId": "N-B2-U08",
+        "cropBox": [
+          273,
+          191,
+          631,
+          651
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-U12-p01",
+      "n": 10551,
+      "title": "vlag",
+      "description": "Een losse illustratie van vlag.",
+      "words": [
+        "vlag"
+      ],
+      "uses": [
+        "Leren en vrije tijd",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_vlag__N-B2-U12_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1IX9I9VKobwkuc4mIFbqI38ICNKhUCDv5",
+        "url": "https://drive.google.com/file/d/1IX9I9VKobwkuc4mIFbqI38ICNKhUCDv5/view?usp=drivesdk",
+        "rebusId": "N-B2-U12",
+        "cropBox": [
+          330,
+          206,
+          664,
+          587
+        ]
+      },
+      "methodLinks": []
+    }
+  ],
+  "sequences": [],
+  "methodLinks": [
+    {
+      "lesson": "IN-L47",
+      "route": "Inzicht",
+      "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-4-les-46",
+      "word": "knippen",
+      "conceptId": "WB-AUD-0513",
+      "assetId": "los-N-B1-I16-p01"
+    }
+  ]
+}

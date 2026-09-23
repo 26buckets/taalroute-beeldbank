@@ -1,0 +1,279 @@
+{
+  "collection": {
+    "id": "wonen-buitenruimtes",
+    "title": "Buitenruimtes",
+    "imageCount": 3,
+    "independentImages": 3,
+    "sequences": 0
+  },
+  "assets": [
+    {
+      "id": "won-006",
+      "n": 3006,
+      "title": "achtertuin",
+      "description": "Achtertuin gezien door twee openslaande deuren.",
+      "words": [
+        "achtertuin",
+        "openslaande deuren",
+        "tuin"
+      ],
+      "uses": [
+        "Wonen en het huis",
+        "Natuur",
+        "foto",
+        "Buitenruimtes",
+        "Ruimtes en bouwdelen"
+      ],
+      "type": "OVZ",
+      "note": "Achtertuin gezien door twee openslaande deuren. Vier stoelen en twee plantenbakken vooraan goed telbaar; schuur achterin.",
+      "sourceName": "WB_WON_006_achtertuin_overzicht_OVZ_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1BlAIUEbTLHx_F4fFxG3wP_hD9VA-EjfK",
+        "url": "https://drive.google.com/file/d/1BlAIUEbTLHx_F4fFxG3wP_hD9VA-EjfK/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "VS-L40",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "word": "achtertuin",
+          "conceptId": "WB-AUD-0379"
+        },
+        {
+          "lesson": "VS-L40",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "word": "openslaande deuren",
+          "conceptId": "WB-AUD-0394"
+        },
+        {
+          "lesson": "VS-L37",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+          "word": "tuin",
+          "conceptId": "WB-AUD-0399"
+        },
+        {
+          "lesson": "VS-L38",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "word": "tuin",
+          "conceptId": "WB-AUD-0399"
+        },
+        {
+          "lesson": "IN-L10",
+          "route": "Inzicht",
+          "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-1-les-10",
+          "word": "tuin",
+          "conceptId": "WB-AUD-0399"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-AUD-0379",
+          "word": "achtertuin",
+          "group": "buitenruimtes"
+        },
+        {
+          "id": "WB-AUD-0394",
+          "word": "openslaande deuren",
+          "group": "ruimtes"
+        },
+        {
+          "id": "WB-AUD-0399",
+          "word": "tuin",
+          "group": "buitenruimtes"
+        }
+      ]
+    },
+    {
+      "id": "won-007",
+      "n": 3007,
+      "title": "moestuin",
+      "description": "Twee teeltvakken, herkenbare sla en tomaten; moestuin duidelijk onderscheiden van siertuin.",
+      "words": [
+        "moestuin"
+      ],
+      "uses": [
+        "Wonen en het huis",
+        "Koken",
+        "Natuur",
+        "foto",
+        "Buitenruimtes"
+      ],
+      "type": "OVZ",
+      "note": "Twee teeltvakken, herkenbare sla en tomaten; moestuin duidelijk onderscheiden van siertuin. Wortels alleen als loof zichtbaar, niet als los wortelbeeld.",
+      "sourceName": "WB_WON_007_moestuin_overzicht_OVZ_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1aTjKBKX3-ijUQHo1bWyT2ZToDAQpaXso",
+        "url": "https://drive.google.com/file/d/1aTjKBKX3-ijUQHo1bWyT2ZToDAQpaXso/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "VS-L37",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+          "word": "moestuin",
+          "conceptId": "WB-AUD-0393"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-AUD-0393",
+          "word": "moestuin",
+          "group": "buitenruimtes"
+        }
+      ]
+    },
+    {
+      "id": "won-008",
+      "n": 3008,
+      "title": "balkon",
+      "description": "Balkon met twee stoelen, hekwerk en zicht op straat beneden.",
+      "words": [
+        "balkon",
+        "uitzicht",
+        "voorzien van"
+      ],
+      "uses": [
+        "Wonen en het huis",
+        "foto",
+        "Buitenruimtes",
+        "Wonen regelen en doen"
+      ],
+      "type": "OVZ",
+      "note": "Balkon met twee stoelen, hekwerk en zicht op straat beneden. Verdiepingsnummer niet uit foto afleiden; plantenpot op tafel is extra naast twee potten op vloer.",
+      "sourceName": "WB_WON_008_balkon_overzicht_OVZ_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1nWnVphi4mbvLJBtcRQbW_OauS3_KjsUK",
+        "url": "https://drive.google.com/file/d/1nWnVphi4mbvLJBtcRQbW_OauS3_KjsUK/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "VS-L38",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "word": "balkon",
+          "conceptId": "WB-AUD-0381"
+        },
+        {
+          "lesson": "VS-L37",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+          "word": "uitzicht",
+          "conceptId": "WB-AUD-0400"
+        },
+        {
+          "lesson": "VS-L40",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "word": "voorzien van",
+          "conceptId": "WB-5236a75831"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-AUD-0381",
+          "word": "balkon",
+          "group": "buitenruimtes"
+        },
+        {
+          "id": "WB-AUD-0400",
+          "word": "uitzicht",
+          "group": "buitenruimtes"
+        },
+        {
+          "id": "WB-5236a75831",
+          "word": "voorzien van",
+          "group": "wonen-regelen",
+          "exercise": {
+            "instruction": "Beschrijf waarmee de bijkeuken of het balkon is voorzien. Gebruik de vaste combinatie voorzien van.",
+            "example_answer": "De bijkeuken is voorzien van een wasmachine en een droger.",
+            "note": "Taalvorm bij zichtbare objecten; geen eigen beeld nodig."
+          }
+        }
+      ]
+    }
+  ],
+  "sequences": [],
+  "methodLinks": [
+    {
+      "lesson": "VS-L40",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+      "word": "achtertuin",
+      "conceptId": "WB-AUD-0379",
+      "assetId": "won-006"
+    },
+    {
+      "lesson": "VS-L40",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+      "word": "openslaande deuren",
+      "conceptId": "WB-AUD-0394",
+      "assetId": "won-006"
+    },
+    {
+      "lesson": "VS-L37",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+      "word": "tuin",
+      "conceptId": "WB-AUD-0399",
+      "assetId": "won-006"
+    },
+    {
+      "lesson": "VS-L38",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+      "word": "tuin",
+      "conceptId": "WB-AUD-0399",
+      "assetId": "won-006"
+    },
+    {
+      "lesson": "IN-L10",
+      "route": "Inzicht",
+      "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-1-les-10",
+      "word": "tuin",
+      "conceptId": "WB-AUD-0399",
+      "assetId": "won-006"
+    },
+    {
+      "lesson": "VS-L37",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+      "word": "moestuin",
+      "conceptId": "WB-AUD-0393",
+      "assetId": "won-007"
+    },
+    {
+      "lesson": "VS-L38",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+      "word": "balkon",
+      "conceptId": "WB-AUD-0381",
+      "assetId": "won-008"
+    },
+    {
+      "lesson": "VS-L37",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+      "word": "uitzicht",
+      "conceptId": "WB-AUD-0400",
+      "assetId": "won-008"
+    },
+    {
+      "lesson": "VS-L40",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+      "word": "voorzien van",
+      "conceptId": "WB-5236a75831",
+      "assetId": "won-008"
+    }
+  ]
+}

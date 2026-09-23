@@ -1,0 +1,1143 @@
+{
+  "collection": {
+    "id": "wonen-ruimtes",
+    "title": "Ruimtes en bouwdelen",
+    "imageCount": 13,
+    "independentImages": 13,
+    "sequences": 0
+  },
+  "assets": [
+    {
+      "id": "won-001",
+      "n": 3001,
+      "title": "studeerkamer",
+      "description": "Bureau, stoel, laptop, printer, boeken en deur herkenbaar.",
+      "words": [
+        "studeerkamer",
+        "werkkamer",
+        "ruimte",
+        "verlichting",
+        "modern ingericht",
+        "sfeervol"
+      ],
+      "uses": [
+        "Wonen en het huis",
+        "Werk/leren",
+        "foto",
+        "Ruimtes en bouwdelen",
+        "Inrichting"
+      ],
+      "type": "OVZ",
+      "note": "Bureau, stoel, laptop, printer, boeken en deur herkenbaar. Twee boeken naast laptop; natuurlijke serie-aansluiting.",
+      "sourceName": "WB_WON_001_studeerkamer_overzicht_OVZ_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1w5j7C4HeuIvKwk3ySgaPYbQ7vNHhnv0e",
+        "url": "https://drive.google.com/file/d/1w5j7C4HeuIvKwk3ySgaPYbQ7vNHhnv0e/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "VS-L40",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "word": "werkkamer",
+          "conceptId": "WB-AUD-0404"
+        },
+        {
+          "lesson": "IN-L10",
+          "route": "Inzicht",
+          "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-1-les-10",
+          "word": "ruimte",
+          "conceptId": "WB-AUD-0408"
+        },
+        {
+          "lesson": "VS-L40",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "word": "verlichting",
+          "conceptId": "WB-AUD-0433"
+        },
+        {
+          "lesson": "FI-L11",
+          "route": "De Finale",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+          "word": "modern ingericht",
+          "conceptId": "WB-AUD-0439"
+        },
+        {
+          "lesson": "FI-L11",
+          "route": "De Finale",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+          "word": "sfeervol",
+          "conceptId": "WB-AUD-0441"
+        },
+        {
+          "lesson": "VS-L38",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "word": "studeerkamer",
+          "conceptId": "WB-d49b37983f"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-AUD-0404",
+          "word": "werkkamer",
+          "group": "ruimtes"
+        },
+        {
+          "id": "WB-AUD-0408",
+          "word": "ruimte",
+          "group": "ruimtes",
+          "exercise": {
+            "instruction": "Wijs in het beeld een ruimte aan. Welke activiteiten kun je daar doen? Bespreek ook het verschil tussen een kamer en beschikbare ruimte.",
+            "example_answer": "Dit is een studeerkamer. Er is ruimte om te werken.",
+            "note": "Betekenis kamer versus beschikbare plek expliciet kiezen bij de bronles."
+          }
+        },
+        {
+          "id": "WB-AUD-0433",
+          "word": "verlichting",
+          "group": "inrichting",
+          "exercise": {
+            "instruction": "Wijs de verlichting aan. Welke lamp staat op het bureau en welke hangt boven de tafel?",
+            "example_answer": "De bureaulamp staat op het bureau. De hanglamp hangt boven de tafel.",
+            "note": "Verlichting is een verzamelbegrip; aanwezige lampen zijn rechtstreeks zichtbaar."
+          }
+        },
+        {
+          "id": "WB-AUD-0439",
+          "word": "modern ingericht",
+          "group": "inrichting",
+          "exercise": {
+            "instruction": "Beschrijf de inrichting. Welke meubels of apparaten vind jij modern? Leg uit waarom.",
+            "example_answer": "De studio is modern ingericht met een compacte keuken en eenvoudige meubels.",
+            "note": "Modern is contextafhankelijk; modelzin is een mogelijke beschrijving."
+          }
+        },
+        {
+          "id": "WB-AUD-0441",
+          "word": "sfeervol",
+          "group": "inrichting",
+          "exercise": {
+            "instruction": "Welke ruimte vind jij sfeervol? Noem twee details die bijdragen aan die sfeer.",
+            "example_answer": "Ik vind de studeerkamer sfeervol door het hout en de planten.",
+            "note": "Subjectieve beoordeling: meerdere antwoorden goed."
+          }
+        },
+        {
+          "id": "WB-d49b37983f",
+          "word": "studeerkamer",
+          "group": "ruimtes"
+        }
+      ]
+    },
+    {
+      "id": "won-002",
+      "n": 3002,
+      "title": "kelder",
+      "description": "Kelderligging zichtbaar door hoge ramen met grond erbuiten en trap naar boven.",
+      "words": [
+        "kelder",
+        "trap"
+      ],
+      "uses": [
+        "Wonen en het huis",
+        "foto",
+        "Ruimtes en bouwdelen"
+      ],
+      "type": "OVZ",
+      "note": "Kelderligging zichtbaar door hoge ramen met grond erbuiten en trap naar boven. Twee voorraadpotten en krat herkenbaar; voldoende detail.",
+      "sourceName": "WB_WON_002_kelder_overzicht_OVZ_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1MQPScBsIC078Tv6WMwAgshBqWg6SvBr7",
+        "url": "https://drive.google.com/file/d/1MQPScBsIC078Tv6WMwAgshBqWg6SvBr7/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "VS-L38",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "word": "trap",
+          "conceptId": "WB-AUD-0398"
+        },
+        {
+          "lesson": "VS-L40",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "word": "trap",
+          "conceptId": "WB-AUD-0398"
+        },
+        {
+          "lesson": "VS-L38",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "word": "kelder",
+          "conceptId": "WB-57f5b6c015"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-AUD-0398",
+          "word": "trap",
+          "group": "ruimtes"
+        },
+        {
+          "id": "WB-57f5b6c015",
+          "word": "kelder",
+          "group": "ruimtes"
+        }
+      ]
+    },
+    {
+      "id": "won-003",
+      "n": 3003,
+      "title": "zolder",
+      "description": "Schuin dak, balken, dakraam en omheinde trapopening maken zolder herkenbaar.",
+      "words": [
+        "zolder"
+      ],
+      "uses": [
+        "Wonen en het huis",
+        "foto",
+        "Ruimtes en bouwdelen"
+      ],
+      "type": "OVZ",
+      "note": "Schuin dak, balken, dakraam en omheinde trapopening maken zolder herkenbaar. Twee dozen op rek, één ernaast; geen kelderverwarring.",
+      "sourceName": "WB_WON_003_zolder_overzicht_OVZ_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1Y7abgtsGMKP0vF4jnMmOkXNmSgeHPWBT",
+        "url": "https://drive.google.com/file/d/1Y7abgtsGMKP0vF4jnMmOkXNmSgeHPWBT/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "VS-L37",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+          "word": "zolder",
+          "conceptId": "WB-AUD-0406"
+        },
+        {
+          "lesson": "VS-L38",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "word": "zolder",
+          "conceptId": "WB-AUD-0406"
+        },
+        {
+          "lesson": "VS-L40",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "word": "zolder",
+          "conceptId": "WB-AUD-0406"
+        },
+        {
+          "lesson": "VS-L42",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-42",
+          "word": "zolder",
+          "conceptId": "WB-AUD-0406"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-AUD-0406",
+          "word": "zolder",
+          "group": "ruimtes"
+        }
+      ]
+    },
+    {
+      "id": "won-004",
+      "n": 3004,
+      "title": "schuur",
+      "description": "Losse houten tuinschuur duidelijk, fiets en tuinspullen herkenbaar; bruikbaar als schuur/berging, niet als autogarage..",
+      "words": [
+        "schuur",
+        "berging"
+      ],
+      "uses": [
+        "Wonen en het huis",
+        "foto",
+        "Ruimtes en bouwdelen"
+      ],
+      "type": "OVZ",
+      "note": "Losse houten tuinschuur duidelijk, fiets en tuinspullen herkenbaar; bruikbaar als schuur/berging, niet als autogarage.",
+      "sourceName": "WB_WON_004_schuur_overzicht_OVZ_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1UfcwN8tPSYcFDAhPzTqSsyGU6029DUOk",
+        "url": "https://drive.google.com/file/d/1UfcwN8tPSYcFDAhPzTqSsyGU6029DUOk/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "VS-L38",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "word": "schuur",
+          "conceptId": "WB-AUD-0396"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-AUD-0396",
+          "word": "schuur",
+          "group": "ruimtes"
+        },
+        {
+          "id": "WB-a2d54bc3bf",
+          "word": "berging",
+          "group": "ruimtes"
+        }
+      ]
+    },
+    {
+      "id": "won-005",
+      "n": 3005,
+      "title": "garage",
+      "description": "Woonhuis en aangebouwde garage samen zichtbaar; auto past binnen, fiets ernaast.",
+      "words": [
+        "garage"
+      ],
+      "uses": [
+        "Wonen en het huis",
+        "foto",
+        "Ruimtes en bouwdelen"
+      ],
+      "type": "OVZ",
+      "note": "Woonhuis en aangebouwde garage samen zichtbaar; auto past binnen, fiets ernaast. Geen autobedrijf. Kenteken is niet leesbaar; niet gebruiken voor kentekenonderwijs.",
+      "sourceName": "WB_WON_005_garage_overzicht_OVZ_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1Grkyi3kpXpX7sQQo5zvvxykahxQ0KHQl",
+        "url": "https://drive.google.com/file/d/1Grkyi3kpXpX7sQQo5zvvxykahxQ0KHQl/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "VS-L37",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+          "word": "garage",
+          "conceptId": "WB-AUD-0387"
+        },
+        {
+          "lesson": "VS-L38",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "word": "garage",
+          "conceptId": "WB-AUD-0387"
+        },
+        {
+          "lesson": "VS-L42",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-42",
+          "word": "garage",
+          "conceptId": "WB-AUD-0387"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-AUD-0387",
+          "word": "garage",
+          "group": "ruimtes"
+        }
+      ]
+    },
+    {
+      "id": "won-014",
+      "n": 3014,
+      "title": "bijkeuken",
+      "description": "Bijkeuken met zichtbare doorgang naar keuken, wasmachine links en droger rechts, wasmand en achterdeur.",
+      "words": [
+        "bijkeuken",
+        "apparatuur",
+        "voorzien van",
+        "ruim"
+      ],
+      "uses": [
+        "Wonen en het huis",
+        "Kleding",
+        "foto",
+        "Inrichting",
+        "Wonen regelen en doen",
+        "Ruimtes en bouwdelen"
+      ],
+      "type": "OVZ",
+      "note": "Bijkeuken met zichtbare doorgang naar keuken, wasmachine links en droger rechts, wasmand en achterdeur. Gebruik van apparaten wordt niet door deze lege ruimtefoto getoond.",
+      "sourceName": "WB_WON_014_bijkeuken_overzicht_OVZ_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1VMw3Qc79oqRFNf7aNrHzkilMxX0QTWho",
+        "url": "https://drive.google.com/file/d/1VMw3Qc79oqRFNf7aNrHzkilMxX0QTWho/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "VS-L40",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "word": "apparatuur",
+          "conceptId": "WB-AUD-0412"
+        },
+        {
+          "lesson": "VS-L40",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "word": "voorzien van",
+          "conceptId": "WB-5236a75831"
+        },
+        {
+          "lesson": "VS-L40",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "word": "ruim",
+          "conceptId": "WB-e0b477dd87"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-AUD-0412",
+          "word": "apparatuur",
+          "group": "inrichting"
+        },
+        {
+          "id": "WB-5236a75831",
+          "word": "voorzien van",
+          "group": "wonen-regelen",
+          "exercise": {
+            "instruction": "Beschrijf waarmee de bijkeuken of het balkon is voorzien. Gebruik de vaste combinatie voorzien van.",
+            "example_answer": "De bijkeuken is voorzien van een wasmachine en een droger.",
+            "note": "Taalvorm bij zichtbare objecten; geen eigen beeld nodig."
+          }
+        },
+        {
+          "id": "WB-e0b477dd87",
+          "word": "ruim",
+          "group": "wonen-regelen",
+          "exercise": {
+            "instruction": "Vergelijk de beschikbare loopruimte. Welke ruimte oogt ruimer en waarom?",
+            "example_answer": "De studio oogt ruim doordat er veel vrije vloer is.",
+            "note": "Oordeel op foto is relatief; geen werkelijke afmetingen claimen."
+          }
+        },
+        {
+          "id": "WB-b6afa2c1a9",
+          "word": "bijkeuken",
+          "group": "ruimtes"
+        }
+      ]
+    },
+    {
+      "id": "won-015",
+      "n": 3015,
+      "title": "overloop",
+      "description": "Overloop met drie deuropeningen en trap omlaag, balustrade logisch.",
+      "words": [
+        "overloop",
+        "verdieping",
+        "etage"
+      ],
+      "uses": [
+        "Wonen en het huis",
+        "foto",
+        "Ruimtes en bouwdelen"
+      ],
+      "type": "OVZ",
+      "note": "Overloop met drie deuropeningen en trap omlaag, balustrade logisch. Etage als contextbegrip; exacte eerste/tweede verdieping niet zichtbaar zonder plattegrond.",
+      "sourceName": "WB_WON_015_overloop_overzicht_OVZ_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1Cs2OY2DZdApGbN90_jYC3ZrSeq9rxOoI",
+        "url": "https://drive.google.com/file/d/1Cs2OY2DZdApGbN90_jYC3ZrSeq9rxOoI/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "VS-L23",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-2-les-23",
+          "word": "verdieping",
+          "conceptId": "WB-AUD-0401"
+        },
+        {
+          "lesson": "VS-L37",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+          "word": "verdieping",
+          "conceptId": "WB-AUD-0401"
+        },
+        {
+          "lesson": "VS-L38",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "word": "verdieping",
+          "conceptId": "WB-AUD-0401"
+        },
+        {
+          "lesson": "FI-L11",
+          "route": "De Finale",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+          "word": "etage",
+          "conceptId": "WB-AUD-0409"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-AUD-0401",
+          "word": "verdieping",
+          "group": "ruimtes"
+        },
+        {
+          "id": "WB-AUD-0409",
+          "word": "etage",
+          "group": "ruimtes"
+        },
+        {
+          "id": "WB-4d18ed2b54",
+          "word": "overloop",
+          "group": "ruimtes"
+        }
+      ]
+    },
+    {
+      "id": "won-017",
+      "n": 3017,
+      "title": "huisdoorsnede",
+      "description": "Didactische fotorealistische doorsnede, geen foto van een bestaand pand.",
+      "words": [
+        "begane grond",
+        "eerste etage",
+        "eerste verdieping",
+        "tweede verdieping"
+      ],
+      "uses": [
+        "Wonen en het huis",
+        "foto",
+        "Ruimtes en bouwdelen"
+      ],
+      "type": "OVZ",
+      "note": "Didactische fotorealistische doorsnede, geen foto van een bestaand pand. Vier niveaus: kelder onder maaiveld, begane grond, eerste verdieping, zolder als tweede verdieping. Geen plattegrond; met aanwijsoefening gebruiken.",
+      "sourceName": "WB_WON_017_huisdoorsnede_overzicht_OVZ_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1CuYMwQrrZ9mjdjSk3nSakxc0fEfTtnQS",
+        "url": "https://drive.google.com/file/d/1CuYMwQrrZ9mjdjSk3nSakxc0fEfTtnQS/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "VS-L22",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-2-les-22-week-8",
+          "word": "begane grond",
+          "conceptId": "WB-AUD-0382"
+        },
+        {
+          "lesson": "VS-L38",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "word": "begane grond",
+          "conceptId": "WB-AUD-0382"
+        },
+        {
+          "lesson": "FI-L11",
+          "route": "De Finale",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+          "word": "begane grond",
+          "conceptId": "WB-AUD-0382"
+        },
+        {
+          "lesson": "VS-L22",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-2-les-22-week-8",
+          "word": "eerste etage",
+          "conceptId": "WB-AUD-0386"
+        },
+        {
+          "lesson": "VS-L38",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "word": "eerste verdieping",
+          "conceptId": "WB-ee50ba381b"
+        },
+        {
+          "lesson": "VS-L40",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "word": "eerste verdieping",
+          "conceptId": "WB-ee50ba381b"
+        },
+        {
+          "lesson": "VS-L38",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "word": "tweede verdieping",
+          "conceptId": "WB-618cc5a239"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-AUD-0382",
+          "word": "begane grond",
+          "group": "ruimtes"
+        },
+        {
+          "id": "WB-AUD-0386",
+          "word": "eerste etage",
+          "group": "ruimtes"
+        },
+        {
+          "id": "WB-ee50ba381b",
+          "word": "eerste verdieping",
+          "group": "ruimtes"
+        },
+        {
+          "id": "WB-618cc5a239",
+          "word": "tweede verdieping",
+          "group": "ruimtes"
+        }
+      ]
+    },
+    {
+      "id": "won-028",
+      "n": 3028,
+      "title": "zwembad",
+      "description": "Zwembad bij woonhuis duidelijk; water, betegelde rand en ladder herkenbaar.",
+      "words": [
+        "zwembad"
+      ],
+      "uses": [
+        "Wonen en het huis",
+        "Vrije tijd en sport",
+        "foto",
+        "Ruimtes en bouwdelen"
+      ],
+      "type": "OVZ",
+      "note": "Zwembad bij woonhuis duidelijk; water, betegelde rand en ladder herkenbaar. Geen gebruiksinstructie of afbeelding van een publiek zwembad.",
+      "sourceName": "WB_WON_028_zwembad_overzicht_OVZ_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1KNqDn26TC7karFO99ac2K9nx5X4rPTSP",
+        "url": "https://drive.google.com/file/d/1KNqDn26TC7karFO99ac2K9nx5X4rPTSP/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "VS-L37",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+          "word": "zwembad",
+          "conceptId": "WB-6af8a38dfc"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-6af8a38dfc",
+          "word": "zwembad",
+          "group": "ruimtes"
+        }
+      ]
+    },
+    {
+      "id": "won-029",
+      "n": 3029,
+      "title": "sauna",
+      "description": "Saunacabine met houten banken en afgeschermde stenenkachel herkenbaar; geen douche- of opslagruimte..",
+      "words": [
+        "sauna"
+      ],
+      "uses": [
+        "Wonen en het huis",
+        "Vrije tijd en sport",
+        "foto",
+        "Ruimtes en bouwdelen"
+      ],
+      "type": "OVZ",
+      "note": "Saunacabine met houten banken en afgeschermde stenenkachel herkenbaar; geen douche- of opslagruimte.",
+      "sourceName": "WB_WON_029_sauna_overzicht_OVZ_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1U65vIRMcr9Bt1R5UmudKYR8HprMGPuH4",
+        "url": "https://drive.google.com/file/d/1U65vIRMcr9Bt1R5UmudKYR8HprMGPuH4/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "VS-L37",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+          "word": "sauna",
+          "conceptId": "WB-cd9d2f1efb"
+        },
+        {
+          "lesson": "VS-L45",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-3-les-34",
+          "word": "sauna",
+          "conceptId": "WB-cd9d2f1efb"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-cd9d2f1efb",
+          "word": "sauna",
+          "group": "ruimtes"
+        }
+      ]
+    },
+    {
+      "id": "won-030",
+      "n": 3030,
+      "title": "fitnessruimte",
+      "description": "Aparte thuisfitnessruimte met hometrainer, bank, gewichten en mat herkenbaar.",
+      "words": [
+        "fitnessruimte"
+      ],
+      "uses": [
+        "Wonen en het huis",
+        "Vrije tijd en sport",
+        "foto",
+        "Ruimtes en bouwdelen"
+      ],
+      "type": "OVZ",
+      "note": "Aparte thuisfitnessruimte met hometrainer, bank, gewichten en mat herkenbaar. Geen oefeninstructie.",
+      "sourceName": "WB_WON_030_fitnessruimte_overzicht_OVZ_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1hcTiZZytomTcqhLtYeoJKba0n-gmYOJp",
+        "url": "https://drive.google.com/file/d/1hcTiZZytomTcqhLtYeoJKba0n-gmYOJp/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "VS-L37",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+          "word": "fitnessruimte",
+          "conceptId": "WB-cde0ca9812"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-cde0ca9812",
+          "word": "fitnessruimte",
+          "group": "ruimtes"
+        }
+      ]
+    },
+    {
+      "id": "won-reuse-1-TbMCHf4e2mjyQGzZ6jSOAl4FUZ5OUJh",
+      "n": 4002,
+      "title": "De hal",
+      "description": "Een hal met voordeur, wandkapstok, jassen, bankje en schoenen.",
+      "words": [
+        "hal"
+      ],
+      "uses": [
+        "Wonen en het huis",
+        "foto",
+        "Ruimtes en bouwdelen"
+      ],
+      "type": "OVZ",
+      "note": "",
+      "sourceName": "WB_KLD_038_hal_kleding_overzicht_OVZ_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1-TbMCHf4e2mjyQGzZ6jSOAl4FUZ5OUJh",
+        "url": "https://drive.google.com/file/d/1-TbMCHf4e2mjyQGzZ6jSOAl4FUZ5OUJh/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "VS-L38",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "word": "hal",
+          "conceptId": "WB-AUD-0389"
+        },
+        {
+          "lesson": "VS-L40",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "word": "hal",
+          "conceptId": "WB-AUD-0389"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-AUD-0389",
+          "word": "hal",
+          "group": "ruimtes"
+        }
+      ]
+    },
+    {
+      "id": "won-reuse-1PH1Jux4vpKMuWUBOROLNpPwjl9CQDzoO",
+      "n": 4003,
+      "title": "De slaapkamer",
+      "description": "Een slaapkamer met bed, nachtkastje, kledingrek en ladekast.",
+      "words": [
+        "slaapkamer"
+      ],
+      "uses": [
+        "Wonen en het huis",
+        "foto",
+        "Ruimtes en bouwdelen"
+      ],
+      "type": "OVZ",
+      "note": "",
+      "sourceName": "WB_KLD_039_slaapkamer_kleding_overzicht_OVZ_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1PH1Jux4vpKMuWUBOROLNpPwjl9CQDzoO",
+        "url": "https://drive.google.com/file/d/1PH1Jux4vpKMuWUBOROLNpPwjl9CQDzoO/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "VS-L38",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+          "word": "slaapkamer",
+          "conceptId": "WB-AUD-0397"
+        },
+        {
+          "lesson": "VS-L40",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+          "word": "slaapkamer",
+          "conceptId": "WB-AUD-0397"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "WB-AUD-0397",
+          "word": "slaapkamer",
+          "group": "ruimtes"
+        }
+      ]
+    }
+  ],
+  "sequences": [],
+  "methodLinks": [
+    {
+      "lesson": "VS-L40",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+      "word": "werkkamer",
+      "conceptId": "WB-AUD-0404",
+      "assetId": "won-001"
+    },
+    {
+      "lesson": "IN-L10",
+      "route": "Inzicht",
+      "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-1-les-10",
+      "word": "ruimte",
+      "conceptId": "WB-AUD-0408",
+      "assetId": "won-001"
+    },
+    {
+      "lesson": "VS-L40",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+      "word": "verlichting",
+      "conceptId": "WB-AUD-0433",
+      "assetId": "won-001"
+    },
+    {
+      "lesson": "FI-L11",
+      "route": "De Finale",
+      "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+      "word": "modern ingericht",
+      "conceptId": "WB-AUD-0439",
+      "assetId": "won-001"
+    },
+    {
+      "lesson": "FI-L11",
+      "route": "De Finale",
+      "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+      "word": "sfeervol",
+      "conceptId": "WB-AUD-0441",
+      "assetId": "won-001"
+    },
+    {
+      "lesson": "VS-L38",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+      "word": "studeerkamer",
+      "conceptId": "WB-d49b37983f",
+      "assetId": "won-001"
+    },
+    {
+      "lesson": "VS-L38",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+      "word": "trap",
+      "conceptId": "WB-AUD-0398",
+      "assetId": "won-002"
+    },
+    {
+      "lesson": "VS-L40",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+      "word": "trap",
+      "conceptId": "WB-AUD-0398",
+      "assetId": "won-002"
+    },
+    {
+      "lesson": "VS-L38",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+      "word": "kelder",
+      "conceptId": "WB-57f5b6c015",
+      "assetId": "won-002"
+    },
+    {
+      "lesson": "VS-L37",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+      "word": "zolder",
+      "conceptId": "WB-AUD-0406",
+      "assetId": "won-003"
+    },
+    {
+      "lesson": "VS-L38",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+      "word": "zolder",
+      "conceptId": "WB-AUD-0406",
+      "assetId": "won-003"
+    },
+    {
+      "lesson": "VS-L40",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+      "word": "zolder",
+      "conceptId": "WB-AUD-0406",
+      "assetId": "won-003"
+    },
+    {
+      "lesson": "VS-L42",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-42",
+      "word": "zolder",
+      "conceptId": "WB-AUD-0406",
+      "assetId": "won-003"
+    },
+    {
+      "lesson": "VS-L38",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+      "word": "schuur",
+      "conceptId": "WB-AUD-0396",
+      "assetId": "won-004"
+    },
+    {
+      "lesson": "VS-L37",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+      "word": "garage",
+      "conceptId": "WB-AUD-0387",
+      "assetId": "won-005"
+    },
+    {
+      "lesson": "VS-L38",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+      "word": "garage",
+      "conceptId": "WB-AUD-0387",
+      "assetId": "won-005"
+    },
+    {
+      "lesson": "VS-L42",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-42",
+      "word": "garage",
+      "conceptId": "WB-AUD-0387",
+      "assetId": "won-005"
+    },
+    {
+      "lesson": "VS-L40",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+      "word": "apparatuur",
+      "conceptId": "WB-AUD-0412",
+      "assetId": "won-014"
+    },
+    {
+      "lesson": "VS-L40",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+      "word": "voorzien van",
+      "conceptId": "WB-5236a75831",
+      "assetId": "won-014"
+    },
+    {
+      "lesson": "VS-L40",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+      "word": "ruim",
+      "conceptId": "WB-e0b477dd87",
+      "assetId": "won-014"
+    },
+    {
+      "lesson": "VS-L23",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-2-les-23",
+      "word": "verdieping",
+      "conceptId": "WB-AUD-0401",
+      "assetId": "won-015"
+    },
+    {
+      "lesson": "VS-L37",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+      "word": "verdieping",
+      "conceptId": "WB-AUD-0401",
+      "assetId": "won-015"
+    },
+    {
+      "lesson": "VS-L38",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+      "word": "verdieping",
+      "conceptId": "WB-AUD-0401",
+      "assetId": "won-015"
+    },
+    {
+      "lesson": "FI-L11",
+      "route": "De Finale",
+      "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+      "word": "etage",
+      "conceptId": "WB-AUD-0409",
+      "assetId": "won-015"
+    },
+    {
+      "lesson": "VS-L22",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-2-les-22-week-8",
+      "word": "begane grond",
+      "conceptId": "WB-AUD-0382",
+      "assetId": "won-017"
+    },
+    {
+      "lesson": "VS-L38",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+      "word": "begane grond",
+      "conceptId": "WB-AUD-0382",
+      "assetId": "won-017"
+    },
+    {
+      "lesson": "FI-L11",
+      "route": "De Finale",
+      "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-2-les-11",
+      "word": "begane grond",
+      "conceptId": "WB-AUD-0382",
+      "assetId": "won-017"
+    },
+    {
+      "lesson": "VS-L22",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-2-les-22-week-8",
+      "word": "eerste etage",
+      "conceptId": "WB-AUD-0386",
+      "assetId": "won-017"
+    },
+    {
+      "lesson": "VS-L38",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+      "word": "eerste verdieping",
+      "conceptId": "WB-ee50ba381b",
+      "assetId": "won-017"
+    },
+    {
+      "lesson": "VS-L40",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+      "word": "eerste verdieping",
+      "conceptId": "WB-ee50ba381b",
+      "assetId": "won-017"
+    },
+    {
+      "lesson": "VS-L38",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+      "word": "tweede verdieping",
+      "conceptId": "WB-618cc5a239",
+      "assetId": "won-017"
+    },
+    {
+      "lesson": "VS-L37",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+      "word": "zwembad",
+      "conceptId": "WB-6af8a38dfc",
+      "assetId": "won-028"
+    },
+    {
+      "lesson": "VS-L37",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+      "word": "sauna",
+      "conceptId": "WB-cd9d2f1efb",
+      "assetId": "won-029"
+    },
+    {
+      "lesson": "VS-L45",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-3-les-34",
+      "word": "sauna",
+      "conceptId": "WB-cd9d2f1efb",
+      "assetId": "won-029"
+    },
+    {
+      "lesson": "VS-L37",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-37",
+      "word": "fitnessruimte",
+      "conceptId": "WB-cde0ca9812",
+      "assetId": "won-030"
+    },
+    {
+      "lesson": "VS-L38",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+      "word": "hal",
+      "conceptId": "WB-AUD-0389",
+      "assetId": "won-reuse-1-TbMCHf4e2mjyQGzZ6jSOAl4FUZ5OUJh"
+    },
+    {
+      "lesson": "VS-L40",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+      "word": "hal",
+      "conceptId": "WB-AUD-0389",
+      "assetId": "won-reuse-1-TbMCHf4e2mjyQGzZ6jSOAl4FUZ5OUJh"
+    },
+    {
+      "lesson": "VS-L38",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-38",
+      "word": "slaapkamer",
+      "conceptId": "WB-AUD-0397",
+      "assetId": "won-reuse-1PH1Jux4vpKMuWUBOROLNpPwjl9CQDzoO"
+    },
+    {
+      "lesson": "VS-L40",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-40",
+      "word": "slaapkamer",
+      "conceptId": "WB-AUD-0397",
+      "assetId": "won-reuse-1PH1Jux4vpKMuWUBOROLNpPwjl9CQDzoO"
+    }
+  ]
+}

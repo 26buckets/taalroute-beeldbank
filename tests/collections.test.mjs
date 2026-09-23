@@ -18,16 +18,10 @@ test("de badkamer hoort bij het huis en lege categorieën verschijnen niet in de
   );
   assert.deepEqual(
     tree.children().map((n) => n.id),
-    ["het-huis"],
+    ["het-huis", "onderweg", "werk-beroep", "gezondheid-zorg", "school-leren", "dieren-natuur", "eten-drinken-familie", "kleding-spullen", "symbolen-hoeveelheden"],
   );
-  assert.deepEqual(
-    tree.children("het-huis").map((n) => n.id),
-    ["badkamer-verzorging", "keuken-koken", "woonkamer"],
-  );
-  assert.deepEqual(
-    tree.leaves("het-huis").map((n) => n.dataset),
-    ["badkamer.json", "keuken.json", "woonkamer.json"],
-  );
+  assert.deepEqual(tree.children("het-huis").map(n => n.id), ["wonen-woningtypen", "wonen-ruimtes", "wonen-inrichting", "wonen-buitenruimtes", "wonen-wonen-regelen", "badkamer-verzorging", "keuken-koken", "woonkamer", "los-wonen-en-het-huis"]);
+  assert.deepEqual(tree.leaves("het-huis").map(n => n.dataset), ["wonen-woningtypen.json", "wonen-ruimtes.json", "wonen-inrichting.json", "wonen-buitenruimtes.json", "wonen-wonen-regelen.json", "badkamer.json", "keuken.json", "woonkamer.json", "los-wonen-en-het-huis.json"]);
   const topics = new Set(registry.topics.map((t) => t.id));
   for (const node of registry.nodes) {
     for (const topic of node.topics ?? [])

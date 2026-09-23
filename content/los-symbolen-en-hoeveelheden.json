@@ -1,0 +1,574 @@
+{
+  "collection": {
+    "id": "los-symbolen-en-hoeveelheden",
+    "title": "Losse illustraties",
+    "imageCount": 17,
+    "independentImages": 17,
+    "sequences": 0
+  },
+  "assets": [
+    {
+      "id": "los-TR-REBUS-BRON01-14-p02",
+      "n": 10031,
+      "title": "één",
+      "description": "Een losse illustratie van één.",
+      "words": [
+        "één"
+      ],
+      "uses": [
+        "Symbolen en hoeveelheden",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_een__TR-REBUS-BRON01-14_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1NF_yXZkiEsODlMLrursii_sR-3_eVIjh",
+        "url": "https://drive.google.com/file/d/1NF_yXZkiEsODlMLrursii_sR-3_eVIjh/view?usp=drivesdk",
+        "rebusId": "TR-REBUS-BRON01-14",
+        "cropBox": [
+          1272,
+          110,
+          1459,
+          436
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-TR-REBUS-BRON01-14-p03",
+      "n": 10032,
+      "title": "acht",
+      "description": "Een losse illustratie van acht.",
+      "words": [
+        "acht"
+      ],
+      "uses": [
+        "Symbolen en hoeveelheden",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_acht__TR-REBUS-BRON01-14_p03.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1lcA1HXwKurf0d8wIJovYpsfPL7RVZ70y",
+        "url": "https://drive.google.com/file/d/1lcA1HXwKurf0d8wIJovYpsfPL7RVZ70y/view?usp=drivesdk",
+        "rebusId": "TR-REBUS-BRON01-14",
+        "cropBox": [
+          247,
+          584,
+          470,
+          881
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-TR-REBUS-BRON01-17-p06",
+      "n": 10049,
+      "title": "tien",
+      "description": "Een losse illustratie van tien.",
+      "words": [
+        "tien"
+      ],
+      "uses": [
+        "Symbolen en hoeveelheden",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_tien__TR-REBUS-BRON01-17_p06.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1yJ9Uy2qQTUMxqS0zvnscUK6FQDIcNoVL",
+        "url": "https://drive.google.com/file/d/1yJ9Uy2qQTUMxqS0zvnscUK6FQDIcNoVL/view?usp=drivesdk",
+        "rebusId": "TR-REBUS-BRON01-17",
+        "cropBox": [
+          1272,
+          596,
+          1496,
+          817
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A1-U09-p02",
+      "n": 10192,
+      "title": "helft",
+      "description": "Een losse illustratie van helft.",
+      "words": [
+        "helft"
+      ],
+      "uses": [
+        "Symbolen en hoeveelheden",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_helft__N-A1-U09_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1Kyx___Z9Y2uPPKB4ACbZouNP1sv4G2wi",
+        "url": "https://drive.google.com/file/d/1Kyx___Z9Y2uPPKB4ACbZouNP1sv4G2wi/view?usp=drivesdk",
+        "rebusId": "N-A1-U09",
+        "cropBox": [
+          1086,
+          139,
+          1696,
+          615
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A1-U17-p02",
+      "n": 10208,
+      "title": "klok",
+      "description": "Een losse illustratie van klok.",
+      "words": [
+        "klok"
+      ],
+      "uses": [
+        "Symbolen en hoeveelheden",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_klok__N-A1-U17_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "12yOoGsfoc2N0U_uMghp-QUbQZB4qMSqU",
+        "url": "https://drive.google.com/file/d/12yOoGsfoc2N0U_uMghp-QUbQZB4qMSqU/view?usp=drivesdk",
+        "rebusId": "N-A1-U17",
+        "cropBox": [
+          1047,
+          73,
+          1639,
+          671
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-A2-V19-p01",
+      "n": 10292,
+      "title": "dag",
+      "description": "Een losse illustratie van dag.",
+      "words": [
+        "dag"
+      ],
+      "uses": [
+        "Symbolen en hoeveelheden",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_dag__N-A2-V19_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1QW1yumpF0UHrfIV4_Sgms0YB68iSHkXT",
+        "url": "https://drive.google.com/file/d/1QW1yumpF0UHrfIV4_Sgms0YB68iSHkXT/view?usp=drivesdk",
+        "rebusId": "N-A2-V19",
+        "cropBox": [
+          54,
+          152,
+          790,
+          662
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B1-I10-p01",
+      "n": 10355,
+      "title": "kruis",
+      "description": "Een losse illustratie van kruis.",
+      "words": [
+        "kruis"
+      ],
+      "uses": [
+        "Symbolen en hoeveelheden",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_kruis__N-B1-I10_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1tw-qsDBbbTsbc-G20x2R9HS3He_SVPoY",
+        "url": "https://drive.google.com/file/d/1tw-qsDBbbTsbc-G20x2R9HS3He_SVPoY/view?usp=drivesdk",
+        "rebusId": "N-B1-I10",
+        "cropBox": [
+          183,
+          157,
+          682,
+          658
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B1-I10-p02",
+      "n": 10356,
+      "title": "punt",
+      "description": "Een losse illustratie van punt.",
+      "words": [
+        "punt"
+      ],
+      "uses": [
+        "Symbolen en hoeveelheden",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_punt__N-B1-I10_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1YhbtAkNxb0awD6se4S05flGVMdHE1lYR",
+        "url": "https://drive.google.com/file/d/1YhbtAkNxb0awD6se4S05flGVMdHE1lYR/view?usp=drivesdk",
+        "rebusId": "N-B1-I10",
+        "cropBox": [
+          1284,
+          334,
+          1464,
+          513
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B1-I18-p02",
+      "n": 10372,
+      "title": "dag",
+      "description": "Een losse illustratie van dag.",
+      "words": [
+        "dag"
+      ],
+      "uses": [
+        "Symbolen en hoeveelheden",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_dag__N-B1-I18_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1aYCpFQ3gaVESCQr5njL3YYoVrtPb98DE",
+        "url": "https://drive.google.com/file/d/1aYCpFQ3gaVESCQr5njL3YYoVrtPb98DE/view?usp=drivesdk",
+        "rebusId": "N-B1-I18",
+        "cropBox": [
+          1061,
+          150,
+          1702,
+          716
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-I03-p02",
+      "n": 10452,
+      "title": "punt",
+      "description": "Een losse illustratie van punt.",
+      "words": [
+        "punt"
+      ],
+      "uses": [
+        "Symbolen en hoeveelheden",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_punt__N-B2-I03_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1k1l6OTLD_i7F0ar40Q6wEf0T-ToKwswv",
+        "url": "https://drive.google.com/file/d/1k1l6OTLD_i7F0ar40Q6wEf0T-ToKwswv/view?usp=drivesdk",
+        "rebusId": "N-B2-I03",
+        "cropBox": [
+          1467,
+          405,
+          1593,
+          530
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-I06-p02",
+      "n": 10458,
+      "title": "punt",
+      "description": "Een losse illustratie van punt.",
+      "words": [
+        "punt"
+      ],
+      "uses": [
+        "Symbolen en hoeveelheden",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_punt__N-B2-I06_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1AYHMRdTgYIiK-7zu7wikB7tuUW5ua9Cl",
+        "url": "https://drive.google.com/file/d/1AYHMRdTgYIiK-7zu7wikB7tuUW5ua9Cl/view?usp=drivesdk",
+        "rebusId": "N-B2-I06",
+        "cropBox": [
+          1238,
+          339,
+          1480,
+          582
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-I07-p02",
+      "n": 10460,
+      "title": "punt",
+      "description": "Een losse illustratie van punt.",
+      "words": [
+        "punt"
+      ],
+      "uses": [
+        "Symbolen en hoeveelheden",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_punt__N-B2-I07_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1VE4egGHds9O3vlyLg7PkHJTZQ3O0cDDE",
+        "url": "https://drive.google.com/file/d/1VE4egGHds9O3vlyLg7PkHJTZQ3O0cDDE/view?usp=drivesdk",
+        "rebusId": "N-B2-I07",
+        "cropBox": [
+          1039,
+          128,
+          1553,
+          730
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-I17-p02",
+      "n": 10480,
+      "title": "punt",
+      "description": "Een losse illustratie van punt.",
+      "words": [
+        "punt"
+      ],
+      "uses": [
+        "Symbolen en hoeveelheden",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_punt__N-B2-I17_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1CjYo8O7LUPraFILXIw_vSt22L-8mMDYe",
+        "url": "https://drive.google.com/file/d/1CjYo8O7LUPraFILXIw_vSt22L-8mMDYe/view?usp=drivesdk",
+        "rebusId": "N-B2-I17",
+        "cropBox": [
+          1388,
+          397,
+          1550,
+          558
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-I18-p02",
+      "n": 10482,
+      "title": "punt",
+      "description": "Een losse illustratie van punt.",
+      "words": [
+        "punt"
+      ],
+      "uses": [
+        "Symbolen en hoeveelheden",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_punt__N-B2-I18_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1venj8QvV9AB3hk3njJDOr8oflVR09usx",
+        "url": "https://drive.google.com/file/d/1venj8QvV9AB3hk3njJDOr8oflVR09usx/view?usp=drivesdk",
+        "rebusId": "N-B2-I18",
+        "cropBox": [
+          1336,
+          384,
+          1495,
+          555
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-V04-p02",
+      "n": 10495,
+      "title": "ster",
+      "description": "Een losse illustratie van ster.",
+      "words": [
+        "ster"
+      ],
+      "uses": [
+        "Symbolen en hoeveelheden",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_ster__N-B2-V04_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1D2k-LKSJaqrfWfMPaQ8RjnVGtxAthiBA",
+        "url": "https://drive.google.com/file/d/1D2k-LKSJaqrfWfMPaQ8RjnVGtxAthiBA/view?usp=drivesdk",
+        "rebusId": "N-B2-V04",
+        "cropBox": [
+          1384,
+          228,
+          1731,
+          591
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-V05-p02",
+      "n": 10497,
+      "title": "klok",
+      "description": "Een losse illustratie van klok.",
+      "words": [
+        "klok"
+      ],
+      "uses": [
+        "Symbolen en hoeveelheden",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_klok__N-B2-V05_p02.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1qT467TBSkEezynTSwpRmH8crWkJwOysn",
+        "url": "https://drive.google.com/file/d/1qT467TBSkEezynTSwpRmH8crWkJwOysn/view?usp=drivesdk",
+        "rebusId": "N-B2-V05",
+        "cropBox": [
+          1365,
+          202,
+          1737,
+          595
+        ]
+      },
+      "methodLinks": []
+    },
+    {
+      "id": "los-N-B2-V17-p01",
+      "n": 10521,
+      "title": "punt",
+      "description": "Een losse illustratie van punt.",
+      "words": [
+        "punt"
+      ],
+      "uses": [
+        "Symbolen en hoeveelheden",
+        "AlfaLabs",
+        "Digibord",
+        "woordenschat",
+        "illustratie"
+      ],
+      "type": "OBJ",
+      "note": "",
+      "sourceName": "WB_LOS_punt__N-B2-V17_p01.png",
+      "version": 1,
+      "style": "illustratie",
+      "source": {
+        "driveFileId": "1FagXd2zTY0_Fh5iXIoRdaezdxnp0f5eq",
+        "url": "https://drive.google.com/file/d/1FagXd2zTY0_Fh5iXIoRdaezdxnp0f5eq/view?usp=drivesdk",
+        "rebusId": "N-B2-V17",
+        "cropBox": [
+          394,
+          364,
+          501,
+          472
+        ]
+      },
+      "methodLinks": []
+    }
+  ],
+  "sequences": [],
+  "methodLinks": []
+}
