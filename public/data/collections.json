@@ -432,6 +432,16 @@
       "topics": []
     },
     {
+      "id": "zorg-klachten-en-bezoek",
+      "title": "Klachten, verzorging en zorgbezoek",
+      "kind": "collection",
+      "parentId": "gezondheid-zorg",
+      "status": "published",
+      "dataset": "zorg-klachten-en-bezoek.json",
+      "coverImageNumber": 5012,
+      "topics": []
+    },
+    {
       "id": "los-lichaam-en-zorg",
       "title": "Losse illustraties",
       "kind": "collection",

@@ -1,0 +1,390 @@
+{
+  "sourceBytes": 19960483,
+  "files": [
+    {
+      "image": "lgz-033",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/zorg-klachten-en-bezoek/lgz-033-thumb-878fb80a51.avif",
+      "bytes": 2000
+    },
+    {
+      "image": "lgz-033",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/zorg-klachten-en-bezoek/lgz-033-thumb-cbf3276464.webp",
+      "bytes": 4306
+    },
+    {
+      "image": "lgz-033",
+      "size": "full",
+      "format": "avif",
+      "path": "images/zorg-klachten-en-bezoek/lgz-033-full-4175ba3642.avif",
+      "bytes": 13022
+    },
+    {
+      "image": "lgz-033",
+      "size": "full",
+      "format": "webp",
+      "path": "images/zorg-klachten-en-bezoek/lgz-033-full-fcb33c583d.webp",
+      "bytes": 28542
+    },
+    {
+      "image": "lgz-034",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/zorg-klachten-en-bezoek/lgz-034-thumb-8b18aeceba.avif",
+      "bytes": 1753
+    },
+    {
+      "image": "lgz-034",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/zorg-klachten-en-bezoek/lgz-034-thumb-bcfa669717.webp",
+      "bytes": 2910
+    },
+    {
+      "image": "lgz-034",
+      "size": "full",
+      "format": "avif",
+      "path": "images/zorg-klachten-en-bezoek/lgz-034-full-5e83f3d284.avif",
+      "bytes": 9422
+    },
+    {
+      "image": "lgz-034",
+      "size": "full",
+      "format": "webp",
+      "path": "images/zorg-klachten-en-bezoek/lgz-034-full-45e60c0eda.webp",
+      "bytes": 16442
+    },
+    {
+      "image": "lgz-030",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/zorg-klachten-en-bezoek/lgz-030-thumb-dea872785e.avif",
+      "bytes": 2123
+    },
+    {
+      "image": "lgz-030",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/zorg-klachten-en-bezoek/lgz-030-thumb-83d191def3.webp",
+      "bytes": 4318
+    },
+    {
+      "image": "lgz-030",
+      "size": "full",
+      "format": "avif",
+      "path": "images/zorg-klachten-en-bezoek/lgz-030-full-88fe8e893c.avif",
+      "bytes": 7307
+    },
+    {
+      "image": "lgz-030",
+      "size": "full",
+      "format": "webp",
+      "path": "images/zorg-klachten-en-bezoek/lgz-030-full-ec6d43d9a3.webp",
+      "bytes": 14980
+    },
+    {
+      "image": "lgz-029",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/zorg-klachten-en-bezoek/lgz-029-thumb-311e6250a7.avif",
+      "bytes": 1759
+    },
+    {
+      "image": "lgz-029",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/zorg-klachten-en-bezoek/lgz-029-thumb-4fd6c532dc.webp",
+      "bytes": 3008
+    },
+    {
+      "image": "lgz-029",
+      "size": "full",
+      "format": "avif",
+      "path": "images/zorg-klachten-en-bezoek/lgz-029-full-37b05fc8e1.avif",
+      "bytes": 5161
+    },
+    {
+      "image": "lgz-029",
+      "size": "full",
+      "format": "webp",
+      "path": "images/zorg-klachten-en-bezoek/lgz-029-full-0631392468.webp",
+      "bytes": 9050
+    },
+    {
+      "image": "lgz-045",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/zorg-klachten-en-bezoek/lgz-045-thumb-13d570ee09.avif",
+      "bytes": 1821
+    },
+    {
+      "image": "lgz-045",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/zorg-klachten-en-bezoek/lgz-045-thumb-78075da62c.webp",
+      "bytes": 3294
+    },
+    {
+      "image": "lgz-045",
+      "size": "full",
+      "format": "avif",
+      "path": "images/zorg-klachten-en-bezoek/lgz-045-full-64912c18da.avif",
+      "bytes": 9202
+    },
+    {
+      "image": "lgz-045",
+      "size": "full",
+      "format": "webp",
+      "path": "images/zorg-klachten-en-bezoek/lgz-045-full-9192ae80fa.webp",
+      "bytes": 16790
+    },
+    {
+      "image": "lgz-071",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/zorg-klachten-en-bezoek/lgz-071-thumb-e9a142e656.avif",
+      "bytes": 2214
+    },
+    {
+      "image": "lgz-071",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/zorg-klachten-en-bezoek/lgz-071-thumb-fc61baf33e.webp",
+      "bytes": 4648
+    },
+    {
+      "image": "lgz-071",
+      "size": "full",
+      "format": "avif",
+      "path": "images/zorg-klachten-en-bezoek/lgz-071-full-a9f54938b8.avif",
+      "bytes": 13591
+    },
+    {
+      "image": "lgz-071",
+      "size": "full",
+      "format": "webp",
+      "path": "images/zorg-klachten-en-bezoek/lgz-071-full-b4aa71c662.webp",
+      "bytes": 27364
+    },
+    {
+      "image": "lgz-067",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/zorg-klachten-en-bezoek/lgz-067-thumb-80082f7b0d.avif",
+      "bytes": 2345
+    },
+    {
+      "image": "lgz-067",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/zorg-klachten-en-bezoek/lgz-067-thumb-f7a6ab1a9b.webp",
+      "bytes": 4720
+    },
+    {
+      "image": "lgz-067",
+      "size": "full",
+      "format": "avif",
+      "path": "images/zorg-klachten-en-bezoek/lgz-067-full-2c2aa8d49f.avif",
+      "bytes": 12110
+    },
+    {
+      "image": "lgz-067",
+      "size": "full",
+      "format": "webp",
+      "path": "images/zorg-klachten-en-bezoek/lgz-067-full-0b41483573.webp",
+      "bytes": 21572
+    },
+    {
+      "image": "zorg-b02-001",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/zorg-klachten-en-bezoek/zorg-b02-001-thumb-17e846cf0b.avif",
+      "bytes": 1848
+    },
+    {
+      "image": "zorg-b02-001",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/zorg-klachten-en-bezoek/zorg-b02-001-thumb-4dd4ff0a4f.webp",
+      "bytes": 3776
+    },
+    {
+      "image": "zorg-b02-001",
+      "size": "full",
+      "format": "avif",
+      "path": "images/zorg-klachten-en-bezoek/zorg-b02-001-full-35c7a09232.avif",
+      "bytes": 10802
+    },
+    {
+      "image": "zorg-b02-001",
+      "size": "full",
+      "format": "webp",
+      "path": "images/zorg-klachten-en-bezoek/zorg-b02-001-full-6e4c396b3b.webp",
+      "bytes": 22084
+    },
+    {
+      "image": "zorg-b02-002",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/zorg-klachten-en-bezoek/zorg-b02-002-thumb-978e4e7957.avif",
+      "bytes": 2064
+    },
+    {
+      "image": "zorg-b02-002",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/zorg-klachten-en-bezoek/zorg-b02-002-thumb-fdd26148c9.webp",
+      "bytes": 4004
+    },
+    {
+      "image": "zorg-b02-002",
+      "size": "full",
+      "format": "avif",
+      "path": "images/zorg-klachten-en-bezoek/zorg-b02-002-full-d81b4e4255.avif",
+      "bytes": 10077
+    },
+    {
+      "image": "zorg-b02-002",
+      "size": "full",
+      "format": "webp",
+      "path": "images/zorg-klachten-en-bezoek/zorg-b02-002-full-4e3ca63d9a.webp",
+      "bytes": 18288
+    },
+    {
+      "image": "zorg-b02-003",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/zorg-klachten-en-bezoek/zorg-b02-003-thumb-a67eec79f8.avif",
+      "bytes": 2379
+    },
+    {
+      "image": "zorg-b02-003",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/zorg-klachten-en-bezoek/zorg-b02-003-thumb-2b7bc03d17.webp",
+      "bytes": 4838
+    },
+    {
+      "image": "zorg-b02-003",
+      "size": "full",
+      "format": "avif",
+      "path": "images/zorg-klachten-en-bezoek/zorg-b02-003-full-7050e29eea.avif",
+      "bytes": 12617
+    },
+    {
+      "image": "zorg-b02-003",
+      "size": "full",
+      "format": "webp",
+      "path": "images/zorg-klachten-en-bezoek/zorg-b02-003-full-54dc1c85b6.webp",
+      "bytes": 22392
+    },
+    {
+      "image": "zorg-b02-004",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/zorg-klachten-en-bezoek/zorg-b02-004-thumb-0fd18c53bd.avif",
+      "bytes": 2022
+    },
+    {
+      "image": "zorg-b02-004",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/zorg-klachten-en-bezoek/zorg-b02-004-thumb-c6d853631c.webp",
+      "bytes": 3846
+    },
+    {
+      "image": "zorg-b02-004",
+      "size": "full",
+      "format": "avif",
+      "path": "images/zorg-klachten-en-bezoek/zorg-b02-004-full-22ffb4d594.avif",
+      "bytes": 10289
+    },
+    {
+      "image": "zorg-b02-004",
+      "size": "full",
+      "format": "webp",
+      "path": "images/zorg-klachten-en-bezoek/zorg-b02-004-full-3aa8ab79d6.webp",
+      "bytes": 17640
+    },
+    {
+      "image": "zorg-b02-005",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/zorg-klachten-en-bezoek/zorg-b02-005-thumb-92615fe982.avif",
+      "bytes": 2100
+    },
+    {
+      "image": "zorg-b02-005",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/zorg-klachten-en-bezoek/zorg-b02-005-thumb-2d5961c73f.webp",
+      "bytes": 4254
+    },
+    {
+      "image": "zorg-b02-005",
+      "size": "full",
+      "format": "avif",
+      "path": "images/zorg-klachten-en-bezoek/zorg-b02-005-full-adc20d1f48.avif",
+      "bytes": 11531
+    },
+    {
+      "image": "zorg-b02-005",
+      "size": "full",
+      "format": "webp",
+      "path": "images/zorg-klachten-en-bezoek/zorg-b02-005-full-177a693088.webp",
+      "bytes": 21268
+    },
+    {
+      "image": "zorg-b02-006",
+      "size": "thumb",
+      "format": "avif",
+      "path": "images/zorg-klachten-en-bezoek/zorg-b02-006-thumb-6623aadade.avif",
+      "bytes": 2603
+    },
+    {
+      "image": "zorg-b02-006",
+      "size": "thumb",
+      "format": "webp",
+      "path": "images/zorg-klachten-en-bezoek/zorg-b02-006-thumb-7a7e86ed72.webp",
+      "bytes": 6074
+    },
+    {
+      "image": "zorg-b02-006",
+      "size": "full",
+      "format": "avif",
+      "path": "images/zorg-klachten-en-bezoek/zorg-b02-006-full-8e82d3a9f2.avif",
+      "bytes": 16026
+    },
+    {
+      "image": "zorg-b02-006",
+      "size": "full",
+      "format": "webp",
+      "path": "images/zorg-klachten-en-bezoek/zorg-b02-006-full-121510e267.webp",
+      "bytes": 33256
+    }
+  ],
+  "settings": {
+    "thumb": {
+      "edge": 256,
+      "avifQuality": 28,
+      "webpQuality": 45
+    },
+    "full": {
+      "edge": 768,
+      "overviewEdge": 960,
+      "avifQuality": 38,
+      "webpQuality": 58
+    },
+    "avifSpeed": 4,
+    "webpMethod": 6,
+    "metadata": "EXIF en overige bronmetadata niet overgenomen"
+  },
+  "totalBytes": 491852,
+  "avifBytes": 168188,
+  "avifFullBytes": 141157,
+  "webpBytes": 323664,
+  "webpFullBytes": 269668
+}

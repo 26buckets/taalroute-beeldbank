@@ -16,6 +16,7 @@ import p13 from "../public/data/wonen-buitenruimtes.json" with { type: "json" };
 import p14 from "../public/data/wonen-woningtypen.json" with { type: "json" };
 import p15 from "../public/data/wonen-inrichting.json" with { type: "json" };
 import p16 from "../public/data/wonen-wonen-regelen.json" with { type: "json" };
+import zorg from "../public/data/zorg-klachten-en-bezoek.json" with { type: "json" };
 import collections from "../public/data/collections.json" with { type: "json" };
 const seeds = {
   "badkamer.json": p0,
@@ -35,10 +36,13 @@ const seeds = {
   "wonen-woningtypen.json": p14,
   "wonen-inrichting.json": p15,
   "wonen-wonen-regelen.json": p16,
+  "zorg-klachten-en-bezoek.json": zorg,
   "collections.json": collections,
 };
 // Versioned D1 packages preserve earlier content and teacher selections.
 const packageKeys = Object.fromEntries(Object.keys(seeds).map(id => [id, id.replace(".json", "-20260923-wonen-los-v1.json")]));
+packageKeys["collections.json"] = "collections-20260923-zorg-v1.json";
+packageKeys["zorg-klachten-en-bezoek.json"] = "zorg-klachten-en-bezoek-20260923-v1.json";
 const contentIds = Object.keys(seeds).filter(id => id !== "collections.json");
 const allContent = { assets: contentIds.flatMap(id => seeds[id].assets), sequences: contentIds.flatMap(id => seeds[id].sequences) };
 const keys = new Map();

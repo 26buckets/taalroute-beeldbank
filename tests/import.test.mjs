@@ -10,13 +10,21 @@ test('alle nieuwe beelden, woordkoppelingen en lessen zijn bereikbaar en behoude
  const library=indexCollections(packages); const assets=[...library.assets.values()];
  assert.equal(assets.filter(a=>a.id.startsWith('los-')).length,575);
  assert.equal(assets.filter(a=>/^won-\d+$/.test(a.id)).length,34);
- const concepts=new Set(assets.flatMap(a=>(a.concepts??[]).map(c=>c.id)));
+ const concepts=new Set(assets.filter(a=>a.collectionId!=="zorg-klachten-en-bezoek").flatMap(a=>(a.concepts??[]).map(c=>c.id)));
  assert.equal(concepts.size,124);
  for (const a of assets) {
   assert.ok(validItems([{type:'image',n:a.n,uid:1}]));
   for (const r of Object.values(a.renditions)) for (const fmt of ['avif','webp']) assert.ok((await stat(new URL('../public/'+r[fmt],import.meta.url))).size>0);
   for (const l of a.methodLinks??[]) assert.ok(l.lesson && l.conceptId && l.url.startsWith('https://docent.lingua-academy.nl/'));
  }
+ const care=assets.filter(a=>a.collectionId==='zorg-klachten-en-bezoek');
+ assert.equal(care.length,13);
+ assert.equal(care.filter(a=>a.id.startsWith('zorg-b02-')).length,6);
+ assert.equal(new Set(care.map(a=>a.source.driveFileId)).size,13);
+ assert.ok(care.every(a=>a.methodLinks.length && a.note && a.concepts[0].exercise));
+ const allIds=new Set(assets.map(a=>a.id));
+ for(const a of care) for(const id of a.relatedAssetIds) assert.ok(allIds.has(id),`Ontbrekende ondersteunende illustratie: ${id}`);
+ assert.match(care.find(a=>a.id==='lgz-045').description,/niet leesbaar/);
  const ruim=assets.flatMap(a=>a.methodLinks??[]).filter(l=>l.word==='ruim');
  assert.ok(ruim.length>0 && ruim.every(l=>l.lesson==='VS-L40'));
  assert.ok(assets.some(a=>a.source?.driveFileId==='1QIcpRDSUjsU5Edhr-Qu20QnC7KMbZGkx' && a.words.includes('rijtjeshuis')));
