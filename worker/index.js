@@ -42,7 +42,7 @@ const seeds = {
 // Versioned D1 packages preserve earlier content and teacher selections.
 const packageKeys = Object.fromEntries(Object.keys(seeds).map(id => [id, id.replace(".json", "-20260923-wonen-los-v1.json")]));
 packageKeys["collections.json"] = "collections-20260923-zorg-v1.json";
-packageKeys["zorg-klachten-en-bezoek.json"] = "zorg-klachten-en-bezoek-20260923-v1.json";
+packageKeys["zorg-klachten-en-bezoek.json"] = "zorg-klachten-en-bezoek-20260923-v2.json";
 const contentIds = Object.keys(seeds).filter(id => id !== "collections.json");
 const allContent = { assets: contentIds.flatMap(id => seeds[id].assets), sequences: contentIds.flatMap(id => seeds[id].sequences) };
 const keys = new Map();

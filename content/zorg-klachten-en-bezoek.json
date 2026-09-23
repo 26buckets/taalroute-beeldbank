@@ -21,7 +21,7 @@
         "foto"
       ],
       "type": "ACT",
-      "note": "Hand op buik bruikbaar als aanwijspunt. Voor buikpijn de zin toevoegen: Ik heb buikpijn. Pijn niet zelfstandig zichtbaar.",
+      "note": "Gebruik de contextzin Ik heb buikpijn. De hand wijst de buik aan; pijn is niet zelfstandig zichtbaar.",
       "sourceName": "WB_LGZ_033_hand_op_buik_REL_v01.png",
       "version": 1,
       "style": "foto",
@@ -46,7 +46,7 @@
           "exercise": {
             "instruction": "Lees de voorbeeldzin en oefen een kort gesprek bij de foto.",
             "example_answer": "Ik heb buikpijn.",
-            "note": "Hand op buik bruikbaar als aanwijspunt. Voor buikpijn de zin toevoegen: Ik heb buikpijn. Pijn niet zelfstandig zichtbaar."
+            "note": "Gebruik de contextzin Ik heb buikpijn. De hand wijst de buik aan; pijn is niet zelfstandig zichtbaar."
           }
         }
       ],
@@ -72,7 +72,7 @@
         "foto"
       ],
       "type": "ACT",
-      "note": "Hand op hoofd is duidelijk, maar de man oogt niet ziek. Alleen met expliciete context: Ik heb hoofdpijn.",
+      "note": "Gebruik de contextzin Ik heb hoofdpijn. Alleen de hand op het hoofd maakt de klacht niet duidelijk.",
       "sourceName": "WB_LGZ_034_hand_op_hoofd_REL_v01.png",
       "version": 1,
       "style": "foto",
@@ -118,7 +118,7 @@
           "exercise": {
             "instruction": "Lees de voorbeeldzin en oefen een kort gesprek bij de foto.",
             "example_answer": "Ik heb hoofdpijn.",
-            "note": "Hand op hoofd is duidelijk, maar de man oogt niet ziek. Alleen met expliciete context: Ik heb hoofdpijn."
+            "note": "Gebruik de contextzin Ik heb hoofdpijn. Alleen de hand op het hoofd maakt de klacht niet duidelijk."
           }
         }
       ],
@@ -147,7 +147,7 @@
         "foto"
       ],
       "type": "ACT",
-      "note": "Niezen en hoesten zijn zichtbaar. Verkouden als contextzin toevoegen; deze handelingen bewijzen geen diagnose.",
+      "note": "Niezen is zichtbaar. Voeg Ik ben verkouden toe als taalcontext.",
       "sourceName": "WB_LGZ_030_niezen_ACT_v01.png",
       "version": 1,
       "style": "foto",
@@ -200,7 +200,7 @@
           "exercise": {
             "instruction": "Lees de voorbeeldzin en oefen een kort gesprek bij de foto.",
             "example_answer": "Ik ben verkouden. Ik moet niezen.",
-            "note": "Niezen en hoesten zijn zichtbaar. Verkouden als contextzin toevoegen; deze handelingen bewijzen geen diagnose."
+            "note": "Niezen is zichtbaar. Voeg Ik ben verkouden toe als taalcontext."
           }
         }
       ],
@@ -226,7 +226,7 @@
         "foto"
       ],
       "type": "ACT",
-      "note": "Niezen en hoesten zijn zichtbaar. Verkouden als contextzin toevoegen; deze handelingen bewijzen geen diagnose.",
+      "note": "Hoesten is zichtbaar. Voeg Ik ben verkouden toe als taalcontext.",
       "sourceName": "WB_LGZ_029_hoesten_ACT_v01.png",
       "version": 1,
       "style": "foto",
@@ -279,7 +279,7 @@
           "exercise": {
             "instruction": "Lees de voorbeeldzin en oefen een kort gesprek bij de foto.",
             "example_answer": "Ik ben verkouden. Ik moet hoesten.",
-            "note": "Niezen en hoesten zijn zichtbaar. Verkouden als contextzin toevoegen; deze handelingen bewijzen geen diagnose."
+            "note": "Hoesten is zichtbaar. Voeg Ik ben verkouden toe als taalcontext."
           }
         }
       ],
@@ -306,7 +306,7 @@
         "foto"
       ],
       "type": "ACT",
-      "note": "Thermometer aflezen zichtbaar; de displaywaarde is niet leesbaar. Koorts/verhoging alleen met fictieve waarde in een taaloefening. Geen meetwaarde aan de foto toeschrijven.",
+      "note": "De meetwaarde is niet leesbaar. Oefen koorts en lichte verhoging met een verzonnen gesprek; schrijf geen meetwaarde aan de foto toe.",
       "sourceName": "WB_LGZ_045_temperatuur_meten_stap_04_REE_v01.png",
       "version": 1,
       "style": "foto",
@@ -352,7 +352,7 @@
           "exercise": {
             "instruction": "De meetwaarde is niet leesbaar. Gebruik de verzonnen voorbeeldzin om een klacht te bespreken; lees geen temperatuur af uit deze foto.",
             "example_answer": "In deze verzonnen situatie zegt de patiënt: Ik heb koorts.",
-            "note": "Thermometer aflezen zichtbaar; de displaywaarde is niet leesbaar. Koorts/verhoging alleen met fictieve waarde in een taaloefening. Geen meetwaarde aan de foto toeschrijven."
+            "note": "De meetwaarde is niet leesbaar. Oefen koorts en lichte verhoging met een verzonnen gesprek; schrijf geen meetwaarde aan de foto toe."
           }
         }
       ],
@@ -378,7 +378,7 @@
         "foto"
       ],
       "type": "ACT",
-      "note": "Vrouw rust op bank onder deken. Vermoeidheid of herstel in de dialoog aangeven.",
+      "note": "Bespreek moe zijn en uitrusten met een korte dialoog.",
       "sourceName": "WB_LGZ_071_rust_nemen_ACT_v01.png",
       "version": 1,
       "style": "foto",
@@ -424,7 +424,7 @@
           "exercise": {
             "instruction": "Lees de voorbeeldzin en oefen een kort gesprek bij de foto.",
             "example_answer": "Ik ben moe. Ik rust uit op de bank.",
-            "note": "Vrouw rust op bank onder deken. Vermoeidheid of herstel in de dialoog aangeven."
+            "note": "Bespreek moe zijn en uitrusten met een korte dialoog."
           }
         }
       ],
@@ -448,7 +448,7 @@
         "foto"
       ],
       "type": "ACT",
-      "note": "Apotheekbalie, medewerker en klant herkenbaar. Geschikt voor apotheekbezoek; voorschrift afhalen bij huisarts wordt apart gemaakt.",
+      "note": "Bespreek een bezoek aan de apotheek. Een recept halen bij de huisarts is een aparte beeldkaart.",
       "sourceName": "WB_LGZ_067_apotheek_OVZ_v01.png",
       "version": 1,
       "style": "foto",
@@ -473,7 +473,7 @@
           "exercise": {
             "instruction": "Lees de voorbeeldzin en oefen een kort gesprek bij de foto.",
             "example_answer": "Ik ga naar de apotheek.",
-            "note": "Apotheekbalie, medewerker en klant herkenbaar. Geschikt voor apotheekbezoek; voorschrift afhalen bij huisarts wordt apart gemaakt."
+            "note": "Bespreek een bezoek aan de apotheek. Een recept halen bij de huisarts is een aparte beeldkaart."
           }
         }
       ],
@@ -499,7 +499,7 @@
         "foto"
       ],
       "type": "ACT",
-      "note": "Vrouw houdt één oor vast met een pijnlijk gezicht; twee plausibele handen, geen telefoon of koptelefoon. Contextzin: Ik heb oorpijn.",
+      "note": "Gebruik de contextzin Ik heb oorpijn en laat de cursist aanwijzen waar het pijn doet.",
       "sourceName": "WB_ZORG_B02_001_oorpijn_ACT_v01.png",
       "version": 1,
       "style": "foto",
@@ -531,7 +531,7 @@
           "exercise": {
             "instruction": "Lees de voorbeeldzin en oefen een kort gesprek bij de foto.",
             "example_answer": "Ik heb oorpijn.",
-            "note": "Vrouw houdt één oor vast met een pijnlijk gezicht; twee plausibele handen, geen telefoon of koptelefoon. Contextzin: Ik heb oorpijn."
+            "note": "Gebruik de contextzin Ik heb oorpijn en laat de cursist aanwijzen waar het pijn doet."
           }
         }
       ],
@@ -559,7 +559,7 @@
         "foto"
       ],
       "type": "ACT",
-      "note": "Man houdt bovenbuik vast en schuift eten weg; plausibele handen. Contextzin Ik ben misselijk onderscheidt de klacht van buikpijn.",
+      "note": "Gebruik Ik ben misselijk om de klacht van buikpijn te onderscheiden.",
       "sourceName": "WB_ZORG_B02_002_misselijk_ACT_v01.png",
       "version": 1,
       "style": "foto",
@@ -598,7 +598,7 @@
           "exercise": {
             "instruction": "Lees de voorbeeldzin en oefen een kort gesprek bij de foto.",
             "example_answer": "Ik ben misselijk. Ik wil nu niet eten.",
-            "note": "Man houdt bovenbuik vast en schuift eten weg; plausibele handen. Contextzin Ik ben misselijk onderscheidt de klacht van buikpijn."
+            "note": "Gebruik Ik ben misselijk om de klacht van buikpijn te onderscheiden."
           }
         }
       ],
@@ -623,7 +623,7 @@
         "foto"
       ],
       "type": "ACT",
-      "note": "Pedicure met handschoenen, nagelvijl en ondersteunde voet; beide volwassenen en beide voeten logisch zichtbaar. Gewone niet-invasieve verzorging.",
+      "note": "Bespreek voetverzorging en een afspraak bij de pedicure.",
       "sourceName": "WB_ZORG_B02_003_pedicure_ACT_v01.png",
       "version": 1,
       "style": "foto",
@@ -648,7 +648,7 @@
           "exercise": {
             "instruction": "Lees de voorbeeldzin en oefen een kort gesprek bij de foto.",
             "example_answer": "Ik ga naar de pedicure. Zij verzorgt mijn voeten.",
-            "note": "Pedicure met handschoenen, nagelvijl en ondersteunde voet; beide volwassenen en beide voeten logisch zichtbaar. Gewone niet-invasieve verzorging."
+            "note": "Bespreek voetverzorging en een afspraak bij de pedicure."
           }
         }
       ],
@@ -677,7 +677,7 @@
         "foto"
       ],
       "type": "ACT",
-      "note": "Recept wordt bij huisartsenpraktijk overhandigd; tekst RECEPT leesbaar, geen persoonsgegevens of medicijngegevens. Geen apotheeksetting.",
+      "note": "Hier haalt iemand een papieren recept bij de huisartsenpraktijk. Dit is een andere handeling dan medicijnen ophalen bij de apotheek.",
       "sourceName": "WB_ZORG_B02_004_recept_halen_ACT_v01.png",
       "version": 1,
       "style": "foto",
@@ -702,7 +702,7 @@
           "exercise": {
             "instruction": "Lees de voorbeeldzin en oefen een kort gesprek bij de foto.",
             "example_answer": "Ik haal een recept bij de huisartsenpraktijk.",
-            "note": "Recept wordt bij huisartsenpraktijk overhandigd; tekst RECEPT leesbaar, geen persoonsgegevens of medicijngegevens. Geen apotheeksetting."
+            "note": "Hier haalt iemand een papieren recept bij de huisartsenpraktijk. Dit is een andere handeling dan medicijnen ophalen bij de apotheek."
           }
         }
       ],
@@ -733,7 +733,7 @@
         "foto"
       ],
       "type": "ACT",
-      "note": "Patiënt bespreekt keelklacht met huisarts; spreekkamer, onderzoekbank en stethoscoop herkenbaar. Diagnose en duur alleen in gesprek, niet uit het beeld afleiden.",
+      "note": "Bespreek de klacht en de duur in een dialoog. Een diagnose kan niet uit de foto worden afgeleid.",
       "sourceName": "WB_ZORG_B02_005_huisartsconsult_ACT_v01.png",
       "version": 1,
       "style": "foto",
@@ -807,7 +807,7 @@
           "exercise": {
             "instruction": "Lees de voorbeeldzin en oefen een kort gesprek bij de foto.",
             "example_answer": "Waar hebt u last van? Ik heb keelpijn. Hoelang hebt u dat al? Sinds gisteren.",
-            "note": "Patiënt bespreekt keelklacht met huisarts; spreekkamer, onderzoekbank en stethoscoop herkenbaar. Diagnose en duur alleen in gesprek, niet uit het beeld afleiden."
+            "note": "Bespreek de klacht en de duur in een dialoog. Een diagnose kan niet uit de foto worden afgeleid."
           }
         }
       ],
@@ -837,7 +837,7 @@
         "foto"
       ],
       "type": "ACT",
-      "note": "Arts en bezoeker spreken bij mobiele zorgpost in stad. Geen stereotypering; functie straatarts in contextzin benoemen.",
+      "note": "Benoem de rol in de contextzin: Dit is een straatarts. Bespreek waar en aan wie de arts hulp biedt.",
       "sourceName": "WB_ZORG_B02_006_straatarts_ACT_v01.png",
       "version": 1,
       "style": "foto",
@@ -869,7 +869,7 @@
           "exercise": {
             "instruction": "Lees de voorbeeldzin en oefen een kort gesprek bij de foto.",
             "example_answer": "Dit is een straatarts. De straatarts biedt medische hulp op straat.",
-            "note": "Arts en bezoeker spreken bij mobiele zorgpost in stad. Geen stereotypering; functie straatarts in contextzin benoemen."
+            "note": "Benoem de rol in de contextzin: Dit is een straatarts. Bespreek waar en aan wie de arts hulp biedt."
           }
         }
       ],

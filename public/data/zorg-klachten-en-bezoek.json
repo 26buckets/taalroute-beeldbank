@@ -1,1 +1,1399 @@
-{"collection":{"id":"zorg-klachten-en-bezoek","title":"Klachten, verzorging en zorgbezoek","imageCount":13,"independentImages":13,"sequences":0},"assets":[{"id":"lgz-033","n":5001,"title":"Buikpijn — hand op de buik","description":"Een volwassene houdt een hand op de buik.","words":["buikpijn","buikpijn — hand op de buik"],"uses":["Lichaam, verzorging en zorg","foto"],"type":"ACT","note":"Hand op buik bruikbaar als aanwijspunt. Voor buikpijn de zin toevoegen: Ik heb buikpijn. Pijn niet zelfstandig zichtbaar.","sourceName":"WB_LGZ_033_hand_op_buik_REL_v01.png","version":1,"style":"foto","source":{"driveFileId":"1jwzurgArmrNQXM2OCyN-JU3sh3jCi7Pd","url":"https://drive.google.com/file/d/1jwzurgArmrNQXM2OCyN-JU3sh3jCi7Pd/view?usp=drivesdk"},"methodLinks":[{"lesson":"VS-L47","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47","word":"buikpijn","conceptId":"ZORG-B02-01"}],"concepts":[{"id":"ZORG-B02-01","word":"buikpijn","group":"zorg","exercise":{"instruction":"Lees de voorbeeldzin en oefen een kort gesprek bij de foto.","example_answer":"Ik heb buikpijn.","note":"Hand op buik bruikbaar als aanwijspunt. Voor buikpijn de zin toevoegen: Ik heb buikpijn. Pijn niet zelfstandig zichtbaar."}}],"relatedAssetIds":["los-N-B1-I05-p02","los-N-B1-I06-p02"],"auditIds":["WB-AUD-0451"],"renditions":{"thumb":{"width":256,"height":256,"avif":"images/zorg-klachten-en-bezoek/lgz-033-thumb-878fb80a51.avif","webp":"images/zorg-klachten-en-bezoek/lgz-033-thumb-cbf3276464.webp"},"full":{"width":768,"height":768,"avif":"images/zorg-klachten-en-bezoek/lgz-033-full-4175ba3642.avif","webp":"images/zorg-klachten-en-bezoek/lgz-033-full-fcb33c583d.webp"}}},{"id":"lgz-034","n":5002,"title":"Hoofdpijn — hand op het hoofd","description":"Een man houdt een hand op zijn hoofd.","words":["hoofdpijn","hoofdpijn — hand op het hoofd"],"uses":["Lichaam, verzorging en zorg","foto"],"type":"ACT","note":"Hand op hoofd is duidelijk, maar de man oogt niet ziek. Alleen met expliciete context: Ik heb hoofdpijn.","sourceName":"WB_LGZ_034_hand_op_hoofd_REL_v01.png","version":1,"style":"foto","source":{"driveFileId":"1vaftzun9LWN_kiWAV4T5YmPLr7ukpYIc","url":"https://drive.google.com/file/d/1vaftzun9LWN_kiWAV4T5YmPLr7ukpYIc/view?usp=drivesdk"},"methodLinks":[{"lesson":"VS-L43","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-43","word":"hoofdpijn","conceptId":"ZORG-B02-02"},{"lesson":"VS-L44","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-44","word":"hoofdpijn","conceptId":"ZORG-B02-02"},{"lesson":"VS-L47","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47","word":"hoofdpijn","conceptId":"ZORG-B02-02"},{"lesson":"VS-L48","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-48","word":"hoofdpijn","conceptId":"ZORG-B02-02"}],"concepts":[{"id":"ZORG-B02-02","word":"hoofdpijn","group":"zorg","exercise":{"instruction":"Lees de voorbeeldzin en oefen een kort gesprek bij de foto.","example_answer":"Ik heb hoofdpijn.","note":"Hand op hoofd is duidelijk, maar de man oogt niet ziek. Alleen met expliciete context: Ik heb hoofdpijn."}}],"relatedAssetIds":["los-N-B1-I05-p01","los-N-B1-I05-p02","los-N-B1-I06-p02","los-N-B1-I07-p01","los-N-B2-I09-p01"],"auditIds":["WB-AUD-0455"],"renditions":{"thumb":{"width":256,"height":256,"avif":"images/zorg-klachten-en-bezoek/lgz-034-thumb-8b18aeceba.avif","webp":"images/zorg-klachten-en-bezoek/lgz-034-thumb-bcfa669717.webp"},"full":{"width":768,"height":768,"avif":"images/zorg-klachten-en-bezoek/lgz-034-full-5e83f3d284.avif","webp":"images/zorg-klachten-en-bezoek/lgz-034-full-45e60c0eda.webp"}}},{"id":"lgz-030","n":5003,"title":"Niezen bij verkoudheid","description":"Een volwassene niest.","words":["verkouden","niezen bij verkoudheid"],"uses":["Lichaam, verzorging en zorg","foto"],"type":"ACT","note":"Niezen en hoesten zijn zichtbaar. Verkouden als contextzin toevoegen; deze handelingen bewijzen geen diagnose.","sourceName":"WB_LGZ_030_niezen_ACT_v01.png","version":1,"style":"foto","source":{"driveFileId":"1E3_A1ndO2T20BengT5Y_O-VjelpfcJFM","url":"https://drive.google.com/file/d/1E3_A1ndO2T20BengT5Y_O-VjelpfcJFM/view?usp=drivesdk"},"methodLinks":[{"lesson":"VS-L03","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-1-les-3","word":"verkouden","conceptId":"ZORG-B02-03"},{"lesson":"VS-L43","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-43","word":"verkouden","conceptId":"ZORG-B02-03"},{"lesson":"VS-L44","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-44","word":"verkouden","conceptId":"ZORG-B02-03"},{"lesson":"VS-L47","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47","word":"verkouden","conceptId":"ZORG-B02-03"},{"lesson":"VS-L48","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-48","word":"verkouden","conceptId":"ZORG-B02-03"}],"concepts":[{"id":"ZORG-B02-03","word":"verkouden","group":"zorg","exercise":{"instruction":"Lees de voorbeeldzin en oefen een kort gesprek bij de foto.","example_answer":"Ik ben verkouden. Ik moet niezen.","note":"Niezen en hoesten zijn zichtbaar. Verkouden als contextzin toevoegen; deze handelingen bewijzen geen diagnose."}}],"relatedAssetIds":["los-N-A2-U14-p01","los-N-B2-V19-p01"],"auditIds":["WB-AUD-0467"],"renditions":{"thumb":{"width":254,"height":256,"avif":"images/zorg-klachten-en-bezoek/lgz-030-thumb-dea872785e.avif","webp":"images/zorg-klachten-en-bezoek/lgz-030-thumb-83d191def3.webp"},"full":{"width":506,"height":509,"avif":"images/zorg-klachten-en-bezoek/lgz-030-full-88fe8e893c.avif","webp":"images/zorg-klachten-en-bezoek/lgz-030-full-ec6d43d9a3.webp"}}},{"id":"lgz-029","n":5004,"title":"Hoesten bij verkoudheid","description":"Een volwassene hoest.","words":["verkouden","hoesten bij verkoudheid"],"uses":["Lichaam, verzorging en zorg","foto"],"type":"ACT","note":"Niezen en hoesten zijn zichtbaar. Verkouden als contextzin toevoegen; deze handelingen bewijzen geen diagnose.","sourceName":"WB_LGZ_029_hoesten_ACT_v01.png","version":1,"style":"foto","source":{"driveFileId":"1EheUJ2QkswDfcvolNaW-qkdylrXv1KsA","url":"https://drive.google.com/file/d/1EheUJ2QkswDfcvolNaW-qkdylrXv1KsA/view?usp=drivesdk"},"methodLinks":[{"lesson":"VS-L03","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-1-les-3","word":"verkouden","conceptId":"ZORG-B02-03"},{"lesson":"VS-L43","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-43","word":"verkouden","conceptId":"ZORG-B02-03"},{"lesson":"VS-L44","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-44","word":"verkouden","conceptId":"ZORG-B02-03"},{"lesson":"VS-L47","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47","word":"verkouden","conceptId":"ZORG-B02-03"},{"lesson":"VS-L48","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-48","word":"verkouden","conceptId":"ZORG-B02-03"}],"concepts":[{"id":"ZORG-B02-03","word":"verkouden","group":"zorg","exercise":{"instruction":"Lees de voorbeeldzin en oefen een kort gesprek bij de foto.","example_answer":"Ik ben verkouden. Ik moet hoesten.","note":"Niezen en hoesten zijn zichtbaar. Verkouden als contextzin toevoegen; deze handelingen bewijzen geen diagnose."}}],"relatedAssetIds":["los-N-A2-U14-p01","los-N-B2-V19-p01"],"auditIds":["WB-AUD-0467"],"renditions":{"thumb":{"width":254,"height":256,"avif":"images/zorg-klachten-en-bezoek/lgz-029-thumb-311e6250a7.avif","webp":"images/zorg-klachten-en-bezoek/lgz-029-thumb-4fd6c532dc.webp"},"full":{"width":506,"height":509,"avif":"images/zorg-klachten-en-bezoek/lgz-029-full-37b05fc8e1.avif","webp":"images/zorg-klachten-en-bezoek/lgz-029-full-0631392468.webp"}}},{"id":"lgz-045","n":5005,"title":"De thermometer aflezen","description":"Een volwassene leest een thermometer af. De meetwaarde is niet leesbaar.","words":["koorts","lichte verhoging","de thermometer aflezen"],"uses":["Lichaam, verzorging en zorg","foto"],"type":"ACT","note":"Thermometer aflezen zichtbaar; de displaywaarde is niet leesbaar. Koorts/verhoging alleen met fictieve waarde in een taaloefening. Geen meetwaarde aan de foto toeschrijven.","sourceName":"WB_LGZ_045_temperatuur_meten_stap_04_REE_v01.png","version":1,"style":"foto","source":{"driveFileId":"1g0h4m1OdLKCKhpLM_K1n0wJgq9gIOm7e","url":"https://drive.google.com/file/d/1g0h4m1OdLKCKhpLM_K1n0wJgq9gIOm7e/view?usp=drivesdk"},"methodLinks":[{"lesson":"VS-L43","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-43","word":"temperatuur en klachten","conceptId":"ZORG-B02-04"},{"lesson":"VS-L44","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-44","word":"temperatuur en klachten","conceptId":"ZORG-B02-04"},{"lesson":"VS-L47","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47","word":"temperatuur en klachten","conceptId":"ZORG-B02-04"},{"lesson":"VS-L48","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-48","word":"temperatuur en klachten","conceptId":"ZORG-B02-04"}],"concepts":[{"id":"ZORG-B02-04","word":"temperatuur en klachten","group":"zorg","exercise":{"instruction":"De meetwaarde is niet leesbaar. Gebruik de verzonnen voorbeeldzin om een klacht te bespreken; lees geen temperatuur af uit deze foto.","example_answer":"In deze verzonnen situatie zegt de patiënt: Ik heb koorts.","note":"Thermometer aflezen zichtbaar; de displaywaarde is niet leesbaar. Koorts/verhoging alleen met fictieve waarde in een taaloefening. Geen meetwaarde aan de foto toeschrijven."}}],"relatedAssetIds":[],"auditIds":["WB-AUD-0457","WB-AUD-0458"],"renditions":{"thumb":{"width":256,"height":170,"avif":"images/zorg-klachten-en-bezoek/lgz-045-thumb-13d570ee09.avif","webp":"images/zorg-klachten-en-bezoek/lgz-045-thumb-78075da62c.webp"},"full":{"width":764,"height":508,"avif":"images/zorg-klachten-en-bezoek/lgz-045-full-64912c18da.avif","webp":"images/zorg-klachten-en-bezoek/lgz-045-full-9192ae80fa.webp"}}},{"id":"lgz-071","n":5006,"title":"Uitrusten op de bank","description":"Een vrouw rust onder een deken op de bank.","words":["moe","uitrusten","rust","uitrusten op de bank"],"uses":["Lichaam, verzorging en zorg","foto"],"type":"ACT","note":"Vrouw rust op bank onder deken. Vermoeidheid of herstel in de dialoog aangeven.","sourceName":"WB_LGZ_071_rust_nemen_ACT_v01.png","version":1,"style":"foto","source":{"driveFileId":"1l376f2gPCdAM3o2raEBfo-4zt5PGcwAX","url":"https://drive.google.com/file/d/1l376f2gPCdAM3o2raEBfo-4zt5PGcwAX/view?usp=drivesdk"},"methodLinks":[{"lesson":"VS-L43","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-43","word":"moe en uitrusten","conceptId":"ZORG-B02-05"},{"lesson":"VS-L45","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-3-les-34","word":"moe en uitrusten","conceptId":"ZORG-B02-05"},{"lesson":"VS-L47","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47","word":"moe en uitrusten","conceptId":"ZORG-B02-05"},{"lesson":"IN-L20","route":"Inzicht","url":"https://docent.lingua-academy.nl/a2-b1inzicht/blok-2-les-20","word":"moe en uitrusten","conceptId":"ZORG-B02-05"}],"concepts":[{"id":"ZORG-B02-05","word":"moe en uitrusten","group":"zorg","exercise":{"instruction":"Lees de voorbeeldzin en oefen een kort gesprek bij de foto.","example_answer":"Ik ben moe. Ik rust uit op de bank.","note":"Vrouw rust op bank onder deken. Vermoeidheid of herstel in de dialoog aangeven."}}],"relatedAssetIds":[],"auditIds":["WB-AUD-0462","WB-AUD-0489","WB-AUD-0493"],"renditions":{"thumb":{"width":256,"height":256,"avif":"images/zorg-klachten-en-bezoek/lgz-071-thumb-e9a142e656.avif","webp":"images/zorg-klachten-en-bezoek/lgz-071-thumb-fc61baf33e.webp"},"full":{"width":768,"height":768,"avif":"images/zorg-klachten-en-bezoek/lgz-071-full-a9f54938b8.avif","webp":"images/zorg-klachten-en-bezoek/lgz-071-full-b4aa71c662.webp"}}},{"id":"lgz-067","n":5007,"title":"Naar de apotheek gaan","description":"Een klant spreekt met een medewerker aan de apotheekbalie.","words":["naar de apotheek gaan"],"uses":["Lichaam, verzorging en zorg","foto"],"type":"ACT","note":"Apotheekbalie, medewerker en klant herkenbaar. Geschikt voor apotheekbezoek; voorschrift afhalen bij huisarts wordt apart gemaakt.","sourceName":"WB_LGZ_067_apotheek_OVZ_v01.png","version":1,"style":"foto","source":{"driveFileId":"1SLAUmk4ULTWjelSuk8bTDnjey5LahA0Y","url":"https://drive.google.com/file/d/1SLAUmk4ULTWjelSuk8bTDnjey5LahA0Y/view?usp=drivesdk"},"methodLinks":[{"lesson":"VS-L46","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-44-week-16","word":"naar de apotheek gaan","conceptId":"ZORG-B02-06"}],"concepts":[{"id":"ZORG-B02-06","word":"naar de apotheek gaan","group":"zorg","exercise":{"instruction":"Lees de voorbeeldzin en oefen een kort gesprek bij de foto.","example_answer":"Ik ga naar de apotheek.","note":"Apotheekbalie, medewerker en klant herkenbaar. Geschikt voor apotheekbezoek; voorschrift afhalen bij huisarts wordt apart gemaakt."}}],"relatedAssetIds":["los-N-B1-I02-p02","los-N-B1-I03-p02","los-N-B1-I04-p02"],"auditIds":["WB-AUD-0483"],"renditions":{"thumb":{"width":256,"height":256,"avif":"images/zorg-klachten-en-bezoek/lgz-067-thumb-80082f7b0d.avif","webp":"images/zorg-klachten-en-bezoek/lgz-067-thumb-f7a6ab1a9b.webp"},"full":{"width":768,"height":768,"avif":"images/zorg-klachten-en-bezoek/lgz-067-full-2c2aa8d49f.avif","webp":"images/zorg-klachten-en-bezoek/lgz-067-full-0b41483573.webp"}}},{"id":"zorg-b02-001","n":5008,"title":"Oorpijn","description":"Een vrouw houdt een hand bij haar oor en kijkt pijnlijk.","words":["oorpijn"],"uses":["Lichaam, verzorging en zorg","foto"],"type":"ACT","note":"Vrouw houdt één oor vast met een pijnlijk gezicht; twee plausibele handen, geen telefoon of koptelefoon. Contextzin: Ik heb oorpijn.","sourceName":"WB_ZORG_B02_001_oorpijn_ACT_v01.png","version":1,"style":"foto","source":{"driveFileId":"1Z8Tw7cGk0f-m6Pa17HkVCu1w3VISfMTT","url":"https://drive.google.com/file/d/1Z8Tw7cGk0f-m6Pa17HkVCu1w3VISfMTT/view?usp=drivesdk"},"methodLinks":[{"lesson":"VS-L43","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-43","word":"oorpijn","conceptId":"ZORG-B02-07"},{"lesson":"VS-L47","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47","word":"oorpijn","conceptId":"ZORG-B02-07"}],"concepts":[{"id":"ZORG-B02-07","word":"oorpijn","group":"zorg","exercise":{"instruction":"Lees de voorbeeldzin en oefen een kort gesprek bij de foto.","example_answer":"Ik heb oorpijn.","note":"Vrouw houdt één oor vast met een pijnlijk gezicht; twee plausibele handen, geen telefoon of koptelefoon. Contextzin: Ik heb oorpijn."}}],"relatedAssetIds":["los-TR-IDIOMS-P001-018-R5-p01","los-TR-REBUS-KORT-28-p01","los-N-A1-U12-p01","los-N-B1-I05-p02","los-N-B1-I06-p02"],"auditIds":["WB-AUD-0463"],"renditions":{"thumb":{"width":256,"height":171,"avif":"images/zorg-klachten-en-bezoek/zorg-b02-001-thumb-17e846cf0b.avif","webp":"images/zorg-klachten-en-bezoek/zorg-b02-001-thumb-4dd4ff0a4f.webp"},"full":{"width":768,"height":512,"avif":"images/zorg-klachten-en-bezoek/zorg-b02-001-full-35c7a09232.avif","webp":"images/zorg-klachten-en-bezoek/zorg-b02-001-full-6e4c396b3b.webp"}}},{"id":"zorg-b02-002","n":5009,"title":"Misselijk","description":"Een man houdt een hand op zijn bovenbuik en schuift een bord eten weg.","words":["misselijk"],"uses":["Lichaam, verzorging en zorg","foto"],"type":"ACT","note":"Man houdt bovenbuik vast en schuift eten weg; plausibele handen. Contextzin Ik ben misselijk onderscheidt de klacht van buikpijn.","sourceName":"WB_ZORG_B02_002_misselijk_ACT_v01.png","version":1,"style":"foto","source":{"driveFileId":"1PXRkneHtzj_RXSOVF2ZdWrzsCPxvLedM","url":"https://drive.google.com/file/d/1PXRkneHtzj_RXSOVF2ZdWrzsCPxvLedM/view?usp=drivesdk"},"methodLinks":[{"lesson":"VS-L43","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-43","word":"misselijk","conceptId":"ZORG-B02-08"},{"lesson":"VS-L47","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47","word":"misselijk","conceptId":"ZORG-B02-08"},{"lesson":"VS-L48","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-48","word":"misselijk","conceptId":"ZORG-B02-08"}],"concepts":[{"id":"ZORG-B02-08","word":"misselijk","group":"zorg","exercise":{"instruction":"Lees de voorbeeldzin en oefen een kort gesprek bij de foto.","example_answer":"Ik ben misselijk. Ik wil nu niet eten.","note":"Man houdt bovenbuik vast en schuift eten weg; plausibele handen. Contextzin Ik ben misselijk onderscheidt de klacht van buikpijn."}}],"relatedAssetIds":["los-N-B1-I05-p02","los-N-B1-I06-p02"],"auditIds":["WB-AUD-0461"],"renditions":{"thumb":{"width":256,"height":171,"avif":"images/zorg-klachten-en-bezoek/zorg-b02-002-thumb-978e4e7957.avif","webp":"images/zorg-klachten-en-bezoek/zorg-b02-002-thumb-fdd26148c9.webp"},"full":{"width":768,"height":512,"avif":"images/zorg-klachten-en-bezoek/zorg-b02-002-full-d81b4e4255.avif","webp":"images/zorg-klachten-en-bezoek/zorg-b02-002-full-4e3ca63d9a.webp"}}},{"id":"zorg-b02-003","n":5010,"title":"Naar de pedicure gaan","description":"Een pedicure verzorgt de nagels van een ondersteunde voet.","words":["naar de pedicure gaan"],"uses":["Lichaam, verzorging en zorg","foto"],"type":"ACT","note":"Pedicure met handschoenen, nagelvijl en ondersteunde voet; beide volwassenen en beide voeten logisch zichtbaar. Gewone niet-invasieve verzorging.","sourceName":"WB_ZORG_B02_003_pedicure_ACT_v01.png","version":1,"style":"foto","source":{"driveFileId":"1B4etdyP50HJtKBLoYkY1SCEmwN5J53Y8","url":"https://drive.google.com/file/d/1B4etdyP50HJtKBLoYkY1SCEmwN5J53Y8/view?usp=drivesdk"},"methodLinks":[{"lesson":"VS-L45","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-3-les-34","word":"naar de pedicure gaan","conceptId":"ZORG-B02-09"}],"concepts":[{"id":"ZORG-B02-09","word":"naar de pedicure gaan","group":"zorg","exercise":{"instruction":"Lees de voorbeeldzin en oefen een kort gesprek bij de foto.","example_answer":"Ik ga naar de pedicure. Zij verzorgt mijn voeten.","note":"Pedicure met handschoenen, nagelvijl en ondersteunde voet; beide volwassenen en beide voeten logisch zichtbaar. Gewone niet-invasieve verzorging."}}],"relatedAssetIds":["los-TR-REBUS-BRON01-21-p04","los-TR-REBUS-KORT-23-p01","los-TR-REBUS-KORT-40-p01","los-N-B1-I08-p01","los-N-B2-I14-p01","los-N-B2-U20-p03"],"auditIds":["WB-1df9d6ff80"],"renditions":{"thumb":{"width":256,"height":171,"avif":"images/zorg-klachten-en-bezoek/zorg-b02-003-thumb-a67eec79f8.avif","webp":"images/zorg-klachten-en-bezoek/zorg-b02-003-thumb-2b7bc03d17.webp"},"full":{"width":768,"height":512,"avif":"images/zorg-klachten-en-bezoek/zorg-b02-003-full-7050e29eea.avif","webp":"images/zorg-klachten-en-bezoek/zorg-b02-003-full-54dc1c85b6.webp"}}},{"id":"zorg-b02-004","n":5011,"title":"Een recept halen","description":"Een medewerker overhandigt een papier met RECEPT aan een bezoeker van de huisartsenpraktijk.","words":["een recept halen"],"uses":["Lichaam, verzorging en zorg","foto"],"type":"ACT","note":"Recept wordt bij huisartsenpraktijk overhandigd; tekst RECEPT leesbaar, geen persoonsgegevens of medicijngegevens. Geen apotheeksetting.","sourceName":"WB_ZORG_B02_004_recept_halen_ACT_v01.png","version":1,"style":"foto","source":{"driveFileId":"1L9GpSUXm2sEFdWTrxIudn-cqRs4BC2QA","url":"https://drive.google.com/file/d/1L9GpSUXm2sEFdWTrxIudn-cqRs4BC2QA/view?usp=drivesdk"},"methodLinks":[{"lesson":"VS-L46","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-44-week-16","word":"een recept halen","conceptId":"ZORG-B02-10"}],"concepts":[{"id":"ZORG-B02-10","word":"een recept halen","group":"zorg","exercise":{"instruction":"Lees de voorbeeldzin en oefen een kort gesprek bij de foto.","example_answer":"Ik haal een recept bij de huisartsenpraktijk.","note":"Recept wordt bij huisartsenpraktijk overhandigd; tekst RECEPT leesbaar, geen persoonsgegevens of medicijngegevens. Geen apotheeksetting."}}],"relatedAssetIds":["los-N-B1-I02-p02","los-N-B1-I03-p02","los-N-B1-I04-p02","los-N-B1-I16-p01"],"auditIds":["WB-AUD-0475"],"renditions":{"thumb":{"width":256,"height":171,"avif":"images/zorg-klachten-en-bezoek/zorg-b02-004-thumb-0fd18c53bd.avif","webp":"images/zorg-klachten-en-bezoek/zorg-b02-004-thumb-c6d853631c.webp"},"full":{"width":768,"height":512,"avif":"images/zorg-klachten-en-bezoek/zorg-b02-004-full-22ffb4d594.avif","webp":"images/zorg-klachten-en-bezoek/zorg-b02-004-full-3aa8ab79d6.webp"}}},{"id":"zorg-b02-005","n":5012,"title":"Een consult bij de huisarts","description":"Een patiënt bespreekt een keelklacht met een huisarts in een spreekkamer.","words":["diagnose","huisarts","klacht","hoelang hebt u dat al","een consult bij de huisarts"],"uses":["Lichaam, verzorging en zorg","foto"],"type":"ACT","note":"Patiënt bespreekt keelklacht met huisarts; spreekkamer, onderzoekbank en stethoscoop herkenbaar. Diagnose en duur alleen in gesprek, niet uit het beeld afleiden.","sourceName":"WB_ZORG_B02_005_huisartsconsult_ACT_v01.png","version":1,"style":"foto","source":{"driveFileId":"1BhqQn_TgJ55olkrMsWgs7X_b8dUrs5lh","url":"https://drive.google.com/file/d/1BhqQn_TgJ55olkrMsWgs7X_b8dUrs5lh/view?usp=drivesdk"},"methodLinks":[{"lesson":"VS-L44","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-44","word":"consult bij huisarts","conceptId":"ZORG-B02-11"},{"lesson":"IN-L11","route":"Inzicht","url":"https://docent.lingua-academy.nl/a2-b1inzicht/blok-1-les-11","word":"consult bij huisarts","conceptId":"ZORG-B02-11"},{"lesson":"IN-L14","route":"Inzicht","url":"https://docent.lingua-academy.nl/a2-b1inzicht/blok-2-les-14","word":"consult bij huisarts","conceptId":"ZORG-B02-11"},{"lesson":"FI-L30","route":"De Finale","url":"https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-4-les-30","word":"consult bij huisarts","conceptId":"ZORG-B02-11"},{"lesson":"VO-L02","route":"Vooruit","url":"https://docent.lingua-academy.nl/examentraining/les-2","word":"consult bij huisarts","conceptId":"ZORG-B02-11"},{"lesson":"VO-L04","route":"Vooruit","url":"https://docent.lingua-academy.nl/examentraining/les-4","word":"consult bij huisarts","conceptId":"ZORG-B02-11"},{"lesson":"VO-L12","route":"Vooruit","url":"https://docent.lingua-academy.nl/examentraining/les-12","word":"consult bij huisarts","conceptId":"ZORG-B02-11"},{"lesson":"VO-L13","route":"Vooruit","url":"https://docent.lingua-academy.nl/examentraining/les-13","word":"consult bij huisarts","conceptId":"ZORG-B02-11"}],"concepts":[{"id":"ZORG-B02-11","word":"consult bij huisarts","group":"zorg","exercise":{"instruction":"Lees de voorbeeldzin en oefen een kort gesprek bij de foto.","example_answer":"Waar hebt u last van? Ik heb keelpijn. Hoelang hebt u dat al? Sinds gisteren.","note":"Patiënt bespreekt keelklacht met huisarts; spreekkamer, onderzoekbank en stethoscoop herkenbaar. Diagnose en duur alleen in gesprek, niet uit het beeld afleiden."}}],"relatedAssetIds":["los-N-B1-I02-p02","los-N-B1-I03-p02","los-N-B1-I04-p02"],"auditIds":["WB-AUD-0476","WB-AUD-0481","WB-AUD-0492","WB-AUD-0494"],"renditions":{"thumb":{"width":256,"height":171,"avif":"images/zorg-klachten-en-bezoek/zorg-b02-005-thumb-92615fe982.avif","webp":"images/zorg-klachten-en-bezoek/zorg-b02-005-thumb-2d5961c73f.webp"},"full":{"width":768,"height":512,"avif":"images/zorg-klachten-en-bezoek/zorg-b02-005-full-adc20d1f48.avif","webp":"images/zorg-klachten-en-bezoek/zorg-b02-005-full-177a693088.webp"}}},{"id":"zorg-b02-006","n":5013,"title":"De straatarts","description":"Een arts spreekt met een bezoeker bij een mobiele zorgpost in de stad.","words":["straatarts","de straatarts"],"uses":["Lichaam, verzorging en zorg","foto"],"type":"ACT","note":"Arts en bezoeker spreken bij mobiele zorgpost in stad. Geen stereotypering; functie straatarts in contextzin benoemen.","sourceName":"WB_ZORG_B02_006_straatarts_ACT_v01.png","version":1,"style":"foto","source":{"driveFileId":"1Ao8htMtsUxfpk4OXX07_XxXgBRWJbxuV","url":"https://drive.google.com/file/d/1Ao8htMtsUxfpk4OXX07_XxXgBRWJbxuV/view?usp=drivesdk"},"methodLinks":[{"lesson":"FI-L01","route":"De Finale","url":"https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-1-les-1","word":"straatarts","conceptId":"ZORG-B02-12"},{"lesson":"FI-L04","route":"De Finale","url":"https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-1-les-4","word":"straatarts","conceptId":"ZORG-B02-12"}],"concepts":[{"id":"ZORG-B02-12","word":"straatarts","group":"zorg","exercise":{"instruction":"Lees de voorbeeldzin en oefen een kort gesprek bij de foto.","example_answer":"Dit is een straatarts. De straatarts biedt medische hulp op straat.","note":"Arts en bezoeker spreken bij mobiele zorgpost in stad. Geen stereotypering; functie straatarts in contextzin benoemen."}}],"relatedAssetIds":["los-N-B1-I02-p02","los-N-B1-I03-p02","los-N-B1-I04-p02"],"auditIds":["WB-AUD-0496"],"renditions":{"thumb":{"width":256,"height":171,"avif":"images/zorg-klachten-en-bezoek/zorg-b02-006-thumb-6623aadade.avif","webp":"images/zorg-klachten-en-bezoek/zorg-b02-006-thumb-7a7e86ed72.webp"},"full":{"width":768,"height":512,"avif":"images/zorg-klachten-en-bezoek/zorg-b02-006-full-8e82d3a9f2.avif","webp":"images/zorg-klachten-en-bezoek/zorg-b02-006-full-121510e267.webp"}}}],"sequences":[],"methodLinks":[{"lesson":"VS-L47","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47","word":"buikpijn","conceptId":"ZORG-B02-01","assetId":"lgz-033"},{"lesson":"VS-L43","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-43","word":"hoofdpijn","conceptId":"ZORG-B02-02","assetId":"lgz-034"},{"lesson":"VS-L44","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-44","word":"hoofdpijn","conceptId":"ZORG-B02-02","assetId":"lgz-034"},{"lesson":"VS-L47","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47","word":"hoofdpijn","conceptId":"ZORG-B02-02","assetId":"lgz-034"},{"lesson":"VS-L48","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-48","word":"hoofdpijn","conceptId":"ZORG-B02-02","assetId":"lgz-034"},{"lesson":"VS-L03","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-1-les-3","word":"verkouden","conceptId":"ZORG-B02-03","assetId":"lgz-030"},{"lesson":"VS-L43","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-43","word":"verkouden","conceptId":"ZORG-B02-03","assetId":"lgz-030"},{"lesson":"VS-L44","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-44","word":"verkouden","conceptId":"ZORG-B02-03","assetId":"lgz-030"},{"lesson":"VS-L47","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47","word":"verkouden","conceptId":"ZORG-B02-03","assetId":"lgz-030"},{"lesson":"VS-L48","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-48","word":"verkouden","conceptId":"ZORG-B02-03","assetId":"lgz-030"},{"lesson":"VS-L03","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-1-les-3","word":"verkouden","conceptId":"ZORG-B02-03","assetId":"lgz-029"},{"lesson":"VS-L43","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-43","word":"verkouden","conceptId":"ZORG-B02-03","assetId":"lgz-029"},{"lesson":"VS-L44","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-44","word":"verkouden","conceptId":"ZORG-B02-03","assetId":"lgz-029"},{"lesson":"VS-L47","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47","word":"verkouden","conceptId":"ZORG-B02-03","assetId":"lgz-029"},{"lesson":"VS-L48","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-48","word":"verkouden","conceptId":"ZORG-B02-03","assetId":"lgz-029"},{"lesson":"VS-L43","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-43","word":"temperatuur en klachten","conceptId":"ZORG-B02-04","assetId":"lgz-045"},{"lesson":"VS-L44","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-44","word":"temperatuur en klachten","conceptId":"ZORG-B02-04","assetId":"lgz-045"},{"lesson":"VS-L47","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47","word":"temperatuur en klachten","conceptId":"ZORG-B02-04","assetId":"lgz-045"},{"lesson":"VS-L48","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-48","word":"temperatuur en klachten","conceptId":"ZORG-B02-04","assetId":"lgz-045"},{"lesson":"VS-L43","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-43","word":"moe en uitrusten","conceptId":"ZORG-B02-05","assetId":"lgz-071"},{"lesson":"VS-L45","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-3-les-34","word":"moe en uitrusten","conceptId":"ZORG-B02-05","assetId":"lgz-071"},{"lesson":"VS-L47","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47","word":"moe en uitrusten","conceptId":"ZORG-B02-05","assetId":"lgz-071"},{"lesson":"IN-L20","route":"Inzicht","url":"https://docent.lingua-academy.nl/a2-b1inzicht/blok-2-les-20","word":"moe en uitrusten","conceptId":"ZORG-B02-05","assetId":"lgz-071"},{"lesson":"VS-L46","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-44-week-16","word":"naar de apotheek gaan","conceptId":"ZORG-B02-06","assetId":"lgz-067"},{"lesson":"VS-L43","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-43","word":"oorpijn","conceptId":"ZORG-B02-07","assetId":"zorg-b02-001"},{"lesson":"VS-L47","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47","word":"oorpijn","conceptId":"ZORG-B02-07","assetId":"zorg-b02-001"},{"lesson":"VS-L43","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-43","word":"misselijk","conceptId":"ZORG-B02-08","assetId":"zorg-b02-002"},{"lesson":"VS-L47","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47","word":"misselijk","conceptId":"ZORG-B02-08","assetId":"zorg-b02-002"},{"lesson":"VS-L48","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-48","word":"misselijk","conceptId":"ZORG-B02-08","assetId":"zorg-b02-002"},{"lesson":"VS-L45","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-3-les-34","word":"naar de pedicure gaan","conceptId":"ZORG-B02-09","assetId":"zorg-b02-003"},{"lesson":"VS-L46","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-44-week-16","word":"een recept halen","conceptId":"ZORG-B02-10","assetId":"zorg-b02-004"},{"lesson":"VS-L44","route":"Van Start","url":"https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-44","word":"consult bij huisarts","conceptId":"ZORG-B02-11","assetId":"zorg-b02-005"},{"lesson":"IN-L11","route":"Inzicht","url":"https://docent.lingua-academy.nl/a2-b1inzicht/blok-1-les-11","word":"consult bij huisarts","conceptId":"ZORG-B02-11","assetId":"zorg-b02-005"},{"lesson":"IN-L14","route":"Inzicht","url":"https://docent.lingua-academy.nl/a2-b1inzicht/blok-2-les-14","word":"consult bij huisarts","conceptId":"ZORG-B02-11","assetId":"zorg-b02-005"},{"lesson":"FI-L30","route":"De Finale","url":"https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-4-les-30","word":"consult bij huisarts","conceptId":"ZORG-B02-11","assetId":"zorg-b02-005"},{"lesson":"VO-L02","route":"Vooruit","url":"https://docent.lingua-academy.nl/examentraining/les-2","word":"consult bij huisarts","conceptId":"ZORG-B02-11","assetId":"zorg-b02-005"},{"lesson":"VO-L04","route":"Vooruit","url":"https://docent.lingua-academy.nl/examentraining/les-4","word":"consult bij huisarts","conceptId":"ZORG-B02-11","assetId":"zorg-b02-005"},{"lesson":"VO-L12","route":"Vooruit","url":"https://docent.lingua-academy.nl/examentraining/les-12","word":"consult bij huisarts","conceptId":"ZORG-B02-11","assetId":"zorg-b02-005"},{"lesson":"VO-L13","route":"Vooruit","url":"https://docent.lingua-academy.nl/examentraining/les-13","word":"consult bij huisarts","conceptId":"ZORG-B02-11","assetId":"zorg-b02-005"},{"lesson":"FI-L01","route":"De Finale","url":"https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-1-les-1","word":"straatarts","conceptId":"ZORG-B02-12","assetId":"zorg-b02-006"},{"lesson":"FI-L04","route":"De Finale","url":"https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-1-les-4","word":"straatarts","conceptId":"ZORG-B02-12","assetId":"zorg-b02-006"}]}
+{
+  "collection": {
+    "id": "zorg-klachten-en-bezoek",
+    "title": "Klachten, verzorging en zorgbezoek",
+    "imageCount": 13,
+    "independentImages": 13,
+    "sequences": 0
+  },
+  "assets": [
+    {
+      "id": "lgz-033",
+      "n": 5001,
+      "title": "Buikpijn — hand op de buik",
+      "description": "Een volwassene houdt een hand op de buik.",
+      "words": [
+        "buikpijn",
+        "buikpijn — hand op de buik"
+      ],
+      "uses": [
+        "Lichaam, verzorging en zorg",
+        "foto"
+      ],
+      "type": "ACT",
+      "note": "Gebruik de contextzin Ik heb buikpijn. De hand wijst de buik aan; pijn is niet zelfstandig zichtbaar.",
+      "sourceName": "WB_LGZ_033_hand_op_buik_REL_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1jwzurgArmrNQXM2OCyN-JU3sh3jCi7Pd",
+        "url": "https://drive.google.com/file/d/1jwzurgArmrNQXM2OCyN-JU3sh3jCi7Pd/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "VS-L47",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47",
+          "word": "buikpijn",
+          "conceptId": "ZORG-B02-01"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "ZORG-B02-01",
+          "word": "buikpijn",
+          "group": "zorg",
+          "exercise": {
+            "instruction": "Lees de voorbeeldzin en oefen een kort gesprek bij de foto.",
+            "example_answer": "Ik heb buikpijn.",
+            "note": "Gebruik de contextzin Ik heb buikpijn. De hand wijst de buik aan; pijn is niet zelfstandig zichtbaar."
+          }
+        }
+      ],
+      "relatedAssetIds": [
+        "los-N-B1-I05-p02",
+        "los-N-B1-I06-p02"
+      ],
+      "auditIds": [
+        "WB-AUD-0451"
+      ],
+      "renditions": {
+        "thumb": {
+          "width": 256,
+          "height": 256,
+          "avif": "images/zorg-klachten-en-bezoek/lgz-033-thumb-878fb80a51.avif",
+          "webp": "images/zorg-klachten-en-bezoek/lgz-033-thumb-cbf3276464.webp"
+        },
+        "full": {
+          "width": 768,
+          "height": 768,
+          "avif": "images/zorg-klachten-en-bezoek/lgz-033-full-4175ba3642.avif",
+          "webp": "images/zorg-klachten-en-bezoek/lgz-033-full-fcb33c583d.webp"
+        }
+      }
+    },
+    {
+      "id": "lgz-034",
+      "n": 5002,
+      "title": "Hoofdpijn — hand op het hoofd",
+      "description": "Een man houdt een hand op zijn hoofd.",
+      "words": [
+        "hoofdpijn",
+        "hoofdpijn — hand op het hoofd"
+      ],
+      "uses": [
+        "Lichaam, verzorging en zorg",
+        "foto"
+      ],
+      "type": "ACT",
+      "note": "Gebruik de contextzin Ik heb hoofdpijn. Alleen de hand op het hoofd maakt de klacht niet duidelijk.",
+      "sourceName": "WB_LGZ_034_hand_op_hoofd_REL_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1vaftzun9LWN_kiWAV4T5YmPLr7ukpYIc",
+        "url": "https://drive.google.com/file/d/1vaftzun9LWN_kiWAV4T5YmPLr7ukpYIc/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "VS-L43",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-43",
+          "word": "hoofdpijn",
+          "conceptId": "ZORG-B02-02"
+        },
+        {
+          "lesson": "VS-L44",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-44",
+          "word": "hoofdpijn",
+          "conceptId": "ZORG-B02-02"
+        },
+        {
+          "lesson": "VS-L47",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47",
+          "word": "hoofdpijn",
+          "conceptId": "ZORG-B02-02"
+        },
+        {
+          "lesson": "VS-L48",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-48",
+          "word": "hoofdpijn",
+          "conceptId": "ZORG-B02-02"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "ZORG-B02-02",
+          "word": "hoofdpijn",
+          "group": "zorg",
+          "exercise": {
+            "instruction": "Lees de voorbeeldzin en oefen een kort gesprek bij de foto.",
+            "example_answer": "Ik heb hoofdpijn.",
+            "note": "Gebruik de contextzin Ik heb hoofdpijn. Alleen de hand op het hoofd maakt de klacht niet duidelijk."
+          }
+        }
+      ],
+      "relatedAssetIds": [
+        "los-N-B1-I05-p01",
+        "los-N-B1-I05-p02",
+        "los-N-B1-I06-p02",
+        "los-N-B1-I07-p01",
+        "los-N-B2-I09-p01"
+      ],
+      "auditIds": [
+        "WB-AUD-0455"
+      ],
+      "renditions": {
+        "thumb": {
+          "width": 256,
+          "height": 256,
+          "avif": "images/zorg-klachten-en-bezoek/lgz-034-thumb-8b18aeceba.avif",
+          "webp": "images/zorg-klachten-en-bezoek/lgz-034-thumb-bcfa669717.webp"
+        },
+        "full": {
+          "width": 768,
+          "height": 768,
+          "avif": "images/zorg-klachten-en-bezoek/lgz-034-full-5e83f3d284.avif",
+          "webp": "images/zorg-klachten-en-bezoek/lgz-034-full-45e60c0eda.webp"
+        }
+      }
+    },
+    {
+      "id": "lgz-030",
+      "n": 5003,
+      "title": "Niezen bij verkoudheid",
+      "description": "Een volwassene niest.",
+      "words": [
+        "verkouden",
+        "niezen bij verkoudheid"
+      ],
+      "uses": [
+        "Lichaam, verzorging en zorg",
+        "foto"
+      ],
+      "type": "ACT",
+      "note": "Niezen is zichtbaar. Voeg Ik ben verkouden toe als taalcontext.",
+      "sourceName": "WB_LGZ_030_niezen_ACT_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1E3_A1ndO2T20BengT5Y_O-VjelpfcJFM",
+        "url": "https://drive.google.com/file/d/1E3_A1ndO2T20BengT5Y_O-VjelpfcJFM/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "VS-L03",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-1-les-3",
+          "word": "verkouden",
+          "conceptId": "ZORG-B02-03"
+        },
+        {
+          "lesson": "VS-L43",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-43",
+          "word": "verkouden",
+          "conceptId": "ZORG-B02-03"
+        },
+        {
+          "lesson": "VS-L44",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-44",
+          "word": "verkouden",
+          "conceptId": "ZORG-B02-03"
+        },
+        {
+          "lesson": "VS-L47",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47",
+          "word": "verkouden",
+          "conceptId": "ZORG-B02-03"
+        },
+        {
+          "lesson": "VS-L48",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-48",
+          "word": "verkouden",
+          "conceptId": "ZORG-B02-03"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "ZORG-B02-03",
+          "word": "verkouden",
+          "group": "zorg",
+          "exercise": {
+            "instruction": "Lees de voorbeeldzin en oefen een kort gesprek bij de foto.",
+            "example_answer": "Ik ben verkouden. Ik moet niezen.",
+            "note": "Niezen is zichtbaar. Voeg Ik ben verkouden toe als taalcontext."
+          }
+        }
+      ],
+      "relatedAssetIds": [
+        "los-N-A2-U14-p01",
+        "los-N-B2-V19-p01"
+      ],
+      "auditIds": [
+        "WB-AUD-0467"
+      ],
+      "renditions": {
+        "thumb": {
+          "width": 254,
+          "height": 256,
+          "avif": "images/zorg-klachten-en-bezoek/lgz-030-thumb-dea872785e.avif",
+          "webp": "images/zorg-klachten-en-bezoek/lgz-030-thumb-83d191def3.webp"
+        },
+        "full": {
+          "width": 506,
+          "height": 509,
+          "avif": "images/zorg-klachten-en-bezoek/lgz-030-full-88fe8e893c.avif",
+          "webp": "images/zorg-klachten-en-bezoek/lgz-030-full-ec6d43d9a3.webp"
+        }
+      }
+    },
+    {
+      "id": "lgz-029",
+      "n": 5004,
+      "title": "Hoesten bij verkoudheid",
+      "description": "Een volwassene hoest.",
+      "words": [
+        "verkouden",
+        "hoesten bij verkoudheid"
+      ],
+      "uses": [
+        "Lichaam, verzorging en zorg",
+        "foto"
+      ],
+      "type": "ACT",
+      "note": "Hoesten is zichtbaar. Voeg Ik ben verkouden toe als taalcontext.",
+      "sourceName": "WB_LGZ_029_hoesten_ACT_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1EheUJ2QkswDfcvolNaW-qkdylrXv1KsA",
+        "url": "https://drive.google.com/file/d/1EheUJ2QkswDfcvolNaW-qkdylrXv1KsA/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "VS-L03",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-1-les-3",
+          "word": "verkouden",
+          "conceptId": "ZORG-B02-03"
+        },
+        {
+          "lesson": "VS-L43",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-43",
+          "word": "verkouden",
+          "conceptId": "ZORG-B02-03"
+        },
+        {
+          "lesson": "VS-L44",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-44",
+          "word": "verkouden",
+          "conceptId": "ZORG-B02-03"
+        },
+        {
+          "lesson": "VS-L47",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47",
+          "word": "verkouden",
+          "conceptId": "ZORG-B02-03"
+        },
+        {
+          "lesson": "VS-L48",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-48",
+          "word": "verkouden",
+          "conceptId": "ZORG-B02-03"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "ZORG-B02-03",
+          "word": "verkouden",
+          "group": "zorg",
+          "exercise": {
+            "instruction": "Lees de voorbeeldzin en oefen een kort gesprek bij de foto.",
+            "example_answer": "Ik ben verkouden. Ik moet hoesten.",
+            "note": "Hoesten is zichtbaar. Voeg Ik ben verkouden toe als taalcontext."
+          }
+        }
+      ],
+      "relatedAssetIds": [
+        "los-N-A2-U14-p01",
+        "los-N-B2-V19-p01"
+      ],
+      "auditIds": [
+        "WB-AUD-0467"
+      ],
+      "renditions": {
+        "thumb": {
+          "width": 254,
+          "height": 256,
+          "avif": "images/zorg-klachten-en-bezoek/lgz-029-thumb-311e6250a7.avif",
+          "webp": "images/zorg-klachten-en-bezoek/lgz-029-thumb-4fd6c532dc.webp"
+        },
+        "full": {
+          "width": 506,
+          "height": 509,
+          "avif": "images/zorg-klachten-en-bezoek/lgz-029-full-37b05fc8e1.avif",
+          "webp": "images/zorg-klachten-en-bezoek/lgz-029-full-0631392468.webp"
+        }
+      }
+    },
+    {
+      "id": "lgz-045",
+      "n": 5005,
+      "title": "De thermometer aflezen",
+      "description": "Een volwassene leest een thermometer af. De meetwaarde is niet leesbaar.",
+      "words": [
+        "koorts",
+        "lichte verhoging",
+        "de thermometer aflezen"
+      ],
+      "uses": [
+        "Lichaam, verzorging en zorg",
+        "foto"
+      ],
+      "type": "ACT",
+      "note": "De meetwaarde is niet leesbaar. Oefen koorts en lichte verhoging met een verzonnen gesprek; schrijf geen meetwaarde aan de foto toe.",
+      "sourceName": "WB_LGZ_045_temperatuur_meten_stap_04_REE_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1g0h4m1OdLKCKhpLM_K1n0wJgq9gIOm7e",
+        "url": "https://drive.google.com/file/d/1g0h4m1OdLKCKhpLM_K1n0wJgq9gIOm7e/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "VS-L43",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-43",
+          "word": "temperatuur en klachten",
+          "conceptId": "ZORG-B02-04"
+        },
+        {
+          "lesson": "VS-L44",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-44",
+          "word": "temperatuur en klachten",
+          "conceptId": "ZORG-B02-04"
+        },
+        {
+          "lesson": "VS-L47",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47",
+          "word": "temperatuur en klachten",
+          "conceptId": "ZORG-B02-04"
+        },
+        {
+          "lesson": "VS-L48",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-48",
+          "word": "temperatuur en klachten",
+          "conceptId": "ZORG-B02-04"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "ZORG-B02-04",
+          "word": "temperatuur en klachten",
+          "group": "zorg",
+          "exercise": {
+            "instruction": "De meetwaarde is niet leesbaar. Gebruik de verzonnen voorbeeldzin om een klacht te bespreken; lees geen temperatuur af uit deze foto.",
+            "example_answer": "In deze verzonnen situatie zegt de patiënt: Ik heb koorts.",
+            "note": "De meetwaarde is niet leesbaar. Oefen koorts en lichte verhoging met een verzonnen gesprek; schrijf geen meetwaarde aan de foto toe."
+          }
+        }
+      ],
+      "relatedAssetIds": [],
+      "auditIds": [
+        "WB-AUD-0457",
+        "WB-AUD-0458"
+      ],
+      "renditions": {
+        "thumb": {
+          "width": 256,
+          "height": 170,
+          "avif": "images/zorg-klachten-en-bezoek/lgz-045-thumb-13d570ee09.avif",
+          "webp": "images/zorg-klachten-en-bezoek/lgz-045-thumb-78075da62c.webp"
+        },
+        "full": {
+          "width": 764,
+          "height": 508,
+          "avif": "images/zorg-klachten-en-bezoek/lgz-045-full-64912c18da.avif",
+          "webp": "images/zorg-klachten-en-bezoek/lgz-045-full-9192ae80fa.webp"
+        }
+      }
+    },
+    {
+      "id": "lgz-071",
+      "n": 5006,
+      "title": "Uitrusten op de bank",
+      "description": "Een vrouw rust onder een deken op de bank.",
+      "words": [
+        "moe",
+        "uitrusten",
+        "rust",
+        "uitrusten op de bank"
+      ],
+      "uses": [
+        "Lichaam, verzorging en zorg",
+        "foto"
+      ],
+      "type": "ACT",
+      "note": "Bespreek moe zijn en uitrusten met een korte dialoog.",
+      "sourceName": "WB_LGZ_071_rust_nemen_ACT_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1l376f2gPCdAM3o2raEBfo-4zt5PGcwAX",
+        "url": "https://drive.google.com/file/d/1l376f2gPCdAM3o2raEBfo-4zt5PGcwAX/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "VS-L43",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-43",
+          "word": "moe en uitrusten",
+          "conceptId": "ZORG-B02-05"
+        },
+        {
+          "lesson": "VS-L45",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-3-les-34",
+          "word": "moe en uitrusten",
+          "conceptId": "ZORG-B02-05"
+        },
+        {
+          "lesson": "VS-L47",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47",
+          "word": "moe en uitrusten",
+          "conceptId": "ZORG-B02-05"
+        },
+        {
+          "lesson": "IN-L20",
+          "route": "Inzicht",
+          "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-2-les-20",
+          "word": "moe en uitrusten",
+          "conceptId": "ZORG-B02-05"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "ZORG-B02-05",
+          "word": "moe en uitrusten",
+          "group": "zorg",
+          "exercise": {
+            "instruction": "Lees de voorbeeldzin en oefen een kort gesprek bij de foto.",
+            "example_answer": "Ik ben moe. Ik rust uit op de bank.",
+            "note": "Bespreek moe zijn en uitrusten met een korte dialoog."
+          }
+        }
+      ],
+      "relatedAssetIds": [],
+      "auditIds": [
+        "WB-AUD-0462",
+        "WB-AUD-0489",
+        "WB-AUD-0493"
+      ],
+      "renditions": {
+        "thumb": {
+          "width": 256,
+          "height": 256,
+          "avif": "images/zorg-klachten-en-bezoek/lgz-071-thumb-e9a142e656.avif",
+          "webp": "images/zorg-klachten-en-bezoek/lgz-071-thumb-fc61baf33e.webp"
+        },
+        "full": {
+          "width": 768,
+          "height": 768,
+          "avif": "images/zorg-klachten-en-bezoek/lgz-071-full-a9f54938b8.avif",
+          "webp": "images/zorg-klachten-en-bezoek/lgz-071-full-b4aa71c662.webp"
+        }
+      }
+    },
+    {
+      "id": "lgz-067",
+      "n": 5007,
+      "title": "Naar de apotheek gaan",
+      "description": "Een klant spreekt met een medewerker aan de apotheekbalie.",
+      "words": [
+        "naar de apotheek gaan"
+      ],
+      "uses": [
+        "Lichaam, verzorging en zorg",
+        "foto"
+      ],
+      "type": "ACT",
+      "note": "Bespreek een bezoek aan de apotheek. Een recept halen bij de huisarts is een aparte beeldkaart.",
+      "sourceName": "WB_LGZ_067_apotheek_OVZ_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1SLAUmk4ULTWjelSuk8bTDnjey5LahA0Y",
+        "url": "https://drive.google.com/file/d/1SLAUmk4ULTWjelSuk8bTDnjey5LahA0Y/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "VS-L46",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-44-week-16",
+          "word": "naar de apotheek gaan",
+          "conceptId": "ZORG-B02-06"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "ZORG-B02-06",
+          "word": "naar de apotheek gaan",
+          "group": "zorg",
+          "exercise": {
+            "instruction": "Lees de voorbeeldzin en oefen een kort gesprek bij de foto.",
+            "example_answer": "Ik ga naar de apotheek.",
+            "note": "Bespreek een bezoek aan de apotheek. Een recept halen bij de huisarts is een aparte beeldkaart."
+          }
+        }
+      ],
+      "relatedAssetIds": [
+        "los-N-B1-I02-p02",
+        "los-N-B1-I03-p02",
+        "los-N-B1-I04-p02"
+      ],
+      "auditIds": [
+        "WB-AUD-0483"
+      ],
+      "renditions": {
+        "thumb": {
+          "width": 256,
+          "height": 256,
+          "avif": "images/zorg-klachten-en-bezoek/lgz-067-thumb-80082f7b0d.avif",
+          "webp": "images/zorg-klachten-en-bezoek/lgz-067-thumb-f7a6ab1a9b.webp"
+        },
+        "full": {
+          "width": 768,
+          "height": 768,
+          "avif": "images/zorg-klachten-en-bezoek/lgz-067-full-2c2aa8d49f.avif",
+          "webp": "images/zorg-klachten-en-bezoek/lgz-067-full-0b41483573.webp"
+        }
+      }
+    },
+    {
+      "id": "zorg-b02-001",
+      "n": 5008,
+      "title": "Oorpijn",
+      "description": "Een vrouw houdt een hand bij haar oor en kijkt pijnlijk.",
+      "words": [
+        "oorpijn"
+      ],
+      "uses": [
+        "Lichaam, verzorging en zorg",
+        "foto"
+      ],
+      "type": "ACT",
+      "note": "Gebruik de contextzin Ik heb oorpijn en laat de cursist aanwijzen waar het pijn doet.",
+      "sourceName": "WB_ZORG_B02_001_oorpijn_ACT_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1Z8Tw7cGk0f-m6Pa17HkVCu1w3VISfMTT",
+        "url": "https://drive.google.com/file/d/1Z8Tw7cGk0f-m6Pa17HkVCu1w3VISfMTT/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "VS-L43",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-43",
+          "word": "oorpijn",
+          "conceptId": "ZORG-B02-07"
+        },
+        {
+          "lesson": "VS-L47",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47",
+          "word": "oorpijn",
+          "conceptId": "ZORG-B02-07"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "ZORG-B02-07",
+          "word": "oorpijn",
+          "group": "zorg",
+          "exercise": {
+            "instruction": "Lees de voorbeeldzin en oefen een kort gesprek bij de foto.",
+            "example_answer": "Ik heb oorpijn.",
+            "note": "Gebruik de contextzin Ik heb oorpijn en laat de cursist aanwijzen waar het pijn doet."
+          }
+        }
+      ],
+      "relatedAssetIds": [
+        "los-TR-IDIOMS-P001-018-R5-p01",
+        "los-TR-REBUS-KORT-28-p01",
+        "los-N-A1-U12-p01",
+        "los-N-B1-I05-p02",
+        "los-N-B1-I06-p02"
+      ],
+      "auditIds": [
+        "WB-AUD-0463"
+      ],
+      "renditions": {
+        "thumb": {
+          "width": 256,
+          "height": 171,
+          "avif": "images/zorg-klachten-en-bezoek/zorg-b02-001-thumb-17e846cf0b.avif",
+          "webp": "images/zorg-klachten-en-bezoek/zorg-b02-001-thumb-4dd4ff0a4f.webp"
+        },
+        "full": {
+          "width": 768,
+          "height": 512,
+          "avif": "images/zorg-klachten-en-bezoek/zorg-b02-001-full-35c7a09232.avif",
+          "webp": "images/zorg-klachten-en-bezoek/zorg-b02-001-full-6e4c396b3b.webp"
+        }
+      }
+    },
+    {
+      "id": "zorg-b02-002",
+      "n": 5009,
+      "title": "Misselijk",
+      "description": "Een man houdt een hand op zijn bovenbuik en schuift een bord eten weg.",
+      "words": [
+        "misselijk"
+      ],
+      "uses": [
+        "Lichaam, verzorging en zorg",
+        "foto"
+      ],
+      "type": "ACT",
+      "note": "Gebruik Ik ben misselijk om de klacht van buikpijn te onderscheiden.",
+      "sourceName": "WB_ZORG_B02_002_misselijk_ACT_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1PXRkneHtzj_RXSOVF2ZdWrzsCPxvLedM",
+        "url": "https://drive.google.com/file/d/1PXRkneHtzj_RXSOVF2ZdWrzsCPxvLedM/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "VS-L43",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-43",
+          "word": "misselijk",
+          "conceptId": "ZORG-B02-08"
+        },
+        {
+          "lesson": "VS-L47",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47",
+          "word": "misselijk",
+          "conceptId": "ZORG-B02-08"
+        },
+        {
+          "lesson": "VS-L48",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-48",
+          "word": "misselijk",
+          "conceptId": "ZORG-B02-08"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "ZORG-B02-08",
+          "word": "misselijk",
+          "group": "zorg",
+          "exercise": {
+            "instruction": "Lees de voorbeeldzin en oefen een kort gesprek bij de foto.",
+            "example_answer": "Ik ben misselijk. Ik wil nu niet eten.",
+            "note": "Gebruik Ik ben misselijk om de klacht van buikpijn te onderscheiden."
+          }
+        }
+      ],
+      "relatedAssetIds": [
+        "los-N-B1-I05-p02",
+        "los-N-B1-I06-p02"
+      ],
+      "auditIds": [
+        "WB-AUD-0461"
+      ],
+      "renditions": {
+        "thumb": {
+          "width": 256,
+          "height": 171,
+          "avif": "images/zorg-klachten-en-bezoek/zorg-b02-002-thumb-978e4e7957.avif",
+          "webp": "images/zorg-klachten-en-bezoek/zorg-b02-002-thumb-fdd26148c9.webp"
+        },
+        "full": {
+          "width": 768,
+          "height": 512,
+          "avif": "images/zorg-klachten-en-bezoek/zorg-b02-002-full-d81b4e4255.avif",
+          "webp": "images/zorg-klachten-en-bezoek/zorg-b02-002-full-4e3ca63d9a.webp"
+        }
+      }
+    },
+    {
+      "id": "zorg-b02-003",
+      "n": 5010,
+      "title": "Naar de pedicure gaan",
+      "description": "Een pedicure verzorgt de nagels van een ondersteunde voet.",
+      "words": [
+        "naar de pedicure gaan"
+      ],
+      "uses": [
+        "Lichaam, verzorging en zorg",
+        "foto"
+      ],
+      "type": "ACT",
+      "note": "Bespreek voetverzorging en een afspraak bij de pedicure.",
+      "sourceName": "WB_ZORG_B02_003_pedicure_ACT_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1B4etdyP50HJtKBLoYkY1SCEmwN5J53Y8",
+        "url": "https://drive.google.com/file/d/1B4etdyP50HJtKBLoYkY1SCEmwN5J53Y8/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "VS-L45",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-3-les-34",
+          "word": "naar de pedicure gaan",
+          "conceptId": "ZORG-B02-09"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "ZORG-B02-09",
+          "word": "naar de pedicure gaan",
+          "group": "zorg",
+          "exercise": {
+            "instruction": "Lees de voorbeeldzin en oefen een kort gesprek bij de foto.",
+            "example_answer": "Ik ga naar de pedicure. Zij verzorgt mijn voeten.",
+            "note": "Bespreek voetverzorging en een afspraak bij de pedicure."
+          }
+        }
+      ],
+      "relatedAssetIds": [
+        "los-TR-REBUS-BRON01-21-p04",
+        "los-TR-REBUS-KORT-23-p01",
+        "los-TR-REBUS-KORT-40-p01",
+        "los-N-B1-I08-p01",
+        "los-N-B2-I14-p01",
+        "los-N-B2-U20-p03"
+      ],
+      "auditIds": [
+        "WB-1df9d6ff80"
+      ],
+      "renditions": {
+        "thumb": {
+          "width": 256,
+          "height": 171,
+          "avif": "images/zorg-klachten-en-bezoek/zorg-b02-003-thumb-a67eec79f8.avif",
+          "webp": "images/zorg-klachten-en-bezoek/zorg-b02-003-thumb-2b7bc03d17.webp"
+        },
+        "full": {
+          "width": 768,
+          "height": 512,
+          "avif": "images/zorg-klachten-en-bezoek/zorg-b02-003-full-7050e29eea.avif",
+          "webp": "images/zorg-klachten-en-bezoek/zorg-b02-003-full-54dc1c85b6.webp"
+        }
+      }
+    },
+    {
+      "id": "zorg-b02-004",
+      "n": 5011,
+      "title": "Een recept halen",
+      "description": "Een medewerker overhandigt een papier met RECEPT aan een bezoeker van de huisartsenpraktijk.",
+      "words": [
+        "een recept halen"
+      ],
+      "uses": [
+        "Lichaam, verzorging en zorg",
+        "foto"
+      ],
+      "type": "ACT",
+      "note": "Hier haalt iemand een papieren recept bij de huisartsenpraktijk. Dit is een andere handeling dan medicijnen ophalen bij de apotheek.",
+      "sourceName": "WB_ZORG_B02_004_recept_halen_ACT_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1L9GpSUXm2sEFdWTrxIudn-cqRs4BC2QA",
+        "url": "https://drive.google.com/file/d/1L9GpSUXm2sEFdWTrxIudn-cqRs4BC2QA/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "VS-L46",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-44-week-16",
+          "word": "een recept halen",
+          "conceptId": "ZORG-B02-10"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "ZORG-B02-10",
+          "word": "een recept halen",
+          "group": "zorg",
+          "exercise": {
+            "instruction": "Lees de voorbeeldzin en oefen een kort gesprek bij de foto.",
+            "example_answer": "Ik haal een recept bij de huisartsenpraktijk.",
+            "note": "Hier haalt iemand een papieren recept bij de huisartsenpraktijk. Dit is een andere handeling dan medicijnen ophalen bij de apotheek."
+          }
+        }
+      ],
+      "relatedAssetIds": [
+        "los-N-B1-I02-p02",
+        "los-N-B1-I03-p02",
+        "los-N-B1-I04-p02",
+        "los-N-B1-I16-p01"
+      ],
+      "auditIds": [
+        "WB-AUD-0475"
+      ],
+      "renditions": {
+        "thumb": {
+          "width": 256,
+          "height": 171,
+          "avif": "images/zorg-klachten-en-bezoek/zorg-b02-004-thumb-0fd18c53bd.avif",
+          "webp": "images/zorg-klachten-en-bezoek/zorg-b02-004-thumb-c6d853631c.webp"
+        },
+        "full": {
+          "width": 768,
+          "height": 512,
+          "avif": "images/zorg-klachten-en-bezoek/zorg-b02-004-full-22ffb4d594.avif",
+          "webp": "images/zorg-klachten-en-bezoek/zorg-b02-004-full-3aa8ab79d6.webp"
+        }
+      }
+    },
+    {
+      "id": "zorg-b02-005",
+      "n": 5012,
+      "title": "Een consult bij de huisarts",
+      "description": "Een patiënt bespreekt een keelklacht met een huisarts in een spreekkamer.",
+      "words": [
+        "diagnose",
+        "huisarts",
+        "klacht",
+        "hoelang hebt u dat al",
+        "een consult bij de huisarts"
+      ],
+      "uses": [
+        "Lichaam, verzorging en zorg",
+        "foto"
+      ],
+      "type": "ACT",
+      "note": "Bespreek de klacht en de duur in een dialoog. Een diagnose kan niet uit de foto worden afgeleid.",
+      "sourceName": "WB_ZORG_B02_005_huisartsconsult_ACT_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1BhqQn_TgJ55olkrMsWgs7X_b8dUrs5lh",
+        "url": "https://drive.google.com/file/d/1BhqQn_TgJ55olkrMsWgs7X_b8dUrs5lh/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "VS-L44",
+          "route": "Van Start",
+          "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-44",
+          "word": "consult bij huisarts",
+          "conceptId": "ZORG-B02-11"
+        },
+        {
+          "lesson": "IN-L11",
+          "route": "Inzicht",
+          "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-1-les-11",
+          "word": "consult bij huisarts",
+          "conceptId": "ZORG-B02-11"
+        },
+        {
+          "lesson": "IN-L14",
+          "route": "Inzicht",
+          "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-2-les-14",
+          "word": "consult bij huisarts",
+          "conceptId": "ZORG-B02-11"
+        },
+        {
+          "lesson": "FI-L30",
+          "route": "De Finale",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-4-les-30",
+          "word": "consult bij huisarts",
+          "conceptId": "ZORG-B02-11"
+        },
+        {
+          "lesson": "VO-L02",
+          "route": "Vooruit",
+          "url": "https://docent.lingua-academy.nl/examentraining/les-2",
+          "word": "consult bij huisarts",
+          "conceptId": "ZORG-B02-11"
+        },
+        {
+          "lesson": "VO-L04",
+          "route": "Vooruit",
+          "url": "https://docent.lingua-academy.nl/examentraining/les-4",
+          "word": "consult bij huisarts",
+          "conceptId": "ZORG-B02-11"
+        },
+        {
+          "lesson": "VO-L12",
+          "route": "Vooruit",
+          "url": "https://docent.lingua-academy.nl/examentraining/les-12",
+          "word": "consult bij huisarts",
+          "conceptId": "ZORG-B02-11"
+        },
+        {
+          "lesson": "VO-L13",
+          "route": "Vooruit",
+          "url": "https://docent.lingua-academy.nl/examentraining/les-13",
+          "word": "consult bij huisarts",
+          "conceptId": "ZORG-B02-11"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "ZORG-B02-11",
+          "word": "consult bij huisarts",
+          "group": "zorg",
+          "exercise": {
+            "instruction": "Lees de voorbeeldzin en oefen een kort gesprek bij de foto.",
+            "example_answer": "Waar hebt u last van? Ik heb keelpijn. Hoelang hebt u dat al? Sinds gisteren.",
+            "note": "Bespreek de klacht en de duur in een dialoog. Een diagnose kan niet uit de foto worden afgeleid."
+          }
+        }
+      ],
+      "relatedAssetIds": [
+        "los-N-B1-I02-p02",
+        "los-N-B1-I03-p02",
+        "los-N-B1-I04-p02"
+      ],
+      "auditIds": [
+        "WB-AUD-0476",
+        "WB-AUD-0481",
+        "WB-AUD-0492",
+        "WB-AUD-0494"
+      ],
+      "renditions": {
+        "thumb": {
+          "width": 256,
+          "height": 171,
+          "avif": "images/zorg-klachten-en-bezoek/zorg-b02-005-thumb-92615fe982.avif",
+          "webp": "images/zorg-klachten-en-bezoek/zorg-b02-005-thumb-2d5961c73f.webp"
+        },
+        "full": {
+          "width": 768,
+          "height": 512,
+          "avif": "images/zorg-klachten-en-bezoek/zorg-b02-005-full-adc20d1f48.avif",
+          "webp": "images/zorg-klachten-en-bezoek/zorg-b02-005-full-177a693088.webp"
+        }
+      }
+    },
+    {
+      "id": "zorg-b02-006",
+      "n": 5013,
+      "title": "De straatarts",
+      "description": "Een arts spreekt met een bezoeker bij een mobiele zorgpost in de stad.",
+      "words": [
+        "straatarts",
+        "de straatarts"
+      ],
+      "uses": [
+        "Lichaam, verzorging en zorg",
+        "foto"
+      ],
+      "type": "ACT",
+      "note": "Benoem de rol in de contextzin: Dit is een straatarts. Bespreek waar en aan wie de arts hulp biedt.",
+      "sourceName": "WB_ZORG_B02_006_straatarts_ACT_v01.png",
+      "version": 1,
+      "style": "foto",
+      "source": {
+        "driveFileId": "1Ao8htMtsUxfpk4OXX07_XxXgBRWJbxuV",
+        "url": "https://drive.google.com/file/d/1Ao8htMtsUxfpk4OXX07_XxXgBRWJbxuV/view?usp=drivesdk"
+      },
+      "methodLinks": [
+        {
+          "lesson": "FI-L01",
+          "route": "De Finale",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-1-les-1",
+          "word": "straatarts",
+          "conceptId": "ZORG-B02-12"
+        },
+        {
+          "lesson": "FI-L04",
+          "route": "De Finale",
+          "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-1-les-4",
+          "word": "straatarts",
+          "conceptId": "ZORG-B02-12"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "ZORG-B02-12",
+          "word": "straatarts",
+          "group": "zorg",
+          "exercise": {
+            "instruction": "Lees de voorbeeldzin en oefen een kort gesprek bij de foto.",
+            "example_answer": "Dit is een straatarts. De straatarts biedt medische hulp op straat.",
+            "note": "Benoem de rol in de contextzin: Dit is een straatarts. Bespreek waar en aan wie de arts hulp biedt."
+          }
+        }
+      ],
+      "relatedAssetIds": [
+        "los-N-B1-I02-p02",
+        "los-N-B1-I03-p02",
+        "los-N-B1-I04-p02"
+      ],
+      "auditIds": [
+        "WB-AUD-0496"
+      ],
+      "renditions": {
+        "thumb": {
+          "width": 256,
+          "height": 171,
+          "avif": "images/zorg-klachten-en-bezoek/zorg-b02-006-thumb-6623aadade.avif",
+          "webp": "images/zorg-klachten-en-bezoek/zorg-b02-006-thumb-7a7e86ed72.webp"
+        },
+        "full": {
+          "width": 768,
+          "height": 512,
+          "avif": "images/zorg-klachten-en-bezoek/zorg-b02-006-full-8e82d3a9f2.avif",
+          "webp": "images/zorg-klachten-en-bezoek/zorg-b02-006-full-121510e267.webp"
+        }
+      }
+    }
+  ],
+  "sequences": [],
+  "methodLinks": [
+    {
+      "lesson": "VS-L47",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47",
+      "word": "buikpijn",
+      "conceptId": "ZORG-B02-01",
+      "assetId": "lgz-033"
+    },
+    {
+      "lesson": "VS-L43",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-43",
+      "word": "hoofdpijn",
+      "conceptId": "ZORG-B02-02",
+      "assetId": "lgz-034"
+    },
+    {
+      "lesson": "VS-L44",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-44",
+      "word": "hoofdpijn",
+      "conceptId": "ZORG-B02-02",
+      "assetId": "lgz-034"
+    },
+    {
+      "lesson": "VS-L47",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47",
+      "word": "hoofdpijn",
+      "conceptId": "ZORG-B02-02",
+      "assetId": "lgz-034"
+    },
+    {
+      "lesson": "VS-L48",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-48",
+      "word": "hoofdpijn",
+      "conceptId": "ZORG-B02-02",
+      "assetId": "lgz-034"
+    },
+    {
+      "lesson": "VS-L03",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-1-les-3",
+      "word": "verkouden",
+      "conceptId": "ZORG-B02-03",
+      "assetId": "lgz-030"
+    },
+    {
+      "lesson": "VS-L43",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-43",
+      "word": "verkouden",
+      "conceptId": "ZORG-B02-03",
+      "assetId": "lgz-030"
+    },
+    {
+      "lesson": "VS-L44",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-44",
+      "word": "verkouden",
+      "conceptId": "ZORG-B02-03",
+      "assetId": "lgz-030"
+    },
+    {
+      "lesson": "VS-L47",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47",
+      "word": "verkouden",
+      "conceptId": "ZORG-B02-03",
+      "assetId": "lgz-030"
+    },
+    {
+      "lesson": "VS-L48",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-48",
+      "word": "verkouden",
+      "conceptId": "ZORG-B02-03",
+      "assetId": "lgz-030"
+    },
+    {
+      "lesson": "VS-L03",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-1-les-3",
+      "word": "verkouden",
+      "conceptId": "ZORG-B02-03",
+      "assetId": "lgz-029"
+    },
+    {
+      "lesson": "VS-L43",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-43",
+      "word": "verkouden",
+      "conceptId": "ZORG-B02-03",
+      "assetId": "lgz-029"
+    },
+    {
+      "lesson": "VS-L44",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-44",
+      "word": "verkouden",
+      "conceptId": "ZORG-B02-03",
+      "assetId": "lgz-029"
+    },
+    {
+      "lesson": "VS-L47",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47",
+      "word": "verkouden",
+      "conceptId": "ZORG-B02-03",
+      "assetId": "lgz-029"
+    },
+    {
+      "lesson": "VS-L48",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-48",
+      "word": "verkouden",
+      "conceptId": "ZORG-B02-03",
+      "assetId": "lgz-029"
+    },
+    {
+      "lesson": "VS-L43",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-43",
+      "word": "temperatuur en klachten",
+      "conceptId": "ZORG-B02-04",
+      "assetId": "lgz-045"
+    },
+    {
+      "lesson": "VS-L44",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-44",
+      "word": "temperatuur en klachten",
+      "conceptId": "ZORG-B02-04",
+      "assetId": "lgz-045"
+    },
+    {
+      "lesson": "VS-L47",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47",
+      "word": "temperatuur en klachten",
+      "conceptId": "ZORG-B02-04",
+      "assetId": "lgz-045"
+    },
+    {
+      "lesson": "VS-L48",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-48",
+      "word": "temperatuur en klachten",
+      "conceptId": "ZORG-B02-04",
+      "assetId": "lgz-045"
+    },
+    {
+      "lesson": "VS-L43",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-43",
+      "word": "moe en uitrusten",
+      "conceptId": "ZORG-B02-05",
+      "assetId": "lgz-071"
+    },
+    {
+      "lesson": "VS-L45",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-3-les-34",
+      "word": "moe en uitrusten",
+      "conceptId": "ZORG-B02-05",
+      "assetId": "lgz-071"
+    },
+    {
+      "lesson": "VS-L47",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47",
+      "word": "moe en uitrusten",
+      "conceptId": "ZORG-B02-05",
+      "assetId": "lgz-071"
+    },
+    {
+      "lesson": "IN-L20",
+      "route": "Inzicht",
+      "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-2-les-20",
+      "word": "moe en uitrusten",
+      "conceptId": "ZORG-B02-05",
+      "assetId": "lgz-071"
+    },
+    {
+      "lesson": "VS-L46",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-44-week-16",
+      "word": "naar de apotheek gaan",
+      "conceptId": "ZORG-B02-06",
+      "assetId": "lgz-067"
+    },
+    {
+      "lesson": "VS-L43",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-43",
+      "word": "oorpijn",
+      "conceptId": "ZORG-B02-07",
+      "assetId": "zorg-b02-001"
+    },
+    {
+      "lesson": "VS-L47",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47",
+      "word": "oorpijn",
+      "conceptId": "ZORG-B02-07",
+      "assetId": "zorg-b02-001"
+    },
+    {
+      "lesson": "VS-L43",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-43",
+      "word": "misselijk",
+      "conceptId": "ZORG-B02-08",
+      "assetId": "zorg-b02-002"
+    },
+    {
+      "lesson": "VS-L47",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-47",
+      "word": "misselijk",
+      "conceptId": "ZORG-B02-08",
+      "assetId": "zorg-b02-002"
+    },
+    {
+      "lesson": "VS-L48",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-48",
+      "word": "misselijk",
+      "conceptId": "ZORG-B02-08",
+      "assetId": "zorg-b02-002"
+    },
+    {
+      "lesson": "VS-L45",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-3-les-34",
+      "word": "naar de pedicure gaan",
+      "conceptId": "ZORG-B02-09",
+      "assetId": "zorg-b02-003"
+    },
+    {
+      "lesson": "VS-L46",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-44-week-16",
+      "word": "een recept halen",
+      "conceptId": "ZORG-B02-10",
+      "assetId": "zorg-b02-004"
+    },
+    {
+      "lesson": "VS-L44",
+      "route": "Van Start",
+      "url": "https://docent.lingua-academy.nl/cursus-programma-a0-a2-van-start/blok-4-les-44",
+      "word": "consult bij huisarts",
+      "conceptId": "ZORG-B02-11",
+      "assetId": "zorg-b02-005"
+    },
+    {
+      "lesson": "IN-L11",
+      "route": "Inzicht",
+      "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-1-les-11",
+      "word": "consult bij huisarts",
+      "conceptId": "ZORG-B02-11",
+      "assetId": "zorg-b02-005"
+    },
+    {
+      "lesson": "IN-L14",
+      "route": "Inzicht",
+      "url": "https://docent.lingua-academy.nl/a2-b1inzicht/blok-2-les-14",
+      "word": "consult bij huisarts",
+      "conceptId": "ZORG-B02-11",
+      "assetId": "zorg-b02-005"
+    },
+    {
+      "lesson": "FI-L30",
+      "route": "De Finale",
+      "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-4-les-30",
+      "word": "consult bij huisarts",
+      "conceptId": "ZORG-B02-11",
+      "assetId": "zorg-b02-005"
+    },
+    {
+      "lesson": "VO-L02",
+      "route": "Vooruit",
+      "url": "https://docent.lingua-academy.nl/examentraining/les-2",
+      "word": "consult bij huisarts",
+      "conceptId": "ZORG-B02-11",
+      "assetId": "zorg-b02-005"
+    },
+    {
+      "lesson": "VO-L04",
+      "route": "Vooruit",
+      "url": "https://docent.lingua-academy.nl/examentraining/les-4",
+      "word": "consult bij huisarts",
+      "conceptId": "ZORG-B02-11",
+      "assetId": "zorg-b02-005"
+    },
+    {
+      "lesson": "VO-L12",
+      "route": "Vooruit",
+      "url": "https://docent.lingua-academy.nl/examentraining/les-12",
+      "word": "consult bij huisarts",
+      "conceptId": "ZORG-B02-11",
+      "assetId": "zorg-b02-005"
+    },
+    {
+      "lesson": "VO-L13",
+      "route": "Vooruit",
+      "url": "https://docent.lingua-academy.nl/examentraining/les-13",
+      "word": "consult bij huisarts",
+      "conceptId": "ZORG-B02-11",
+      "assetId": "zorg-b02-005"
+    },
+    {
+      "lesson": "FI-L01",
+      "route": "De Finale",
+      "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-1-les-1",
+      "word": "straatarts",
+      "conceptId": "ZORG-B02-12",
+      "assetId": "zorg-b02-006"
+    },
+    {
+      "lesson": "FI-L04",
+      "route": "De Finale",
+      "url": "https://docent.lingua-academy.nl/cursusprogramma-b1-b2-de-finale/blok-1-les-4",
+      "word": "straatarts",
+      "conceptId": "ZORG-B02-12",
+      "assetId": "zorg-b02-006"
+    }
+  ]
+}
